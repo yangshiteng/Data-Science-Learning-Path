@@ -14,4 +14,4 @@
 
 [07 - Naive Bayes](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/07%20-%20Naive%20Bayes.md)
 
-[08 - Assessing Model Performance]()
+[08 - Assessing Model Performance](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/08%20-%20Assessing%20Model%20Performance.md)
