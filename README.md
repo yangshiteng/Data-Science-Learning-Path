@@ -11,3 +11,5 @@
 [05 - Gradient Descent](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/05%20-%20Gradient%20Descent.md)
 
 [06 - Logistic Regression](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/06%20-%20Logistic%20Regression.md)
+
+[07 - Naive Bayes](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/07%20-%20Naive%20Bayes.md)
