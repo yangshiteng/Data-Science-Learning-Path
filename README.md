@@ -7,3 +7,5 @@
 [03 - Fundamental Concepts in Statistics](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/03%20-%20Fundamental%20Concepts%20in%20Statistics.md)
 
 [04 - Linear Regression](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/04%20-%20Linear%20Regression.md)
+
+[05 - Gradient Descent](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/05%20-%20Gradient%20Descent.md)
