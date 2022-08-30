@@ -22,3 +22,41 @@
 
 ![image](https://user-images.githubusercontent.com/60442877/187329529-a56a955f-568f-4e83-881c-283c88c5550e.png)
 
+![image](https://user-images.githubusercontent.com/60442877/187333750-bc7a507a-87d2-4e41-82fb-175fa9e05e53.png)
+
+![image](https://user-images.githubusercontent.com/60442877/187333941-cc942a11-b378-4055-9143-81c68b620815.png)
+
+# Ridge Regularization (L2 Regularization) (Squared Regularization)
+
+1. lambda * the sum of squared of parameters (L2 norm)
+2. can only shrink the parameters to be close to 0 (never reach 0)
+3. perform better when most of the features are useful
+
+# Lasso Regularization (L1 Regularization) (Absolute Value Regularization)
+
+1. lambda * the sum of absolute value of parameters (L1 norm)
+2. can shrink parameters to 0 
+3. perform well when we need to remove a lot of useless features (feature selection)
+
+![image](https://user-images.githubusercontent.com/60442877/187334996-eff1fb36-19df-43d2-a9c8-afcc628679d3.png)
+
+![image](https://user-images.githubusercontent.com/60442877/187335062-b530fd5b-706c-41c7-947e-4977c55fa83a.png)
+
+![image](https://user-images.githubusercontent.com/60442877/187335182-a4e24b1b-ea68-47de-8430-e5a0d49baf16.png)
+
+![image](https://user-images.githubusercontent.com/60442877/187335321-fbda635f-5db1-418b-93f4-271f0e16354a.png)
+
+![image](https://user-images.githubusercontent.com/60442877/187335408-1533930b-f7ff-4824-a157-f8719b64e33f.png)
+
+![image](https://user-images.githubusercontent.com/60442877/187335475-9155e0a6-22f3-4d3d-95bf-fe8004a77e90.png)
+
+![image](https://user-images.githubusercontent.com/60442877/187335666-73c0d9a7-319c-4818-a1fa-ece3a80f1acc.png)
+
+
+
+
+
+
+
+
+
