@@ -17,3 +17,5 @@
 [08 - Assessing Model Performance](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/08%20-%20Assessing%20Model%20Performance.md)
 
 [09 - Preventing Overfitting with Regularization](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/09%20-%20Preventing%20Overfitting%20with%20Regularization.md)
+
+[10 - Classification and Regression Trees]
