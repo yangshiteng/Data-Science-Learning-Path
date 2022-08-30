@@ -19,3 +19,5 @@
 [09 - Preventing Overfitting with Regularization](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/09%20-%20Preventing%20Overfitting%20with%20Regularization.md)
 
 [10 - Classification and Regression Trees](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/10%20-%20Classification%20and%20Regression%20Trees.md)
+
+[11 - Support Vector Machine](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/11%20-%20Support%20Vector%20Machine.md)
