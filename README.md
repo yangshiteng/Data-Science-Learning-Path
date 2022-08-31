@@ -21,3 +21,5 @@
 [10 - Classification and Regression Trees](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/10%20-%20Classification%20and%20Regression%20Trees.md)
 
 [11 - Support Vector Machine](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/11%20-%20Support%20Vector%20Machine.md)
+
+[12 - Neural Networks](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/12%20-%20Neural%20Networks.md)
