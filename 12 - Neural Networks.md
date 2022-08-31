@@ -13,3 +13,6 @@
 1. ReLU (Rectified Linear Unit)
 2. SoftPlus
 3. Sigmoid 
+
+![image](https://user-images.githubusercontent.com/60442877/187590908-ae08c4f3-a2dc-4e13-8515-5661e64c7a52.png)
+
