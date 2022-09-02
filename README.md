@@ -23,3 +23,5 @@
 [11 - Support Vector Machine](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/11%20-%20Support%20Vector%20Machine.md)
 
 [12 - Neural Networks](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/12%20-%20Neural%20Networks.md)
+
+[13 - The Mean, Variance and Standard Deviation](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/13%20-%20Mean%2C%20Variance%20and%20Standard%20Deviation.md)
