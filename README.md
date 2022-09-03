@@ -28,4 +28,4 @@
 
 [14.1 - Principal Component Analysis (PCA) (StatQuest)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/statquest_pca_study_guide_v2.pdf)
 
-[14.2 - Principal Component Analysis (PCA) (Blog)]
+[14.2 - Principal Component Analysis (PCA) (Blog)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/14.2%20-%20Principal%20Component%20Analysis%20(PCA)%20(Blog).md)
