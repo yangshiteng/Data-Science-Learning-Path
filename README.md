@@ -26,4 +26,5 @@
 
 [13 - The Mean, Variance and Standard Deviation](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/13%20-%20Mean%2C%20Variance%20and%20Standard%20Deviation.md)
 
-[14 - Principal Component Analysis (PCA)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/statquest_pca_study_guide_v2.pdf)
+[14.1 - Principal Component Analysis (PCA) (StatQuest)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/statquest_pca_study_guide_v2.pdf)
+[14.2 - Principal Component Analysis (PCA) (Blog)]
