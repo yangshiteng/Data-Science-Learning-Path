@@ -40,6 +40,8 @@
 
 ![image](https://user-images.githubusercontent.com/60442877/188326937-6940646a-cbd0-4372-8e43-b0eacdcf8e7a.png)
 
+# R-squared Interpretation
 
- 
-
+1. Percentage of the variation that can be explained by the relationship between two variables
+2. Percentage of the variation that can be explained by the model we interested in
+3. How much better the performance can be improved by using the model we interested in than just using average to make predication
