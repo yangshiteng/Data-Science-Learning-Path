@@ -48,3 +48,11 @@
 4. How much variation of a dependent variable can be explained by the independent variable(s) in a regression model.
 5. R-Squared (R² or the coefficient of determination) is a statistical measure in a regression model that determines the percentage of variation in the dependent variable that can be explained by the independent variable(s). In other words, R-squared shows how well the data fit the regression model (the goodness of fit).
 6. It also has the corresponding Hypothesis testing for the comparison of two models, in linear regression, the null hypothesis states that there is no difference between the model we interested in and the model by just using average, the alternaive hypothesis states that the model we interested in has better performance in prediction and explanation of variation.
+
+# Adjusted R-squared
+
+The use of an adjusted R2 is an attempt to account for the phenomenon of the R-squared automatically increasing when extra independent variables are added to the model
+
+![image](https://user-images.githubusercontent.com/60442877/188328794-df9f5ac6-7650-4757-a296-175ac16ffc31.png)
+
+
