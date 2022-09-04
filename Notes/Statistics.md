@@ -5,4 +5,4 @@
 
 [03 - R-squared](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/R-squared.md)
 
-[04 - Sampling from a Distribution]
+[04 - Sampling from a Distribution](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Sampling%20from%20a%20Distribution.md)
