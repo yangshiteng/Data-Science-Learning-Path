@@ -6,4 +6,4 @@
 
 [Projects](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Projects.md)
 
-[Coding]
+[Coding](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Coding.md)
