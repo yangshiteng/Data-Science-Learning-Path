@@ -44,6 +44,8 @@ Multicollinearity may be tested with three central criteria:
 
 (2) Tolerance – the tolerance measures the influence of one independent variable on all other independent variables. With T < 0.1 there might be multicollinearity in the data and with T < 0.01 there certainly is.
 
+![image](https://user-images.githubusercontent.com/60442877/188330631-0a33a3a8-665e-4e86-8aa6-855fa069bb3a.png)
+
 (3) Variance Inflation Factor (VIF) – the variance inflation factor of the linear regression is defined as VIF = 1/T. With VIF > 5 there is an indication that multicollinearity may be present; with VIF > 10 there is certainly multicollinearity among the variables
 
 
