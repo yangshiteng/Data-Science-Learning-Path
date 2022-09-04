@@ -68,6 +68,13 @@
 
 ![image](https://user-images.githubusercontent.com/60442877/187057777-6f528854-cfeb-4d2c-82dd-47eb33817e4d.png)
 
+# R-Squared
+
+1. R-squared has its p-value, which corresponds to a hypothesis test
+2. Null Hypothesis: two models has no difference, Alternative hypothesis: the model we interested in has better performance
+3. Usually, for linear regression, this hypothesis test is for the model comparison between fitted line and average line
+4. And this hypothesis test can be used to compare any two models, and the R-squared can even be negative
+
 ![image](https://user-images.githubusercontent.com/60442877/187057862-ff4b26cb-5072-4f7a-bc6f-f1ad77b2ea91.png)
 
 ![image](https://user-images.githubusercontent.com/60442877/187057999-63952810-7891-419f-ab24-9276d894f9da.png)
