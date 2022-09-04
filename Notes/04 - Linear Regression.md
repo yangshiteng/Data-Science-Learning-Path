@@ -49,4 +49,14 @@ Multicollinearity may be tested with three central criteria:
 (3) Variance Inflation Factor (VIF) – the variance inflation factor of the linear regression is defined as VIF = 1/T. With VIF > 5 there is an indication that multicollinearity may be present; with VIF > 10 there is certainly multicollinearity among the variables
 
 
-# Analytic Solution of Simple Linear Regression
+# Analytic Solution of Linear Regression
+
+![image](https://user-images.githubusercontent.com/60442877/188330863-962fb627-ae80-46c7-bf08-764d5a2bce91.png)
+
+![image](https://user-images.githubusercontent.com/60442877/188330858-ba32f176-0f3b-4b3c-9739-fb71539c7b75.png)
+
+
+
+
+
+
