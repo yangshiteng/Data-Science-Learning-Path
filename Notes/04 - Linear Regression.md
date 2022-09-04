@@ -9,3 +9,17 @@
 ![image](https://user-images.githubusercontent.com/60442877/187086911-0645e060-1446-4142-99d4-ca469fb1e13d.png)
 
 ![image](https://user-images.githubusercontent.com/60442877/187087115-f382b5a5-06be-48ee-b7ac-99f09bf3b161.png)
+
+# Linear Regression 5 Assumptions
+
+1. Linearity
+The relationship between the independent and dependent variables must be linear.  It is also important to check for outliers since linear regression is sensitive to outlier effects.  The linearity assumption can best be tested with scatter plots, and it can be measured by pearson correlation coefficient 
+
+Note: if pearson correlation coefficient is 0, it only means that there is no linear relationship between two variables, but these two variables may have some non-linear relationship.
+
+3. Homoscedasticity
+4. Independence
+5. Normality
+6. No Multicollinearity
+
+# Analytic Solution of Simple Linear Regression
