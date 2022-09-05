@@ -14,3 +14,5 @@
 [07 - Confidence Interval](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Confidence%20Interval.md)
 
 [08 - Calculating Sample Variance](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Sample%20Variance.md)
+
+[09 - Covariance]
