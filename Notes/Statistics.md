@@ -8,3 +8,5 @@
 [04 - Sampling from a Distribution](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Sampling%20from%20a%20Distribution.md)
 
 [05 - Central Limit Theorem](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Central%20Limit%20Theorem.md)
+
+[06 - Population and Estimated Parameters]
