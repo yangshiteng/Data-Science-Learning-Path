@@ -13,4 +13,4 @@
 
 [07 - Confidence Interval](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Confidence%20Interval.md)
 
-[08 - Calculating Variance and Standard Deviation](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Calculating%20Variance%20and%20Standard%20Deviation.md)
+[08 - Calculating Sample Variance](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Sample%20Variance.md)
