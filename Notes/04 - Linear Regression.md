@@ -12,13 +12,13 @@
 
 # Linear Regression 5 Assumptions
 
-1. Linearity
+## 1. Linearity
 
 The relationship between the independent and dependent variables must be linear.  It is also important to check for outliers since linear regression is sensitive to outlier effects.  The linearity assumption can best be tested with scatter plots, and it can be measured by pearson correlation coefficient 
 
 Note: if pearson correlation coefficient is 0, it only means that there is no linear relationship between two variables, but these two variables may have some non-linear relationship.
 
-2. Homoscedasticity (同方差性)
+## 2. Homoscedasticity (同方差性)
 
 The error term in each observation should have same variance. The scatter plot is good way to check whether the data are homoscedasticity or heteroscedasticity. The following scatter plots show examples of data that are not homoscedasticity. 
 
@@ -26,19 +26,21 @@ The error term in each observation should have same variance. The scatter plot i
 
 The Goldfeld-Quandt Test can also be used to test for heteroscedasticity.  The test splits the data into two groups and tests to see if the variances of the residuals are similar across the groups.
 
-3. Independence
+## 3. Independence
 
 Observations are independent of each other.
  
-4. Normality
+## 4. Normality
 
 The linear regression analysis requires all variables to be multivariate normal distributed. This assumption can best be checked with a histogram or a Q-Q-Plot.  Normality can be checked with a goodness of fit test, e.g., the Kolmogorov-Smirnov (KS) test.  When the data is not normally distributed, a non-linear transformation (e.g., log-transformation) might fix this issue.
 
-5. No Multicollinearity
+## 5. No Multicollinearity
 
 Linear regression assumes that there is little or no multicollinearity in the data.  Multicollinearity occurs when the independent variables are too highly correlated with each other. If the degree of correlation between variables is high enough, it can cause problems when you fit the model and interpret the results.
 
 A key goal of regression analysis is to isolate the relationship between each independent variable and the dependent variable. The interpretation of a regression coefficient is that it represents the mean change in the dependent variable for each 1 unit change in an independent variable when you hold all of the other independent variables constant. The idea is that you can change the value of one independent variable and not the others. However, when independent variables are correlated, it indicates that changes in one variable are associated with shifts in another variable. The stronger the correlation, the more difficult it is to change one variable without changing another. It becomes difficult for the model to estimate the relationship between each independent variable and the dependent variable independently because the independent variables tend to change in unison.
+
+Moreover, suppose two independent variables are higly correlated, for example, X1 = 2 * X2, then, if we take a look at matrix X, it is no longer a full rank matrix and this will make the analytical solution unavailable. 
 
 Multicollinearity may be tested with three central criteria:
 
