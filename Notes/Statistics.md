@@ -11,4 +11,4 @@
 
 [06 - Population and Estimated Parameters](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Population%20and%20Estimated%20Parameters.md)
 
-[07 - Confidence Interval]
+[07 - Confidence Interval](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Confidence%20Interval.md)
