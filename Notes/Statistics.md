@@ -15,4 +15,4 @@
 
 [08 - Calculating Sample Variance](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Sample%20Variance.md)
 
-[09 - Covariance]
+[09 - Covariance](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Covariance.md)
