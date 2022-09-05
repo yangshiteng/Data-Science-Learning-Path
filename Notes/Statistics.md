@@ -9,4 +9,4 @@
 
 [05 - Central Limit Theorem](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Central%20Limit%20Theorem.md)
 
-[06 - Population and Estimated Parameters]
+[06 - Population and Estimated Parameters](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Population%20and%20Estimated%20Parameters.md)
