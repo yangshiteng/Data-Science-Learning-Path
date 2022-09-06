@@ -10,5 +10,5 @@
 
 # Standard Deviation vs Standard Error
 
-* Standard Deviation is just quantifying the variation in a single sample 
+* Standard Deviation is just quantifying the variation in a set of measurements
 * Standard Error is quantifying the variation for some statistic (mean, median, variance...) in a bunch of samples
