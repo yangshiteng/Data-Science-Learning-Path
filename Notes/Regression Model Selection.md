@@ -49,6 +49,22 @@ For criterion-based approaches, we have some idea about the purpose for which a 
 
 ### Model Selection Method 2: Best Subsets 
 
+![image](https://user-images.githubusercontent.com/60442877/188528876-35e04993-71af-471d-9513-8d2de07a10a8.png)
 
+![image](https://user-images.githubusercontent.com/60442877/188528904-b7fa1f69-b075-43bb-8f40-2d4927e25cbb.png)
+
+![image](https://user-images.githubusercontent.com/60442877/188529130-c99e18f5-d9c3-4292-9ae2-05ffb1823851.png)
+
+![image](https://user-images.githubusercontent.com/60442877/188529192-38bf1807-bf45-4388-8161-b235095abe9c.png)
+
+![image](https://user-images.githubusercontent.com/60442877/188529252-293080cd-dda7-4dff-9802-9b40db63bf50.png)
+
+![image](https://user-images.githubusercontent.com/60442877/188529356-bfcbcf3b-0231-4f88-8b0b-81494de5b283.png)
+
+![image](https://user-images.githubusercontent.com/60442877/188529388-9ca9a253-a8fe-4e4f-a42c-fe228b7d054d.png)
+
+![image](https://user-images.githubusercontent.com/60442877/188529404-9d4f36a7-b198-48e5-94e1-19a42f062b0d.png)
+
+![image](https://user-images.githubusercontent.com/60442877/188529522-74b499ab-3138-435a-bba9-bb1c1e2f8caa.png)
 
 
