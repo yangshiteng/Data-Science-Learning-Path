@@ -43,11 +43,11 @@ For criterion-based approaches, we have some idea about the purpose for which a 
 * Adjusted R-squared can help you avoid the fundamental problem with regular R-squared which always increases when you add an independent variable
 * Adjusted R-squared increases only when a new variable improves the model by more than chance. Low-quality variables can cause it to decrease.
 
-### Stepwise Selection
+### Model Selection Method 1: Stepwise 
 
 ![image](https://user-images.githubusercontent.com/60442877/188527678-b5968a0d-c962-4301-a9ef-69fe16fa223d.png)
 
-### Best Subsets Selection
+### Model Selection Method 2: Best Subsets 
 
 
 
