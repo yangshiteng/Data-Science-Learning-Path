@@ -15,3 +15,32 @@ For criterion-based approaches, we have some idea about the purpose for which a 
 ![image](https://user-images.githubusercontent.com/60442877/188523263-5a3b92da-6a47-46af-b89d-438a715018fa.png)
 
 ![image](https://user-images.githubusercontent.com/60442877/188523271-0f879d59-3fed-4e44-bf1d-65a70eb3003d.png)
+
+# Blog 2
+
+### Introduction
+
+![image](https://user-images.githubusercontent.com/60442877/188525133-522b289f-b27d-4b65-b862-be6a21e9f49e.png)
+
+![image](https://user-images.githubusercontent.com/60442877/188527501-99c918a1-3183-4a2e-9222-3cf74bebd999.png)
+
+### F-test
+
+![image](https://user-images.githubusercontent.com/60442877/188527552-ed08f9d0-ea71-48b7-b948-6de3cb3b92f4.png)
+
+### Likelihood Ratio Test (LRT)
+
+![image](https://user-images.githubusercontent.com/60442877/188527596-07c02240-ef71-48a4-a7bd-cf57b13da48c.png)
+
+### AIC and BIC
+
+![image](https://user-images.githubusercontent.com/60442877/188527617-b468ef97-06d1-4730-be7a-ed1f8bccebd8.png)
+
+### Stepwise Selection
+
+![image](https://user-images.githubusercontent.com/60442877/188527678-b5968a0d-c962-4301-a9ef-69fe16fa223d.png)
+
+
+
+
+
