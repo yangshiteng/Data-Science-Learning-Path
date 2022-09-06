@@ -1,15 +1,14 @@
-[Introduction](#Blog 1)
-
-
-# Blog 1
-
-### Introduction
+# Introduction
 
 Model selection is the process of selecting a model from a set of candidate models. Many statistical techniques involve model selection either implicitly or explicitly: e.g., hypothesis tests require selecting between a null hypothesis and alternative hypothesis model; an autoregressive model requires selecting the order p; in this tutorial, a regression model requires selecting specific predictors.
 
 A good model selection technique will balance goodness of fit with simplicity, which means under a certain performance requirement set by researchers, the best model should be as simple as possible. If a model includes too many predictors, the most common issue would be overfitting, in which case the model gives good predictions to training data but performs much worse when it comes to data not used in fitting the model. Overfitting model normally gives low bias but high variance. Conversely, when there are too few predictors in a model, the issue of underfitting may show up, and gives poor predictions to data used or not used for model fitting. Underfitting models normally have low variance but high bias.
 
-### Testing based and criterion-based approaches are the two main approaches for model (variable) selection
+![image](https://user-images.githubusercontent.com/60442877/188525133-522b289f-b27d-4b65-b862-be6a21e9f49e.png)
+
+![image](https://user-images.githubusercontent.com/60442877/188527501-99c918a1-3183-4a2e-9222-3cf74bebd999.png)
+
+## Testing based and criterion-based approaches are the two main approaches for model (variable) selection
 
 Testing-based approaches include backward elimination, forward selection, stepwise regression, etc. In this category, variables are selected based on whether they are significant or not when they are added/removed. 
 
@@ -19,21 +18,20 @@ For criterion-based approaches, we have some idea about the purpose for which a 
 
 ![image](https://user-images.githubusercontent.com/60442877/188523271-0f879d59-3fed-4e44-bf1d-65a70eb3003d.png)
 
-# Blog 2
-
-### Introduction
-
-![image](https://user-images.githubusercontent.com/60442877/188525133-522b289f-b27d-4b65-b862-be6a21e9f49e.png)
-
-![image](https://user-images.githubusercontent.com/60442877/188527501-99c918a1-3183-4a2e-9222-3cf74bebd999.png)
-
-### F-test
+## F-test
 
 ![image](https://user-images.githubusercontent.com/60442877/188527552-ed08f9d0-ea71-48b7-b948-6de3cb3b92f4.png)
 
-### Likelihood Ratio Test (LRT)
+## Likelihood Ratio Test (LRT)
 
 ![image](https://user-images.githubusercontent.com/60442877/188527596-07c02240-ef71-48a4-a7bd-cf57b13da48c.png)
+
+## Compare Models with same size
+
+* RSS (Residual Sum of Squared)
+* R-squared
+
+## Compare Models with different size
 
 ### AIC and BIC
 
@@ -46,11 +44,13 @@ For criterion-based approaches, we have some idea about the purpose for which a 
 * Adjusted R-squared can help you avoid the fundamental problem with regular R-squared which always increases when you add an independent variable
 * Adjusted R-squared increases only when a new variable improves the model by more than chance. Low-quality variables can cause it to decrease.
 
-### Model Selection Method 1: Stepwise 
+## Model Selection Method
+
+### Stepwise Selection
 
 ![image](https://user-images.githubusercontent.com/60442877/188527678-b5968a0d-c962-4301-a9ef-69fe16fa223d.png)
 
-### Model Selection Method 2: Best Subsets 
+### Best Subsets Selection
 
 ![image](https://user-images.githubusercontent.com/60442877/188528876-35e04993-71af-471d-9513-8d2de07a10a8.png)
 
