@@ -1,3 +1,5 @@
+# Introduction
+
 Model selection is the process of selecting a model from a set of candidate models. Many statistical techniques involve model selection either implicitly or explicitly: e.g., hypothesis tests require selecting between a null hypothesis and alternative hypothesis model; an autoregressive model requires selecting the order p; in this tutorial, a regression model requires selecting specific predictors.
 
 A good model selection technique will balance goodness of fit with simplicity, which means under a certain performance requirement set by researchers, the best model should be as simple as possible. If a model includes too many predictors, the most common issue would be overfitting, in which case the model gives good predictions to training data but performs much worse when it comes to data not used in fitting the model. Overfitting model normally gives low bias but high variance. Conversely, when there are too few predictors in a model, the issue of underfitting may show up, and gives poor predictions to data used or not used for model fitting. Underfitting models normally have low variance but high bias.
@@ -7,3 +9,7 @@ A good model selection technique will balance goodness of fit with simplicity, w
 Testing-based approaches include backward elimination, forward selection, stepwise regression, etc. In this category, variables are selected based on whether they are significant or not when they are added/removed. 
 
 For criterion-based approaches, we have some idea about the purpose for which a model is intended, so we might propose some measures of how well a given model meets that purpose. Then a model that optimizes a criterion which balances goodness-of-fit will be chosen. Some examples of criterion-based approaches include AIC/BIC, adjusted R2, Mallow’s cp, etc.
+
+![image](https://user-images.githubusercontent.com/60442877/188523263-5a3b92da-6a47-46af-b89d-438a715018fa.png)
+
+![image](https://user-images.githubusercontent.com/60442877/188523271-0f879d59-3fed-4e44-bf1d-65a70eb3003d.png)
