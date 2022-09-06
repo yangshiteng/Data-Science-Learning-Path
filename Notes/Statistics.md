@@ -17,4 +17,4 @@
 
 [09 - Covariance and Pearson's Correlation](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Covariance.md)
 
-[10 - Standard Deviation vs Standard Error]
+[10 - Standard Deviation vs Standard Error](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Standard%20Deviation%20vs%20Standard%20Error.md)
