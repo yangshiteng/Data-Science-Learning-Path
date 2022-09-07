@@ -12,3 +12,4 @@
 * Then, we can calculate the likelhood for both N(0,1) and N(5,1)
 * Obviously, the likelihood of N(0,1) is larger than the one of N(5,1)
 * So, x = 0.1 is not likely from N(5,1)
+* Check Likelihood Ratio Test for more information
