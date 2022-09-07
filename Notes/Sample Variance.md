@@ -1,3 +1,5 @@
+# Variance is the average squared deviation from population mean
+
 ![image](https://user-images.githubusercontent.com/60442877/188495366-28b7822c-6199-44a6-9382-dfc375d9f357.png)
 
 ![image](https://user-images.githubusercontent.com/60442877/188495405-ad0014b8-34e4-4d90-851e-ab727d595ac2.png)
