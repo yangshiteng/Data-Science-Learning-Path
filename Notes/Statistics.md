@@ -21,4 +21,4 @@
 
 [11 - Technical and Biological Replicates](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/The%20Difference%20Between%20Technical%20and%20Biological%20Replicates.md)
 
-
+[12 - Probability vs Likelihoood]
