@@ -21,12 +21,4 @@
 
 [11 - Technical and Biological Replicates](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/The%20Difference%20Between%20Technical%20and%20Biological%20Replicates.md)
 
-![image](https://user-images.githubusercontent.com/60442877/188766205-1e5bcb18-c5ec-42bd-b31f-3d53b5d5f318.png)
 
-![image](https://user-images.githubusercontent.com/60442877/188766236-798c1e0b-c2c2-4a3e-b97a-a172a42d3a96.png)
-
-![image](https://user-images.githubusercontent.com/60442877/188766279-8f233d60-626c-4191-9651-5b8dd29478bf.png)
-
-![image](https://user-images.githubusercontent.com/60442877/188766312-5a488ea2-85a3-48ae-bc51-a7aa6848f000.png)
-
-![image](https://user-images.githubusercontent.com/60442877/188766326-75962929-e2eb-4348-9381-c6b4e7ab8adc.png)
