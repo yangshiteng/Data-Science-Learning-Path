@@ -1,3 +1,3 @@
 [Basic Statistics](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Statistics.md)
 
-[Probability]
+[Probability](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Probability.md)
