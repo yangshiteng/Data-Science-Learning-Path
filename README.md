@@ -1,4 +1,4 @@
-[Statistics](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Statistics.md)
+[Statistics](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Statistics%20Contents.md)
 
 [Machine Learning](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Machine%20Learning.md)
 
