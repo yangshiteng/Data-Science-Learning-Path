@@ -27,4 +27,4 @@
 
 [14 - Law of Total Probability, Expectation, Variance and Covariance](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Law%20of%20Total%20Probability%2C%20Expectation%2C%20Variance%20and%20Covariance.md)
 
-[15 - Expected Value](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Expected%20Value.md)
+[15 - Expected Value, Variance and Bias](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Expected%20Value.md)
