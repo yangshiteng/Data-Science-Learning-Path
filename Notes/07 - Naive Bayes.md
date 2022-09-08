@@ -32,6 +32,7 @@
 
 * P(Spam Email | Data) is prop to P(Spam Email) * P(Data | Spam Email)
 * P(Non-spam Email | Data) is prop to P(Non-Spam Email) * P(Data | Non-Spam Email)
+* Note: P(Data) calculation is not available
 
 1. Calculating P(Spam Email) * P(Data | Spam Email)
 2. Calculating P(Non-Spam Email) * P(Data | Non-Spam Email)
