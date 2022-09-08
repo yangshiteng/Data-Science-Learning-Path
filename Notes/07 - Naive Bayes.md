@@ -32,7 +32,7 @@
 
 * P(Spam Email | Data) is prop to P(Spam Email) * P(Data | Spam Email)
 * P(Non-spam Email | Data) is prop to P(Non-Spam Email) * P(Data | Non-Spam Email)
-* Note: P(Data) calculation is not available
+
 
 1. Calculating P(Spam Email) * P(Data | Spam Email)
 2. Calculating P(Non-Spam Email) * P(Data | Non-Spam Email)
@@ -40,5 +40,8 @@
 4. P(Spam Email | Data) is equal to the ratio calculated in step 3
 5. Select an approriate threshold, for example 0.5, to make the classification
 
+* Note: By Law of Total Probability, P(Data) is equal to the sum of P(Spam Email) * P(Data | Spam Email) and P(Non-Spam Email) * P(Data | Non-Spam Email)
+
+![image](https://user-images.githubusercontent.com/60442877/189025687-529deba4-ac54-496b-8ea9-69e8ad6a5bf2.png)
 
 
