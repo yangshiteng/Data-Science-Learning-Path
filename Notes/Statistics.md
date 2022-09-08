@@ -23,4 +23,4 @@
 
 [12 - Probability vs Likelihoood](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Probability%20vs%20Likelihoood.md)
 
-[13 - Bayes' Theorem]
+[13 - Bayes' Theorem](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Bayes'%20Theorem.md)
