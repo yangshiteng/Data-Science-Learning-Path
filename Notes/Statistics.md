@@ -25,4 +25,4 @@
 
 [13 - Bayes' Theorem](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Bayes'%20Theorem.md)
 
-[14 - Law of Total Probability, Expectation, Variance and Covariance]
+[14 - Law of Total Probability, Expectation, Variance and Covariance](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Law%20of%20Total%20Probability%2C%20Expectation%2C%20Variance%20and%20Covariance.md)
