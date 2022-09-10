@@ -34,3 +34,6 @@
 [17 - Normal Distribution: Fat, Heavy, long vs light, thin, short tail And Left vs Right Skewed](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Normal%20Distribution%20Plot%20FEATURE.md)
 
 [18 - QuantileQuantile Plot (QQ plot)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/QuantileQuantile%20Plot%20(QQ%20plot)%5D.md)
+
+[19 - Quantile Normalization](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Quantile%20Normalization.md)
+
