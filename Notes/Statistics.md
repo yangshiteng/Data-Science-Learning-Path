@@ -30,3 +30,5 @@
 [15 - Expected Value, Variance and Bias (Statistics)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Expected%20Value.md)
 
 [16 - Quartile, Quantiles and Percentiles](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Quantiles%20and%20Percentiles.md)
+
+[17 - QuantileQuantile Plot (QQ plot)]
