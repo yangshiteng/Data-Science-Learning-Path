@@ -31,4 +31,4 @@
 
 [16 - Quartile, Quantiles and Percentiles](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Quantiles%20and%20Percentiles.md)
 
-[17 - QuantileQuantile Plot (QQ plot)]
+[17 - QuantileQuantile Plot (QQ plot)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/QuantileQuantile%20Plot%20(QQ%20plot)%5D.md)
