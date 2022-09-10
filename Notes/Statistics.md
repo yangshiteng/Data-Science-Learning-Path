@@ -31,4 +31,6 @@
 
 [16 - Quartile, Quantiles and Percentiles](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Quantiles%20and%20Percentiles.md)
 
-[17 - QuantileQuantile Plot (QQ plot)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/QuantileQuantile%20Plot%20(QQ%20plot)%5D.md)
+[17 - Normal Distribution: Fat, Heavy, long vs light, thin, short tail And Left vs Right Skewed]
+
+[18 - QuantileQuantile Plot (QQ plot)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/QuantileQuantile%20Plot%20(QQ%20plot)%5D.md)
