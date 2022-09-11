@@ -26,7 +26,11 @@
 
 # Appendix
 
+## Poisson Binomial Distribution
+
 ![image](https://user-images.githubusercontent.com/60442877/189544068-7fe61ede-e336-4d98-887b-c5f9832bd2c5.png)
+
+## Continuity Correction 
 
 ![image](https://user-images.githubusercontent.com/60442877/189543365-dd7a0ca6-11c5-4ac5-9f50-9b770ecb0540.png)
 
