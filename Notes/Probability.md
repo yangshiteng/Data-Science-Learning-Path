@@ -4,6 +4,6 @@
 
 [03 - Exponential Distribution](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Exponential%20Distribution.md)
 
-[04 - Bernoulli Distribution]
+[04 - Bernoulli Distribution](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Bernoulli%20Distribution.md)
 
 [05 - Binomial Distribution]
