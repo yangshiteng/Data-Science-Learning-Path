@@ -3,3 +3,5 @@
 [02 - Normal (Gaussian) Distribution](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Normal%20(Gaussian)%20Distribution.md)
 
 [03 - Exponential Distribution](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Exponential%20Distribution.md)
+
+[04 - Binomial Distribution]
