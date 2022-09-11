@@ -6,4 +6,4 @@
 
 [04 - Bernoulli Distribution](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Bernoulli%20Distribution.md)
 
-[05 - Binomial Distribution]
+[05 - Binomial Distribution](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Binomial%20Distribution.md)
