@@ -37,3 +37,5 @@
 
 [19 - Quantile Normalization](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Quantile%20Normalization.md)
 
+[20 - Maximum Likelihood]
+
