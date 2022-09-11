@@ -15,7 +15,7 @@
 # Likelihood Vs Probablity
 
 1. Likelihood and Probability are the same thing under the case of discrete random variable
-2. However, under the case of continuous random variable, they are not the same thing. The probability of a single measurement is 0 and the likelihood of a single measurement is equal to the output value of corresponding probability mass function
+2. However, under the case of continuous random variable, they are not the same thing. The probability of a single measurement is 0 and the likelihood of a single measurement is equal to the output value of corresponding probability density function
 
 ![image](https://user-images.githubusercontent.com/60442877/189506589-54c0b85c-4693-484b-a833-5d4b9a3ca38a.png)
 
