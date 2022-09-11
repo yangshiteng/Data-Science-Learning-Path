@@ -39,3 +39,4 @@
 
 [20 - Maximum Likelihood](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Maximum%20Likelihood.md)
 
+[21 - Extremum Estimator]
