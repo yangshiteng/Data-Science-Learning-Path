@@ -10,7 +10,7 @@
 
 [06 - Poisson Binomial Distribution](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Poisson%20Binomial%20Distribution.md)
 
-[07 - Categorical Distribution]
+[07 - Categorical Distribution](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Categorical%20Distribution.md)
 
 [08 - Multinomial Distribution](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Multinomial%20Distribution.md)
 
