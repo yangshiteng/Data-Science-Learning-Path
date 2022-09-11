@@ -8,4 +8,5 @@
 
 [05 - Binomial Distribution](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Binomial%20Distribution.md)
 
-[06 - Poisson Binomial Distribution]
+[06 - Poisson Binomial Distribution](![0604F654](https://user-images.githubusercontent.com/60442877/189544422-447431d5-5ebe-455a-bbac-4f47abe9bcd1.gif)
+
