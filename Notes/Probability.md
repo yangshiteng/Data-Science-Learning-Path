@@ -10,4 +10,4 @@
 
 [06 - Poisson Binomial Distribution](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Poisson%20Binomial%20Distribution.md)
 
-[07 - Poisson Distribution]
+[07 - Poisson Distribution](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Poisson%20Distribution.md)
