@@ -15,3 +15,5 @@
 [08 - Multinomial Distribution](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Multinomial%20Distribution.md)
 
 [09 - Poisson Distribution](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Poisson%20Distribution.md)
+
+[10 - Hypergeometric Distribution]
