@@ -16,4 +16,4 @@
 
 [09 - Poisson Distribution](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Poisson%20Distribution.md)
 
-[10 - Hypergeometric Distribution]
+[10 - Hypergeometric Distribution](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Hypergeometric%20Distribution.md)
