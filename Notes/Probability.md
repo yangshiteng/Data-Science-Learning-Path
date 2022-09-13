@@ -8,7 +8,7 @@
 
 [05 - Binomial Distribution](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Binomial%20Distribution.md)
 
-[06 - Negative Binomial Distribution]
+[06 - Negative Binomial Distribution](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Negative%20Binomial%20Distribution.md)
 
 [07 - Poisson Binomial Distribution](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Poisson%20Binomial%20Distribution.md)
 
