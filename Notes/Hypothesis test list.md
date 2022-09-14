@@ -9,3 +9,5 @@
 [5. Population Variance Test]
 
 [6. A/B Test]
+
+[7. Distribution Equality Test (Nonparametric Statistical Hypothesis Tests)]
