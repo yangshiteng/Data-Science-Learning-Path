@@ -10,4 +10,4 @@
 
 [6. A/B Test]
 
-[7. Distribution Equality Test (Nonparametric Statistical Hypothesis Tests)]
+[7. Distribution Equality Test (Nonparametric Statistical Hypothesis Tests)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Distribution%20Equality%20Test.md)
