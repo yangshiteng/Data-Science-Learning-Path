@@ -1,3 +1,3 @@
-[* Likelihood Ratio Test](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Statistical%20Test.md)
+[1. Likelihood Ratio Test](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Statistical%20Test.md)
 
-[* Normality Test]
+[2. Normality Test]
