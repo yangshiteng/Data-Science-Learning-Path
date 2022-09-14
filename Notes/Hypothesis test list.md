@@ -5,3 +5,7 @@
 [3. Correlation Test](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Correlation%20Test.md)
 
 [4. Population Mean Test]
+
+[5. Population Variance Test]
+
+[6. A/B Test]
