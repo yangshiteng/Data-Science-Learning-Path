@@ -1,6 +1,11 @@
-# One Sample Student's t-test
+# One Sample Student's t-test (z-test if we know the population standard deviation)
 
 Tests whether an unknown populaton mean is different from a specific value
+
+* H0: the popluation mean is equal (or less than and equal) (or greater than and equal) to some specific value
+* H1: the population mean is not equal (or greater than) (or less than) to the specific value in H0 
+
+![image](https://user-images.githubusercontent.com/60442877/190534444-995b8638-7fe9-4706-aea3-e9f95fb88c49.png)
 
 # Two Sample Student's t-test
 
