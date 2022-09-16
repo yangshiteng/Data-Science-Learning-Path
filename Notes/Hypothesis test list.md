@@ -6,7 +6,7 @@
 
 [4. Mean Test](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/mean%20test.md)
 
-[5. Variance Test]
+[5. Variance Test](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/variance%20test.md)
 
 [6. A/B Test]
 
