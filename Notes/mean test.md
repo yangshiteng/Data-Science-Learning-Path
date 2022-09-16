@@ -31,6 +31,16 @@ Tests whether the population means of two or more independent samples are signif
 * H0: the means of the samples are equal.
 * H1: at least one of the means of the samples are unequal
 
+![image](https://user-images.githubusercontent.com/60442877/190544936-80bb4340-ed75-48eb-90aa-f44fd4fae0aa.png)
+
+![image](https://user-images.githubusercontent.com/60442877/190545467-947e5653-7e6b-4833-a40a-1ad773aa0630.png)
+
+![image](https://user-images.githubusercontent.com/60442877/190545889-74acd97a-3a67-4364-b7d3-d01c463026b8.png)
+
+![image](https://user-images.githubusercontent.com/60442877/190546133-2902bd6d-18a4-4509-8eea-4e740e58d7e4.png)
+
+![image](https://user-images.githubusercontent.com/60442877/190546243-8ffd18c9-c106-4397-9b15-c4e3f6446c97.png)
+
 # Repeated Measures ANOVA Test
 
 Tests whether the population means of two or more paired samples are significantly different.
