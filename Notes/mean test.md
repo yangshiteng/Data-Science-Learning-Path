@@ -24,22 +24,33 @@ Tests whether the population means of two independent samples are significantly 
 
 ![image](https://user-images.githubusercontent.com/60442877/190540371-f8fbb1d3-5a13-4ffa-bb3e-200678f04477.png)
 
-# Analysis of Variance Test (ANOVA)
+# One-Way ANOVA (Analysis of Variance)
 
 Tests whether the population means of two or more independent samples are significantly different.
 
 * H0: the means of the samples are equal.
 * H1: at least one of the means of the samples are unequal
 
-![image](https://user-images.githubusercontent.com/60442877/190544936-80bb4340-ed75-48eb-90aa-f44fd4fae0aa.png)
+![image](https://user-images.githubusercontent.com/60442877/190549509-a7a1ae76-5a9c-4f73-a828-46e29296f813.png)
 
-![image](https://user-images.githubusercontent.com/60442877/190545467-947e5653-7e6b-4833-a40a-1ad773aa0630.png)
+![image](https://user-images.githubusercontent.com/60442877/190549814-bd58b117-08f3-437c-adb2-108991c21508.png)
 
-![image](https://user-images.githubusercontent.com/60442877/190545889-74acd97a-3a67-4364-b7d3-d01c463026b8.png)
+![image](https://user-images.githubusercontent.com/60442877/190550848-4be40b57-05c6-4d44-98ad-031a3f467886.png)
 
-![image](https://user-images.githubusercontent.com/60442877/190546133-2902bd6d-18a4-4509-8eea-4e740e58d7e4.png)
+![image](https://user-images.githubusercontent.com/60442877/190550890-f9ee2528-8691-4278-bdc7-2c8c8775c5c8.png)
 
-![image](https://user-images.githubusercontent.com/60442877/190546243-8ffd18c9-c106-4397-9b15-c4e3f6446c97.png)
+![image](https://user-images.githubusercontent.com/60442877/190551024-9f2840c7-f3e5-48e2-b2d4-da4a8ae2882c.png)
+
+![image](https://user-images.githubusercontent.com/60442877/190551201-55f801f3-8b50-43e9-b2d9-0fc53c5866db.png)
+
+![image](https://user-images.githubusercontent.com/60442877/190551223-16c1c253-9ef0-4dc4-a681-fe953f8c50d5.png)
+
+![image](https://user-images.githubusercontent.com/60442877/190551315-fcd9a878-eca7-4120-acdb-e25c6c769758.png)
+
+![image](https://user-images.githubusercontent.com/60442877/190551538-ea9274a8-324a-4f30-b193-ba3d01cf9164.png)
+
+![image](https://user-images.githubusercontent.com/60442877/190551605-1816f83c-7a20-43ae-a232-9b076d514ece.png)
+
 
 # Repeated Measures ANOVA Test
 
