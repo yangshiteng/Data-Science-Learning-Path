@@ -14,6 +14,13 @@ Tests whether the population means of two independent samples are significantly 
 * H0: the means of the samples are equal.
 * H1: the means of the samples are unequal.
 
+![image](https://user-images.githubusercontent.com/60442877/190536305-9ede6600-77ac-4ece-82e4-b83fab600fca.png)
+
+![image](https://user-images.githubusercontent.com/60442877/190536697-4a239e4a-35dd-403c-a742-677d42a2a3cc.png)
+
+
+
+
 # Paired Student's t-test
 
 Tests whether the population means of two paired samples (measured from same object) are significantly different.
