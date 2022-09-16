@@ -22,10 +22,7 @@ Tests whether the population means of two independent samples are significantly 
 
 # Paired Student's t-test
 
-Tests whether the population means of two paired samples (measured from same object) are significantly different.
-
-* H0: the means of the samples are equal.
-* H1: the means of the samples are unequal.
+![image](https://user-images.githubusercontent.com/60442877/190540371-f8fbb1d3-5a13-4ffa-bb3e-200678f04477.png)
 
 # Analysis of Variance Test (ANOVA)
 
