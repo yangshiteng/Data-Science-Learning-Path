@@ -4,4 +4,4 @@
 
 [Hypothesis Test](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Hypothesis%20test%20list.md)
 
-[Experimental Design]
+[Experimental Design](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Experimental%20Design.md)
