@@ -42,3 +42,5 @@
 [21 - Extremum Estimator](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/extremum%20estimator.md)
 
 [22 - Continuity Correction](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Continuity%20Correction.md)
+
+[23 - Sampling Distribution]
