@@ -43,4 +43,4 @@
 
 [22 - Continuity Correction](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Continuity%20Correction.md)
 
-[23 - Sampling Distribution]
+[23 - Sampling Distribution](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/sampling%20distribution.md)
