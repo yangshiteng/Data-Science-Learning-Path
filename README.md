@@ -4,7 +4,7 @@
 
 [Deep learning](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Deep%20Learning.md)
 
-[Exploratory Data Analysis]
+[Exploratory Data Analysis](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Exploratory%20Data%20Analysis..md)
 
 [Projects](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Projects.md)
 
