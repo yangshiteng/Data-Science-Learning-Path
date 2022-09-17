@@ -19,3 +19,5 @@
 [10 - Poisson Distribution](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Poisson%20Distribution.md)
 
 [11 - Hypergeometric Distribution](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Hypergeometric%20Distribution.md)
+
+[12 - Gamma Distribution]
