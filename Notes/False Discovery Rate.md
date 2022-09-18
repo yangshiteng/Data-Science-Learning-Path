@@ -43,7 +43,7 @@
 
 ![image](https://user-images.githubusercontent.com/60442877/190929121-02c9b815-2d10-4ea2-b07d-d148d1ed080a.png)
 
-# Benjamini-Hochberg Method
+# Benjamini-Hochberg Method (control FDR)
 
 ![image](https://user-images.githubusercontent.com/60442877/190929353-2cd26833-a892-44d8-923e-742fd01b13c6.png)
 
