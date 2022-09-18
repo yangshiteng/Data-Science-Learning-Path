@@ -16,6 +16,8 @@
 
 ![image](https://user-images.githubusercontent.com/60442877/190932462-be34d601-2a5a-497f-aea8-903d841f9482.png)
 
+![image](https://user-images.githubusercontent.com/60442877/190932499-da0bf6cc-b276-4646-b393-b40254692194.png)
+
 * False Discovery Rates are a tool to weed out bad data that looks good
 * The False Discovery Rate (FDR) can control the number of false positives
 * Technically, the FDR is not a method to limit false positives, but the term is used interchangeablly with the methods. In particular, it is used for the "Benjamini-Hochberg method"
