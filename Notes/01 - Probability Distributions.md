@@ -1,3 +1,5 @@
+# Probability Distributon can also be viewed as a model that is modeling data's probability distribution
+
 ![image](https://user-images.githubusercontent.com/60442877/188768703-1825def7-2400-4881-8fca-76b1ccfd7220.png)
 
 ![image](https://user-images.githubusercontent.com/60442877/188768719-f910a8d2-eed1-443d-a7fe-3036ad635d7b.png)
@@ -20,4 +22,3 @@
 
 ![image](https://user-images.githubusercontent.com/60442877/188769033-049cd574-e0ce-4994-a8c0-4feadbad31fd.png)
 
-# Probability Distributon can also be viewed as model that is modeling data's probability distribution
