@@ -18,9 +18,9 @@
 
 [1. P-hacking](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/phacking.md)
 
-[2. ]
+[2. Familywise Error Rate (FWER) (controlled by Bonferroni Correction)]
 
-[2. False Discovery Rates (FDR)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/False%20Discovery%20Rate.md)
+[2. False Discovery Rates (FDR) (controlled by Benjamini–Hochberg Method)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/False%20Discovery%20Rate.md)
 
 [3. Statistical Power]
 
