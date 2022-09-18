@@ -24,9 +24,6 @@ https://www.youtube.com/watch?v=HDCOUXE3HMM&t=790s
 
 ![image](https://user-images.githubusercontent.com/60442877/190883627-7b46bfe5-c723-46ec-bc5c-bc5f03e3f2ad.png)
 
-# Power Analysis
-
-![image](https://user-images.githubusercontent.com/60442877/190883801-d8ec44ed-94f4-46f7-a484-377d20ab57f8.png)
 
 
 
