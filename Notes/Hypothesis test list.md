@@ -22,4 +22,4 @@
 
 [3. Statistical Power]
 
-[4. Power Analysis]
+[4. Power Analysis](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Power%20Analysis.md)
