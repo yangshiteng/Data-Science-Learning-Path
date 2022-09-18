@@ -1,1 +1,7 @@
+[Python]
 
+[SQL]
+
+[Hadoop]
+
+[AWS]
