@@ -1,6 +1,16 @@
 # False Discovery Rate Definition
 
-![image](https://user-images.githubusercontent.com/60442877/190930189-728595fc-0d38-4117-8645-217f07a994cd.png)
+![image](https://user-images.githubusercontent.com/60442877/190931341-c86cab30-fc48-4696-90cb-c4631f73ae88.png)
+
+![image](https://user-images.githubusercontent.com/60442877/190931395-9bd4a712-d6fc-4512-8955-871b8c4e8546.png)
+
+![image](https://user-images.githubusercontent.com/60442877/190931406-5fd13c9f-60d6-4dc9-8cd9-0f1704e07186.png)
+
+![image](https://user-images.githubusercontent.com/60442877/190931469-78dfbf07-7561-424c-a831-0eebbc07bce8.png)
+
+![image](https://user-images.githubusercontent.com/60442877/190931536-94034f7e-511d-4c4f-aa65-f3a81a05bc1f.png)
+
+![image](https://user-images.githubusercontent.com/60442877/190931651-35fb4525-0bf0-4648-9931-dcc347ad3485.png)
 
 * False Discovery Rates are a tool to weed out bad data that looks good
 * The False Discovery Rate (FDR) can control the number of false positives
