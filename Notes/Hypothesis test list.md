@@ -18,7 +18,7 @@
 
 [1. P-hacking](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/phacking.md)
 
-[2. False Discovery Rates (FDR)]
+[2. False Discovery Rates (FDR)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/False%20Discovery%20Rate.md)
 
 [3. Statistical Power]
 
