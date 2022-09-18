@@ -19,3 +19,5 @@
 ![image](https://user-images.githubusercontent.com/60442877/188769012-a3a72de2-f287-4ba1-80f2-5010a6108ae9.png)
 
 ![image](https://user-images.githubusercontent.com/60442877/188769033-049cd574-e0ce-4994-a8c0-4feadbad31fd.png)
+
+# Probability Distributon can also be viewed as model that is modeling data's probability distribution
