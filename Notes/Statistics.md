@@ -45,4 +45,4 @@
 
 [23 - Sampling Distribution](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/sampling%20distribution.md)
 
-[24 - Type I Error, Type II Error and Power]
+[24 - Type I Error, Type II Error and Power](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Type%20I%20Error%2C%20Type%20II%20Error%20and%20Power.md)
