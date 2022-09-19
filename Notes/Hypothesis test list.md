@@ -2,7 +2,7 @@
 
 [1. Type I and Type II Error](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Type%20I%20Error%20and%20Type%20II%20Error.md)
 
-[2. Statistical Power]
+[2. Statistical Power](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Power.md)
 
 [3. Power Analysis](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Power%20Analysis.md)
 
