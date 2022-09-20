@@ -22,6 +22,7 @@
 * The False Discovery Rate (FDR) can control the number of false positives
 * Technically, the FDR is not a method to limit false positives, but the term is used interchangeablly with the methods. In particular, it is used for the "Benjamini-Hochberg method"
 * Reference Video: https://www.youtube.com/watch?v=K8LQSvtjcEo
+* For example, if someone says FDR is 2%, that means 2% of the positive detections are false positive
 
 # Let's look at how p-values are distributed when they come from same distributions
 
