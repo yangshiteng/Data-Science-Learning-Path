@@ -13,8 +13,6 @@
 
 ![image](https://user-images.githubusercontent.com/60442877/191159312-e497f08e-70ca-4bff-80bd-5546792f9c5c.png)
 
-![image](https://user-images.githubusercontent.com/60442877/191159339-284cecee-01ca-4758-8f36-26e978e4343d.png)
-
 ![image](https://user-images.githubusercontent.com/60442877/191159390-0e01e115-ba0e-422f-b562-4a69904fdc78.png)
 
 ![image](https://user-images.githubusercontent.com/60442877/191159411-a6fd1494-3aaa-493f-a4b3-71e1bcf0f37a.png)
