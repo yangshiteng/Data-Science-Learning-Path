@@ -1,3 +1,6 @@
+* Type I Error: incorrectly reject the null hypothesis, false postive
+* Type II Error： incorrectly accept the null hypothesis, false negative
+
 ![image](https://user-images.githubusercontent.com/60442877/190934190-46e719cd-1b14-481b-b514-3f02e63cc36a.png)
 
 ![image](https://user-images.githubusercontent.com/60442877/190939806-f3336eb1-723e-4029-9977-6a949f44648a.png)
