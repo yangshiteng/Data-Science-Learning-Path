@@ -21,3 +21,5 @@
 [11 - Hypergeometric Distribution](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Hypergeometric%20Distribution.md)
 
 [12 - Gamma Distribution](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/gamma%20distribution.md)
+
+[13 - F Distribution]
