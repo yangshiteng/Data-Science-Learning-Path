@@ -25,3 +25,5 @@
 [13 - Chi-squared Distribution](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Chi-squared%20Distribution.md)
 
 [14 - F Distribution](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/F%20Distribution.md)
+
+[15 - Beta Distribution]
