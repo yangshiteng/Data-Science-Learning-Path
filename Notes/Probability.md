@@ -26,4 +26,4 @@
 
 [14 - F Distribution](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/F%20Distribution.md)
 
-[15 - Beta Distribution]
+[15 - Beta Distribution](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Beta%20Distribution.md)
