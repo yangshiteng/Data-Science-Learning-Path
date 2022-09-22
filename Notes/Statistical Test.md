@@ -1,5 +1,7 @@
 # Likelihood Ratio Test
 
+![image](https://user-images.githubusercontent.com/60442877/191648108-eebc55cd-3bda-48af-bdde-f0b87b2f7c76.png)
+
 ![image](https://user-images.githubusercontent.com/60442877/188776705-6a694fe6-8be3-478e-8eac-5a514a520ee1.png)
 
 ![image](https://user-images.githubusercontent.com/60442877/188776720-e84d7f8a-f1c4-45f2-8917-d3df061d6ccb.png)
