@@ -22,4 +22,4 @@
 
 [12 - Gamma Distribution](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/gamma%20distribution.md)
 
-[13 - F Distribution]
+[13 - F Distribution](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/F%20Distribution.md)
