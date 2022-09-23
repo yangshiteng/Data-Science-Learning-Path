@@ -36,5 +36,41 @@
 
 # Q-Q Plot
 
+https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/QuantileQuantile%20Plot%20(QQ%20plot)%5D.md
 
 # Residual Plot
+
+![image](https://user-images.githubusercontent.com/60442877/191895967-013627b4-fe1c-4e7c-9631-b981a8d58217.png)
+
+![image](https://user-images.githubusercontent.com/60442877/191895983-808826f6-39e8-4183-a2bc-d48cba1c3cae.png)
+
+![image](https://user-images.githubusercontent.com/60442877/191896005-180ff669-3b2e-49c6-8381-0b92326a51fe.png)
+
+![image](https://user-images.githubusercontent.com/60442877/191896021-d157c5b2-0080-4d12-a5d6-3b2f10f5c196.png)
+
+![image](https://user-images.githubusercontent.com/60442877/191896180-2ae9f0de-09dd-4acd-8f4a-a1677dbb5189.png)
+
+![image](https://user-images.githubusercontent.com/60442877/191896239-a8e180c6-8537-403d-ba42-07ca5bb1b407.png)
+
+![image](https://user-images.githubusercontent.com/60442877/191896267-924037ff-3b20-425b-bfce-f922fb11d328.png)
+
+![image](https://user-images.githubusercontent.com/60442877/191896333-06161c1b-54c8-4770-bf9e-e3b78574707e.png)
+
+![image](https://user-images.githubusercontent.com/60442877/191896348-d221843e-df72-4773-a2cf-9c74c045b92a.png)
+
+![image](https://user-images.githubusercontent.com/60442877/191896435-26c41097-315a-4c2e-8ba9-26317702e42f.png)
+
+* Residual Plot visually help us check if residuals are independent and normal distributed
+* Normal distribution of Residuals can be checked by QQ plot or some other normality test
+* Indepenence can be checked by plot residuals vesus each indepedent variable. The plot should be random pattern if there is no relationship
+
+
+
+
+
+
+
+
+
+
+
