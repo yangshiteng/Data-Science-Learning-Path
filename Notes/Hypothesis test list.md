@@ -19,6 +19,8 @@
 
 [5. Variance Test](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/variance%20test.md)
 
+[6. Proportion Test]
+
 [6. A/B Test]
 
 [7. Distribution Equality Test](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Distribution%20Equality%20Test.md)
