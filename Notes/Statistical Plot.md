@@ -28,8 +28,13 @@
 
 ![image](https://user-images.githubusercontent.com/60442877/191881596-a772ada6-a184-4da7-8010-cb79c1f5355d.png)
 
+# Scatter Plot
+
+![image](https://user-images.githubusercontent.com/60442877/191887923-9d2c1928-5f69-4cc8-9d63-486c10a3512c.png)
+
+![image](https://user-images.githubusercontent.com/60442877/191887933-a7eb0b8e-a88b-4845-9704-1e0ed2beb4fb.png)
+
 # Q-Q Plot
 
-# Scatter Plot
 
 # Residual Plot
