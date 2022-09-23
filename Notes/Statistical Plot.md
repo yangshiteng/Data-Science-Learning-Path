@@ -1,4 +1,6 @@
-# Bar Plot
+# Bar Chart
+
+# Pie Chart
 
 # Histogram
 
