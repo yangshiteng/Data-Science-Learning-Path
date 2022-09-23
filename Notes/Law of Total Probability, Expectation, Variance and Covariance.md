@@ -1,6 +1,7 @@
 # Law of Total Probablity
 
 ![image](https://user-images.githubusercontent.com/60442877/189026286-6a6a937e-2fe2-4295-904f-88fc73589b48.png)
+Notes: B1, B2,... should be mutually exclusive
 
 # Law of Total Expectation
 
