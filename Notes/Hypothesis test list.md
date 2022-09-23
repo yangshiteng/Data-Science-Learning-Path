@@ -15,11 +15,11 @@
 
 [3. Correlation Test](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Correlation%20Test.md)
 
-[4. Mean Test](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/mean%20test.md)
+[4. Mean Test and Confidence Interval](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/mean%20test.md)
 
-[5. Variance Test](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/variance%20test.md)
+[5. Variance Test and Confidence Interval](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/variance%20test.md)
 
-[6. Proportion Test]
+[6. Proportion Test and Confidence Interval]
 
 [6. A/B Test]
 
