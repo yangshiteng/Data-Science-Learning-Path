@@ -60,9 +60,10 @@ https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/QuantileQua
 
 ![image](https://user-images.githubusercontent.com/60442877/191896435-26c41097-315a-4c2e-8ba9-26317702e42f.png)
 
-* Residual Plot visually help us check if residuals are independent and normal distributed
+* Residual Plot visually help us check if residuals are independent and normal distributed with mean equal to 0
 * Normal distribution of Residuals can be checked by QQ plot or some other normality test
 * Indepenence can be checked by plot residuals vesus each indepedent variable. The plot should be random pattern if there is no relationship
+* 0 mean value can be checked by looking at residual plot, see if points are around 0 and symmetric
 
 
 
