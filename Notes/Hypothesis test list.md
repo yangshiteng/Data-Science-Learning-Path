@@ -25,7 +25,7 @@
 
 [8. Distribution Equality Test](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Distribution%20Equality%20Test.md)
 
-[9. Chi-squared Test (check independence between two categorical variables)]
+[9. Chi-squared Test (check independence between two categorical variables)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Chi-squared%20TEST.md)
 
 # Multiple Testing Problem
 
