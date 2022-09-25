@@ -45,3 +45,4 @@
 
 [23 - Sampling Distribution](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/sampling%20distribution.md)
 
+[24 - Maximum A Posterior]
