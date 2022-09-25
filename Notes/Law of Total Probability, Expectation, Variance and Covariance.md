@@ -1,3 +1,7 @@
+# Law of Large Number
+
+![image](https://user-images.githubusercontent.com/60442877/192124792-9db0d72f-b938-435b-ab9a-d5ac58482e57.png)
+
 # Law of Total Probablity
 
 ![image](https://user-images.githubusercontent.com/60442877/189026286-6a6a937e-2fe2-4295-904f-88fc73589b48.png)
