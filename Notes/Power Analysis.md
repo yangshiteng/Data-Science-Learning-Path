@@ -5,6 +5,16 @@
 * A power analysis determines what sample size can ensure a high probability that we correctly reject the null hypothesis
 * In other words, if we use the sample size recommend by the Power Analysis, we will know that, regardless of the p-value, we used enough data to make a good decision
 
+![image](https://user-images.githubusercontent.com/60442877/192127362-9336df5b-21e9-40b0-ba4b-3213457dbe72.png)
+
+![image](https://user-images.githubusercontent.com/60442877/192127367-d1eaab69-f6e8-46ee-b992-fad3d53c0299.png)
+
+![image](https://user-images.githubusercontent.com/60442877/192127383-13f31b82-10ab-4e68-b880-56ba0bed5531.png)
+
+![image](https://user-images.githubusercontent.com/60442877/192127430-d15dddf8-4d4b-4cf0-bfd3-0d48a8610fdb.png)
+
+# Intuition 
+
 ![image](https://user-images.githubusercontent.com/60442877/191158962-606b1030-5977-4ab7-81e0-5db55a7d0b65.png)
 
 ![image](https://user-images.githubusercontent.com/60442877/191158997-f6bbf564-e0dd-4449-8889-a0ead79afb93.png)
