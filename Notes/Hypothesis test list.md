@@ -13,7 +13,7 @@
 
 [2. Normality Test](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Normality%20Test.md)
 
-[3. Correlation Test](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Correlation%20Test.md)
+[3. Linear or Monotonic Relationship Test](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Correlation%20Test.md)
 
 [4. Mean Test and Confidence Interval](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/mean%20test.md)
 
@@ -24,6 +24,8 @@
 [7. A/B Test]
 
 [8. Distribution Equality Test](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Distribution%20Equality%20Test.md)
+
+[9. Chi-squared Test (check independence between two categorical variables)]
 
 # Multiple Testing Problem
 
