@@ -21,9 +21,9 @@
 
 [6. Proportion Test and Confidence Interval]
 
-[6. A/B Test]
+[7. A/B Test]
 
-[7. Distribution Equality Test](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Distribution%20Equality%20Test.md)
+[8. Distribution Equality Test](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Distribution%20Equality%20Test.md)
 
 # Multiple Testing Problem
 
