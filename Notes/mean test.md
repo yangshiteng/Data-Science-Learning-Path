@@ -26,6 +26,8 @@ Tests whether the population means of two independent samples are significantly 
 
 ![image](https://user-images.githubusercontent.com/60442877/192125260-22adc6fe-b642-4c04-8c47-b843ba161c0c.png)
 
+![image](https://user-images.githubusercontent.com/60442877/192192603-a94d5f91-ae95-4588-b4de-e9dea85df2ad.png)
+
 # Paired Student's t-test
 
 ![image](https://user-images.githubusercontent.com/60442877/190540371-f8fbb1d3-5a13-4ffa-bb3e-200678f04477.png)
@@ -56,8 +58,6 @@ Tests whether the population means of two or more independent samples are signif
 ![image](https://user-images.githubusercontent.com/60442877/190551538-ea9274a8-324a-4f30-b193-ba3d01cf9164.png)
 
 ![image](https://user-images.githubusercontent.com/60442877/190551605-1816f83c-7a20-43ae-a232-9b076d514ece.png)
-
-![image](https://user-images.githubusercontent.com/60442877/192192603-a94d5f91-ae95-4588-b4de-e9dea85df2ad.png)
 
 ## Two-way ANOVA
 
