@@ -57,6 +57,8 @@ Tests whether the population means of two or more independent samples are signif
 
 ![image](https://user-images.githubusercontent.com/60442877/190551605-1816f83c-7a20-43ae-a232-9b076d514ece.png)
 
+![image](https://user-images.githubusercontent.com/60442877/192192603-a94d5f91-ae95-4588-b4de-e9dea85df2ad.png)
+
 ## Two-way ANOVA
 
 ![image](https://user-images.githubusercontent.com/60442877/190551757-7c9d6d9e-cdfe-4a00-adc1-9bb3c6ff3b86.png)
