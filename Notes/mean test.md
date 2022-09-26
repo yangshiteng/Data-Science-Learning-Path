@@ -22,11 +22,11 @@ Tests whether the population means of two independent samples are significantly 
 
 ![image](https://user-images.githubusercontent.com/60442877/190537867-0bbb42e6-8242-41fc-97fc-755f9de3bd35.png)
 
+![image](https://user-images.githubusercontent.com/60442877/192192603-a94d5f91-ae95-4588-b4de-e9dea85df2ad.png)
+
 ![image](https://user-images.githubusercontent.com/60442877/192125251-14df2df3-57c1-4183-ab9d-c0a3ea4b885a.png)
 
 ![image](https://user-images.githubusercontent.com/60442877/192125260-22adc6fe-b642-4c04-8c47-b843ba161c0c.png)
-
-![image](https://user-images.githubusercontent.com/60442877/192192603-a94d5f91-ae95-4588-b4de-e9dea85df2ad.png)
 
 # Paired Student's t-test
 
