@@ -45,4 +45,4 @@
 
 [23 - Sampling Distribution](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/sampling%20distribution.md)
 
-[24 - Maximum A Posteriori (MAP)]
+[24 - Maximum A Posteriori (MAP)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Maximum%20A%20Posteriori%20(MAP).md)
