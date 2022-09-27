@@ -17,7 +17,7 @@
 
 [4. Mean Test and Confidence Interval](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/mean%20test.md)
 
-[5. Variance Test and Confidence Interval](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/variance%20test.md)
+[5. Variance Test and Confidence Interval (Chi-squared test for one sample variance)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/variance%20test.md)
 
 [6. Proportion Test and Confidence Interval](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Proportion%20Test%20and%20Confidence%20Interval.md)
 
