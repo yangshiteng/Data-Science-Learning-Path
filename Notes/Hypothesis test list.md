@@ -21,7 +21,7 @@
 
 [6. Proportion Test and Confidence Interval](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Proportion%20Test%20and%20Confidence%20Interval.md)
 
-[7. A/B Test]
+[7. A/B Test](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/AB%20TEST.md)
 
 [8. Distribution Equality Test](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Distribution%20Equality%20Test.md)
 
