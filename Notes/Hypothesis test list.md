@@ -27,6 +27,14 @@
 
 [9. Chi-squared Test (check independence between two categorical variables)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Chi-squared%20TEST.md)
 
+* Fisher's Exact Test: 
+* 1. Independence Test for two categorical variables when sample size is small
+* 2. Two sample proportion test when sample size is small
+
+* Chi-squared Test:
+* 1. Check independence between two categorical variables
+* 2. One sample variance test
+
 # Multiple Testing Problem
 
 [1. P-hacking](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/phacking.md)
