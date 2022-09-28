@@ -5,6 +5,8 @@
 [02 - Cross Validation](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/02%20-%20Cross%20Validation.md)
 
 [03 - Fundamental Concepts in Statistics](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/03%20-%20Fundamental%20Concepts%20in%20Statistics.md)
+[3.1 - SSR, MSE and R-squared]
+[3.2 - P-value]
 
 [04 - Linear Regression](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/04%20-%20Linear%20Regression.md)
 
