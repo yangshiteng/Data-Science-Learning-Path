@@ -21,7 +21,7 @@
 
 [01 - Linear Regression](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/04%20-%20Linear%20Regression.md)
 
-* [1.1 SSR, MSE and R-squared](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/SSR%2C%20MSE%20and%20R-squared.md)
+* [1.1 - SSR, MSE and R-squared](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/SSR%2C%20MSE%20and%20R-squared.md)
 * [1.2 - R-squared](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/R-squared.md)
 * [1.3 - Linear Regression Model Selection](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Regression%20Model%20Selection.md)
 
