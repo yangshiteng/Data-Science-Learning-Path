@@ -9,10 +9,6 @@
 * [3.1 - SSR, MSE and R-squared](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/SSR%2C%20MSE%20and%20R-squared.md)
 * [3.2 - P-value](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/P-value.md)
 
-[04 - Linear Regression](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/04%20-%20Linear%20Regression.md)
-
-[04.1 - Linear Regression Model Selection](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Regression%20Model%20Selection.md)
-
 [05 - Gradient Descent](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/05%20-%20Gradient%20Descent.md)
 
 [06 - Logistic Regression](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/06%20-%20Logistic%20Regression.md)
@@ -24,6 +20,10 @@
 [09 - Preventing Overfitting with Regularization](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/09%20-%20Preventing%20Overfitting%20with%20Regularization.md)
 
 # Machine Learning Models
+
+[01 - Linear Regression](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/04%20-%20Linear%20Regression.md)
+
+* [1.1 - Linear Regression Model Selection](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Regression%20Model%20Selection.md)
 
 [10 - Classification and Regression Trees](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/10%20-%20Classification%20and%20Regression%20Trees.md)
 
