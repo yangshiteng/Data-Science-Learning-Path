@@ -18,6 +18,7 @@
 [06 - Principal Component Analysis (PCA) (StatQuest)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/statquest_pca_study_guide_v2.pdf)
 
 * [6.1 - Principal Component Analysis (PCA) (Blog)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/14.2%20-%20Principal%20Component%20Analysis%20(PCA)%20(Blog).md)
+* [6.2 - PCA summary]
 
 # Machine Learning Models
 
