@@ -10,7 +10,7 @@
 * [3.2 - P-value](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/P-value.md)
 
 [04 - Gradient Descent](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/05%20-%20Gradient%20Descent.md)
-* [4.1 - Stochastic Gradient Descent]
+* [4.1 - MiniBatch and Stochastic Gradient Descent, how to avoid local optimum](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Stochastic%20Gradient%20Descent.md)
 
 [05 - The Mean, Variance and Standard Deviation](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/13%20-%20Mean%2C%20Variance%20and%20Standard%20Deviation.md)
 
