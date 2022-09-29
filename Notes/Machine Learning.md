@@ -13,6 +13,7 @@
 * [4.1 - (MiniBatch) Stochastic Gradient Descent and How to avoid local optimum](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Stochastic%20Gradient%20Descent.md)
 
 [05 - The Mean, Variance and Standard Deviation](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/13%20-%20Mean%2C%20Variance%20and%20Standard%20Deviation.md)
+* [5.1 - Standard Deviation vs Standard Error](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Standard%20Deviation%20vs%20Standard%20Error.md)
 
 [06 - Principal Component Analysis (PCA) (StatQuest)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/statquest_pca_study_guide_v2.pdf)
 
