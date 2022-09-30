@@ -20,7 +20,7 @@
 * [6.1 - Principal Component Analysis (PCA) (Blog)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/14.2%20-%20Principal%20Component%20Analysis%20(PCA)%20(Blog).md)
 * [6.2 - PCA summary](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/PCA%20summary.md)
 
-[07 - HyperParameter Tuning]
+[07 - Hyperparameter Tuning](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Hyperparameter%20Tuning.md)
 
 # Machine Learning Models
 
