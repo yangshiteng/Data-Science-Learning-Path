@@ -15,11 +15,11 @@
 
 [3. Linear or Monotonic Relationship Test](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Correlation%20Test.md)
 
-[4. Mean Test and Confidence Interval](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/mean%20test.md)
+[4. Mean Test](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/mean%20test.md)
 
-[5. Variance Test and Confidence Interval (Chi-squared test for one sample variance)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/variance%20test.md)
+[5. Variance Test](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/variance%20test.md)
 
-[6. Proportion Test and Confidence Interval](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Proportion%20Test%20and%20Confidence%20Interval.md)
+[6. Proportion Test](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Proportion%20Test%20and%20Confidence%20Interval.md)
 
 [7. A/B Test](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/AB%20TEST.md)
 
