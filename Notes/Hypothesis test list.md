@@ -27,7 +27,7 @@
 
 [9. Chi-squared Test (check independence between two categorical variables)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Chi-squared%20TEST.md)
 
-[10. F-test (Overall Significance Test of Regression Model)]
+[10. F-test (Overall Significance Test of Regression Model)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/F-test%20(Overall%20Significance%20Test%20of%20Regression%20Model).md)
 
 * Fisher's Exact Test: 
 * 1. Independence Test for two categorical variables when sample size is small
