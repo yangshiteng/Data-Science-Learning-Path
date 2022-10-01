@@ -35,6 +35,11 @@
 * 1. Check independence between two categorical variables
 * 2. One sample variance test
 
+* F-test
+* 1. Two sample variance equality test
+* 2. One way ANOVA (mean test for 3 or more samples)
+* 3. Regression Problem (Overall Significance Test of model)
+
 # Multiple Testing Problem
 
 [1. P-hacking](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/phacking.md)
