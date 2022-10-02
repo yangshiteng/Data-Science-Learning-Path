@@ -18,6 +18,9 @@
 
 ![image](https://user-images.githubusercontent.com/60442877/187087115-f382b5a5-06be-48ee-b7ac-99f09bf3b161.png)
 
+1. R-squared: how much accurate of the prediciton
+2. P-value: how much confident of the prediction
+
 # Linear Regression 5 Assumptions
 
 ## 1. Linearity
