@@ -22,6 +22,10 @@
 
 [07 - Hyperparameter Tuning](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Hyperparameter%20Tuning.md)
 
+[08 - Assessing Model Performance](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/08%20-%20Assessing%20Model%20Performance.md)
+
+[09 - Preventing Overfitting with Regularization](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/09%20-%20Preventing%20Overfitting%20with%20Regularization.md)
+
 # Machine Learning Models
 
 [01 - Linear Regression](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/04%20-%20Linear%20Regression.md)
@@ -40,7 +44,5 @@
 
 [06 - Neural Networks](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/12%20-%20Neural%20Networks.md)
 
-[07 - Assessing Model Performance](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/08%20-%20Assessing%20Model%20Performance.md)
-
-[08 - Preventing Overfitting with Regularization](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/09%20-%20Preventing%20Overfitting%20with%20Regularization.md)
+[07 - Boosting Algorithms]
 
