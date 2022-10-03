@@ -1,3 +1,70 @@
+# Linear Regression
+
+## Introduction
+
+In statistics, linear regression is a linear approach for modelling the relationship between a scalar response and one or more explanatory variables (also known as dependent and independent variables). The case of one explanatory variable is called simple linear regression; for more than one, the process is called multiple linear regression. This term is distinct from multivariate linear regression, where multiple correlated dependent variables are predicted, rather than a single scalar variable.
+
+Linear regression has many practical uses. Most applications fall into one of the following two broad categories:
+
+- If the goal is prediction, linear regression can be used to fit a predictive model to an observed data set of values of the response and explanatory variables. After developing such a model, if additional values of the explanatory variables are collected without an accompanying response value, the fitted model can be used to make a prediction of the response.
+- If the goal is to explain variation in the response variable that can be attributed to variation in the explanatory variables, linear regression analysis can be applied to quantify the strength of the relationship between the response and the explanatory variables, and in particular to determine whether some explanatory variables may have no linear relationship with the response at all, or to identify which subsets of explanatory variables may contain redundant information about the response.
+
+Linear regression models are often fitted using the least squares approach, but they may also be fitted in other ways, such as by minimizing the "lack of fit" in some other norm (as with least absolute deviations regression), or by minimizing a penalized version of the least squares cost function as in ridge regression (L2-norm penalty) and lasso (L1-norm penalty). Conversely, the least squares approach can be used to fit models that are not linear models. Thus, although the terms "least squares" and "linear model" are closely linked, they are not synonymous.
+
+
+## Formulation
+
+![image](https://user-images.githubusercontent.com/60442877/147891201-066a731d-6e34-4fdc-abce-7ab0e6420572.png)
+
+## Regularization
+
+There are extensions of the training of the linear model called regularization methods. These seek to both minimize the sum of the squared error of the model on the training data (using ordinary least squares) but also to reduce the complexity of the model (like the number or absolute size of the sum of all coefficients in the model).
+
+Two popular examples of regularization procedures for linear regression are:
+
+- Lasso Regression: where Ordinary Least Squares is modified to also minimize the absolute sum of the coefficients (called L1 regularization).
+- Ridge Regression: where Ordinary Least Squares is modified to also minimize the squared absolute sum of the coefficients (called L2 regularization).
+
+These methods are effective to use when there is collinearity in your input values and ordinary least squares would overfit the training data.
+
+## Is the range of R-Square always between 0 to 1?
+
+Value of R2 may end up being negative if the regression line is made to pass through a point forcefully. This will lead to forcefully making regression line to pass through the origin (no intercept) giving an error higher than the error produced by the horizontal line. This will happen if the data is far away from the origin.
+
+## Ridge and Lasso Regression: L2 and L1 Regularizationi
+
+As I’m using the term linear, first let’s clarify that linear models are one of the simplest way to predict output using a linear function of input features.
+
+![image](https://user-images.githubusercontent.com/60442877/147895633-58adeea5-fc2b-483c-abbe-bdb7563ad815.png)
+
+In the equation above, we have shown the linear model based on the n number of features. Considering only a single feature as you probably already have understood that w[0] will be slope and b will represent intercept. Linear regression looks for optimizing w and b such that it minimizes the cost function. The cost function can be written as
+
+![image](https://user-images.githubusercontent.com/60442877/147895651-e10579c2-0831-4ace-900f-51163a0bc675.png)
+
+n the equation above I have assumed the data-set has M instances and p features. Once we use linear regression on a data-set divided in to training and test set, calculating the scores on training and test set can give us a rough idea about whether the model is suffering from over-fitting or under-fitting. The chosen linear model can be just right also, if you’re lucky enough! If we have very few features on a data-set and the score is poor for both training and test set then it’s a problem of under-fitting. On the other hand if we have large number of features and test score is relatively poor than the training score then it’s the problem of over-generalization or over-fitting. Ridge and Lasso regression are some of the simple techniques to reduce model complexity and prevent over-fitting which may result from simple linear regression.
+
+### Ridge Regression
+
+In ridge regression, the cost function is altered by adding a penalty equivalent to square of the magnitude of the coefficients.
+
+![image](https://user-images.githubusercontent.com/60442877/147895682-dbc3ac8d-7b12-435b-91b7-b519a1459e9c.png)
+
+This is equivalent to saying minimizing the cost function under the condition as below
+
+![image](https://user-images.githubusercontent.com/60442877/147895706-4b09c634-8abd-45df-9c57-25ad22d5584c.png)
+
+So ridge regression puts constraint on the coefficients (w). The penalty term (lambda) regularizes the coefficients such that if the coefficients take large values the optimization function is penalized. So, ridge regression shrinks the coefficients and it helps to reduce the model complexity and multi-collinearity. When λ → 0 , the cost function becomes similar to the linear regression cost function. So lower the constraint (low λ) on the features, the model will resemble linear regression model. 
+
+### Lasso Regression 
+
+The cost function for Lasso (least absolute shrinkage and selection operator) regression can be written as
+
+![image](https://user-images.githubusercontent.com/60442877/147895775-1f9b460e-1474-46c5-9d29-49ebb66a067a.png)
+
+Just like Ridge regression cost function, for lambda =0, the equation above reduces to the cost function of ordinary linear regression. The only difference is instead of taking the square of the coefficients, magnitudes are taken into account. This type of regularization (L1) can lead to zero coefficients i.e. some of the features are completely neglected for the evaluation of output. So Lasso regression not only helps in reducing over-fitting but it can help us in feature selection. 
+
+*Note: Lasso regression can lead to feature selection whereas Ridge can only shrink coefficients close to zero.
+
 ![image](https://user-images.githubusercontent.com/60442877/187084761-cc69bdf3-0028-4249-bbda-789dcd9e7dc4.png)
 
 ![image](https://user-images.githubusercontent.com/60442877/193370553-48338ff4-c108-4f5b-b3ce-8d88f5b1e5cd.png)
@@ -69,6 +136,10 @@ Multicollinearity may be tested with three central criteria:
 ![image](https://user-images.githubusercontent.com/60442877/188330863-962fb627-ae80-46c7-bf08-764d5a2bce91.png)
 
 ![image](https://user-images.githubusercontent.com/60442877/188330858-ba32f176-0f3b-4b3c-9739-fb71539c7b75.png)
+
+
+
+
 
 
 
