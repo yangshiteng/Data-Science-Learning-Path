@@ -6,8 +6,6 @@ A good model selection technique will balance goodness of fit with simplicity, w
 
 ![image](https://user-images.githubusercontent.com/60442877/188525133-522b289f-b27d-4b65-b862-be6a21e9f49e.png)
 
-![image](https://user-images.githubusercontent.com/60442877/188527501-99c918a1-3183-4a2e-9222-3cf74bebd999.png)
-
 ## Testing based and criterion-based approaches are the two main approaches for model (variable) selection
 
 Testing-based approaches include backward elimination, forward selection, stepwise regression, etc. In this category, variables are selected based on whether they are significant or not when they are added/removed. 
