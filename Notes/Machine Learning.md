@@ -35,7 +35,6 @@
 * [1.3 - Linear Regression Model Selection](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Regression%20Model%20Selection.md)
 * [1.4 - Simple Linear Regression](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/simple%20linear%20regression.md)
 * [1.5 - F test](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Ftestforlinearregression.md)
-* [1.6 - Likelihood Ratio Test]
 
 [02 - Logistic Regression](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/06%20-%20Logistic%20Regression.md)
 
