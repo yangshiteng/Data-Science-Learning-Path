@@ -37,7 +37,8 @@
 * [1.5 - F test](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Ftestforlinearregression.md)
 
 [02 - Logistic Regression](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/06%20-%20Logistic%20Regression.md)
-[2.1 - Introduction]
+
+* [2.1 - Introduction to Logistic Regression](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Introduction%20to%20logistic%20regression.md)
 
 [03 - Naive Bayes](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/07%20-%20Naive%20Bayes.md)
 
