@@ -14,8 +14,6 @@ For criterion-based approaches, we have some idea about the purpose for which a 
 
 ![image](https://user-images.githubusercontent.com/60442877/188523263-5a3b92da-6a47-46af-b89d-438a715018fa.png)
 
-![image](https://user-images.githubusercontent.com/60442877/188523271-0f879d59-3fed-4e44-bf1d-65a70eb3003d.png)
-
 ## F-test
 
 ![image](https://user-images.githubusercontent.com/60442877/188527552-ed08f9d0-ea71-48b7-b948-6de3cb3b92f4.png)
@@ -34,6 +32,8 @@ For criterion-based approaches, we have some idea about the purpose for which a 
 ### AIC and BIC
 
 ![image](https://user-images.githubusercontent.com/60442877/188527617-b468ef97-06d1-4730-be7a-ed1f8bccebd8.png)
+
+![image](https://user-images.githubusercontent.com/60442877/188523271-0f879d59-3fed-4e44-bf1d-65a70eb3003d.png)
 
 ### Adjusted R-squared
 
