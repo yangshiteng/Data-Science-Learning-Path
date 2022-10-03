@@ -33,6 +33,9 @@
 * [1.1 - SSR, MSE and R-squared](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/SSR%2C%20MSE%20and%20R-squared.md)
 * [1.2 - R-squared](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/R-squared.md)
 * [1.3 - Linear Regression Model Selection](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Regression%20Model%20Selection.md)
+* [1.4 - Simple Linear Regression]
+* [1.5 - F test]
+* [1.6 - Likelihood Ratio Test]
 
 [02 - Logistic Regression](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/06%20-%20Logistic%20Regression.md)
 
