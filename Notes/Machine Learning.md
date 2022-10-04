@@ -41,7 +41,7 @@
 * [2.1 - Introduction to Logistic Regression](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Introduction%20to%20logistic%20regression.md)
 
 [03 - Naive Bayes](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/07%20-%20Naive%20Bayes.md)
-* [3.1 - Naive Bayes Introduction]
+* [3.1 - Naive Bayes Introduction](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Naive%20Bayes%20Introduction.md)
 
 [04 - Classification and Regression Trees](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/10%20-%20Classification%20and%20Regression%20Trees.md)
 
