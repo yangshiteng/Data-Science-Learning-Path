@@ -72,8 +72,10 @@ You might ask when to stop growing a tree? As a problem usually has a large set 
 
 The common problem with Decision trees, especially having a table full of columns, they fit a lot. Sometimes it looks like the tree memorized the training data set. If there is no limit set on a decision tree, it will give you 100% accuracy on the training data set because in the worse case it will end up making 1 leaf for each observation. Thus this affects the accuracy when predicting samples that are not part of the training set.
 
-Here are two ways to remove overfitting:
+Here are four ways to remove overfitting:
 
+- Set the minimum number of samples in each leaf
+- Set the maximum depth of the tree
 - Pruning Decision Trees.
 - Random Forest
 
