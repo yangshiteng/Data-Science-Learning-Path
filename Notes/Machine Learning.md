@@ -28,8 +28,7 @@
 
 # Machine Learning Models
 
-[01 - Linear Regression](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/04%20-%20Linear%20Regression.md)
-
+* [01 - Linear Regression](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/04%20-%20Linear%20Regression.md)
 * [1.1 - SSR, MSE and R-squared](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/SSR%2C%20MSE%20and%20R-squared.md)
 * [1.2 - R-squared](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/R-squared.md)
 * [1.3 - Linear Regression Model Selection](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Regression%20Model%20Selection.md)
@@ -44,10 +43,10 @@
 * [3.1 - Naive Bayes Introduction](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Naive%20Bayes%20Introduction.md)
 
 [04 - Classification and Regression Trees](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/10%20-%20Classification%20and%20Regression%20Trees.md)
+* [4.1 - Decision Tree Introduction]
 
 [05 - Support Vector Machine](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/11%20-%20Support%20Vector%20Machine.md)
 
 [06 - Neural Networks](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/12%20-%20Neural%20Networks.md)
 
-[07 - Boosting Algorithms]
 
