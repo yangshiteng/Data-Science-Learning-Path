@@ -44,12 +44,12 @@ Types of decision trees are based on the type of target variable we have. It can
 Decision trees classify the examples by sorting them down the tree from the root to some leaf/terminal node, with the leaf/terminal node providing the classification of the example.
 
 
-## 1.8 When to stop splitting?
+## 1.3 When to stop splitting?
 
 You might ask when to stop growing a tree? As a problem usually has a large set of features, it results in large number of split, which in turn gives a huge tree. Such trees are complex and can lead to overfitting. So, we need to know when to stop? One way of doing this is to set a minimum number of training inputs to use on each leaf. For example we can use a minimum of 10 passengers to reach a decision(died or survived), and ignore any leaf that takes less than 10 passengers. Another way is to set maximum depth of your model. Maximum depth refers to the the length of the longest path from a root to a leaf.
 
 
-## 1.9 Advantage
+## 1.4 Advantage
 
 - Simple to understand and to interpret. Trees can be visualised.
 - Requires little data preparation. Other techniques often require data normalisation, dummy variables need to be created and blank values to be removed. Note however that this module does not support missing values.
@@ -60,7 +60,7 @@ You might ask when to stop growing a tree? As a problem usually has a large set 
 - Possible to validate a model using statistical tests. That makes it possible to account for the reliability of the model.
 - Performs well even if its assumptions are somewhat violated by the true model from which the data were generated.
 
-## 1.10 Disadvantage
+## 1.5 Disadvantage
 
 - Decision-tree learners can create over-complex trees that do not generalise the data well. This is called overfitting. Mechanisms such as pruning, setting the minimum number of samples required at a leaf node or setting the maximum depth of the tree are necessary to avoid this problem.
 - Decision trees can be unstable because small variations in the data might result in a completely different tree being generated. This problem is mitigated by using decision trees within an ensemble.
@@ -68,7 +68,7 @@ You might ask when to stop growing a tree? As a problem usually has a large set 
 - Decision tree learners create biased trees if some classes dominate. It is therefore recommended to balance the dataset prior to fitting with the decision tree.
 
 
-## 1.11 How to avoid overfitting in Decision Trees?
+## 1.6 How to avoid overfitting in Decision Trees?
 
 The common problem with Decision trees, especially having a table full of columns, they fit a lot. Sometimes it looks like the tree memorized the training data set. If there is no limit set on a decision tree, it will give you 100% accuracy on the training data set because in the worse case it will end up making 1 leaf for each observation. Thus this affects the accuracy when predicting samples that are not part of the training set.
 
@@ -77,7 +77,7 @@ Here are two ways to remove overfitting:
 - Pruning Decision Trees.
 - Random Forest
 
-### 1.111 Pruning
+### Pruning
 
 The performance of a tree can be further increased by pruning. It involves removing the branches that make use of features having low importance. This way, we reduce the complexity of tree, and thus increasing its predictive power by reducing overfitting.
 
@@ -87,7 +87,7 @@ In pruning, you trim off the branches of the tree, i.e., remove the decision nod
 
 ![image](https://user-images.githubusercontent.com/60442877/147976814-ff33ab36-c60b-429d-9302-6bb814b86cdd.png)
 
-### 1.112 Random Forest
+### Random Forest
 
 Random Forest is an example of ensemble learning, in which we combine multiple machine learning algorithms to obtain better predictive performance.
 
