@@ -9,6 +9,13 @@
 3. Node
 4. Leaf
 
+# Tree Build Procedure Summary
+
+1. Find the threshold with the lowest impurity score as the root node
+2. Determine if it is valid to continue the splitting (like maximum depth of tree, minimum number of samples, very low impurity and etc)
+3. If it is valid to continue the splitting, just find the threshold with the lowest impurity score as the node
+4. If it is not valid to continue the splitting, this is the leaf and we should generate the output of this leaf by either average or voting
+
 ![image](https://user-images.githubusercontent.com/60442877/187343648-58a4cc18-091b-4267-b1b9-02ce4b5ce82a.png)
 
 ![image](https://user-images.githubusercontent.com/60442877/187345887-033c4c0a-4596-43d2-b1a2-067ca06dc065.png)
