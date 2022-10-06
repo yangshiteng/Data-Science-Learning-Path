@@ -6,11 +6,13 @@
 
 [03 - Fundamental Concepts in Statistics](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/03%20-%20Fundamental%20Concepts%20in%20Statistics.md)
 
-* [3.1 - SSR, MSE and R-squared](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/SSR%2C%20MSE%20and%20R-squared.md)
-* [3.2 - P-value](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/P-value.md)
+[04 - SSR, MSE and R-squared](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/SSR%2C%20MSE%20and%20R-squared.md)
 
-[04 - Gradient Descent](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/05%20-%20Gradient%20Descent.md)
-* [4.1 - (MiniBatch) Stochastic Gradient Descent and How to avoid local optimum](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Stochastic%20Gradient%20Descent.md)
+[05 - P-value](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/P-value.md)
+
+# Gradient Descent
+* [4.1 - Gradient Descent](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/05%20-%20Gradient%20Descent.md)
+* [4.2 - (MiniBatch) Stochastic Gradient Descent and How to avoid local optimum](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Stochastic%20Gradient%20Descent.md)
 
 [05 - The Mean, Variance and Standard Deviation](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/13%20-%20Mean%2C%20Variance%20and%20Standard%20Deviation.md)
 * [5.1 - Standard Deviation vs Standard Error](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Standard%20Deviation%20vs%20Standard%20Error.md)
