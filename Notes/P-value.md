@@ -1,3 +1,5 @@
+# P value is the probability of incorrectly reject the Null hypothesis
+
 ![image](https://user-images.githubusercontent.com/60442877/187057862-ff4b26cb-5072-4f7a-bc6f-f1ad77b2ea91.png)
 
 ![image](https://user-images.githubusercontent.com/60442877/187057999-63952810-7891-419f-ab24-9276d894f9da.png)
