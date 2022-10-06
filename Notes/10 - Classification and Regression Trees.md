@@ -28,7 +28,7 @@
 
 # Quantify the Impurity of Leaf
 
-1. Gini Impurity (most popular)
+1. Gini Index (most popular)
 2. Entropy
 3. Information Gain
 
