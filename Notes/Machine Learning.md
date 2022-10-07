@@ -53,3 +53,8 @@
 
 [07 - Random Forest]
 
+[08 - AdaBoost]
+
+[09 - Gradient Boost]
+
+[10 - XGBoost]
