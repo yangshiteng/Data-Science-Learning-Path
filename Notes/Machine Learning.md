@@ -26,6 +26,8 @@
 
 [11 - Preventing Overfitting with Regularization](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/09%20-%20Preventing%20Overfitting%20with%20Regularization.md)
 
+[12 - Missing Data]
+
 # Machine Learning Models
 
 [01 - Linear Regression](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/04%20-%20Linear%20Regression.md)
