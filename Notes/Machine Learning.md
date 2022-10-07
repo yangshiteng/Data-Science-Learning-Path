@@ -43,12 +43,13 @@
 [03 - Naive Bayes](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/07%20-%20Naive%20Bayes.md)
 * [3.1 - Naive Bayes Introduction](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Naive%20Bayes%20Introduction.md)
 
-[04 - Classification and Regression Trees (CART)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/10%20-%20Classification%20and%20Regression%20Trees.md)
+[04 - Support Vector Machine](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/11%20-%20Support%20Vector%20Machine.md)
+
+[05 - Neural Networks](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/12%20-%20Neural%20Networks.md)
+
+[06 - Classification and Regression Trees (CART)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/10%20-%20Classification%20and%20Regression%20Trees.md)
 * [4.1 - Decision Tree Introduction](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Decision%20Tree%20Introduction.md)
 * [4.2 - Tree Pruning (the Alpha is selected by Hyperparameter Tuning Techinque)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/prunning.pdf)
 
-[05 - Support Vector Machine](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/11%20-%20Support%20Vector%20Machine.md)
-
-[06 - Neural Networks](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/12%20-%20Neural%20Networks.md)
-
+[07 - Random Forest]
 
