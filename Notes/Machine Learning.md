@@ -28,6 +28,8 @@
 
 [12 - Missing Data](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/missing%20data.pdf)
 
+[13 - Bagging vs Boosting]
+
 # Machine Learning Models
 
 [01 - Linear Regression](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/04%20-%20Linear%20Regression.md)
