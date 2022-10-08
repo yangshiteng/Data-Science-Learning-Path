@@ -28,7 +28,7 @@
 
 [12 - Missing Data](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/missing%20data.pdf)
 
-[13 - Bagging vs Boosting]
+[13 - Bagging vs Boosting](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Bagging%20vs%20Boosting.md)
 
 # Machine Learning Models
 
