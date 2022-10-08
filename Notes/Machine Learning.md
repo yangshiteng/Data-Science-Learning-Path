@@ -55,10 +55,10 @@
 * [7.1 - Decision Tree Introduction](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Decision%20Tree%20Introduction.md)
 * [7.2 - Tree Pruning (the Alpha is selected by Hyperparameter Tuning Techinque)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Pruning%20the%20tree%20model.md)
 
-[08 - Random Forest](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/RandomForest.pdf)
+[08 - Random Forest (Bagging)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/RandomForest.pdf)
 
 [09 - AdaBoost]
 
-[10 - Gradient Boost]
+[10 - Gradient Boost (Boosting)]
 
-[11 - XGBoost]
+[11 - XGBoost (Boosting)]
