@@ -59,7 +59,7 @@
 * [8.1 - Random Forest: Missing Data and Clustering (Proximity Matrix)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/TreemodelMissingdata.pdf)
 
 [09 - AdaBoost](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/AdaBoost.pdf)
-* [9.1 - AdaBoost Summary]
+* [9.1 - AdaBoost Summary](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/AdaBoost%20Summary.md)
 
 [10 - Gradient Boost (Boosting)]
 
