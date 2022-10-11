@@ -58,9 +58,9 @@
 [08 - Random Forest (Bagging)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/RandomForest.pdf)
 * [8.1 - Random Forest: Missing Data and Clustering (Proximity Matrix)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/TreemodelMissingdata.pdf)
 
-[09 - AdaBoost (Only for Classification)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/AdaBoost.pdf)
+[09 - AdaBoost (Boosting Algorithm Only for Classification)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/AdaBoost.pdf)
 * [9.1 - AdaBoost Summary](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/AdaBoost%20Summary.md)
 
-[10 - Gradient Boost (Boosting)]
+[10 - Gradient Boost (Boosting Algorithm for Classification and Regression)]
 
-[11 - XGBoost (Boosting)]
+[11 - XGBoost (Boosting Algorithm for Classification and Regression)]
