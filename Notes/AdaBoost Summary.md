@@ -8,4 +8,4 @@
 6. Calculate the new weights for samples that are correctly classified
 ![image](https://user-images.githubusercontent.com/60442877/194757694-7480a0f3-94de-4644-a05f-694dc679287c.png)
 7. Normalize these new sample weights so that they add up to 1
-8. With these new sample weights, by using weighted gini index, create the second stump, then, repeat above procedure (Or instead of weighted gini index, we can make a new dataset of same size with bootstrap sampling by using those new sample weights, and give each sample in this new dataset same weight, and repeat above procedure)
+8. With these new sample weights, by using weighted gini index, create the second stump, then, repeat 3-7 procedure (Or instead of weighted gini index, we can make a new dataset of same size with bootstrap sampling by using those new sample weights, and give each sample in this new dataset same weight, and repeat 1-7 procedure)
