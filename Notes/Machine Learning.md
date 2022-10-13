@@ -61,7 +61,7 @@
 [09 - AdaBoost (Boosting Algorithm Only for Classification)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/AdaBoost.pdf)
 * [9.1 - AdaBoost Summary](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/AdaBoost%20Summary.md)
 
-[10 - Gradient Boost (Boosting Algorithm for Classification and Regression)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Gradient%20Boost%20Summary.md)
+[10 - Gradient Boost Summary(Boosting Algorithm for Classification and Regression)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Gradient%20Boost%20Summary.md)
 * [10.1 - Gradient Boost For Regression](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Gradient%20Boost%20for%20Regression.pdf)
 
 [11 - XGBoost (Boosting Algorithm for Classification and Regression)]
