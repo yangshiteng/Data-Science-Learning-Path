@@ -63,5 +63,6 @@
 
 [10 - Gradient Boost Summary(Boosting Algorithm for Classification and Regression)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Gradient%20Boost%20Summary.md)
 * [10.1 - Gradient Boost For Regression](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Gradient%20Boost%20for%20Regression.pdf)
+* [10.2 - Gradient Boost for Classification](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Gradient%20Boost%20For%20Classification.pdf)
 
 [11 - XGBoost (Boosting Algorithm for Classification and Regression)]
