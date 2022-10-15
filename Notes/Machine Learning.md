@@ -11,18 +11,15 @@
 ## Fundamental Concepts in Statistics
 
 * [Fundamental Concepts in Statistics (StatQuest)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/03%20-%20Fundamental%20Concepts%20in%20Statistics.md)
-
 * [SSR, MSE and R-squared](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/SSR%2C%20MSE%20and%20R-squared.md)
-
 * [P-value](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/P-value.md)
+* [The Mean, Variance and Standard Deviation](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/13%20-%20Mean%2C%20Variance%20and%20Standard%20Deviation.md)
+* [Standard Deviation vs Standard Error](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Standard%20Deviation%20vs%20Standard%20Error.md)
 
 ## Gradient Descent
 
 * [Gradient Descent (StatQuest)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/05%20-%20Gradient%20Descent.md)
-* [(MiniBatch) Stochastic Gradient Descent and How to avoid local optimum](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Stochastic%20Gradient%20Descent.md)
-
-[07 - The Mean, Variance and Standard Deviation](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/13%20-%20Mean%2C%20Variance%20and%20Standard%20Deviation.md)
-* [7.1 - Standard Deviation vs Standard Error](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Standard%20Deviation%20vs%20Standard%20Error.md)
+* [(MiniBatch) Stochastic Gradient Descent and How to avoid local optimum (StatQuest)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Stochastic%20Gradient%20Descent.md)
 
 [08 - Principal Component Analysis (PCA) (StatQuest)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/statquest_pca_study_guide_v2.pdf)
 * [8.1 - Principal Component Analysis (PCA) (Blog)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/14.2%20-%20Principal%20Component%20Analysis%20(PCA)%20(Blog).md)
