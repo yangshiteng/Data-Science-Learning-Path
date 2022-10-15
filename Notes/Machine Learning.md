@@ -34,44 +34,56 @@
 
 # 2. Machine Learning Models (Classification and Regression)
 
-[01 - Linear Regression](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/04%20-%20Linear%20Regression.md)
-* [1.1 - SSR, MSE and R-squared](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/SSR%2C%20MSE%20and%20R-squared.md)
-* [1.2 - R-squared](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/R-squared.md)
-* [1.3 - Linear Regression Model Selection](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Regression%20Model%20Selection.md)
-* [1.4 - Simple Linear Regression](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/simple%20linear%20regression.md)
-* [1.5 - F test](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Ftestforlinearregression.md)
+## 2.1 Linear Regression
+* [Linear Regression](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/04%20-%20Linear%20Regression.md)
+* [SSR, MSE and R-squared](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/SSR%2C%20MSE%20and%20R-squared.md)
+* [R-squared](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/R-squared.md)
+* [Linear Regression Model Selection](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Regression%20Model%20Selection.md)
+* [Simple Linear Regression](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/simple%20linear%20regression.md)
+* [F test](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Ftestforlinearregression.md)
 
-[02 - Logistic Regression](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/06%20-%20Logistic%20Regression.md)
-* [2.1 - Introduction to Logistic Regression](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Introduction%20to%20logistic%20regression.md)
+## 2.2 Logistic Regression
+* [Logistic Regression](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/06%20-%20Logistic%20Regression.md)
+* [Introduction to Logistic Regression](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Introduction%20to%20logistic%20regression.md)
 
-[03 - Naive Bayes](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/07%20-%20Naive%20Bayes.md)
-* [3.1 - Naive Bayes Introduction](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Naive%20Bayes%20Introduction.md)
+## 2.3 Naive Bayes
+* [Naive Bayes](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/07%20-%20Naive%20Bayes.md)
+* [Naive Bayes Introduction](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Naive%20Bayes%20Introduction.md)
 
-[04 - KNN (K-nearest Neighbors)]
+## 2.4 KNN
+* [KNN (K-nearest Neighbors)]
 
-[05 - Support Vector Machine](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/11%20-%20Support%20Vector%20Machine.md)
+## 2.5 Support Vector Machine
+* [Support Vector Machine](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/11%20-%20Support%20Vector%20Machine.md)
 
-[06 - Neural Networks](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/12%20-%20Neural%20Networks.md)
+## 2.6 Neural Networks
+* [Neural Networks](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/12%20-%20Neural%20Networks.md)
 
-[07 - Classification and Regression Trees (CART)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/10%20-%20Classification%20and%20Regression%20Trees.md)
-* [7.1 - Decision Tree Introduction](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Decision%20Tree%20Introduction.md)
-* [7.2 - Tree Pruning (the Alpha is selected by Hyperparameter Tuning Techinque)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Pruning%20the%20tree%20model.md)
+## 2.7 Decision Tree
+* [Classification and Regression Trees (CART)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/10%20-%20Classification%20and%20Regression%20Trees.md)
+* [Decision Tree Introduction](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Decision%20Tree%20Introduction.md)
+* [Tree Pruning (the Alpha is selected by Hyperparameter Tuning Techinque)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Pruning%20the%20tree%20model.md)
 
-[08 - Random Forest (Bagging)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/RandomForest.pdf)
-* [8.1 - Random Forest: Missing Data and Clustering (Proximity Matrix)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/TreemodelMissingdata.pdf)
+## 2.8 Random Forest
+* [Random Forest (Bagging)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/RandomForest.pdf)
+* [Random Forest: Missing Data and Clustering (Proximity Matrix)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/TreemodelMissingdata.pdf)
 
-[09 - AdaBoost (Boosting Algorithm Only for Classification)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/AdaBoost.pdf)
-* [9.1 - AdaBoost Summary](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/AdaBoost%20Summary.md)
+## 2.9 AdaBoost
+* [AdaBoost (Boosting Algorithm Only for Classification)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/AdaBoost.pdf)
+* [AdaBoost Summary](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/AdaBoost%20Summary.md)
 
-[10 - Gradient Boost Summary(Boosting Algorithm for Classification and Regression)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Gradient%20Boost%20Summary.md)
-* [10.1 - Gradient Boost For Regression](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Gradient%20Boost%20for%20Regression.pdf)
-* [10.2 - Gradient Boost for Classification](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Gradient%20Boost%20For%20Classification.pdf)
+## 2.10 Gradient Boost
+* [Gradient Boost Summary(Boosting Algorithm for Classification and Regression)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Gradient%20Boost%20Summary.md)
+* [Gradient Boost For Regression](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Gradient%20Boost%20for%20Regression.pdf)
+* [Gradient Boost for Classification](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Gradient%20Boost%20For%20Classification.pdf)
 
-[11 - XGBoost (Boosting Algorithm for Classification and Regression)]
+## 2.11 XGBoost
+* [XGBoost (Boosting Algorithm for Classification and Regression)]
 
-# Dimensionality Reduction
+# 3. Dimensionality Reduction
 
-[08 - Principal Component Analysis (PCA) (StatQuest)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/statquest_pca_study_guide_v2.pdf)
-* [8.1 - Principal Component Analysis (PCA) (Blog)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/14.2%20-%20Principal%20Component%20Analysis%20(PCA)%20(Blog).md)
-* [8.2 - PCA summary](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/PCA%20summary.md)
+## 3.1 Principal Component Analysis (PCA)
+* [Principal Component Analysis (PCA) (StatQuest)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/statquest_pca_study_guide_v2.pdf)
+* [Principal Component Analysis (PCA) (Blog)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/14.2%20-%20Principal%20Component%20Analysis%20(PCA)%20(Blog).md)
+* [PCA summary](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/PCA%20summary.md)
 
