@@ -29,6 +29,16 @@
 
 [10. F-test (Overall Significance Test of Regression Model)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/F-test%20(Overall%20Significance%20Test%20of%20Regression%20Model).md)
 
+# Multiple Testing Problem
+
+[1. P-hacking](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/phacking.md)
+
+[2. Familywise Error Rate (FWER) (controlled by Bonferroni Correction)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Familywise%20Error%20Rate.md)
+
+[3. False Discovery Rates (FDR) (controlled by Benjamini–Hochberg Method)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/False%20Discovery%20Rate.md)
+
+# Summary
+
 * Fisher's Exact Test: 
 * 1. Independence Test for two categorical variables when sample size is small
 * 2. Two sample proportion test when sample size is small
@@ -41,11 +51,3 @@
 * 1. Two sample variance equality test
 * 2. One way ANOVA (mean test for 3 or more samples)
 * 3. Regression Problem (Overall Significance Test of model)
-
-# Multiple Testing Problem
-
-[1. P-hacking](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/phacking.md)
-
-[2. Familywise Error Rate (FWER) (controlled by Bonferroni Correction)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Familywise%20Error%20Rate.md)
-
-[3. False Discovery Rates (FDR) (controlled by Benjamini–Hochberg Method)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/False%20Discovery%20Rate.md)
