@@ -2,20 +2,22 @@
 
 ## Fundamental Concepts in Machine Learning
 
-[Fundamental Concepts in Machine Learning (StatQuest)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/01%20-%20Fundamental%20Concepts%20in%20Machine%20Learning.md)
+* [Fundamental Concepts in Machine Learning (StatQuest)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/01%20-%20Fundamental%20Concepts%20in%20Machine%20Learning.md)
 
 ## Cross Validation
 
-[Cross Validation (StatQuest)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/02%20-%20Cross%20Validation.md)
+* [Cross Validation (StatQuest)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/02%20-%20Cross%20Validation.md)
 
 ## Fundamental Concepts in Statistics
-[Fundamental Concepts in Statistics](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/03%20-%20Fundamental%20Concepts%20in%20Statistics.md)
 
-[SSR, MSE and R-squared](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/SSR%2C%20MSE%20and%20R-squared.md)
+* [Fundamental Concepts in Statistics](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/03%20-%20Fundamental%20Concepts%20in%20Statistics.md)
 
-[P-value](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/P-value.md)
+* [SSR, MSE and R-squared](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/SSR%2C%20MSE%20and%20R-squared.md)
+
+* [P-value](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/P-value.md)
 
 ## Gradient Descent
+
 * [06 - Gradient Descent](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/05%20-%20Gradient%20Descent.md)
 * [6.1 - (MiniBatch) Stochastic Gradient Descent and How to avoid local optimum](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Stochastic%20Gradient%20Descent.md)
 
