@@ -52,10 +52,10 @@
 * [KNN (K-nearest Neighbors)]
 
 ## 2.5 Support Vector Machine
-* [Support Vector Machine](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/11%20-%20Support%20Vector%20Machine.md)
+* [Support Vector Machine (StatQuest)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/11%20-%20Support%20Vector%20Machine.md)
 
 ## 2.6 Neural Networks
-* [Neural Networks](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/12%20-%20Neural%20Networks.md)
+* [Neural Networks (StatQuest)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/12%20-%20Neural%20Networks.md)
 
 ## 2.7 Decision Tree
 * [Classification and Regression Trees (CART)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/10%20-%20Classification%20and%20Regression%20Trees.md)
