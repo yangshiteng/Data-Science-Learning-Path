@@ -3,37 +3,34 @@
 ## 1.1 Fundamental Concepts in Statistics
 
 * [Fundamental Concepts in Statistics (StatQuest)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/03%20-%20Fundamental%20Concepts%20in%20Statistics.md)
+
 * [SSR, MSE and R-squared (StatQuest)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/SSR%2C%20MSE%20and%20R-squared.md)
+
 * [P-value (StatQuest)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/P-value.md)
+
 * [The Mean, Variance and Standard Deviation (StatQuest) (sample variance vs population variance)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/13%20-%20Mean%2C%20Variance%20and%20Standard%20Deviation.md)
+
 * [Standard Deviation vs Standard Error](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Standard%20Deviation%20vs%20Standard%20Error.md)
 
 ## 1.2 Fundamental Concepts in Machine Learning
 
 * [Fundamental Concepts in Machine Learning (StatQuest)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/01%20-%20Fundamental%20Concepts%20in%20Machine%20Learning.md)
 
-## Cross Validation
-
 * [Cross Validation (StatQuest)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/02%20-%20Cross%20Validation.md)
 
-## Gradient Descent
-
 * [Gradient Descent (StatQuest)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/05%20-%20Gradient%20Descent.md)
+
 * [(MiniBatch) Stochastic Gradient Descent and How to avoid local optimum (StatQuest)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Stochastic%20Gradient%20Descent.md)
 
-[08 - Principal Component Analysis (PCA) (StatQuest)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/statquest_pca_study_guide_v2.pdf)
-* [8.1 - Principal Component Analysis (PCA) (Blog)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/14.2%20-%20Principal%20Component%20Analysis%20(PCA)%20(Blog).md)
-* [8.2 - PCA summary](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/PCA%20summary.md)
+* [Hyperparameter Tuning](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Hyperparameter%20Tuning.md)
 
-[09 - Hyperparameter Tuning](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Hyperparameter%20Tuning.md)
+* [Assessing Model Performance](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/08%20-%20Assessing%20Model%20Performance.md)
 
-[10 - Assessing Model Performance](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/08%20-%20Assessing%20Model%20Performance.md)
+* [Preventing Overfitting with Regularization](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/09%20-%20Preventing%20Overfitting%20with%20Regularization.md)
 
-[11 - Preventing Overfitting with Regularization](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/09%20-%20Preventing%20Overfitting%20with%20Regularization.md)
+* [Missing Data](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/missing%20data.pdf)
 
-[12 - Missing Data](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/missing%20data.pdf)
-
-[13 - Ensemble Learning: Bagging vs Boosting](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Bagging%20vs%20Boosting.md)
+* [Ensemble Learning: Bagging vs Boosting](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Bagging%20vs%20Boosting.md)
 
 # 2. Machine Learning Models (Classification and Regression)
 
@@ -71,3 +68,10 @@
 * [10.2 - Gradient Boost for Classification](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Gradient%20Boost%20For%20Classification.pdf)
 
 [11 - XGBoost (Boosting Algorithm for Classification and Regression)]
+
+# Dimensionality Reduction
+
+[08 - Principal Component Analysis (PCA) (StatQuest)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/statquest_pca_study_guide_v2.pdf)
+* [8.1 - Principal Component Analysis (PCA) (Blog)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/14.2%20-%20Principal%20Component%20Analysis%20(PCA)%20(Blog).md)
+* [8.2 - PCA summary](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/PCA%20summary.md)
+
