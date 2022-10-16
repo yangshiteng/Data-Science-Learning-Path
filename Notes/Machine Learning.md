@@ -62,20 +62,20 @@
 * [Decision Tree Introduction](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Decision%20Tree%20Introduction.md)
 * [Tree Pruning (the Alpha is selected by Hyperparameter Tuning Techinque)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Pruning%20the%20tree%20model.md)
 
-## 2.8 Random Forest
+## 2.8 Random Forest (Bagging)
 * [Random Forest (Bagging)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/RandomForest.pdf)
 * [Random Forest: Missing Data and Clustering (Proximity Matrix)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/TreemodelMissingdata.pdf)
 
-## 2.9 AdaBoost
+## 2.9 AdaBoost (Boosting)
 * [AdaBoost (Boosting Algorithm Only for Classification)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/AdaBoost.pdf)
 * [AdaBoost Summary](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/AdaBoost%20Summary.md)
 
-## 2.10 Gradient Boost
+## 2.10 Gradient Boost (Boosting)
 * [Gradient Boost Summary(Boosting Algorithm for Classification and Regression)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Gradient%20Boost%20Summary.md)
 * [Gradient Boost For Regression](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Gradient%20Boost%20for%20Regression.pdf)
 * [Gradient Boost for Classification](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Gradient%20Boost%20For%20Classification.pdf)
 
-## 2.11 XGBoost
+## 2.11 XGBoost (Boosting)
 * [XGBoost (Boosting Algorithm for Classification and Regression)]
 
 # 3. Dimensionality Reduction
