@@ -1,6 +1,12 @@
 # XGBoost for Regression Summary
 
-1. The very first step in fitting XGBoost to the training dataset is to make an initial prediction. This prediction can be anything, but by default it is 0.5 regardless of whether you are using XGBoost for Regression or Classification
+1. The very first step is to make an initial prediction. This prediction can be anything, but by default it is 0.5 regardless of whether you are using XGBoost for Regression or Classification
 2. Calculate the residuals for each sample in training dataset which is just the difference between the observed value and the predicted value (in this case, the initial prediction 0.5)
-3. Fitting the XGBoost Tree to the residuals, and instead of using Gini index to select threshold, this time, we use something called "Similarity Score" and "Gain" to help us select the threshold
+3. Fitting the XGBoost Tree model to these residuals, and instead of using Gini index to select threshold, this time, we use something called "Similarity Score" and "Gain" to help us select the threshold.
 ![image](https://user-images.githubusercontent.com/60442877/196044677-fa221198-b97b-471e-9467-76a3851cb117.png)
+![image](https://user-images.githubusercontent.com/60442877/196045937-5633a8e1-46cb-4a67-a677-a7f287c02a53.png)
+4. Pruning the tree by calculating the difference between gain and pruning parameter (gamma), if positive, keep branch, if negative, remove it
+5. Calculate the output of XGBoost tree
+![image](https://user-images.githubusercontent.com/60442877/196046257-83a4ee0d-f54f-4c4a-84b0-27f1c23fe03f.png)
+6. Calculate the new predicted value which is equal to the initial prediction + learning rate * the output of first tree
+7. Repeat above process to keep building trees until the residuals are super small or we have reached the maximum number
