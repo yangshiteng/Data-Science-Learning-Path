@@ -78,6 +78,7 @@
 ## 2.11 XGBoost (Boosting)
 * [XGBoost (Boosting Algorithm for Classification and Regression)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/XGBoost%20(Boosting%20Algorithm%20for%20Classification%20and%20Regression).md)
 * [XGBoost for Regression](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/XGBoost%20for%20Regression.pdf)
+* [XGBoost for Classification](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/XGBoost%20for%20Classification.pdf)
 
 # 3. Dimensionality Reduction
 
