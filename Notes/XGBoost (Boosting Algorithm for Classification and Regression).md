@@ -22,3 +22,8 @@
 ![image](https://user-images.githubusercontent.com/60442877/196327045-8cb89f38-0123-403f-8cc4-388d890eab6d.png)
 6. Calculate the new predicted log(odds) value which is equal to the initial prediction of log(odds) + learning rate * the output of first tree
 7. Repeat above process to keep building trees until the residuals are super small or we have reached the maximum number
+
+# Future Learning Plan
+
+https://machinelearningmastery.com/xgboost-with-python/
+
