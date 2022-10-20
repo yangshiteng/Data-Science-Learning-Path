@@ -64,7 +64,7 @@
 
 * [Ensemble Learning: Bagging vs Boosting](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Bagging%20vs%20Boosting.md)
 * [Ensemble Learning](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Ensemble%20Learning.md)
-* [Bagging]
+* [Bagging (Bootstrap Aggregatting)]
 * [Boosting](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Boosting.md)
 
 ### 2.8.1 Random Forest (Bagging)
