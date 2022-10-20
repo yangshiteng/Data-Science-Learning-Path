@@ -5,3 +5,8 @@
 ![image](https://user-images.githubusercontent.com/60442877/196586490-de3ea1d4-4784-4ae9-b147-c25d6aa41abf.png)
 
 ![image](https://user-images.githubusercontent.com/60442877/196847214-f957a963-e69c-4fcf-a4a4-9f84537da121.png)
+
+# Benefit and Challenge of Boosting Algorithm
+
+![image](https://user-images.githubusercontent.com/60442877/196847619-e119e3ef-898e-4c3d-80bf-679866dc8862.png)
+
