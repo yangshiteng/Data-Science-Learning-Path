@@ -13,3 +13,5 @@
 ![image](https://user-images.githubusercontent.com/60442877/187054367-08a37b46-c048-4b66-9f93-e77728d96de4.png)
 
 ![image](https://user-images.githubusercontent.com/60442877/187054375-3afcb029-3aa6-4f00-b26e-f762c0e02f2c.png)
+
+https://learn.g2.com/cross-validation
