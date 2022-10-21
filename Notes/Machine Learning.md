@@ -47,7 +47,7 @@
 * [Naive Bayes Introduction](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Naive%20Bayes%20Introduction.md)
 
 ## 2.4 KNN
-* [KNN (K-nearest Neighbors)]
+* [KNN (K-nearest Neighbors)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/KNN.md)
 
 ## 2.5 Support Vector Machine
 * [Support Vector Machine (StatQuest)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/11%20-%20Support%20Vector%20Machine.md)
