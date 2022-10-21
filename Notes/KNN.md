@@ -22,3 +22,4 @@
 
 ![image](https://user-images.githubusercontent.com/60442877/197102095-f45f4039-d717-49af-a985-c2d543245436.png)
 
+Since this algorithm relies on distance for classification, if the features represent different physical units or come in vastly different scales then normalizing the training data can improve its accuracy dramatically.
