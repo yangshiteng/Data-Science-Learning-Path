@@ -85,9 +85,15 @@
 * [XGBoost for Regression](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/XGBoost%20for%20Regression.pdf)
 * [XGBoost for Classification](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/XGBoost%20for%20Classification.pdf)
 
-# 3. Dimensionality Reduction
+# 3. Clustering Algorithm (Unsupervised)
 
-## 3.1 Principal Component Analysis (PCA)
+## 3.1 K-means clustering
+
+
+
+# 4. Dimensionality Reduction
+
+## 4.1 Principal Component Analysis (PCA)
 * [Principal Component Analysis (PCA) (StatQuest)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/statquest_pca_study_guide_v2.pdf)
 * [Principal Component Analysis (PCA) (Blog)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/14.2%20-%20Principal%20Component%20Analysis%20(PCA)%20(Blog).md)
 * [PCA summary](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/PCA%20summary.md)
