@@ -89,6 +89,8 @@
 
 ## 3.1 K-means clustering
 
+## 3.2 Hierarchical clustering
+
 
 
 # 4. Dimensionality Reduction
