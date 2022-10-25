@@ -28,7 +28,7 @@
 
 * [Missing Data](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/missing%20data.pdf)
 
-* [Multi-class Classification]()
+* [Multi-class Classification](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/muticlass%20classification.md)
 
 # 2. Machine Learning Models (Classification and Regression)
 
