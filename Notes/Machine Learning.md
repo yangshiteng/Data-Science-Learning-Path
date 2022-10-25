@@ -87,11 +87,9 @@
 
 # 3. Clustering Algorithm (Unsupervised Learning)
 
-## 3.1 K-means clustering
-
 * [K-means Clustering](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/K-means%20Clustering.md)
 
-## 3.2 Hierarchical clustering
+* [Hierarchical clustering]()
 
 
 
