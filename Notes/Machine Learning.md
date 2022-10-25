@@ -52,6 +52,9 @@
 ## 2.5 Support Vector Machine
 * [Support Vector Machine (StatQuest)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/11%20-%20Support%20Vector%20Machine.md)
 * [SVM detail](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Support%20Vector%20Machine%20Detail.md)
+* [SVM for Regression]
+* [SVM for Outlier Detection]
+* [SVM for Clustering]
 
 ## 2.6 Neural Networks
 * [Neural Networks (StatQuest)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/12%20-%20Neural%20Networks.md)
