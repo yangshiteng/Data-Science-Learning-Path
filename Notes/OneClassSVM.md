@@ -14,3 +14,4 @@
 
 ![image](https://user-images.githubusercontent.com/60442877/198862285-7013a264-d187-4071-ad9c-09c8bb60e8e3.png)
 
+[Python Code for one class SVM](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/06_One_Class_Support_Vector_Machine_(SVM)_For_Anomaly_Detection.ipynb)
