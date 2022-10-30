@@ -58,7 +58,7 @@
 * [SVM Detail](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Support%20Vector%20Machine%20Detail.md)
 * [SVM Soft Margin and Kernel Tricks (kernel function is used to measure the similarity of two input vectors, it is just the dot production of two transformed input vectors)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/SVM%20Soft%20Margin%20and%20Kernel%20Tricks.md)
 * [SVM for Regression](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/SVR.md)
-* [SVM for Anomaly Detection (One Class SVM)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/OneClassSVM.md)
+* [SVM for Anomaly Detection - Novelty Detection (One Class SVM)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/OneClassSVM.md)
 * [SVM for Clustering]
 
 ## 2.6 Neural Networks
@@ -102,12 +102,21 @@
 
 * [Support Vector Clustering]
 
-
-
 # 4. Dimensionality Reduction
 
 ## 4.1 Principal Component Analysis (PCA)
 * [Principal Component Analysis (PCA) (StatQuest)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/statquest_pca_study_guide_v2.pdf)
 * [Principal Component Analysis (PCA) (Blog)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/14.2%20-%20Principal%20Component%20Analysis%20(PCA)%20(Blog).md)
 * [PCA summary](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/PCA%20summary.md)
+
+# 5. Anomaly Detection (Outlier and Novelty Detection)
+
+## Outlier Detection
+
+## Novelty Detection
+
+
+
+
+
 
