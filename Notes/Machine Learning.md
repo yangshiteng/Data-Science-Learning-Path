@@ -59,6 +59,7 @@
 * [SVM Soft Margin and Kernel Tricks (kernel function is used to measure the similarity of two input vectors, it is just the dot production of two transformed input vectors)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/SVM%20Soft%20Margin%20and%20Kernel%20Tricks.md)
 * [SVM for Regression](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/SVR.md)
 * [SVM for Anomaly Detection - Novelty Detection (One Class SVM)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/OneClassSVM.md)
+  * [Python Code for one class SVM](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/06_One_Class_Support_Vector_Machine_(SVM)_For_Anomaly_Detection.ipynb)
 * [SVM for Clustering]
 
 ## 2.6 Neural Networks
