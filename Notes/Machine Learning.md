@@ -30,7 +30,7 @@
 
 * [Multi-class Classification](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/muticlass%20classification.md)
 
-* [Anomaly Detection: Outlier Detection and Novelty Detection]
+* [Anomaly Detection: Outlier Detection and Novelty Detection](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Anomaly%20Detection:%20Outlier%20Detection%20and%20Novelty%20Detection.md)
 
 # 2. Machine Learning Models (Classification and Regression)
 
