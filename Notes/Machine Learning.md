@@ -54,7 +54,7 @@
 ## 2.5 Support Vector Machine
 * [Support Vector Machine (StatQuest)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/11%20-%20Support%20Vector%20Machine.md)
 * [SVM Detail](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Support%20Vector%20Machine%20Detail.md)
-* [SVM Soft Margin and Kernel Tricks]
+* [SVM Soft Margin and Kernel Tricks](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/SVM%20Soft%20Margin%20and%20Kernel%20Tricks.md)
 * [SVM for Regression](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/SVR.md)
 * [SVM for Outlier Detection (One Class SVM)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/OneClassSVM.md)
 * [SVM for Clustering]
