@@ -28,3 +28,5 @@
 
 ![image](https://user-images.githubusercontent.com/60442877/198859122-0f6b8361-cf76-49e4-b9c1-4e77d7091cd2.png)
 
+# kernel function is used to measure the similarity of two input vectors, it is just the dot production of two transformed input vectors
+
