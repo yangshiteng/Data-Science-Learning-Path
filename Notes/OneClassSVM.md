@@ -1,6 +1,4 @@
 
-[Python Code for one class SVM](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/06_One_Class_Support_Vector_Machine_(SVM)_For_Anomaly_Detection.ipynb)
-
 ![image](https://user-images.githubusercontent.com/60442877/198861962-056f709b-cd00-4a33-be88-8fb59bc312fb.png)
 
 ![image](https://user-images.githubusercontent.com/60442877/198862005-1c833c56-389c-4cc9-b010-aadb201cdd94.png)
