@@ -1,3 +1,6 @@
+
+[Python Code for one class SVM](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/06_One_Class_Support_Vector_Machine_(SVM)_For_Anomaly_Detection.ipynb)
+
 ![image](https://user-images.githubusercontent.com/60442877/198861962-056f709b-cd00-4a33-be88-8fb59bc312fb.png)
 
 ![image](https://user-images.githubusercontent.com/60442877/198862005-1c833c56-389c-4cc9-b010-aadb201cdd94.png)
@@ -13,5 +16,3 @@
 ![image](https://user-images.githubusercontent.com/60442877/198862227-74e07e49-76e7-4f6b-98e7-0d357fa70459.png)
 
 ![image](https://user-images.githubusercontent.com/60442877/198862285-7013a264-d187-4071-ad9c-09c8bb60e8e3.png)
-
-[Python Code for one class SVM](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/06_One_Class_Support_Vector_Machine_(SVM)_For_Anomaly_Detection.ipynb)
