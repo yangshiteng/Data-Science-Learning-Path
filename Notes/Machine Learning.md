@@ -60,7 +60,6 @@
 * [SVM for Regression](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/SVR.md)
 * [SVM for Anomaly Detection - Novelty Detection (One Class SVM)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/OneClassSVM.md)
   * [Python Code for one class SVM](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/06_One_Class_Support_Vector_Machine_(SVM)_For_Anomaly_Detection.ipynb)
-* [SVM for Clustering]
 
 ## 2.6 Neural Networks
 * [Neural Networks (StatQuest)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/12%20-%20Neural%20Networks.md)
