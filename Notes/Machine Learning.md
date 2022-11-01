@@ -100,7 +100,7 @@
 
 * [Hierarchical clustering](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Hierarchical%20Clustering.md)
 
-* [DBSCAN]()
+* [DBSCAN](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/DBSCAN.md)
 
 # 4. Dimensionality Reduction
 
