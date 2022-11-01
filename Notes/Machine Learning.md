@@ -100,6 +100,8 @@
 
 * [Hierarchical clustering](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Hierarchical%20Clustering.md)
 
+* [DBSCAN]()
+
 # 4. Dimensionality Reduction
 
 ## 4.1 Principal Component Analysis (PCA)
