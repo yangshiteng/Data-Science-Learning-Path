@@ -1,3 +1,8 @@
+# SVM Summary
+
+Support Vector Machine can find the optimal support vector classifier in higher dimension by using the higher dimensional relationships between each pair of observations. These higher dimensional relationships can be found by calculating the Kernel Function without actually transforming each data point into higher dimension. This will save us a lot of computational power. The techinique finding the higher dimensional relationships between observations without actually implementing transformation is called "Kernel Trick".
+
+
 ![image](https://user-images.githubusercontent.com/60442877/187554673-5528bfe3-b66b-4fe6-9363-7513598cf1ca.png)
 
 ![image](https://user-images.githubusercontent.com/60442877/187557968-14b4edd6-1086-4b4d-8d15-500fc957fa38.png)
