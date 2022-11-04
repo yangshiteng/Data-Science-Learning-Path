@@ -56,6 +56,7 @@
 ## 2.5 Support Vector Machine
 * [Support Vector Machine (StatQuest)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/11%20-%20Support%20Vector%20Machine.md)
   * [Support Vector Machine and Kernel Tricks (StatQuest)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/SupportVectorMachine2.pdf)
+  * [SVM - Polynomial Kernel](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/SVM_Polynomial%20Kernel.pdf)
 * [SVM Detail](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Support%20Vector%20Machine%20Detail.md)
 * [SVM Soft Margin and Kernel Tricks (kernel function is used to measure the similarity of two input vectors, it is just the dot production of two transformed input vectors)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/SVM%20Soft%20Margin%20and%20Kernel%20Tricks.md)
 * [SVM for Regression](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/SVR.md)
