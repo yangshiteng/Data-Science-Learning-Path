@@ -73,7 +73,7 @@ Just like Ridge regression cost function, for lambda =0, the equation above redu
 
 ![image](https://user-images.githubusercontent.com/60442877/193370771-ac744a32-7927-41f8-9c51-8c93fe4f57a2.png)
 
-[Overall Significance Test of Regression Model](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/F-test%20(Overall%20Significance%20Test%20of%20Regression%20Model).md)
+# [Overall Significance Test of Regression Model](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/F-test%20(Overall%20Significance%20Test%20of%20Regression%20Model).md)
 
 ![image](https://user-images.githubusercontent.com/60442877/187084817-eff50189-5165-42d7-97bc-cee75fd522d0.png)
 
