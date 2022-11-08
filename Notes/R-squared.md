@@ -53,6 +53,8 @@
 
 The use of an adjusted R2 is an attempt to account for the phenomenon of the R-squared automatically increasing when extra independent variables are added to the model
 
+![image](https://user-images.githubusercontent.com/60442877/200466469-e0cb7aa2-cad5-4696-96ac-88e91deac06c.png)
+
 ![image](https://user-images.githubusercontent.com/60442877/188328794-df9f5ac6-7650-4757-a296-175ac16ffc31.png)
 
 
