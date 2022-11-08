@@ -40,6 +40,10 @@
 
 ![image](https://user-images.githubusercontent.com/60442877/188326937-6940646a-cbd0-4372-8e43-b0eacdcf8e7a.png)
 
+![image](https://user-images.githubusercontent.com/60442877/200467248-c885e597-40c4-4f12-baae-09f1cb8b77aa.png)
+
+![image](https://user-images.githubusercontent.com/60442877/200467286-932d53c0-6483-4138-8a2f-82b9fde8587a.png)
+
 # R-squared Interpretation
 
 1. Percentage of the variation that can be explained by the relationship between two variables
