@@ -121,6 +121,8 @@
 
 ## Novelty Detection (Semi-Supervised Anomaly Detection)
 
+# 6. Imbalanced Data
+
 
 
 
