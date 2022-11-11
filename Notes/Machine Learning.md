@@ -32,7 +32,7 @@
 
 * [Anomaly Detection: Outlier Detection and Novelty Detection](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Anomaly%20Detection:%20Outlier%20Detection%20and%20Novelty%20Detection.md)
 
-* [Bootstrapping]()
+* [Bootstrapping](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Bootstrapping.md)
 
 # 2. Machine Learning Models (Classification and Regression)
 
