@@ -47,6 +47,7 @@
 
 ## 2.2 Logistic Regression
 * [Logistic Regression](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/06%20-%20Logistic%20Regression.md)
+  * [Logistic Regression StatQuest Video 1](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/logistic%20regression%20statquest.pdf)
 * [Introduction to Logistic Regression](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Introduction%20to%20logistic%20regression.md)
 
 ## 2.3 Naive Bayes
