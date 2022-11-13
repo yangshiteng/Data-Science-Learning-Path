@@ -1,4 +1,4 @@
-# 1. Basic Concept
+# 1. Basic Concepts
 
 ## 1.1 Fundamental Concepts in Statistics
 
