@@ -49,6 +49,7 @@
 * [Logistic Regression](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/06%20-%20Logistic%20Regression.md)
   * [Logistic Regression StatQuest Video 1](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/logistic%20regression%20statquest.pdf)
   * [Logistic Regression: Likelihood-based R-squared and P-value](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Logistic%20Regression%20-%20Lilkelihood%20based%20Rsquared%20and%20Pvalue.pdf)
+  * [Logistic Regression: Saturated Model, Null Deviance and Residual Deviance](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Saturated%20Model.pdf)
 * [Introduction to Logistic Regression](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Introduction%20to%20logistic%20regression.md)
 
 ## 2.3 Naive Bayes
