@@ -126,6 +126,10 @@
 
 # 6. Imbalanced Data
 
+# 7. Data Preprocessing
+
+## 7.1 One-hot Encoding
+
 
 
 
