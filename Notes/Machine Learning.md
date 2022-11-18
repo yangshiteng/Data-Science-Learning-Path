@@ -44,6 +44,7 @@
 * [Simple Linear Regression](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/simple%20linear%20regression.md)
 * [F test](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Ftestforlinearregression.md)
   * [Two sample t-test and ANOVA with Linear Model Method](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/t-test%20and%20ANOVA%20with%20linear%20model%20method.pdf)
+* [Regularization]
 
 ## 2.2 Logistic Regression
 * [Logistic Regression](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/06%20-%20Logistic%20Regression.md)
