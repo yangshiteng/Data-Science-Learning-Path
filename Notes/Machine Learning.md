@@ -24,8 +24,6 @@
 
 * [Assessing Model Performance](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/08%20-%20Assessing%20Model%20Performance.md)
 
-* [Preventing Overfitting with Regularization](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/09%20-%20Preventing%20Overfitting%20with%20Regularization.md)
-
 * [Missing Data](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/missing%20data.pdf)
 
 * [Multi-class Classification](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/muticlass%20classification.md)
@@ -44,7 +42,7 @@
 * [Simple Linear Regression](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/simple%20linear%20regression.md)
 * [F test](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Ftestforlinearregression.md)
   * [Two sample t-test and ANOVA with Linear Model Method](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/t-test%20and%20ANOVA%20with%20linear%20model%20method.pdf)
-* [Regularization]
+* [Regularization](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/09%20-%20Preventing%20Overfitting%20with%20Regularization.md)
 
 ## 2.2 Logistic Regression
 * [Logistic Regression](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/06%20-%20Logistic%20Regression.md)
