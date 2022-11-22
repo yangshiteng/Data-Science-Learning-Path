@@ -115,7 +115,7 @@
 
 ## 4.1 Principal Component Analysis (PCA)
 * [Principal Component Analysis (PCA) (Singular Value Decomposition)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/statquest_pca_study_guide_v2.pdf)
-* [Principal Component Analysis (PCA) (Blog)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/14.2%20-%20Principal%20Component%20Analysis%20(PCA)%20(Blog).md)
+* [Principal Component Analysis (PCA) (Eigen Decomposition of Covariance Matrix)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/14.2%20-%20Principal%20Component%20Analysis%20(PCA)%20(Blog).md)
 * [PCA summary](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/PCA%20summary.md)
 
 # 5. Anomaly Detection (Outlier and Novelty Detection)
