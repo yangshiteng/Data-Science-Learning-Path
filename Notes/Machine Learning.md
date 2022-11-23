@@ -20,7 +20,7 @@
 
 * [Gradient Descent, (MiniBatch) Stochastic Gradient Descent, and How to avoid local optimum (StatQuest)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/05%20-%20Gradient%20Descent.md)
 
-* [Hyperparameter Tuning](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Hyperparameter%20Tuning.md)
+* [Hyperparameter Tuning (Cross Validation)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Hyperparameter%20Tuning.md)
 
 * [Assessing Model Performance](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/08%20-%20Assessing%20Model%20Performance.md)
 
