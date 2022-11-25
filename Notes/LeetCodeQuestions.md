@@ -7,3 +7,5 @@
 [3. Longest Common Prefix (find the longest common prefix string amongst an array of strings)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Leetcode_folder/longestcommonprefix.md)
 
 [4. Valid Parentheses](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Leetcode_folder/validparentheses.md)
+
+[5. Plus one](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Leetcode_folder/plusone.md)
