@@ -1,5 +1,6 @@
 # Python
-  * [Common Knowledge](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/PythonCommonKnowledge.md)
+  * [Data Type](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/PythonCommonKnowledge.md)
+  * [Variable]()
   * [String]()
 
 
