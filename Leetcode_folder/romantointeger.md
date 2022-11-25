@@ -2,7 +2,7 @@
 
 ![image](https://user-images.githubusercontent.com/60442877/203884426-e24e8ac9-cb26-4a24-8f31-8e0503094cb6.png)
 
-# Solution:
+# Solution 1:
 
     class Solution:
         def romanToInt(self, s):
@@ -33,3 +33,24 @@
                 result = result + dict1[i]
 
             return result
+            
+# Solution 2:
+
+        class Solution:
+            def romanToInt(self, s):
+                translations = {
+                    "I": 1,
+                    "V": 5,
+                    "X": 10,
+                    "L": 50,
+                    "C": 100,
+                    "D": 500,
+                    "M": 1000
+                }
+                number = 0
+                s = s.replace("IV", "IIII").replace("IX", "VIIII")
+                s = s.replace("XL", "XXXX").replace("XC", "LXXXX")
+                s = s.replace("CD", "CCCC").replace("CM", "DCCCC")
+                for char in s:
+                    number += translations[char]
+                return number
