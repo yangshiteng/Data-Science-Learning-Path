@@ -1,5 +1,5 @@
 # Python
-  * [Python Terminal (cmd)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/pythonterminal.md)
+  * [Python Terminal (cmd) in Windows](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/pythonterminal.md)
   * [Pandas](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/pandas.md)
 
 # Python Practice
