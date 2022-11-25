@@ -1,4 +1,5 @@
 # Python
+  * [Python Common Knowledge]()
   * [Python Terminal (cmd) in Windows](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/pythonterminal.md)
   * [Pandas](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/pandas.md)
 
