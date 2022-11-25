@@ -24,8 +24,6 @@
 
 * [Assessing Model Performance](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/08%20-%20Assessing%20Model%20Performance.md)
 
-* [Missing Data](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/missing%20data.pdf)
-
 * [Multi-class Classification](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/muticlass%20classification.md)
 
 * [Anomaly Detection: Outlier Detection and Novelty Detection](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Anomaly%20Detection:%20Outlier%20Detection%20and%20Novelty%20Detection.md)
@@ -130,6 +128,9 @@
 
 ## 7.1 One-hot Encoding
 
+## 7.2 Missing Data
+
+* [Missing Data](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/missing%20data.pdf)
 
 
 
