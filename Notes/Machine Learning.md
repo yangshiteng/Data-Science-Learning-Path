@@ -68,35 +68,32 @@
 * [SVM for Anomaly Detection - Novelty Detection (One Class SVM)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/OneClassSVM.md)
   * [Python Code for one class SVM](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/06_One_Class_Support_Vector_Machine_(SVM)_For_Anomaly_Detection.ipynb)
 
-## 2.6 Neural Networks
-* [Neural Networks (StatQuest)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/12%20-%20Neural%20Networks.md)
-
-## 2.7 Decision Tree
+## 2.6 Decision Tree
 * [Classification and Regression Trees (CART)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/10%20-%20Classification%20and%20Regression%20Trees.md)
 * [Decision Tree Introduction](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Decision%20Tree%20Introduction.md)
 * [Tree Pruning (the Alpha is selected by Hyperparameter Tuning Techinque)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Pruning%20the%20tree%20model.md)
 
-## 2.8 Ensemble Learning (Bagging and Boosting)
+## 2.7 Ensemble Learning (Bagging and Boosting)
 
 * [Ensemble Learning: Bagging vs Boosting](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Bagging%20vs%20Boosting.md)
   * [Ensemble Learning](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Ensemble%20Learning.md)
   * [Bagging (Bootstrap Aggregatting)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Bagging.md)
   * [Boosting](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Boosting.md)
 
-### 2.8.1 Random Forest (Bagging)
+### 2.7.1 Random Forest (Bagging)
 * [Random Forest (Bagging)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/RandomForest.pdf)
 * [Random Forest: Missing Data and Clustering (Proximity Matrix)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/TreemodelMissingdata.pdf)
 
-### 2.8.2 Adaptive Boosting (AdaBoost) (Boosting)
+### 2.7.2 Adaptive Boosting (AdaBoost) (Boosting)
 * [AdaBoost (Boosting Algorithm Only for Classification)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/AdaBoost.pdf)
 * [AdaBoost Summary](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/AdaBoost%20Summary.md)
 
-### 2.8.3 Gradient Boost (Boosting) (Additive Model)
+### 2.7.3 Gradient Boost (Boosting) (Additive Model)
 * [Gradient Boost Summary(Boosting Algorithm for Classification and Regression)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Gradient%20Boost%20Summary.md)
 * [Gradient Boost For Regression](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Gradient%20Boost%20for%20Regression.pdf)
 * [Gradient Boost for Classification](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Gradient%20Boost%20For%20Classification.pdf)
 
-### 2.8.4 XGBoost (Boosting)
+### 2.7.4 XGBoost (Boosting)
 * [XGBoost (Boosting Algorithm for Classification and Regression)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/XGBoost%20(Boosting%20Algorithm%20for%20Classification%20and%20Regression).md)
 * [XGBoost for Regression](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/XGBoost%20for%20Regression.pdf)
 * [XGBoost for Classification](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/XGBoost%20for%20Classification.pdf)
