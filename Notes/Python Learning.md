@@ -1,6 +1,6 @@
 # Python
   * [Common Knowledge](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/PythonCommonKnowledge.md)
-  * [String, List]
+  * [String]()
 
 
 # Python Packages
