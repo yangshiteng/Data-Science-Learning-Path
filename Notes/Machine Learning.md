@@ -40,7 +40,7 @@
 * [Simple Linear Regression](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/simple%20linear%20regression.md)
 * [F test](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Ftestforlinearregression.md)
   * [Two sample t-test and ANOVA with Linear Model Method](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/t-test%20and%20ANOVA%20with%20linear%20model%20method.pdf)
-* [Regularization](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/09%20-%20Preventing%20Overfitting%20with%20Regularization.md)
+* [Regularization (LASSO and Ridge Regression)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/09%20-%20Preventing%20Overfitting%20with%20Regularization.md)
   * [Elastic Net Regression](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Elastic%20Net%20Regression.pdf)
 
 ## 2.2 Logistic Regression
