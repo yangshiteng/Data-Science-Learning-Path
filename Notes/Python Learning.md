@@ -1,6 +1,10 @@
 # Python
-  * [Python Common Knowledge](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/PythonCommonKnowledge.md)
-  * [Python Terminal (cmd) in Windows](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/pythonterminal.md)
+  * [Common Knowledge](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/PythonCommonKnowledge.md)
+  * [String, List]
+  * [Terminal (cmd) in Windows](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/pythonterminal.md)
+
+
+# Python Packages
   * [Pandas](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/pandas.md)
 
 # Python Practice
