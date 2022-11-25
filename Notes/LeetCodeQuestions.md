@@ -1,1 +1,1 @@
-[1. Two sum (Given an array of integers and an integer target, return indices of the two numbers such that they add up to target)]()
+[1. Two sum (Given an array of integers and an integer target, return indices of the two numbers such that they add up to target)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Leetcode_folder/twosum.md)
