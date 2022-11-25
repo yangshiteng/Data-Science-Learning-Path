@@ -1,2 +1,4 @@
-* [Pandas](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/pandas.md)
+# Python
+  * [Python Terminal (cmd)]()
+  * [Pandas](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/pandas.md)
 * [LeetCode](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/LeetCodeQuestions.md)
