@@ -1,4 +1,4 @@
-# Python Data Type
+# Data Type
 
 ![image](https://user-images.githubusercontent.com/60442877/204052149-088aba50-ffc7-49a5-a453-b3a6c194ef93.png)
 
