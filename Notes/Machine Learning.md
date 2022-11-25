@@ -122,17 +122,15 @@
 
 ## Novelty Detection (Semi-Supervised Anomaly Detection)
 
-# 6. Imbalanced Data
+# 6. Data Preprocessing
 
-# 7. Data Preprocessing
+## 6.1 One-hot Encoding
 
-## 7.1 One-hot Encoding
-
-## 7.2 Missing Data
+## 6.2 Missing Data
 
 * [Missing Data](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/missing%20data.pdf)
 
-
+## 6.3 Imbalanced Data
 
 
 
