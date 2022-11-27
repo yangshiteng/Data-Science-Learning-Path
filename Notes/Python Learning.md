@@ -1,6 +1,7 @@
 # Python
   * [Python Data Type](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/PythonCommonKnowledge.md)
   * [Python Variable](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/Variable.md)
+  * [Python Slicing]()
   * [Python String](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/string.md)
 
 
