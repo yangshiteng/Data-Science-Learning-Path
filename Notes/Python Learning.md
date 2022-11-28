@@ -1,8 +1,8 @@
 # Python
-  * [Python Data Type](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/PythonCommonKnowledge.md)
-  * [Python Variable](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/Variable.md)
-  * [Python Slicing](https://github.com/yangshiteng/StatQuest-Study-Notes/edit/main/python/pythonslicing.md)
-  * [Python String](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/string.md)
+  * [Python - Data Type](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/PythonCommonKnowledge.md)
+  * [Python - Variable](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/Variable.md)
+  * [Python - Slicing](https://github.com/yangshiteng/StatQuest-Study-Notes/edit/main/python/pythonslicing.md)
+  * [Python - String](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/string.md)
 
 
 # Python Packages
