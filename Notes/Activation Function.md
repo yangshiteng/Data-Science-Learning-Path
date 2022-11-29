@@ -72,6 +72,8 @@
 
 ![image](https://user-images.githubusercontent.com/60442877/204424759-712e3b4c-2468-48a2-b6f8-d2de4af85721.png)
 
+## Softmax Function
+
 ![image](https://user-images.githubusercontent.com/60442877/204425213-c6a7f3c5-ef82-4ab6-8ce3-e43fb93bbda4.png)
 
 ![image](https://user-images.githubusercontent.com/60442877/204425235-1a80bfdb-48a9-4474-9178-41ac873c4c5f.png)
