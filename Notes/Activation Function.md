@@ -1,3 +1,5 @@
+# What is a Neural Network Activation Function?
+
 ![image](https://user-images.githubusercontent.com/60442877/204421019-90ddd2c3-45bd-4200-a1a4-27f2b7a1504d.png)
 
 ![image](https://user-images.githubusercontent.com/60442877/204421497-7fc73a79-96b0-41dc-a4b4-5ce8a05ab87b.png)
