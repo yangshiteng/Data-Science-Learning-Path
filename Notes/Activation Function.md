@@ -66,6 +66,8 @@
 
 ![image](https://user-images.githubusercontent.com/60442877/204424540-5ba06640-961e-4191-a2ae-bd95dd17e732.png)
 
+## Parametric ReLU Function
+
 ![image](https://user-images.githubusercontent.com/60442877/204424682-cb809b2e-d320-40c8-8927-edab32d2ddbc.png)
 
 ![image](https://user-images.githubusercontent.com/60442877/204424759-712e3b4c-2468-48a2-b6f8-d2de4af85721.png)
