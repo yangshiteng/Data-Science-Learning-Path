@@ -22,6 +22,8 @@
 
 ![image](https://user-images.githubusercontent.com/60442877/204422992-a0193cf4-293e-48ca-a610-2bd5e80257bc.png)
 
+# Non-Linear Activation Functions
+
 ![image](https://user-images.githubusercontent.com/60442877/204423114-e39b1af0-b9b1-4094-8244-6f9332d45bd4.png)
 
 ![image](https://user-images.githubusercontent.com/60442877/204423198-d3472e3c-80dd-4237-bca6-fd6fc0c6d21b.png)
