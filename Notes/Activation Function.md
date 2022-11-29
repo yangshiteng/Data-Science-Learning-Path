@@ -6,6 +6,8 @@
 
 ![image](https://user-images.githubusercontent.com/60442877/204421765-82f101f1-f352-4bf1-b1a4-4755d314eeda.png)
 
+# Why do Neural Networks Need an Activation Function?
+
 ![image](https://user-images.githubusercontent.com/60442877/204421920-ca0ea5ba-c756-4988-b38d-f4d4620afa71.png)
 
 ![image](https://user-images.githubusercontent.com/60442877/204422025-ff5357fa-e1c1-4342-8c21-01934216c423.png)
