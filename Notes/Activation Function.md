@@ -46,6 +46,8 @@
 
 ![image](https://user-images.githubusercontent.com/60442877/204423595-459e36c7-b52d-4ede-8ce1-7b9069689aa6.png)
 
+## ReLU Function
+
 ![image](https://user-images.githubusercontent.com/60442877/204423661-058209ef-5bcc-4579-976f-5e0ff14b974a.png)
 
 ![image](https://user-images.githubusercontent.com/60442877/204423695-bed77fa6-e829-4d7d-bb95-019787539115.png)
