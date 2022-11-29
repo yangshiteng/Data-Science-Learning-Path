@@ -56,6 +56,8 @@
 
 ![image](https://user-images.githubusercontent.com/60442877/204423860-083af87b-7f86-4a9b-860d-8c3c7f1ba6c7.png)
 
+## Leaky ReLU Function
+
 ![image](https://user-images.githubusercontent.com/60442877/204423981-c7c8c83f-8fe0-4ed4-96e1-8d3278fc6c04.png)
 
 ![image](https://user-images.githubusercontent.com/60442877/204424023-6d895a95-0833-47af-b66d-d2a92b5b9570.png)
