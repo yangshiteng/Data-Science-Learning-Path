@@ -28,11 +28,15 @@
 
 # Non-Linear Activation Functions
 
+## Sigmoid / Logistic Activation Function 
+
 ![image](https://user-images.githubusercontent.com/60442877/204423114-e39b1af0-b9b1-4094-8244-6f9332d45bd4.png)
 
 ![image](https://user-images.githubusercontent.com/60442877/204423198-d3472e3c-80dd-4237-bca6-fd6fc0c6d21b.png)
 
 ![image](https://user-images.githubusercontent.com/60442877/204423263-a890ff55-313a-4fe4-bff8-58210d6ace30.png)
+
+## Tanh Function
 
 ![image](https://user-images.githubusercontent.com/60442877/204423383-5d22fecf-901a-4d7c-8be6-fc7461c8c8c1.png)
 
