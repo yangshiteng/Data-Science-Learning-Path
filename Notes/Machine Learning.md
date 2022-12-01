@@ -78,7 +78,7 @@
 * [Ensemble Learning: Bagging vs Boosting](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Bagging%20vs%20Boosting.md)
   * [Ensemble Learning](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Ensemble%20Learning.md)
   * [Bagging (Bootstrap Aggregatting)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Bagging.md)
-  * [Boosting](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Boosting.md)
+  * [Boosting (2 types)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Boosting.md)
 
 ### 2.7.1 Random Forest (Ensemble Leanring - Bagging)
 * [Random Forest (Bagging)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/RandomForest.pdf)
@@ -93,7 +93,7 @@
 * [Gradient Boost For Regression](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Gradient%20Boost%20for%20Regression.pdf)
 * [Gradient Boost for Classification](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Gradient%20Boost%20For%20Classification.pdf)
 
-### 2.7.4 XGBoost (Boosting)
+### 2.7.4 XGBoost (Ensemble Leanring - Boosting)(an implementation of Gradient Boosting designed for computational speed)
 * [XGBoost (Boosting Algorithm for Classification and Regression)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/XGBoost%20(Boosting%20Algorithm%20for%20Classification%20and%20Regression).md)
 * [XGBoost for Regression](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/XGBoost%20for%20Regression.pdf)
 * [XGBoost for Classification](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/XGBoost%20for%20Classification.pdf)
