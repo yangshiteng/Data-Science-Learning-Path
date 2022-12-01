@@ -86,7 +86,7 @@
 * [Random Forest (Bagging)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/RandomForest.pdf)
 * [Random Forest: Missing Data and Clustering (Proximity Matrix)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/TreemodelMissingdata.pdf)
 
-### 2.7.2 AdaBoost (Adaptive Boosting) (Ensemble Leanring - Boosting) (model tranining based on reassigning sample weights )
+### 2.7.2 AdaBoost (Ensemble Leanring - Boosting) (model tranining based on reassigning sample weights )
 * [AdaBoost (Boosting Algorithm Only for Classification)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/AdaBoost.pdf)
 * [AdaBoost Summary](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/AdaBoost%20Summary.md)
 
