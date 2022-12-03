@@ -2,5 +2,5 @@
 # [2. Select](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/SQL/select.md)
   * [Count, Avg and Sum](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/SQL/Count%2C%20Avg%20and%20Sum.md)
 # [3. Where](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/SQL/where.md)
-  * [And, Or, Not]()
+  * [And, Or, Not](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/SQL/And%2C%20Or%2C%20Not.md)
 # [Join](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/SQL_join.md)
