@@ -13,5 +13,5 @@
 
 # Table Edit
 
-## [1. Insert Into (which table)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/SQL/Insert_into.md)
+## [1. Insert Into(which table)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/SQL/Insert_into.md)
 ## [2. Update(which table) Set(which column) Where(which rows)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/SQL/update.md)
