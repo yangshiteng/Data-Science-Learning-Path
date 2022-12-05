@@ -1,4 +1,5 @@
-# [Introduction](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/SQL/Introduction.md)
+# SQL Introduction
+## [Introduction](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/SQL/Introduction.md)
 # Table Query
 ## [1. Select](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/SQL/select.md)
   * [Count, Avg and Sum](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/SQL/Count%2C%20Avg%20and%20Sum.md)
