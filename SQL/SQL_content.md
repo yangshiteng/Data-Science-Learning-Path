@@ -13,4 +13,4 @@
 
 # Table Edit
 
-## [1. Insert Into](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/SQL/Insert_into.md)
+## [1. Insert Into (Which Table)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/SQL/Insert_into.md)
