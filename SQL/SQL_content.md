@@ -4,7 +4,7 @@
 # Table Query
 
 ## [1. Select (which column)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/SQL/select.md)
-  * [Select Top]()
+  * [Select Top](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/SQL/SelectTop.md)
   * [Count, Avg and Sum](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/SQL/Count%2C%20Avg%20and%20Sum.md)
 ## [2. From (which table)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/SQL_join.md)
 ## [3. Where (which rows)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/SQL/where.md)
