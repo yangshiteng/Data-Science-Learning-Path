@@ -4,11 +4,15 @@
 # Table Query
 
 ## [1. Select (which column)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/SQL/select.md)
+  * [Select \*]()
+  * [Select Distinct]()
   * [Select Top](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/SQL/SelectTop.md)
   * [Min() and Max()](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/SQL/minandmax.md)
   * [Count, Avg and Sum](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/SQL/Count%2C%20Avg%20and%20Sum.md)
   * [Create a new column by combining columns](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/SQL/ColumnCombine.md)
 ## [2. From (which table) (Join)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/SQL_join.md)
+  * [Inner Join, Left Join, Right Join, Full Join]()
+  * [Self Join, Cross Join]()
 ## [3. Where (which rows)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/SQL/where.md)
   * [And, Or, Not](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/SQL/And%2C%20Or%2C%20Not.md)
   * [Is Null, Is Not Null](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/SQL/Nullvalue.md)
