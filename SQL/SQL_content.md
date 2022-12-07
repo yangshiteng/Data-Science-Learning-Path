@@ -13,7 +13,7 @@
   * [Is Null, Is Not Null](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/SQL/Nullvalue.md)
   * [Like](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/SQL/likeoperator.md)
   * [In, Not In](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/SQL/In_operator.md)
-  * [Between]()
+  * [Between, Not Between](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/SQL/Between.md)
 ## [4. Order By (which column)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/SQL/Order_by.md)
 
 # Table Edit
