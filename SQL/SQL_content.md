@@ -11,7 +11,8 @@
 ## [3. Where (which rows)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/SQL/where.md)
   * [And, Or, Not](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/SQL/And%2C%20Or%2C%20Not.md)
   * [Is Null, Is Not Null](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/SQL/Nullvalue.md)
-  * [Like Operator](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/SQL/likeoperator.md)
+  * [Like](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/SQL/likeoperator.md)
+  * [In]()
 ## [4. Order By (which column)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/SQL/Order_by.md)
 
 # Table Edit
