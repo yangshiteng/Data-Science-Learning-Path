@@ -1,4 +1,6 @@
-# Left Join
+![image](https://user-images.githubusercontent.com/60442877/206078697-0a9ce00e-d215-49b5-abf1-c08dc23ad625.png)
+
+
 
 
 
