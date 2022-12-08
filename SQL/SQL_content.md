@@ -5,7 +5,7 @@
 
 ## [1. Select (which column)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/SQL/select.md)
   * [Select \*](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/SQL/SelectALL.md)
-  * [Select Distinct]()
+  * [Select Distinct](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/SQL/SelectDistinct.md)
   * [Select Top](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/SQL/SelectTop.md)
   * [Min() and Max()](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/SQL/minandmax.md)
   * [Count, Avg and Sum](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/SQL/Count%2C%20Avg%20and%20Sum.md)
