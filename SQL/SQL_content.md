@@ -4,7 +4,7 @@
 # Table Query
 
 ## [1. Select (which column)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/SQL/select.md)
-  * [Select \*]()
+  * [Select \*](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/SQL/SelectALL.md)
   * [Select Distinct]()
   * [Select Top](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/SQL/SelectTop.md)
   * [Min() and Max()](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/SQL/minandmax.md)
