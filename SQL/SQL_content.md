@@ -3,7 +3,7 @@
 
 # Table Query
 
-## [1. Select (which column)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/SQL/select.md)
+## 1. Select (which column)
   * [Select \*](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/SQL/SelectALL.md)
   * [Select Distinct](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/SQL/SelectDistinct.md)
   * [Select Top](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/SQL/SelectTop.md)
