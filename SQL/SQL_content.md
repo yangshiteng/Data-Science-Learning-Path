@@ -9,7 +9,7 @@
   * [Select Top](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/SQL/SelectTop.md)
   * [Min() and Max()](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/SQL/minandmax.md)
   * [Count, Avg and Sum](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/SQL/Count%2C%20Avg%20and%20Sum.md)
-  * [Alias]()
+  * [Alias](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/SQL/Alias.md)
   * [Create a new column by combining columns](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/SQL/ColumnCombine.md)
 ## [2. From (which table) (Join)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/SQL_join.md)
   * [Inner Join, Left Join, Right Join, Full Join]()
