@@ -15,7 +15,6 @@
   * [Inner Join, Left Join, Right Join, Full Join](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/SQL_join.md)
   * [Self Join, Cross Join](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/SQL/self%20join.md)
 ## 3. Where (which rows) (can not be used with aggregate function)
-  * [Where clause](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/SQL/where.md)
   * [And, Or, Not](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/SQL/And%2C%20Or%2C%20Not.md)
   * [Is Null, Is Not Null](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/SQL/Nullvalue.md)
   * [Like](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/SQL/likeoperator.md)
