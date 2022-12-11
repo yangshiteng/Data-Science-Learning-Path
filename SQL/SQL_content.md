@@ -23,7 +23,7 @@
   * [Between, Not Between](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/SQL/Between.md)
 ## 4. Group by (which column)
   * [Group by clause](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/SQL/Groupby.md)
-## 5. Having (which aggregate function)
+## 5. Having (which condition with which aggregate function)
   * [Having clause]()
 ## 6. Order By (which column)
   * [Order By clause](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/SQL/Order_by.md)
