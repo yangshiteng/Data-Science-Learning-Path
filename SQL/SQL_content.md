@@ -25,7 +25,7 @@
   * [Order By clause](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/SQL/Order_by.md)
 
 ## 5. Union
-  * [Union, Union All]()
+  * [Union, Union All](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/SQL/Union.md)
 
 # Table Edit
 
