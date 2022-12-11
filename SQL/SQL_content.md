@@ -14,7 +14,7 @@
 ## 2. From (which table) 
   * [Inner Join, Left Join, Right Join, Full Join](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/SQL_join.md)
   * [Self Join, Cross Join](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/SQL/self%20join.md)
-## 3. Where (which rows)
+## 3. Where (which rows) (can not be used with aggregate function)
   * [Where clause](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/SQL/where.md)
   * [And, Or, Not](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/SQL/And%2C%20Or%2C%20Not.md)
   * [Is Null, Is Not Null](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/SQL/Nullvalue.md)
@@ -23,9 +23,11 @@
   * [Between, Not Between](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/SQL/Between.md)
 ## 4. Group by (which column)
   * [Group by clause](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/SQL/Groupby.md)
-## 5. Order By (which column)
+## 5. Having (which aggregate function)
+  * [Having clause]()
+## 6. Order By (which column)
   * [Order By clause](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/SQL/Order_by.md)
-## 6. Union
+## 7. Union
   * [Union, Union All](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/SQL/Union.md)
 
 # Table Edit
