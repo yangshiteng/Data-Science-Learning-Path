@@ -22,11 +22,10 @@
   * [In, Not In](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/SQL/In_operator.md)
   * [Between, Not Between](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/SQL/Between.md)
 ## 4. Group by (which column)
-  * [Group by clause]()
-## 4. Order By (which column)
+  * [Group by clause](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/SQL/Groupby.md)
+## 5. Order By (which column)
   * [Order By clause](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/SQL/Order_by.md)
-
-## 5. Union
+## 6. Union
   * [Union, Union All](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/SQL/Union.md)
 
 # Table Edit
