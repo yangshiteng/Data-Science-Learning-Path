@@ -43,7 +43,7 @@
 
 # LeetCode Questions and Answers
 
-## 1. Left Join and simplified join keyword
+## Left Join and simplified join keyword
 
 ![image](https://user-images.githubusercontent.com/60442877/205422907-9fe5bde5-a90c-496a-9a7e-aaf7faca4264.png)
 
