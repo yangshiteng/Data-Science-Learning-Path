@@ -24,7 +24,7 @@
 ## 4. Group by (which column)
   * [Group by clause](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/SQL/Groupby.md)
 ## 5. Having (which condition with which aggregate function)
-  * [Having clause]()
+  * [Having clause](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/SQL/Having.md)
 ## 6. Order By (which column)
   * [Order By clause](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/SQL/Order_by.md)
 ## 7. Union
