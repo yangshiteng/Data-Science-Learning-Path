@@ -24,6 +24,9 @@
 ## 4. Order By (which column)
   * [Order By clause](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/SQL/Order_by.md)
 
+## 5. Union
+  * [Union, Union All]()
+
 # Table Edit
 
 ## [1. Insert Into (which table, which column) Values (which value)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/SQL/Insert_into.md)
