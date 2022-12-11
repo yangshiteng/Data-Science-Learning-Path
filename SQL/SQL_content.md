@@ -21,7 +21,7 @@
   * [Like](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/SQL/likeoperator.md)
   * [In, Not In](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/SQL/In_operator.md)
   * [Between, Not Between](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/SQL/Between.md)
-  * [Exists (test for the existence of any record in a subquery)]()
+  * [Exists (test for the existence of any record in a subquery)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/SQL/Exists.md)
 ## 4. Group by (which column)
   * [Group by clause](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/SQL/Groupby.md)
 ## 5. Having (which condition with which aggregate function)
