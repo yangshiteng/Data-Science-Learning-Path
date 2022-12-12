@@ -37,3 +37,4 @@
 ## [2. Update (which table) Set (which column = which value) Where (which rows)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/SQL/update.md)
 ## [3. Delete From (which table) Where (which rows)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/SQL/Delete.md)
 ## [4. Select (which column) Into (which new table (In which database) ) From (which old table) Where (which rows)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/SQL/SelectInto.md)
+## [5. Insert Into (which target table) Select (which column) From (which source table) Where (which rows)]()
