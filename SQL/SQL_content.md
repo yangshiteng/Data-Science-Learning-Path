@@ -11,6 +11,7 @@
   * [Count, Avg and Sum](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/SQL/Count%2C%20Avg%20and%20Sum.md)
   * [Alias](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/SQL/Alias.md)
   * [Create a new column by combining columns](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/SQL/ColumnCombine.md)
+  * [Create a new column by Case When Then Else End]()
 ## 2. From (which table) 
   * [Inner Join, Left Join, Right Join, Full Join](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/SQL_join.md)
   * [Self Join, Cross Join](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/SQL/self%20join.md)
