@@ -15,6 +15,7 @@
   * [Create a new column by combining columns](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/SQL/ColumnCombine.md)
   * [Create a new column by Case When Then Else End](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/SQL/CaseWhenThenElseEnd.md)
   * [Create a new column by Null Functions (IFNULL, ISNULL, COALESCE) ](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/SQL/NullFunctions.md)
+  * [Create a new column by SQL Arithmetic Operators]()
 ## 2. From (which table) 
   * [Inner Join, Left Join, Right Join, Full Join](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/SQL_join.md)
   * [Self Join, Cross Join](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/SQL/self%20join.md)
