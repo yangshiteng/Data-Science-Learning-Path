@@ -1,5 +1,6 @@
-# SQL Introduction
-## [Introduction](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/SQL/Introduction.md)
+# SQL Common Knowledge
+* [1. Introduction](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/SQL/Introduction.md)
+* [2. Alias](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/SQL/Alias.md)
 
 # SQL Query
 
@@ -9,7 +10,6 @@
   * [Select Top](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/SQL/SelectTop.md)
   * [Min() and Max()](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/SQL/minandmax.md)
   * [Count, Avg and Sum](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/SQL/Count%2C%20Avg%20and%20Sum.md)
-  * [Alias](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/SQL/Alias.md)
   * [Create a new column by combining columns](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/SQL/ColumnCombine.md)
   * [Create a new column by Case When Then Else End](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/SQL/CaseWhenThenElseEnd.md)
   * [Create a new column by Null Functions (IFNULL, ISNULL, COALESCE) ](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/SQL/NullFunctions.md)
