@@ -1,7 +1,7 @@
 # SQL Introduction
 ## [Introduction](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/SQL/Introduction.md)
 
-# Table Query
+# SQL Query
 
 ## 1. Select (which column)
   * [Select \*](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/SQL/SelectALL.md)
