@@ -1,7 +1,7 @@
 # SQL Common Knowledge
 * [1. Introduction](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/SQL/Introduction.md)
 * [2. Alias](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/SQL/Alias.md)
-* [3. SQL Stored Procedures for SQL Server]()
+* [3. SQL Stored Procedures for SQL Server](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/SQL/SQL%20Stored%20Procedures%20for%20SQL%20Server.md)
 
 # SQL Query
 
