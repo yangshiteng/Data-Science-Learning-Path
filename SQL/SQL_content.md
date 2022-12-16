@@ -48,3 +48,4 @@
 # DataBase Management
 
 ## [1. Create, Drop, Backup Database](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/SQL/CreateDB.md)
+## [2. Create Table]()
