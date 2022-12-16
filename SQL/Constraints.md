@@ -64,7 +64,6 @@
 
 ![image](https://user-images.githubusercontent.com/60442877/208020373-6461092c-74b6-4503-9b00-6d3049480095.png)
 
-![image](https://user-images.githubusercontent.com/60442877/208020383-c8ff764a-6164-4456-bf84-abdfa544f9b5.png)
 
 
 
