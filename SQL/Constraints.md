@@ -44,6 +44,35 @@
 
 ![image](https://user-images.githubusercontent.com/60442877/208017925-30b0de40-e2ff-4f2b-93c8-6313ae20338d.png)
 
+# Check Constraint
+
+![image](https://user-images.githubusercontent.com/60442877/208019689-93cbc2ee-5ba7-413f-8f96-b6bb02320b13.png)
+
+![image](https://user-images.githubusercontent.com/60442877/208019753-cdd0a17d-7b3a-4024-bd64-396e9dcc30ee.png)
+
+![image](https://user-images.githubusercontent.com/60442877/208019770-bdc71a61-ee8c-4c28-aae9-98245ac5e7d6.png)
+
+![image](https://user-images.githubusercontent.com/60442877/208019790-3b6c1b17-6943-4b9c-bc04-fd9879c895b8.png)
+
+# Default Constraint
+
+![image](https://user-images.githubusercontent.com/60442877/208020251-1b418ce8-1ea6-4529-924b-553fac27463e.png)
+
+![image](https://user-images.githubusercontent.com/60442877/208020273-7a62514e-e3a5-423f-8e85-456194463f79.png)
+
+![image](https://user-images.githubusercontent.com/60442877/208020335-0e11ee20-6df3-4358-b1eb-46b04d165092.png)
+
+![image](https://user-images.githubusercontent.com/60442877/208020373-6461092c-74b6-4503-9b00-6d3049480095.png)
+
+![image](https://user-images.githubusercontent.com/60442877/208020383-c8ff764a-6164-4456-bf84-abdfa544f9b5.png)
+
+
+
+
+
+
+
+
 
 
 
