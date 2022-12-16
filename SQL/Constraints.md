@@ -64,12 +64,15 @@
 
 ![image](https://user-images.githubusercontent.com/60442877/208020373-6461092c-74b6-4503-9b00-6d3049480095.png)
 
+# Auto Increment
 
+![image](https://user-images.githubusercontent.com/60442877/208206147-8e87bd26-0852-4bbb-a78c-38457b4cc4bf.png)
 
+![image](https://user-images.githubusercontent.com/60442877/208206314-c26dbb16-3259-4555-ac54-dbd6c2bf42fc.png)
 
+![image](https://user-images.githubusercontent.com/60442877/208206550-fdd4dba1-d815-4396-a1f2-98c53b950d3c.png)
 
-
-
+![image](https://user-images.githubusercontent.com/60442877/208207596-57fbbb58-3906-4f29-b7b7-afb37c45859b.png)
 
 
 
