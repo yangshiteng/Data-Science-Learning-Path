@@ -6,7 +6,7 @@
 
 # Python Engineering
 
-* [if \_\_name__ == '\_\_main__']()
+* [if \_\_name__ == '\_\_main__'](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Python/ifnamemain.md)
 
 # Python Packages
   * [Pandas](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/pandas.md)
