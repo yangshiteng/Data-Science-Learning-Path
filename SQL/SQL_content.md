@@ -35,7 +35,7 @@
   * [Having clause](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/SQL/Having.md)
 ## 6. Order By (which column)
   * [Order By clause](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/SQL/Order_by.md)
-  * [Order by Case When Then Else End]()
+  * [Order by Case When Then Else End](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/SQL/Order%20by%20Case%20When%20Then%20Else%20End.md)
 ## 7. Union
   * [Union, Union All](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/SQL/Union.md)
 
