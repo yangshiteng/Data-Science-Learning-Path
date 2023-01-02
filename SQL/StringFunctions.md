@@ -61,7 +61,16 @@
 
 ![image](https://user-images.githubusercontent.com/60442877/210281974-1c46a3b2-b55e-4d3a-93e8-75c96c264fbe.png)
 
-# 8.
+# 8. Left-pad or Right-pad a string with another string, to a certain length
+
+## 8.1 Lpad()
+
+![image](https://user-images.githubusercontent.com/60442877/210283959-8c3c2cdc-873f-42d2-b70a-2ce945f9a94f.png)
+![image](https://user-images.githubusercontent.com/60442877/210283985-c555bcb5-61fe-4879-bf6c-dd46dd475765.png)
+
+## 8.2 Rpad()
+
+![image](https://user-images.githubusercontent.com/60442877/210283995-37d12d29-6b0d-46c0-9286-f53ae9bf4ee0.png)
 
 
 
