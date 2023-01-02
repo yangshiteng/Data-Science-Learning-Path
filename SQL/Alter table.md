@@ -36,5 +36,11 @@
 
 ![image](https://user-images.githubusercontent.com/60442877/210268613-effa3f44-d541-434e-8d8c-a4ef32dcd273.png)
 
+# Add or Drop a Default Constraint in an existing table
+
+![image](https://user-images.githubusercontent.com/60442877/210270864-d60ee59c-946e-42ed-ba1e-f8023f834587.png)
+![image](https://user-images.githubusercontent.com/60442877/210270876-325337fb-bab0-4823-bc52-03e38e3af435.png)
+
+
 
 
