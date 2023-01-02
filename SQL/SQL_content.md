@@ -57,7 +57,7 @@
   * [Alter Table](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/SQL/Alter%20table.md)
 ## 7. Create, Drop Index
   * [Create Index](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/SQL/Create%20Index.md)
-  * [Drop Index]()
+  * [Drop Index](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/SQL/Dropindex.md)
 ## 8. Constraint
   * [Constraints](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/SQL/Constraints.md)
 ## 9. View (Virtual Table)
