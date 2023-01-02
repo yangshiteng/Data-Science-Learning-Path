@@ -1,4 +1,4 @@
-# 1. Character_Length() or Char_Length()
+# 1. Character_Length() or Char_Length() or Length()
 
 ![image](https://user-images.githubusercontent.com/60442877/210280440-0c52a853-28e2-463d-bef4-ab3c8db93531.png)
 
@@ -22,3 +22,22 @@
 
 ![image](https://user-images.githubusercontent.com/60442877/210281711-8089215c-9ac0-419d-b606-8a70b90414f1.png)
 ![image](https://user-images.githubusercontent.com/60442877/210281725-d70a2daa-2426-4ac9-9eb4-8794ea8d0fe5.png)
+
+# 5. Lcase() or Lower()
+
+![image](https://user-images.githubusercontent.com/60442877/210281888-29244578-de93-450b-acf9-6b823de31281.png)
+![image](https://user-images.githubusercontent.com/60442877/210281899-1af81818-9132-4a02-b8f6-774c5feaf219.png)
+
+# 6. Left()
+
+![image](https://user-images.githubusercontent.com/60442877/210281933-99db15a2-7f29-45ff-acab-bbffba1696f5.png)
+![image](https://user-images.githubusercontent.com/60442877/210281952-b3a8d579-3cf3-4fd9-aee1-08bf945c87d1.png)
+
+# 7. Right()
+
+![image](https://user-images.githubusercontent.com/60442877/210281974-1c46a3b2-b55e-4d3a-93e8-75c96c264fbe.png)
+
+# 8.
+
+
+
