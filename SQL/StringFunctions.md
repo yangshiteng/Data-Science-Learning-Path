@@ -1,10 +1,16 @@
-# 1. Character_Length() or Char_Length() or Length()
+# 1. Return the length of a string
+
+## 1.1 Character_Length() or Char_Length()
 
 ![image](https://user-images.githubusercontent.com/60442877/210280440-0c52a853-28e2-463d-bef4-ab3c8db93531.png)
 
 ![image](https://user-images.githubusercontent.com/60442877/210280477-d84469a7-93a9-40bc-b325-e0e04f830f97.png)
 
 ![image](https://user-images.githubusercontent.com/60442877/210280458-a923009f-045f-4a99-b43a-43e9ab2f4a40.png)
+
+## 1.2 Length()
+
+![image](https://user-images.githubusercontent.com/60442877/210282301-9e3fff5a-19b8-406d-b8bb-16249a8718bf.png)
 
 # 2. Concat() or Concat_WS()
 
