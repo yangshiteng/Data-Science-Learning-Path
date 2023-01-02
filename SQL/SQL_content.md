@@ -53,6 +53,8 @@
   * [Insert Into (which target table (which column) ) Select (which column) From (which source table) Where (which rows)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/SQL/InsertIntoSelect.md)
 ## 6. Alter table
   * [Alter Table (which table)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/SQL/Alter%20table.md)
+## 7. Create Index
+  * [Create Index (what is the index name) On (which table) (which column)]()
 
 # DataBase Management
 
