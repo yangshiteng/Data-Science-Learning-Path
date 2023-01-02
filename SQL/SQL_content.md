@@ -52,7 +52,7 @@
 ## 5. Copy data from one table and insert it into another table
   * [Insert Into (which target table (which column) ) Select (which column) From (which source table) Where (which rows)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/SQL/InsertIntoSelect.md)
 ## 6. Create, Drop, Alter Table
-  * [Create Table]()
+  * [Create Table](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/SQL/CreateTable.md)
   * [Drop Table]()
   * [Alter Table](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/SQL/Alter%20table.md)
 ## 7. Create Index
