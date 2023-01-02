@@ -52,4 +52,4 @@
 ## [3. Constraints](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/SQL/Constraints.md)
 ## [4. Views](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/SQL/Views.md)
 ## [5. SQL Injection](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/SQL/SQL%20Injection.md)
-## [6. SQL Hosting]()
+## [6. SQL Hosting](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/SQL/SQL%20hosting.md)
