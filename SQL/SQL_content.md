@@ -53,4 +53,4 @@
 ## [4. Views](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/SQL/Views.md)
 ## [5. SQL Injection](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/SQL/SQL%20Injection.md)
 ## [6. SQL Hosting](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/SQL/SQL%20hosting.md)
-## [7. SQL Data Types for MySQL, SQL Server, and MS Access]()
+## [7. SQL Data Types for MySQL, SQL Server, and MS Access](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/SQL/SQL%20Data%20Types%20for%20MySQL%2C%20SQL%20Server%2C%20and%20MS%20Access.md)
