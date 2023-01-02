@@ -43,7 +43,8 @@
   * [Insert Into (which table (which column) ) Values (which value)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/SQL/Insert_into.md)
 ## 2. Modify the existing records in a table
   * [Update (which table) Set (which column = which value) Where (which rows)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/SQL/update.md)
-## [3. Delete From (which table) Where (which rows)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/SQL/Delete.md)
+## 3. Delete existing records in a table
+  * [Delete From (which table) Where (which rows)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/SQL/Delete.md)
 ## [4. Select (which column) Into (which new table (In which database) ) From (which old table) Where (which rows)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/SQL/SelectInto.md)
 ## [5. Insert Into (which target table (which column) ) Select (which column) From (which source table) Where (which rows)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/SQL/InsertIntoSelect.md)
 ## [6. Alter Table (which table)]()
