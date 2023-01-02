@@ -41,6 +41,9 @@
 ![image](https://user-images.githubusercontent.com/60442877/210270864-d60ee59c-946e-42ed-ba1e-f8023f834587.png)
 ![image](https://user-images.githubusercontent.com/60442877/210270876-325337fb-bab0-4823-bc52-03e38e3af435.png)
 
+# Change the column name in an existing table
+
+![image](https://user-images.githubusercontent.com/60442877/208012387-ab26c755-a937-4fd8-b347-67da8753eca7.png)
 
 
 
