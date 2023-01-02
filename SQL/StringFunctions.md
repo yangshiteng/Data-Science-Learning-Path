@@ -1,4 +1,4 @@
-# Character_Length() or Char_Length()
+# 1. Character_Length() or Char_Length()
 
 ![image](https://user-images.githubusercontent.com/60442877/210280440-0c52a853-28e2-463d-bef4-ab3c8db93531.png)
 
@@ -6,8 +6,19 @@
 
 ![image](https://user-images.githubusercontent.com/60442877/210280458-a923009f-045f-4a99-b43a-43e9ab2f4a40.png)
 
-# Concat() or Concat_WS()
+# 2. Concat() or Concat_WS()
 
 ![image](https://user-images.githubusercontent.com/60442877/210280564-5ca5ac6b-9793-41fa-9537-698e044f4de3.png)
 
 ![image](https://user-images.githubusercontent.com/60442877/210280587-d7da4b18-565e-4b1e-98a4-f722d69a18c5.png)
+
+# 3. Insert()
+
+![image](https://user-images.githubusercontent.com/60442877/210281628-d077fcc4-850e-4608-a225-4948540d3f89.png)
+
+![image](https://user-images.githubusercontent.com/60442877/210281636-dc866e41-b2ce-4007-9e72-7a9ac75c4d08.png)
+
+# 4. Instr()
+
+![image](https://user-images.githubusercontent.com/60442877/210281711-8089215c-9ac0-419d-b606-8a70b90414f1.png)
+![image](https://user-images.githubusercontent.com/60442877/210281725-d70a2daa-2426-4ac9-9eb4-8794ea8d0fe5.png)
