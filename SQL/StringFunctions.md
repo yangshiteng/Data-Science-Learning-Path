@@ -18,10 +18,13 @@
 
 ![image](https://user-images.githubusercontent.com/60442877/210281636-dc866e41-b2ce-4007-9e72-7a9ac75c4d08.png)
 
-# 4. Instr()
+# 4. Find location: Instr(), Locate()
 
 ![image](https://user-images.githubusercontent.com/60442877/210281711-8089215c-9ac0-419d-b606-8a70b90414f1.png)
 ![image](https://user-images.githubusercontent.com/60442877/210281725-d70a2daa-2426-4ac9-9eb4-8794ea8d0fe5.png)
+
+![image](https://user-images.githubusercontent.com/60442877/210282159-ef4b953b-d263-4306-ad97-de479faed09c.png)
+![image](https://user-images.githubusercontent.com/60442877/210282187-8a7450f1-e908-4364-8459-1ba0c2ed9de3.png)
 
 # 5. Lcase() or Lower()
 
