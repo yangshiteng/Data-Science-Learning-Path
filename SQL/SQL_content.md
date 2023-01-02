@@ -57,13 +57,16 @@
   * [Alter Table](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/SQL/Alter%20table.md)
 ## 7. Create Index
   * [Create Index (what is the index name) On (which table) (which column)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/SQL/Create%20Index.md)
+## 8. Constraint
+  * [Constraints](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/SQL/Constraints.md)
+## 9. View (Virtual Table)
+  * [Views (Virtual Table)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/SQL/Views.md)
+## 10. SQL Data Types
+  * [SQL Data Types for MySQL, SQL Server, and MS Access](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/SQL/SQL%20Data%20Types%20for%20MySQL%2C%20SQL%20Server%2C%20and%20MS%20Access.md)
 
 # DataBase Management
 
 ## [1. Create, Drop, Backup Database](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/SQL/CreateDB.md)
-## [2. Create, Drop, Alter Table](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/SQL/CreateTable.md)
-## [3. Constraints](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/SQL/Constraints.md)
-## [4. Views (Virtual Table)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/SQL/Views.md)
-## [5. SQL Injection](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/SQL/SQL%20Injection.md)
-## [6. SQL Hosting](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/SQL/SQL%20hosting.md)
-## [7. SQL Data Types for MySQL, SQL Server, and MS Access](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/SQL/SQL%20Data%20Types%20for%20MySQL%2C%20SQL%20Server%2C%20and%20MS%20Access.md)
+## [2. SQL Injection](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/SQL/SQL%20Injection.md)
+## [3. SQL Hosting](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/SQL/SQL%20hosting.md)
+
