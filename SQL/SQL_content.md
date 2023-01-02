@@ -75,6 +75,6 @@
 # Functions
 
 ## [1. String Functions](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/SQL/StringFunctions.md)
-## [2. Numeric Functions]()
+## [2. Numeric Functions](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/SQL/NumericFunctions.md)
 ## [3. Date Functions]()
 ## [4. Advanced Functions]()
