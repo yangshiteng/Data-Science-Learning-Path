@@ -14,7 +14,7 @@
 
 # 2. Adds two or more expressions together
 
-## 2.1 Concat() or Concat_WS()
+## Concat() or Concat_WS()
 
 ![image](https://user-images.githubusercontent.com/60442877/210280564-5ca5ac6b-9793-41fa-9537-698e044f4de3.png)
 
@@ -22,7 +22,7 @@
 
 # 3. Insert a string within a string at the specified position and for a certain number of characters
 
-## 3.1 Insert()
+## Insert()
 
 ![image](https://user-images.githubusercontent.com/60442877/210281628-d077fcc4-850e-4608-a225-4948540d3f89.png)
 
