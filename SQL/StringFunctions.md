@@ -72,5 +72,20 @@
 
 ![image](https://user-images.githubusercontent.com/60442877/210283995-37d12d29-6b0d-46c0-9286-f53ae9bf4ee0.png)
 
+# 9. Removes leading or trailing spaces from a string
+
+## 9.1 Ltrim()
+
+![image](https://user-images.githubusercontent.com/60442877/210284504-6935bdc6-40e6-4348-8d7b-e9196782485f.png)
+
+## 9.2 Rtrim()
+
+![image](https://user-images.githubusercontent.com/60442877/210284492-ef244adb-4a34-46d1-9fe0-d872c43de944.png)
+
+## 9.3 Trim()
+
+![image](https://user-images.githubusercontent.com/60442877/210284485-3be4d3c0-d6e7-4114-96f3-d42613893aff.png)
+
+
 
 
