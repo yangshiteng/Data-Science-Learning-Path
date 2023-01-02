@@ -54,7 +54,7 @@
 ## 6. Alter table
   * [Alter Table (which table)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/SQL/Alter%20table.md)
 ## 7. Create Index
-  * [Create Index (what is the index name) On (which table) (which column)]()
+  * [Create Index (what is the index name) On (which table) (which column)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/SQL/Create%20Index.md)
 
 # DataBase Management
 
