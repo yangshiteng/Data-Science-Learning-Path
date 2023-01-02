@@ -39,8 +39,8 @@
 
 # Table Edit
 
-## 1. Insert New Record to a table
-  * [1. Insert Into (which table (which column) ) Values (which value)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/SQL/Insert_into.md)
+## 1. Insert new records into a table
+  * [Insert Into (which table (which column) ) Values (which value)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/SQL/Insert_into.md)
 ## [2. Update (which table) Set (which column = which value) Where (which rows)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/SQL/update.md)
 ## [3. Delete From (which table) Where (which rows)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/SQL/Delete.md)
 ## [4. Select (which column) Into (which new table (In which database) ) From (which old table) Where (which rows)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/SQL/SelectInto.md)
