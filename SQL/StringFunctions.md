@@ -107,6 +107,11 @@
 
 ![image](https://user-images.githubusercontent.com/60442877/210284485-3be4d3c0-d6e7-4114-96f3-d42613893aff.png)
 
+# 10. Repeat a string as many times as specified
+
+![image](https://user-images.githubusercontent.com/60442877/210298038-1c0e6009-3b9d-4213-a305-4f9e56a9a68c.png)
+
+![image](https://user-images.githubusercontent.com/60442877/210298057-cb85ca14-67c9-427c-8945-23abc695ed9a.png)
 
 
 
