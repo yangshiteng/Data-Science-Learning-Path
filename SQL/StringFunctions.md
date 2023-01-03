@@ -50,7 +50,7 @@
 
 ![image](https://user-images.githubusercontent.com/60442877/210283784-5d64dc2a-db56-4824-ba42-bbc5940f74a2.png)
 
-# 6. Extracts a number of characters from a string (starting from left or right)
+# 6. String Extraction
 
 ## 6.1 Left()
 
@@ -60,6 +60,22 @@
 ## 6.2 Right()
 
 ![image](https://user-images.githubusercontent.com/60442877/210281974-1c46a3b2-b55e-4d3a-93e8-75c96c264fbe.png)
+
+## 6.3 Mid() 
+
+![image](https://user-images.githubusercontent.com/60442877/210291273-5aa875ed-f407-4937-83c8-d7554a1b5548.png)
+![image](https://user-images.githubusercontent.com/60442877/210291335-e2a0cb50-b1fd-4a29-92a7-e214c33d09b5.png)
+
+## 6.4 Substr()
+
+![image](https://user-images.githubusercontent.com/60442877/210291384-19e76100-ea4b-4a31-8c5e-1185cdacdf96.png)
+![image](https://user-images.githubusercontent.com/60442877/210291422-b3ce3973-7511-42f6-b5bb-9f40d18cdb44.png)
+
+## 6.5 Substring()
+
+![image](https://user-images.githubusercontent.com/60442877/210291441-f0a9b7e7-5011-4506-9715-d37950fa5489.png)
+
+
 
 # 8. Left-pad or Right-pad a string with another string, to a certain length
 
