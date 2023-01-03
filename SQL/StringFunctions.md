@@ -115,9 +115,24 @@
 
 # 10. Repeat a string as many times as specified
 
+## Repeat()
+
 ![image](https://user-images.githubusercontent.com/60442877/210298038-1c0e6009-3b9d-4213-a305-4f9e56a9a68c.png)
 
 ![image](https://user-images.githubusercontent.com/60442877/210298057-cb85ca14-67c9-427c-8945-23abc695ed9a.png)
+
+# 11. Reverse a string
+
+## Reverse()
+
+![image](https://user-images.githubusercontent.com/60442877/210298442-9bd97123-6520-40e5-a928-929f42a0f5ff.png)
+![image](https://user-images.githubusercontent.com/60442877/210298467-b1dc5b26-5e54-4cde-82a7-82bae0c2511d.png)
+
+
+
+
+
+
 
 
 
