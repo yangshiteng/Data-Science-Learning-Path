@@ -20,13 +20,19 @@
 
 ![image](https://user-images.githubusercontent.com/60442877/210280587-d7da4b18-565e-4b1e-98a4-f722d69a18c5.png)
 
-# 3. Insert a string within a string at the specified position and for a certain number of characters
+# 3. String Replacement
 
-## Insert()
+## 3.1 Insert()
 
 ![image](https://user-images.githubusercontent.com/60442877/210281628-d077fcc4-850e-4608-a225-4948540d3f89.png)
 
 ![image](https://user-images.githubusercontent.com/60442877/210281636-dc866e41-b2ce-4007-9e72-7a9ac75c4d08.png)
+
+## 3.2 Replace()
+
+![image](https://user-images.githubusercontent.com/60442877/210298295-d05d5a6c-d5ce-44f3-948d-ff3c7eb78314.png)
+![image](https://user-images.githubusercontent.com/60442877/210298318-c1a00daa-65c2-43b3-9c32-28dc48164ae5.png)
+![image](https://user-images.githubusercontent.com/60442877/210298325-29b0614a-5a3c-46ef-a1c8-dabf5707dca5.png)
 
 # 4. Find position
 
