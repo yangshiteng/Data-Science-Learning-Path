@@ -51,16 +51,17 @@
 ![image](https://user-images.githubusercontent.com/60442877/210297718-3542ef3b-4e30-49ac-ba04-3cc1aa1dc2b6.png)
 ![image](https://user-images.githubusercontent.com/60442877/210297745-2f8db1cd-0d4f-46f0-a5ff-d858a996c877.png)
 
-# 5. Converts a string to lower-case
+# 5. Converts a string to lower-case or upper-case
 
-## 5.1 Lcase() 
+## 5.1 Lcase() or Lower()
 
 ![image](https://user-images.githubusercontent.com/60442877/210281888-29244578-de93-450b-acf9-6b823de31281.png)
 ![image](https://user-images.githubusercontent.com/60442877/210281899-1af81818-9132-4a02-b8f6-774c5feaf219.png)
 
-## 5.2 Lower()
+## 5.2 Ucase() or Upper()
 
-![image](https://user-images.githubusercontent.com/60442877/210283784-5d64dc2a-db56-4824-ba42-bbc5940f74a2.png)
+![image](https://user-images.githubusercontent.com/60442877/210298997-cce16e2b-37ed-43dd-88e7-9a90bf50490c.png)
+![image](https://user-images.githubusercontent.com/60442877/210299005-eb9ea76b-0ee0-4329-861d-11102bc40d16.png)
 
 # 6. String Extraction
 
@@ -87,6 +88,12 @@
 
 ![image](https://user-images.githubusercontent.com/60442877/210291441-f0a9b7e7-5011-4506-9715-d37950fa5489.png)
 ![image](https://user-images.githubusercontent.com/60442877/210297624-3ae50909-c43c-460a-9960-dab7941c52e4.png)
+
+## 6.6 Substring_index()
+
+![image](https://user-images.githubusercontent.com/60442877/210298906-b80bd044-b5f8-4223-82ab-e36b4ce49df2.png)
+![image](https://user-images.githubusercontent.com/60442877/210298920-f482d227-265d-4d61-843d-8b523b6ba3a7.png)
+![image](https://user-images.githubusercontent.com/60442877/210298940-de3673e6-6095-40b0-948a-f4393da98aec.png)
 
 # 8. Left-pad or Right-pad a string with another string, to a certain length
 
@@ -128,7 +135,17 @@
 ![image](https://user-images.githubusercontent.com/60442877/210298442-9bd97123-6520-40e5-a928-929f42a0f5ff.png)
 ![image](https://user-images.githubusercontent.com/60442877/210298467-b1dc5b26-5e54-4cde-82a7-82bae0c2511d.png)
 
+# 12. Return a string of the specified number of space characters
 
+## Space()
+
+![image](https://user-images.githubusercontent.com/60442877/210298663-13798bd7-d801-4bba-a970-4c4694921763.png)
+
+# 13. String Comparison
+
+## Strcmp()
+
+![image](https://user-images.githubusercontent.com/60442877/210298768-702c1b45-4df8-42f6-8bb2-a8e69b850bb2.png)
 
 
 
