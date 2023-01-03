@@ -72,7 +72,7 @@
 ## [2. SQL Injection](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/SQL/SQL%20Injection.md)
 ## [3. SQL Hosting](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/SQL/SQL%20hosting.md)
 
-# Functions
+# Functions (MySQL)
 
 ## [1. String Functions](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/SQL/StringFunctions.md)
 ## [2. Numeric Functions](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/SQL/NumericFunctions.md)
