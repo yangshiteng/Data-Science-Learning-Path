@@ -28,7 +28,7 @@
 
 ![image](https://user-images.githubusercontent.com/60442877/210281636-dc866e41-b2ce-4007-9e72-7a9ac75c4d08.png)
 
-# 4. Find location
+# 4. Find position
 
 ## 4.1 Instr()
 
@@ -36,8 +36,14 @@
 ![image](https://user-images.githubusercontent.com/60442877/210281725-d70a2daa-2426-4ac9-9eb4-8794ea8d0fe5.png)
 
 ## 4.2 Locate()
+
 ![image](https://user-images.githubusercontent.com/60442877/210282159-ef4b953b-d263-4306-ad97-de479faed09c.png)
 ![image](https://user-images.githubusercontent.com/60442877/210282187-8a7450f1-e908-4364-8459-1ba0c2ed9de3.png)
+
+## 4.3 Position()
+
+![image](https://user-images.githubusercontent.com/60442877/210297718-3542ef3b-4e30-49ac-ba04-3cc1aa1dc2b6.png)
+![image](https://user-images.githubusercontent.com/60442877/210297745-2f8db1cd-0d4f-46f0-a5ff-d858a996c877.png)
 
 # 5. Converts a string to lower-case
 
@@ -74,8 +80,7 @@
 ## 6.5 Substring()
 
 ![image](https://user-images.githubusercontent.com/60442877/210291441-f0a9b7e7-5011-4506-9715-d37950fa5489.png)
-
-
+![image](https://user-images.githubusercontent.com/60442877/210297624-3ae50909-c43c-460a-9960-dab7941c52e4.png)
 
 # 8. Left-pad or Right-pad a string with another string, to a certain length
 
