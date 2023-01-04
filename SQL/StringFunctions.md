@@ -10,7 +10,7 @@
 
 # **[6. String Extraction](#a6)**
 
-# **[7. Left-pad or Right-pad a string with another string, to a certain length](#a7)**
+# **[7. Left-pad or Right-pad a string with another string](#a7)**
 
 # **[8. Removes leading or trailing spaces from a string](#a8)**
 
