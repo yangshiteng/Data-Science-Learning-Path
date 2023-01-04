@@ -10,6 +10,10 @@
 
 **[Return the ceiling or floor value of a number](#a6)**
 
+**[Round a number to a specified number of decimal places](#a6.1)**
+
+**[Truncate a number to a specified number of decimal places](#a6.2)**
+
 **[Count the records](#a7)**
 
 **[Division](#a8)**
@@ -25,6 +29,11 @@
 **[Return the maximum or minimum value in a set of value](#a11)**
 
 **[Power Calculation](#a12)**
+
+**[Return a random number between 0 (inclusive) and 1 (exclusive)](#a13)**
+
+**[Return the sign of a number](#a14)**
+
 
 #
 #
@@ -126,6 +135,21 @@
 
 ![image](https://user-images.githubusercontent.com/60442877/210480344-5066abbd-12ff-4f63-978f-000a751a51b6.png)
 
+<a id="a6.1"></a>
+# Round a number to a specified number of decimal places
+
+## Round()
+
+![image](https://user-images.githubusercontent.com/60442877/210483184-3fbb0bcb-d2b2-42c7-b492-3a9b990eb556.png)
+
+<a id="a6.2"></a>
+# Truncate a number to a specified number of decimal places
+
+## Truncate()
+
+![image](https://user-images.githubusercontent.com/60442877/210483308-deee2a02-ee60-415b-84a3-c4152c1938bb.png)
+![image](https://user-images.githubusercontent.com/60442877/210483356-a911b97c-0f81-4e08-96bc-f97dc4ccbfc2.png)
+
 <a id="a7"></a>
 # Count the Records
 
@@ -208,6 +232,20 @@
 
 ![image](https://user-images.githubusercontent.com/60442877/210482189-00325169-42e1-466a-8d6d-30bee20e75d8.png)
 ![image](https://user-images.githubusercontent.com/60442877/210482207-70d99389-b932-4b9e-80ee-4cccf7c14900.png)
+
+<a id="a13"></a>
+# Return a random number between 0 (inclusive) and 1 (exclusive)
+
+## Rand()
+
+![image](https://user-images.githubusercontent.com/60442877/210482985-dcbd14e0-1138-4205-a6f3-f6512ce701db.png)
+
+<a id="a14"></a>
+# Return the sign of a number
+
+## Sign()
+
+![image](https://user-images.githubusercontent.com/60442877/210483576-f33f6b04-b613-4374-a1a9-b46de95122c1.png)
 
 
 
