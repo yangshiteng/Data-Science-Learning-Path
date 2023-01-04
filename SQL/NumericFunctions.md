@@ -14,11 +14,17 @@
 
 **[Division](#a8)**
 
+**[Return the remainder of a number divided by another number](#a8.1)**
+
 **[The constant e (2.718281...) with the power of the specified number](#a9)**
 
 **[Return the logarithm of a number](#a9.1)**
 
 **[Return the greatest or smallest value of the list of arguments](#a10)**
+
+**[Return the maximum or minimum value in a set of value](#a11)**
+
+**[Power Calculation](#a12)**
 
 #
 #
@@ -135,6 +141,14 @@
 ![image](https://user-images.githubusercontent.com/60442877/210480501-169c82d1-46e5-401f-a48d-6dd18955cd8c.png)
 ![image](https://user-images.githubusercontent.com/60442877/210480516-d5632f38-68e1-46f7-87a0-9fb09d19593c.png)
 
+<a id="a8.1"></a>
+# Return the remainder of a number divided by another number
+
+## Mod()
+
+![image](https://user-images.githubusercontent.com/60442877/210481994-85cb573e-35dd-4951-a136-0bae7309ac49.png)
+![image](https://user-images.githubusercontent.com/60442877/210482019-f1ad8d4a-2c4a-4029-9544-8162f9754701.png)
+
 <a id="a9"></a>
 # The constant e (2.718281...), is the base of natural logarithms with the power of the specified number
 
@@ -175,7 +189,25 @@
 ![image](https://user-images.githubusercontent.com/60442877/210481065-63fb689f-766b-4a06-8b19-118b5cbcee65.png)
 ![image](https://user-images.githubusercontent.com/60442877/210481080-aa46aaa6-ef5f-49b8-b28c-4559b982b043.png)
 
+<a id="a11"></a>
+# Return the maximum or minimum value in a set of value
 
+## Max()
+
+![image](https://user-images.githubusercontent.com/60442877/210481769-6004ae4b-fc87-45ef-a62e-7da58ee39365.png)
+![image](https://user-images.githubusercontent.com/60442877/210481785-e079de83-2600-45e7-90ce-e8a78a0977dd.png)
+
+## Min()
+
+![image](https://user-images.githubusercontent.com/60442877/210481809-8fa1abb4-95a5-4669-aaaa-fea965f5ccc6.png)
+
+<a id="a12"></a>
+# Power Calculation
+
+## Pow() or Power()
+
+![image](https://user-images.githubusercontent.com/60442877/210482189-00325169-42e1-466a-8d6d-30bee20e75d8.png)
+![image](https://user-images.githubusercontent.com/60442877/210482207-70d99389-b932-4b9e-80ee-4cccf7c14900.png)
 
 
 
