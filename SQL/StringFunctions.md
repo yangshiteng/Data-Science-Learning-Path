@@ -2,8 +2,25 @@
 
 # **[2. Adds two or more expressions together](#a2)**
 
+# **[3. String Replacement](#a3)**
 
+# **[4. Find position](#a4)**
 
+# **[5. Converts a string to lower-case or upper-case](#a5)**
+
+# **[6. String Extraction](#a6)**
+
+# **[7. Left-pad or Right-pad a string with another string, to a certain length](#a7)**
+
+# **[8. Removes leading or trailing spaces from a string](#a8)**
+
+# **[9. Repeat a string as many times as specified](#a9)**
+
+# **[10. Reverse a string](#a10)**
+
+# **[11. Return a specified number of space characters](#a11)**
+
+# **[12. String Comparison](#a12)**
 
 <a id="a1"></a>
 # 1. Return the length of a string
@@ -29,6 +46,7 @@
 
 ![image](https://user-images.githubusercontent.com/60442877/210280587-d7da4b18-565e-4b1e-98a4-f722d69a18c5.png)
 
+<a id="a3"></a>
 # 3. String Replacement
 
 ## 3.1 Insert()
@@ -43,6 +61,7 @@
 ![image](https://user-images.githubusercontent.com/60442877/210298318-c1a00daa-65c2-43b3-9c32-28dc48164ae5.png)
 ![image](https://user-images.githubusercontent.com/60442877/210298325-29b0614a-5a3c-46ef-a1c8-dabf5707dca5.png)
 
+<a id="a4"></a>
 # 4. Find position
 
 ## 4.1 Instr()
@@ -60,6 +79,7 @@
 ![image](https://user-images.githubusercontent.com/60442877/210297718-3542ef3b-4e30-49ac-ba04-3cc1aa1dc2b6.png)
 ![image](https://user-images.githubusercontent.com/60442877/210297745-2f8db1cd-0d4f-46f0-a5ff-d858a996c877.png)
 
+<a id="a5"></a>
 # 5. Converts a string to lower-case or upper-case
 
 ## 5.1 Lcase() or Lower()
@@ -72,6 +92,7 @@
 ![image](https://user-images.githubusercontent.com/60442877/210298997-cce16e2b-37ed-43dd-88e7-9a90bf50490c.png)
 ![image](https://user-images.githubusercontent.com/60442877/210299005-eb9ea76b-0ee0-4329-861d-11102bc40d16.png)
 
+<a id="a6"></a>
 # 6. String Extraction
 
 ## 6.1 Left()
@@ -104,32 +125,35 @@
 ![image](https://user-images.githubusercontent.com/60442877/210298920-f482d227-265d-4d61-843d-8b523b6ba3a7.png)
 ![image](https://user-images.githubusercontent.com/60442877/210298940-de3673e6-6095-40b0-948a-f4393da98aec.png)
 
-# 8. Left-pad or Right-pad a string with another string, to a certain length
+<a id="a7"></a>
+# 7. Left-pad or Right-pad a string with another string, to a certain length
 
-## 8.1 Lpad()
+## 7.1 Lpad()
 
 ![image](https://user-images.githubusercontent.com/60442877/210283959-8c3c2cdc-873f-42d2-b70a-2ce945f9a94f.png)
 ![image](https://user-images.githubusercontent.com/60442877/210283985-c555bcb5-61fe-4879-bf6c-dd46dd475765.png)
 
-## 8.2 Rpad()
+## 7.2 Rpad()
 
 ![image](https://user-images.githubusercontent.com/60442877/210283995-37d12d29-6b0d-46c0-9286-f53ae9bf4ee0.png)
 
-# 9. Removes leading or trailing spaces from a string
+<a id="a8"></a>
+# 8. Removes leading or trailing spaces from a string
 
-## 9.1 Ltrim()
+## 8.1 Ltrim()
 
 ![image](https://user-images.githubusercontent.com/60442877/210284504-6935bdc6-40e6-4348-8d7b-e9196782485f.png)
 
-## 9.2 Rtrim()
+## 8.2 Rtrim()
 
 ![image](https://user-images.githubusercontent.com/60442877/210284492-ef244adb-4a34-46d1-9fe0-d872c43de944.png)
 
-## 9.3 Trim()
+## 8.3 Trim()
 
 ![image](https://user-images.githubusercontent.com/60442877/210284485-3be4d3c0-d6e7-4114-96f3-d42613893aff.png)
 
-# 10. Repeat a string as many times as specified
+<a id="a9"></a>
+# 9. Repeat a string as many times as specified
 
 ## Repeat()
 
@@ -137,20 +161,23 @@
 
 ![image](https://user-images.githubusercontent.com/60442877/210298057-cb85ca14-67c9-427c-8945-23abc695ed9a.png)
 
-# 11. Reverse a string
+<a id="a10"></a>
+# 10. Reverse a string
 
 ## Reverse()
 
 ![image](https://user-images.githubusercontent.com/60442877/210298442-9bd97123-6520-40e5-a928-929f42a0f5ff.png)
 ![image](https://user-images.githubusercontent.com/60442877/210298467-b1dc5b26-5e54-4cde-82a7-82bae0c2511d.png)
 
-# 12. Return a string of the specified number of space characters
+<a id="a11"></a>
+# 11. Return a string of the specified number of space characters
 
 ## Space()
 
 ![image](https://user-images.githubusercontent.com/60442877/210298663-13798bd7-d801-4bba-a970-4c4694921763.png)
 
-# 13. String Comparison
+<a id="a12"></a>
+# 12. String Comparison
 
 ## Strcmp()
 
