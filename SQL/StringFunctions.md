@@ -1,3 +1,9 @@
+**[Return the Length of a String](#abc)**
+
+
+<a id="abc"></a>
+# Return the Length of a String
+
 # 1. Return the length of a string
 
 ## 1.1 Character_Length() or Char_Length()
