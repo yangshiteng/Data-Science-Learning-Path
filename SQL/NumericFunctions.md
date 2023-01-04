@@ -1,8 +1,13 @@
 **[1. Format a number to a format like ##,###,###.##](#a1)**
+
 **[2. Return the absolute value of a number](#a2)**
+
 **[3. Return the arc cosine, arc sine, arc tangent of a number](#a3)**
+
 **[4. Return the cosine, sine, tangent, cotangent of a number](#a4)**
+
 **[5. Return the average value of an expression](#a5)**
+
 **[6. Return the ceiling value of a number](#a6)**
 
 
