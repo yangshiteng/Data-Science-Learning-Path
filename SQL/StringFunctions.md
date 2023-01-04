@@ -1,11 +1,11 @@
-# **[1. Return the Length of a String](#abc)**
+# **[1. Return the Length of a String](#a1)**
+
+# **[2. Adds two or more expressions together](#a2)**
 
 
 
 
-
-
-<a id="abc"></a>
+<a id="a1"></a>
 # 1. Return the length of a string
 
 ## 1.1 Character_Length() or Char_Length()
@@ -20,6 +20,7 @@
 
 ![image](https://user-images.githubusercontent.com/60442877/210282301-9e3fff5a-19b8-406d-b8bb-16249a8718bf.png)
 
+<a id="a2"></a>
 # 2. Adds two or more expressions together
 
 ## Concat() or Concat_WS()
