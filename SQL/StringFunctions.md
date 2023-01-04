@@ -22,6 +22,14 @@
 
 # **[12. String Comparison](#a12)**
 
+#
+#
+#
+#
+#
+#
+
+
 <a id="a1"></a>
 # 1. Return the length of a string
 
