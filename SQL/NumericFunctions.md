@@ -34,6 +34,9 @@
 
 **[Return the sign of a number](#a14)**
 
+**[Square root of a number](#a15)**
+
+**[Calculate the Sum](#a16)**
 
 #
 #
@@ -246,6 +249,21 @@
 ## Sign()
 
 ![image](https://user-images.githubusercontent.com/60442877/210483576-f33f6b04-b613-4374-a1a9-b46de95122c1.png)
+
+<a id="a15"></a>
+# Square root of a number
+
+## Sqrt()
+
+![image](https://user-images.githubusercontent.com/60442877/210483743-b462faa6-682c-491a-8b4b-74b616a9d5db.png)
+
+<a id="a16"></a>
+# Calculate the sum of a set of values
+
+## Sum()
+
+![image](https://user-images.githubusercontent.com/60442877/210483837-ba2af320-445b-48d3-83f7-e78fbdd89d82.png)
+
 
 
 
