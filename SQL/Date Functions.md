@@ -50,6 +50,12 @@
 ![image](https://user-images.githubusercontent.com/60442877/211685796-018abf5d-f7e6-48c1-a483-48b4d00d389c.png)
 ![image](https://user-images.githubusercontent.com/60442877/211685867-a38cde78-32e3-4c13-9699-091f69ced418.png)
 
+## Date_Sub()
+
+![image](https://user-images.githubusercontent.com/60442877/211693594-df1a5f64-3027-4f0e-a1f7-51db143cd80e.png)
+![image](https://user-images.githubusercontent.com/60442877/211693606-45043b27-a6cd-4937-88c1-e30702d95881.png)
+![image](https://user-images.githubusercontent.com/60442877/211693692-87002bc2-5359-46f8-918c-7ce5a14bdf34.png)
+
 
 <a id="a2"></a>
 # Return the current date
@@ -76,6 +82,36 @@
 
 ![image](https://user-images.githubusercontent.com/60442877/211689580-3747b888-0591-47b1-85d4-e09c7eb2a2f1.png)
 ![image](https://user-images.githubusercontent.com/60442877/211689593-ee0d29ab-04ed-4ecd-8c1a-6f348270c612.png)
+
+## Day() or DayofMonth()
+
+![image](https://user-images.githubusercontent.com/60442877/211693772-39a583db-16ab-4207-8bdb-bcde7c3da68b.png)
+![image](https://user-images.githubusercontent.com/60442877/211693781-c275d993-7b6f-454d-8a32-2b3734aee313.png)
+
+## DayName()
+
+![image](https://user-images.githubusercontent.com/60442877/211693837-7fb9e6d9-20b9-4fe6-98aa-036134a2449f.png)
+![image](https://user-images.githubusercontent.com/60442877/211693872-ba4f5f95-a9af-4b00-8f80-7c6ac6ef3259.png)
+
+## DayofWeek()
+
+![image](https://user-images.githubusercontent.com/60442877/211693974-84e2c663-4ee5-4a99-b330-78d93fb8876d.png)
+![image](https://user-images.githubusercontent.com/60442877/211693982-0b535087-40c4-40a2-a6f0-f85ef809bd39.png)
+
+## DayofYear()
+
+![image](https://user-images.githubusercontent.com/60442877/211694034-b3a52404-3d45-4f3f-9d45-29612463d93e.png)
+![image](https://user-images.githubusercontent.com/60442877/211694136-c8458c31-3504-4eee-9158-a555cae98363.png)
+
+## Extract()
+
+![image](https://user-images.githubusercontent.com/60442877/211694231-28cdd86a-94f2-4971-82c1-1aba688e2355.png)
+![image](https://user-images.githubusercontent.com/60442877/211694311-2b4e70a0-ce4b-4df5-9bd3-273bca7c1795.png)
+![image](https://user-images.githubusercontent.com/60442877/211694370-ce1d3655-7a7c-45a7-9cc5-57cec86d47f2.png)
+![image](https://user-images.githubusercontent.com/60442877/211694388-6252aa69-3ebd-4763-8557-e1474cd39522.png)
+![image](https://user-images.githubusercontent.com/60442877/211694466-aa5163c4-2b2b-4eaf-b949-ef1c5ba157bb.png)
+![image](https://user-images.githubusercontent.com/60442877/211694493-8f23c33b-245d-4ff2-b8e3-a9a308e01a85.png)
+
 
 <a id="a4"></a>
 # Return the number of days between two date values
