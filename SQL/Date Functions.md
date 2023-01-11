@@ -1,4 +1,4 @@
-**[Add Time](#a1)**
+**[Add or Subtract Time](#a1)**
 
 **[Return the current date or time](#a2)**
 
