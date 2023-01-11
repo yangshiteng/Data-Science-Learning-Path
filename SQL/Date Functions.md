@@ -1,6 +1,9 @@
 **[Add Time](#a1)**
 
-**[Return the current date](#a2)**
+**[Return the current date or time](#a2)**
+
+**[Extract the date part from a datetime](#a3)**
+
 
 
 
@@ -50,10 +53,30 @@
 <a id="a2"></a>
 # Return the current date
 
-## CurDate()
+## CurDate() or Current_Date()
 
 ![image](https://user-images.githubusercontent.com/60442877/211685965-8af5966b-b275-4eed-b33d-ca26db80eb7f.png)
 ![image](https://user-images.githubusercontent.com/60442877/211685998-c5045495-2413-42fb-b084-e9db12b07d56.png)
+
+## CurTime() or Current_Time() 
+
+![image](https://user-images.githubusercontent.com/60442877/211689130-89611f94-183f-4d19-ab03-40b00645e560.png)
+![image](https://user-images.githubusercontent.com/60442877/211689143-c0d7cc81-1d74-4db5-a087-dd119133736d.png)
+
+## Current_Timestamp()
+
+![image](https://user-images.githubusercontent.com/60442877/211689213-9413bcb9-022e-466e-8c1b-aebedbd24fe1.png)
+![image](https://user-images.githubusercontent.com/60442877/211689225-a3b5240d-5754-4023-bc3c-597e243405fc.png)
+
+<a id="a3"></a>
+# Extract the date part from a datetime
+
+## Date()
+
+![image](https://user-images.githubusercontent.com/60442877/211689580-3747b888-0591-47b1-85d4-e09c7eb2a2f1.png)
+![image](https://user-images.githubusercontent.com/60442877/211689593-ee0d29ab-04ed-4ecd-8c1a-6f348270c612.png)
+
+
 
 
 
