@@ -130,15 +130,22 @@
 ![image](https://user-images.githubusercontent.com/60442877/211697383-68e716e9-4c00-49f3-8a0d-afca45629166.png)
 ![image](https://user-images.githubusercontent.com/60442877/211697399-f4ceb5fc-21ab-4dd4-b427-3822b4441529.png)
 
+## MonthName()
+
+![image](https://user-images.githubusercontent.com/60442877/211697472-45b68115-433a-4edc-bf32-4ce81d5922c1.png)
+![image](https://user-images.githubusercontent.com/60442877/211697492-cd26b818-c014-4ca3-8817-b1e56ff9c077.png)
+
+## Week()
+
+![image](https://user-images.githubusercontent.com/60442877/211697796-2172d00c-f3ae-470e-84c7-5960c52e6889.png)
+![image](https://user-images.githubusercontent.com/60442877/211697818-6a90f723-5047-434f-a1b5-3945e2e43686.png)
+
 ## Last_Day()
 
 ![image](https://user-images.githubusercontent.com/60442877/211696366-8acbe025-2ddc-41d0-a774-d02d77b99646.png)
 ![image](https://user-images.githubusercontent.com/60442877/211696379-7959aa44-ca5b-49e1-ba03-2846fabfa69a.png)
 
-## MonthName()
 
-![image](https://user-images.githubusercontent.com/60442877/211697472-45b68115-433a-4edc-bf32-4ce81d5922c1.png)
-![image](https://user-images.githubusercontent.com/60442877/211697492-cd26b818-c014-4ca3-8817-b1e56ff9c077.png)
 
 
 
