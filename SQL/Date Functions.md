@@ -6,6 +6,7 @@
 
 **[Return the number of days between two date values](#a4)**
 
+**[Format a date as specificed](#a4)**
 
 #
 #
@@ -37,7 +38,7 @@
 <a id="a1"></a>
 # Add Time
 
-## AddDate()
+## AddDate() or Date_Add()
 
 ![image](https://user-images.githubusercontent.com/60442877/211449664-1ee97bd2-848c-4e16-9c75-13c0058f82bd.png)
 ![image](https://user-images.githubusercontent.com/60442877/211451761-479be859-67d9-4996-9906-4b8acbd57917.png)
@@ -81,6 +82,18 @@
 
 ![image](https://user-images.githubusercontent.com/60442877/211692182-ed863aa1-6e35-47e2-8832-7996fea3a3ac.png)
 ![image](https://user-images.githubusercontent.com/60442877/211692213-57b9f0f4-9d25-4f1f-aff5-be1709e05f38.png)
+
+<a id="a5"></a>
+# Format a date as specificed
+
+![image](https://user-images.githubusercontent.com/60442877/211693251-fc6c47ca-a48b-4b09-93c4-f41c241bfb66.png)
+![image](https://user-images.githubusercontent.com/60442877/211693283-08216ffd-642a-44b7-8e87-7c7fe48ef1c3.png)
+![image](https://user-images.githubusercontent.com/60442877/211693300-949d434f-a341-42a9-9697-4426597b0f30.png)
+![image](https://user-images.githubusercontent.com/60442877/211693321-7c23b2b8-4207-4a8d-92d9-b39ecc572b45.png)
+![image](https://user-images.githubusercontent.com/60442877/211693367-b863877e-6402-4e53-80fa-613c3b0d1f1b.png)
+
+
+
 
 
 
