@@ -6,7 +6,7 @@
 
 **[Return the number of days between two date values](#a4)**
 
-**[Format a date as specificed](#a4)**
+**[Format a date as specificed](#a5)**
 
 #
 #
