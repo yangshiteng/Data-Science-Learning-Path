@@ -4,7 +4,7 @@
 
 **[Extract the date part from a datetime](#a3)**
 
-
+**[Return the number of days between two date values](#a4)**
 
 
 #
@@ -76,8 +76,11 @@
 ![image](https://user-images.githubusercontent.com/60442877/211689580-3747b888-0591-47b1-85d4-e09c7eb2a2f1.png)
 ![image](https://user-images.githubusercontent.com/60442877/211689593-ee0d29ab-04ed-4ecd-8c1a-6f348270c612.png)
 
+<a id="a4"></a>
+# Return the number of days between two date values
 
-
+![image](https://user-images.githubusercontent.com/60442877/211692182-ed863aa1-6e35-47e2-8832-7996fea3a3ac.png)
+![image](https://user-images.githubusercontent.com/60442877/211692213-57b9f0f4-9d25-4f1f-aff5-be1709e05f38.png)
 
 
 
