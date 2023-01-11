@@ -2,11 +2,13 @@
 
 **[Return the current date or time](#a2)**
 
-**[Extract the date part from a datetime](#a3)**
+**[Extract the specific part from a datetime](#a3)**
 
 **[Return the number of days between two date values](#a4)**
 
 **[Format a date as specificed](#a5)**
+
+**[Create and return a date or time based on year, day, hour, minute and second values](#a6)**
 
 #
 #
@@ -36,7 +38,7 @@
 #
 
 <a id="a1"></a>
-# Add Time
+# Add or Subtract Time
 
 ## AddDate() or Date_Add()
 
@@ -58,7 +60,7 @@
 
 
 <a id="a2"></a>
-# Return the current date
+# Return the current date or time
 
 ## CurDate() or Current_Date()
 
@@ -76,7 +78,7 @@
 ![image](https://user-images.githubusercontent.com/60442877/211689225-a3b5240d-5754-4023-bc3c-597e243405fc.png)
 
 <a id="a3"></a>
-# Extract the date part from a datetime
+# Extract the specific part from a datetime
 
 ## Date()
 
@@ -112,9 +114,38 @@
 ![image](https://user-images.githubusercontent.com/60442877/211694466-aa5163c4-2b2b-4eaf-b949-ef1c5ba157bb.png)
 ![image](https://user-images.githubusercontent.com/60442877/211694493-8f23c33b-245d-4ff2-b8e3-a9a308e01a85.png)
 
+## Hour()
+
+![image](https://user-images.githubusercontent.com/60442877/211696223-2b6ee332-eeea-460a-876d-76aa00a62a62.png)
+![image](https://user-images.githubusercontent.com/60442877/211696245-22d4fcd0-455b-4c43-be00-0ced7db0eb87.png)
+![image](https://user-images.githubusercontent.com/60442877/211696266-bcdc6be8-89c1-44f2-ad0d-46ce18e80998.png)
+
+## Minute()
+
+![image](https://user-images.githubusercontent.com/60442877/211697348-0a22b282-5f74-4e5d-945c-beea9c1d6caa.png)
+![image](https://user-images.githubusercontent.com/60442877/211697355-aff95642-ac75-4f2a-852b-8aeebb18226c.png)
+
+## Month()
+
+![image](https://user-images.githubusercontent.com/60442877/211697383-68e716e9-4c00-49f3-8a0d-afca45629166.png)
+![image](https://user-images.githubusercontent.com/60442877/211697399-f4ceb5fc-21ab-4dd4-b427-3822b4441529.png)
+
+## Last_Day()
+
+![image](https://user-images.githubusercontent.com/60442877/211696366-8acbe025-2ddc-41d0-a774-d02d77b99646.png)
+![image](https://user-images.githubusercontent.com/60442877/211696379-7959aa44-ca5b-49e1-ba03-2846fabfa69a.png)
+
+## MonthName()
+
+![image](https://user-images.githubusercontent.com/60442877/211697472-45b68115-433a-4edc-bf32-4ce81d5922c1.png)
+![image](https://user-images.githubusercontent.com/60442877/211697492-cd26b818-c014-4ca3-8817-b1e56ff9c077.png)
+
+
 
 <a id="a4"></a>
 # Return the number of days between two date values
+
+## DateDiff()
 
 ![image](https://user-images.githubusercontent.com/60442877/211692182-ed863aa1-6e35-47e2-8832-7996fea3a3ac.png)
 ![image](https://user-images.githubusercontent.com/60442877/211692213-57b9f0f4-9d25-4f1f-aff5-be1709e05f38.png)
@@ -122,13 +153,26 @@
 <a id="a5"></a>
 # Format a date as specificed
 
+## Date_Format()
+
 ![image](https://user-images.githubusercontent.com/60442877/211693251-fc6c47ca-a48b-4b09-93c4-f41c241bfb66.png)
 ![image](https://user-images.githubusercontent.com/60442877/211693283-08216ffd-642a-44b7-8e87-7c7fe48ef1c3.png)
 ![image](https://user-images.githubusercontent.com/60442877/211693300-949d434f-a341-42a9-9697-4426597b0f30.png)
 ![image](https://user-images.githubusercontent.com/60442877/211693321-7c23b2b8-4207-4a8d-92d9-b39ecc572b45.png)
 ![image](https://user-images.githubusercontent.com/60442877/211693367-b863877e-6402-4e53-80fa-613c3b0d1f1b.png)
 
+<a id="a6"></a>
+# Create and return a date or time based on year, day, hour, minute and second values
 
+## MakeDate()
+
+![image](https://user-images.githubusercontent.com/60442877/211696618-f58c378d-0a53-43cc-b20a-893b29009879.png)
+![image](https://user-images.githubusercontent.com/60442877/211696634-6a236882-cc38-4bd0-b7ff-d7e21b329129.png)
+
+## MakeTime()
+
+![image](https://user-images.githubusercontent.com/60442877/211696886-d782f492-423d-4a3d-be62-9cb8026d918e.png)
+![image](https://user-images.githubusercontent.com/60442877/211696905-3d484f19-b361-48fd-88cf-0c2dc47df149.png)
 
 
 
