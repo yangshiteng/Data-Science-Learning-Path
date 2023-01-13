@@ -1,14 +1,14 @@
-**[Add or Subtract Time](#a1)**
+**[1. Add or Subtract Time](#a1)**
 
-**[Return the current date or time](#a2)**
+**[2. Return the current date or time](#a2)**
 
-**[Extract the specific part from a datetime](#a3)**
+**[3. Extract the specific part from a datetime](#a3)**
 
-**[Return the number of days between two date values](#a4)**
+**[4. Return the number of days between two date values](#a4)**
 
-**[Format a date as specificed](#a5)**
+**[5. Format a date as specificed](#a5)**
 
-**[Create and return a date or time based on year, day, hour, minute and second values](#a6)**
+**[6. Create and return a date or time based on year, day, hour, minute and second values](#a6)**
 
 #
 #
@@ -38,7 +38,7 @@
 #
 
 <a id="a1"></a>
-# Add or Subtract Time
+# 1. Add or Subtract Time
 
 ## * AddDate() or Date_Add()
 
@@ -60,7 +60,7 @@
 
 
 <a id="a2"></a>
-# Return the current date or time
+# 2. Return the current date or time
 
 ## * CurDate() or Current_Date()
 
@@ -78,7 +78,7 @@
 ![image](https://user-images.githubusercontent.com/60442877/211689225-a3b5240d-5754-4023-bc3c-597e243405fc.png)
 
 <a id="a3"></a>
-# Extract the specific part from a datetime
+# 3. Extract the specific part from a datetime
 
 ## * Extract()
 
@@ -163,7 +163,7 @@
 ![image](https://user-images.githubusercontent.com/60442877/212419495-e691b9d1-8426-4aa9-9b0c-718bbecf6f77.png)
 
 <a id="a4"></a>
-# Return the number of days between two date values
+# 4. Return the number of days between two date values
 
 ## * DateDiff()
 
@@ -171,7 +171,7 @@
 ![image](https://user-images.githubusercontent.com/60442877/211692213-57b9f0f4-9d25-4f1f-aff5-be1709e05f38.png)
 
 <a id="a5"></a>
-# Format a date as specificed
+# 5. Format a date as specificed
 
 ## * Date_Format()
 
@@ -182,7 +182,7 @@
 ![image](https://user-images.githubusercontent.com/60442877/211693367-b863877e-6402-4e53-80fa-613c3b0d1f1b.png)
 
 <a id="a6"></a>
-# Create and return a date or time based on year, day, hour, minute and second values
+# 6. Create and return a date or time based on year, day, hour, minute and second values
 
 ## * MakeDate()
 
