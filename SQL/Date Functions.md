@@ -140,14 +140,27 @@
 ![image](https://user-images.githubusercontent.com/60442877/211697796-2172d00c-f3ae-470e-84c7-5960c52e6889.png)
 ![image](https://user-images.githubusercontent.com/60442877/211697818-6a90f723-5047-434f-a1b5-3945e2e43686.png)
 
+## WeekDay()
+
+![image](https://user-images.githubusercontent.com/60442877/212418942-d029b488-4c97-46a8-be54-eae1e64ba78d.png)
+
+## WeekOfYear()
+
+![image](https://user-images.githubusercontent.com/60442877/212418997-64048bb0-dc0c-4d6b-ae20-3ec4f377be54.png)
+
 ## Last_Day()
 
 ![image](https://user-images.githubusercontent.com/60442877/211696366-8acbe025-2ddc-41d0-a774-d02d77b99646.png)
 ![image](https://user-images.githubusercontent.com/60442877/211696379-7959aa44-ca5b-49e1-ba03-2846fabfa69a.png)
 
+## Year()
 
+![image](https://user-images.githubusercontent.com/60442877/212419370-576745ae-ce38-4385-9a2c-62b5148108b7.png)
 
+## YearWeek()
 
+![image](https://user-images.githubusercontent.com/60442877/212419478-9d986149-5cc4-43bd-acc5-348e16c6d7e7.png)
+![image](https://user-images.githubusercontent.com/60442877/212419495-e691b9d1-8426-4aa9-9b0c-718bbecf6f77.png)
 
 <a id="a4"></a>
 # Return the number of days between two date values
