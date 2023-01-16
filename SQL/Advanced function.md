@@ -2,6 +2,7 @@
 
 **[Convert a value to a binary string](#a2)**
 
+**[Return the name of the current database](#a3)**
 
 #
 #
@@ -41,6 +42,11 @@
 ![image](https://user-images.githubusercontent.com/60442877/212743470-74256715-94c4-49e4-8d9e-fe93e31ba1fa.png)
 ![image](https://user-images.githubusercontent.com/60442877/212743532-2980c433-d285-4fe8-9e04-1bb0c0b35eff.png)
 
+<a id="a3"></a>
+# Return the name of the current database
+## * Database()
+![image](https://user-images.githubusercontent.com/60442877/212745003-97571221-a20b-4285-b8b1-ab555b12c026.png)
+![image](https://user-images.githubusercontent.com/60442877/212745029-ed5778b5-df29-4d98-9978-3d1cb74ed995.png)
 
 
 
