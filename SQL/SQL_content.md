@@ -16,6 +16,7 @@
   * [Case When Then Else End](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/SQL/CaseWhenThenElseEnd.md)
   * [Null Functions (IFNULL, ISNULL, COALESCE) ](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/SQL/NullFunctions.md)
   * [SQL Arithmetic Operators](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/SQL/SQL%20Arithmetic%20Operators.md)
+  * [Cast() converts a value of any type into the specified datatype]()
 ## 2. From (which table) 
   * [Inner Join, Left Join, Right Join, Full Join](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/SQL_join.md)
   * [Self Join, Cross Join](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/SQL/self%20join.md)
