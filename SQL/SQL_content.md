@@ -14,7 +14,7 @@
   * [Count, Avg and Sum](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/SQL/Count%2C%20Avg%20and%20Sum.md)
   * [Column concatenate](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/SQL/ColumnCombine.md)
   * [Case When Then Else End](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/SQL/CaseWhenThenElseEnd.md)
-  * [Null Functions (IFNULL, ISNULL, COALESCE) ](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/SQL/NullFunctions.md)
+  * [Null Functions (IFNULL, ISNULL, COALESCE, etc...) ](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/SQL/NullFunctions.md)
   * [SQL Arithmetic Operators](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/SQL/SQL%20Arithmetic%20Operators.md)
   * [Cast() or Convert() converts a value of any type into the specified datatype](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/SQL/CastFunction.md)
   * [If() returns a value if a condition is TRUE, or another value if a condition is FALSE](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/SQL/If_function.md)
