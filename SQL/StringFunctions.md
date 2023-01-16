@@ -1,26 +1,26 @@
-# **[1. Return the Length of a String](#a1)**
+**[1. Return the Length of a String](#a1)**
 
-# **[2. Adds two or more expressions together](#a2)**
+**[2. Adds two or more expressions together](#a2)**
 
-# **[3. String Replacement](#a3)**
+**[3. String Replacement](#a3)**
 
-# **[4. Find position](#a4)**
+**[4. Find position](#a4)**
 
-# **[5. Converts a string to lower-case or upper-case](#a5)**
+**[5. Converts a string to lower-case or upper-case](#a5)**
 
-# **[6. String Extraction](#a6)**
+**[6. String Extraction](#a6)**
 
-# **[7. Left-pad or Right-pad a string with another string](#a7)**
+**[7. Left-pad or Right-pad a string with another string](#a7)**
 
-# **[8. Removes leading or trailing spaces from a string](#a8)**
+**[8. Removes leading or trailing spaces from a string](#a8)**
 
-# **[9. Repeat a string as many times as specified](#a9)**
+**[9. Repeat a string as many times as specified](#a9)**
 
-# **[10. Reverse a string](#a10)**
+**[10. Reverse a string](#a10)**
 
-# **[11. Return a specified number of space characters](#a11)**
+**[11. Return a specified number of space characters](#a11)**
 
-# **[12. String Comparison](#a12)**
+**[12. String Comparison](#a12)**
 
 #
 #
