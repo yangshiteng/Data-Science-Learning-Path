@@ -4,6 +4,8 @@
 
 **[Return the name of the current database](#a3)**
 
+**[Return the current version of the MySQL database](#a4)**
+
 #
 #
 #
@@ -47,6 +49,12 @@
 ## * Database()
 ![image](https://user-images.githubusercontent.com/60442877/212745003-97571221-a20b-4285-b8b1-ab555b12c026.png)
 ![image](https://user-images.githubusercontent.com/60442877/212745029-ed5778b5-df29-4d98-9978-3d1cb74ed995.png)
+
+<a id="a4"></a>
+# Return the current version of the MySQL database
+## * Version()
+![image](https://user-images.githubusercontent.com/60442877/212746583-395b3a45-78a6-4a28-9840-488772c15230.png)
+![image](https://user-images.githubusercontent.com/60442877/212746599-d279197d-06d3-4698-88ec-21b6fa8b3ce2.png)
 
 
 
