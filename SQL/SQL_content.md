@@ -18,7 +18,7 @@
   * [SQL Arithmetic Operators](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/SQL/SQL%20Arithmetic%20Operators.md)
   * [Cast() or Convert() converts a value of any type into the specified datatype](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/SQL/CastFunction.md)
   * [If() returns a value if a condition is TRUE, or another value if a condition is FALSE](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/SQL/If_function.md)
-  * [Window Function]()
+  * [Window Function](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/SQL/Window%20Function.md)
 ## 2. From (which table) 
   * [Inner Join, Left Join, Right Join, Full Join](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/SQL_join.md)
   * [Self Join, Cross Join](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/SQL/self%20join.md)
