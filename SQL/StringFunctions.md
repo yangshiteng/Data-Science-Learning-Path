@@ -122,6 +122,7 @@
 ## 6.2 Right()
 
 ![image](https://user-images.githubusercontent.com/60442877/210281974-1c46a3b2-b55e-4d3a-93e8-75c96c264fbe.png)
+![image](https://user-images.githubusercontent.com/60442877/213002365-2d211b3c-41ff-439c-b04a-cb1ae98c7dca.png)
 
 ## 6.3 Mid() 
 
