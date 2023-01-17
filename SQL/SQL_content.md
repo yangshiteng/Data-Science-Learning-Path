@@ -13,7 +13,6 @@
   * [Min() and Max()](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/SQL/minandmax.md)
   * [Count, Avg and Sum](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/SQL/Count%2C%20Avg%20and%20Sum.md)
   * [Column concatenate](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/SQL/ColumnCombine.md)
-  * [Case When Then Else End](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/SQL/CaseWhenThenElseEnd.md)
   * [Null Functions (IFNULL, ISNULL, COALESCE, etc...) ](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/SQL/NullFunctions.md)
   * [SQL Arithmetic Operators](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/SQL/SQL%20Arithmetic%20Operators.md)
   * [Cast() or Convert() converts a value of any type into the specified datatype](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/SQL/CastFunction.md)
@@ -42,6 +41,9 @@
   * [Order by Aggregate functions: Count, Max, Min, Sum, Avg](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/SQL/Order%20by%20Aggregate%20functions:%20Count%2C%20Max%2C%20Min%2C%20Sum%2C%20Avg.md)
 ## 7. Union
   * [Union, Union All](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/SQL/Union.md)
+## 8. Multiple Clause Application 
+  * [Case When Then Else End](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/SQL/CaseWhenThenElseEnd.md)
+
 
 # Table Edit
 
