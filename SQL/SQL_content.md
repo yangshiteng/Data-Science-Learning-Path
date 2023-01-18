@@ -40,7 +40,7 @@
   * [Order by Case When Then Else End](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/SQL/Order%20by%20Case%20When%20Then%20Else%20End.md)
   * [Order by Aggregate functions: Count, Max, Min, Sum, Avg](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/SQL/Order%20by%20Aggregate%20functions:%20Count%2C%20Max%2C%20Min%2C%20Sum%2C%20Avg.md)
 ## 7. limit & offset
-  * [limit & offset (MySQL)]()
+  * [limit & offset (MySQL)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/SQL/limit%20and%20offset.md)
 ## 8. Union
   * [Union, Union All](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/SQL/Union.md)
 ## 9. Multiple Clause Application 
