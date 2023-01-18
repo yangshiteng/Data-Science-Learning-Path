@@ -169,6 +169,7 @@
 
 ![image](https://user-images.githubusercontent.com/60442877/211692182-ed863aa1-6e35-47e2-8832-7996fea3a3ac.png)
 ![image](https://user-images.githubusercontent.com/60442877/211692213-57b9f0f4-9d25-4f1f-aff5-be1709e05f38.png)
+![image](https://user-images.githubusercontent.com/60442877/213306285-a03b1c76-adb0-43fd-a3ea-970904d4f8c7.png)
 
 <a id="a5"></a>
 # 5. Format a date as specificed
