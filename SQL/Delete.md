@@ -14,3 +14,5 @@
 ![image](https://user-images.githubusercontent.com/60442877/212999723-2a820d5a-ed48-47c0-aa1c-044188657b09.png)
 ![image](https://user-images.githubusercontent.com/60442877/212999821-6727269a-5907-4f4a-9fab-57fb4d1cebf7.png)
 
+    DELETE p1 FROM Person p1, Person p2
+    WHERE p1.Email = p2.Email AND p1.Id > p2.Id
