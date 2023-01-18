@@ -16,3 +16,32 @@
     select distinct l1.num as ConsecutiveNums
     from Logs l1, Logs l2, Logs l3
     where l1.num = l2.num and l2.num = l3.num and l1.id+1 = l2.id and l2.id+1 = l3.id
+
+
+![image](https://user-images.githubusercontent.com/60442877/213299179-385e2537-1fdc-4c10-a66b-75b3e61c167f.png)
+![image](https://user-images.githubusercontent.com/60442877/213299265-58c53bc8-3b41-4920-9538-f535e6874f48.png)
+
+    SELECT
+    Department.name AS 'Department',
+    Employee.name AS 'Employee',
+    Salary
+    FROM
+    Employee
+        JOIN
+    Department ON Employee.DepartmentId = Department.Id
+    WHERE
+    (Employee.DepartmentId , Salary) IN
+    (   SELECT
+            DepartmentId, MAX(Salary)
+        FROM
+            Employee
+        GROUP BY DepartmentId
+    )
+    ;
+
+    select D.name as Department, P1.name as Employee, P1.salary as Salary
+    from (select name, salary, departmentId, dense_rank() over(partition by departmentId order by salary DESC) AS emp_dense_rank from Employee) P1 join Department D on P1.departmentId = D.id
+    where P1.emp_dense_rank = 1
+
+    
+    
