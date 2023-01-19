@@ -18,6 +18,7 @@
   * [Cast() or Convert() converts a value of any type into the specified datatype](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/SQL/CastFunction.md)
   * [If() returns a value if a condition is TRUE, or another value if a condition is FALSE](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/SQL/If_function.md)
   * [Window Function, Rank(), Dense_Rank(), Row_Number()](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/SQL/Window%20Function.md)
+  * [Sum() of case_when_then_else_end or Sum() of if()]()
 ## 2. From (which table) 
   * [Inner Join, Left Join, Right Join, Full Join](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/SQL_join.md)
   * [Self Join, Cross Join](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/SQL/self%20join.md)
@@ -85,3 +86,5 @@
 ## [2. Numeric Functions](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/SQL/NumericFunctions.md)
 ## [3. Date Functions](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/SQL/Date%20Functions.md)
 ## [4. Advanced Functions](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/SQL/Advanced%20function.md)
+
+
