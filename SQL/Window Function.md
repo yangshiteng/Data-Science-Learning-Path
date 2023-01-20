@@ -24,3 +24,9 @@
     select D.name as Department, P1.name as Employee, P1.salary as Salary
     from (select name, salary, departmentId, dense_rank() over(partition by departmentId order by salary DESC) AS emp_dense_rank from Employee) P1 join Department D on P1.departmentId = D.id
     where P1.emp_dense_rank in (1,2,3)
+
+![image](https://user-images.githubusercontent.com/60442877/213603725-272fbce1-2166-4910-bb6e-90e735bcd498.png)
+![image](https://user-images.githubusercontent.com/60442877/213603742-a7cc6735-b543-4a90-a611-fa38ab9792e6.png)
+
+    select player_id, event_date, sum(games_played) over(partition by player_id order by event_date) as games_played_so_far
+    from Activity
