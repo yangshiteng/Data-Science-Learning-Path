@@ -43,5 +43,11 @@
     from (select name, salary, departmentId, dense_rank() over(partition by departmentId order by salary DESC) AS emp_dense_rank from Employee) P1 join Department D on P1.departmentId = D.id
     where P1.emp_dense_rank = 1
 
-    
+
+![image](https://user-images.githubusercontent.com/60442877/213621366-4af2c88a-a506-48c0-a911-0d5c6f5ff61b.png)
+![image](https://user-images.githubusercontent.com/60442877/213621394-9f2fbc2a-8d72-45bd-9d62-ce2353a724b8.png)
+
+    Select round(count(*)/(select count(distinct player_id) from Activity),2) as fraction
+    From Activity 
+    Where (player_id, event_date) in (select player_id, AddDate(min(event_date),1) from Activity group by player_id)
     
