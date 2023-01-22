@@ -87,5 +87,5 @@
 ## [2. Numeric Functions](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/SQL/NumericFunctions.md)
 ## [3. Date Functions](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/SQL/Date%20Functions.md)
 ## [4. Advanced Functions](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/SQL/Advanced%20function.md)
-## [5. Calculate Median (MySQL)]()
+## [5. Calculate Median (MySQL)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/SQL/median.md)
 
