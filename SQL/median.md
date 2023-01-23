@@ -16,11 +16,11 @@
         select company, if(salary_number % 2 != 0, (salary_number+1)/2, salary_number/2+1) as median_numb from temp2
     )
     
-# Solution 2:
-
     select id, company, salary
     from temp1
     where (company, emp_row_no) in (select * from temp3)
+
+# Solution 2:
 
     select Id, Company, Salary
     from (select id, company, salary, 
