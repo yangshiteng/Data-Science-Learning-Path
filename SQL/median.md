@@ -29,3 +29,13 @@
         from employee) as foo
     where salaryrank >= tte/2 and salaryrank <= tte/2+1
 
+![image](https://user-images.githubusercontent.com/60442877/214458582-d64ece44-a014-433f-b7f3-5c1af28d6358.png)
+![image](https://user-images.githubusercontent.com/60442877/214458591-ca227946-8a7d-4165-9598-e250d4e0567c.png)
+![image](https://user-images.githubusercontent.com/60442877/214458533-f4c090f2-13bb-43b7-ad30-1452546326cd.png)
+
+    with t as (select *, sum(frequency) over(order by number) freq, (sum(frequency) over())/2 median_num
+               from numbers)
+
+    select avg(number) as median
+    from t
+    where median_num between (freq-frequency) and freq
