@@ -35,7 +35,7 @@
 ![image](https://user-images.githubusercontent.com/60442877/213952684-26eb223d-6616-423a-8c8b-61ed2304f855.png)
 ![image](https://user-images.githubusercontent.com/60442877/213952730-0f1ed531-17fa-4fd7-9173-a23ef5dcb23d.png)
 
-# Solution 1
+## Solution 1
 
     with temp1 as(
     select id, company, salary, row_number() over (partition by company order by salary,id) as emp_row_no
@@ -53,7 +53,7 @@
     from temp1
     where (company, emp_row_no) in (select * from temp3)
 
-# Solution 2:
+## Solution 2:
 
     select Id, Company, Salary
     from (select id, company, salary, 
@@ -61,6 +61,8 @@
            count(*) over(partition by company) tte 
         from employee) as foo
     where salaryrank >= tte/2 and salaryrank <= tte/2+1
+
+# Find Cumulative Sum
 
 ![image](https://user-images.githubusercontent.com/60442877/214458582-d64ece44-a014-433f-b7f3-5c1af28d6358.png)
 ![image](https://user-images.githubusercontent.com/60442877/214458591-ca227946-8a7d-4165-9598-e250d4e0567c.png)
