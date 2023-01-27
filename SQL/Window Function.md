@@ -87,4 +87,18 @@
     where median_num between (freq-frequency) and freq
 
 
+# Cumulative Sum within some range
 
+![image](https://user-images.githubusercontent.com/60442877/215009197-b7511934-14e9-4e7e-b075-db86dfaa8bf9.png)
+![image](https://user-images.githubusercontent.com/60442877/215009252-ae6d1f04-ca6c-49e7-a2a5-c440e25d9a5c.png)
+![image](https://user-images.githubusercontent.com/60442877/215009262-299006e1-9705-405c-ba13-e5ccaa0b9806.png)
+
+    with cte as (
+        select id, month, 
+            sum(salary) over(partition by id order by month range between 2 preceding and current row) as 'Salary',
+            rank() over(partition by id order by month desc) as rk
+        from Employee
+    )
+    select id, month, Salary
+    from cte 
+    where rk > 1
