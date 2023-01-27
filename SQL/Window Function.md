@@ -42,8 +42,6 @@
 ![image](https://user-images.githubusercontent.com/60442877/213952684-26eb223d-6616-423a-8c8b-61ed2304f855.png)
 ![image](https://user-images.githubusercontent.com/60442877/213952730-0f1ed531-17fa-4fd7-9173-a23ef5dcb23d.png)
 
-
-
     with temp1 as(
     select id, company, salary, row_number() over (partition by company order by salary,id) as emp_row_no
     from Employee),
@@ -60,7 +58,7 @@
     from temp1
     where (company, emp_row_no) in (select * from temp3)
 
-
+#################################################################################
 
     select Id, Company, Salary
     from (select id, company, salary, 
