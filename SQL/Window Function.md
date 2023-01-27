@@ -1,4 +1,10 @@
-# Window Function 
+# Window Function
+
+* Ranking the rows
+* Calculating a single value such as sum, average, min, max, count, and assign this value to each row
+* Calculating cumulative values such as sum, average
+* Calculating cumulative values such as sum, average with in some range
+
 
 ![image](https://user-images.githubusercontent.com/60442877/214994878-6a118c70-e503-4da2-840f-0fe802313aff.png)
 ![image](https://user-images.githubusercontent.com/60442877/214994989-7a38b4d6-d808-4624-85ff-e97ed0a6cc80.png)
