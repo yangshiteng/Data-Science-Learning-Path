@@ -13,6 +13,7 @@
 
 # Leetcode Question
 
+## Dense_Rank() 
 ![image](https://user-images.githubusercontent.com/60442877/213212657-15b5f8ff-a627-489e-ad29-a4721de35f8f.png)
 ![image](https://user-images.githubusercontent.com/60442877/213212698-979839c8-cba4-4c95-94e7-6bcadda1513f.png)
 
