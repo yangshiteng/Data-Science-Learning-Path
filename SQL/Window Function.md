@@ -1,11 +1,15 @@
+# Window Function 
 
-![image](https://user-images.githubusercontent.com/60442877/212808429-dbce8c20-835a-4c7c-b096-378cb5c9cf5d.png)
-![image](https://user-images.githubusercontent.com/60442877/212808461-b84e8c51-02b7-4363-880b-82dc41437b44.png)
-![image](https://user-images.githubusercontent.com/60442877/212808484-ab894cd7-4912-4b11-9c58-709e262fdeab.png)
-![image](https://user-images.githubusercontent.com/60442877/212808520-ca63e435-7b91-429e-9eca-7cc761a64d20.png)
-![image](https://user-images.githubusercontent.com/60442877/212808546-66834a57-05c0-432d-8750-6fb946015f0b.png)
-![image](https://user-images.githubusercontent.com/60442877/212808624-e0977d14-34e1-4146-9a53-0b89cd66e70e.png)
-![image](https://user-images.githubusercontent.com/60442877/212808644-a06973eb-ee5c-4ed9-9917-2be895e02c3e.png)
+![image](https://user-images.githubusercontent.com/60442877/214994878-6a118c70-e503-4da2-840f-0fe802313aff.png)
+![image](https://user-images.githubusercontent.com/60442877/214994989-7a38b4d6-d808-4624-85ff-e97ed0a6cc80.png)
+![image](https://user-images.githubusercontent.com/60442877/214995016-e16c5a51-ee14-46ad-a0bf-4c2cddeedc54.png)
+![image](https://user-images.githubusercontent.com/60442877/214995078-be024c66-a810-416a-9e87-b324cb7e3d16.png)
+
+# Ranking Window Functions
+
+![image](https://user-images.githubusercontent.com/60442877/214995144-b3e01168-d38f-4b23-a5b4-526461fbf582.png)
+![image](https://user-images.githubusercontent.com/60442877/214995179-a94ee988-126c-4beb-a956-7d856bf953f1.png)
+![image](https://user-images.githubusercontent.com/60442877/214995208-5f0793b7-ffed-4b1f-8b98-e1236e5ed1b7.png)
 
 # Leetcode Question
 
