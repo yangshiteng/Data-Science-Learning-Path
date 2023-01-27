@@ -21,7 +21,7 @@
     from Scores
     order by score Desc
 
-
+## Dense_Rank() 
 ![image](https://user-images.githubusercontent.com/60442877/213300902-54be024a-019c-4076-869b-a9ae7c4ac4d4.png)
 ![image](https://user-images.githubusercontent.com/60442877/213300952-67dd5f19-6742-4cd2-b1aa-7989c2650a30.png)
 ![image](https://user-images.githubusercontent.com/60442877/213300992-3d1bbf75-ec6d-4520-9585-0c873dc3015e.png)
