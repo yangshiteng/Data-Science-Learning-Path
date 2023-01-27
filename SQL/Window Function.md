@@ -67,7 +67,7 @@
         from employee) as foo
     where salaryrank >= tte/2 and salaryrank <= tte/2+1
 
-# Find Cumulative Sum
+# Cumulative Sum and Total Sum
 
 ![image](https://user-images.githubusercontent.com/60442877/214458582-d64ece44-a014-433f-b7f3-5c1af28d6358.png)
 ![image](https://user-images.githubusercontent.com/60442877/214458591-ca227946-8a7d-4165-9598-e250d4e0567c.png)
