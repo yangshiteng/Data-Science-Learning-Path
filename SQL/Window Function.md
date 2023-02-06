@@ -102,3 +102,31 @@
     select id, month, Salary
     from cte 
     where rk > 1
+    
+# Cumulative Count with preceding or following range
+
+![image](https://user-images.githubusercontent.com/60442877/217099861-0f186a35-b55c-4646-b81a-99245af5a044.png)
+![image](https://user-images.githubusercontent.com/60442877/217099879-5995f479-e792-4d30-bbdc-2ba6c35c1bfe.png)
+
+    with q1 as (
+    select *, 
+         count(*) over( order by id range between current row and 2 following ) following_cnt,
+         count(*) over( order by id range between 2 preceding and current row ) preceding_cnt,
+         count(*) over( order by id range between 1 preceding and 1 following ) current_cnt
+    from stadium
+    where people > 99
+    )
+    select id, visit_date, people
+    from q1
+    where following_cnt = 3 or preceding_cnt = 3 or current_cnt = 3
+    order by visit_date
+    
+    with q1 as (
+    select *, id - row_number() over() as id_diff
+    from stadium
+    where people > 99
+    )
+    select id, visit_date, people
+    from q1
+    where id_diff in (select id_diff from q1 group by id_diff having count(*) > 2)
+    order by visit_date
