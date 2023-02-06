@@ -120,7 +120,7 @@
     from q1
     where following_cnt = 3 or preceding_cnt = 3 or current_cnt = 3
     order by visit_date
-    -------------------------------------------------------------------------------------------------------
+
     with q1 as (
     select *, id - row_number() over() as id_diff
     from stadium
