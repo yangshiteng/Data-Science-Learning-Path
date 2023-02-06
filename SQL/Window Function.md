@@ -105,7 +105,7 @@
     
     # consecutive calculation by month, for example, current row month is 7, precieding 2 month should be 6 and 5, even though those 2 months are not existing in the table
     
-# Cumulative Count with preceding or following range (consecutive calculation by id)
+# Cumulative Count with preceding or following range 
 
 ![image](https://user-images.githubusercontent.com/60442877/217099861-0f186a35-b55c-4646-b81a-99245af5a044.png)
 ![image](https://user-images.githubusercontent.com/60442877/217099879-5995f479-e792-4d30-bbdc-2ba6c35c1bfe.png)
@@ -122,6 +122,9 @@
     from q1
     where following_cnt = 3 or preceding_cnt = 3 or current_cnt = 3
     order by visit_date
+    
+    # consecutive calculation by id, for example, if current row is id 3, following two rows should be 4 and 5 even though id 4 not exist for people > 99
+    
 ##########################################################################################################################
 
     with q1 as (
