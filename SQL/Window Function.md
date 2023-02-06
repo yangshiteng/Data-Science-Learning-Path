@@ -87,7 +87,7 @@
     where median_num between (freq-frequency) and freq
 
 
-# Cumulative Sum within some range
+# Cumulative Sum within some range (consecutive calculation by month)
 
 ![image](https://user-images.githubusercontent.com/60442877/215009197-b7511934-14e9-4e7e-b075-db86dfaa8bf9.png)
 ![image](https://user-images.githubusercontent.com/60442877/215009252-ae6d1f04-ca6c-49e7-a2a5-c440e25d9a5c.png)
@@ -103,7 +103,7 @@
     from cte 
     where rk > 1
     
-# Cumulative Count with preceding or following range
+# Cumulative Count with preceding or following range (consecutive calculation by id)
 
 ![image](https://user-images.githubusercontent.com/60442877/217099861-0f186a35-b55c-4646-b81a-99245af5a044.png)
 ![image](https://user-images.githubusercontent.com/60442877/217099879-5995f479-e792-4d30-bbdc-2ba6c35c1bfe.png)
