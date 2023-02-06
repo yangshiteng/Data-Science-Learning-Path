@@ -87,7 +87,7 @@
     where median_num between (freq-frequency) and freq
 
 
-# Cumulative Sum within some range (consecutive calculation by month)
+# Cumulative Sum within some range 
 
 ![image](https://user-images.githubusercontent.com/60442877/215009197-b7511934-14e9-4e7e-b075-db86dfaa8bf9.png)
 ![image](https://user-images.githubusercontent.com/60442877/215009252-ae6d1f04-ca6c-49e7-a2a5-c440e25d9a5c.png)
@@ -102,6 +102,8 @@
     select id, month, Salary
     from cte 
     where rk > 1
+    
+    # consecutive calculation by month, for example, current row month is 7, precieding 2 month should be 6 and 5, even though those 2 months are not existing in the table
     
 # Cumulative Count with preceding or following range (consecutive calculation by id)
 
