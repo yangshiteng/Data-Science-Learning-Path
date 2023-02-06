@@ -127,7 +127,7 @@
     
     # consecutive calculation by id, for example, if current row is id 3, following two rows should be 4 and 5 even though id 4 not exist for people > 99
     
-##########################################################################################################################
+###########################################################################
 
     with q1 as (
     select *, id - row_number() over() as id_diff
