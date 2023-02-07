@@ -15,7 +15,7 @@
 
 ![image](https://user-images.githubusercontent.com/60442877/206081613-f7532db5-34b9-40d4-ba74-df82a1b45aa4.png)
 
-# Full Join
+# Full Join (not applicable in MySQL)
 
 ![image](https://user-images.githubusercontent.com/60442877/206081727-c868797b-3f9a-44a7-9d6f-9b88c65fa24a.png)
 ![image](https://user-images.githubusercontent.com/60442877/206081883-c1025445-4882-40ff-b771-7a0cad5ff244.png)
