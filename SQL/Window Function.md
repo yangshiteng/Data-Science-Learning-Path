@@ -3,7 +3,7 @@
 * Ranking the rows
 * Calculating a single value such as sum, average, min, max, count, and assign this value to each row
 * Calculating cumulative values such as sum, average
-* Calculating cumulative values such as sum, average with in some range
+* Calculating cumulative values such as sum, average within some range
 
 
 ![image](https://user-images.githubusercontent.com/60442877/214994878-6a118c70-e503-4da2-840f-0fe802313aff.png)
@@ -16,6 +16,25 @@
 ![image](https://user-images.githubusercontent.com/60442877/214995144-b3e01168-d38f-4b23-a5b4-526461fbf582.png)
 ![image](https://user-images.githubusercontent.com/60442877/214995179-a94ee988-126c-4beb-a956-7d856bf953f1.png)
 ![image](https://user-images.githubusercontent.com/60442877/214995208-5f0793b7-ffed-4b1f-8b98-e1236e5ed1b7.png)
+
+# MS SQL Server LEAD and LAG function
+
+## LAG function
+
+![image](https://user-images.githubusercontent.com/60442877/217402708-2883d820-3ba2-44b9-8cd6-c6805f335411.png)
+![image](https://user-images.githubusercontent.com/60442877/217402745-9d6051cf-a74d-4e89-a0f5-795b79a2996d.png)
+![image](https://user-images.githubusercontent.com/60442877/217402813-6dc84481-37b8-458e-adc3-47e3a25613cb.png)
+![image](https://user-images.githubusercontent.com/60442877/217403066-b2bbee8d-535d-417c-82f1-710efd32e389.png)
+![image](https://user-images.githubusercontent.com/60442877/217403079-3912c7fa-ee97-4e14-8fc4-a2c197a1473f.png)
+
+## LEAD function
+
+![image](https://user-images.githubusercontent.com/60442877/217403185-4c63ec61-ea25-480f-845e-f5b7907f1731.png)
+![image](https://user-images.githubusercontent.com/60442877/217403203-f09cccee-4d40-496c-b4ca-d9d48b2da5c8.png)
+![image](https://user-images.githubusercontent.com/60442877/217403227-54a35a9f-4a57-47b4-aaae-4571ade1536a.png)
+![image](https://user-images.githubusercontent.com/60442877/217403253-8089b6c3-fd70-42dc-ab9e-c999c0b99cbd.png)
+![image](https://user-images.githubusercontent.com/60442877/217403282-d0b13d5f-5bdb-421b-a85b-5641b0214637.png)
+
 
 # Leetcode Question
 
