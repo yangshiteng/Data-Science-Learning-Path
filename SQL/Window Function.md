@@ -89,7 +89,7 @@
 
 # Cumulative Calculation with preceding or following range
 
-## Leetcode question 1
+## Leetcode question 1 (Cumulative Sum within a specified range)
 
 ![image](https://user-images.githubusercontent.com/60442877/215009197-b7511934-14e9-4e7e-b075-db86dfaa8bf9.png)
 ![image](https://user-images.githubusercontent.com/60442877/215009252-ae6d1f04-ca6c-49e7-a2a5-c440e25d9a5c.png)
@@ -107,7 +107,7 @@
     
     # consecutive calculation by month, for example, current row month is 7, precieding 2 month should be 6 and 5, even though those 2 months are not existing in the table
     
-## LeetCode Question 2
+## LeetCode Question 2 ()
 
 ![image](https://user-images.githubusercontent.com/60442877/217099861-0f186a35-b55c-4646-b81a-99245af5a044.png)
 ![image](https://user-images.githubusercontent.com/60442877/217099879-5995f479-e792-4d30-bbdc-2ba6c35c1bfe.png)
