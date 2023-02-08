@@ -107,7 +107,7 @@
     
     # consecutive calculation by month, for example, current row month is 7, precieding 2 month should be 6 and 5, even though those 2 months are not existing in the table
     
-## LeetCode Question 2 ()
+## LeetCode Question 2 (consecutive id problem)
 
 ![image](https://user-images.githubusercontent.com/60442877/217099861-0f186a35-b55c-4646-b81a-99245af5a044.png)
 ![image](https://user-images.githubusercontent.com/60442877/217099879-5995f479-e792-4d30-bbdc-2ba6c35c1bfe.png)
@@ -138,3 +138,25 @@
     from q1
     where id_diff in (select id_diff from q1 group by id_diff having count(*) > 2)
     order by visit_date
+
+# Consecutive id problem 
+
+![image](https://user-images.githubusercontent.com/60442877/217401449-076cc851-917e-4a6b-9034-212e29ed9b6b.png)
+![image](https://user-images.githubusercontent.com/60442877/217401464-b078ba46-45f6-4400-8dea-9532f42f7665.png)
+
+    with temp1 as(
+    select *, seat_id - row_number() over(order by seat_id) as temp_numb
+    from Cinema
+    where free = 1),
+    temp2 as(
+        select *, count(*) over(partition by temp_numb) as temp_numb2
+        from temp1
+    )
+
+    select seat_id
+    from temp2
+    where temp_numb2 > 1
+
+
+
+
