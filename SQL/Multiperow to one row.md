@@ -1,4 +1,4 @@
-# Concatenate data from multiple rows into one field
+# Concatenate data from multiple rows in same group into one single field
 ## Group_CONCAT()
 
 ![image](https://user-images.githubusercontent.com/60442877/213007473-d5235eec-9a17-4d92-8454-fecbd50b889d.png)
