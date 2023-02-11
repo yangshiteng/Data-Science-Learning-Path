@@ -22,7 +22,7 @@
 ![image](https://user-images.githubusercontent.com/60442877/217421742-e017f99a-e598-4315-b404-8b1220dafc86.png)
 ![image](https://user-images.githubusercontent.com/60442877/217421883-4115263d-213d-4445-aa8a-96b32f0c50ba.png)
 
-# LeetCode Question 2
+# LeetCode Question 2 (max of Null is still Null and Coalesce is not working there)
 
 ![image](https://user-images.githubusercontent.com/60442877/218234002-edc5d94c-2fc5-40f4-9081-0372f0388f3b.png)
 ![image](https://user-images.githubusercontent.com/60442877/218234009-418f5724-b13f-4bd8-ab0d-be5acae43e45.png)
