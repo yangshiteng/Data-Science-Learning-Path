@@ -182,7 +182,8 @@
 ![image](https://user-images.githubusercontent.com/60442877/219551304-b59a162f-7bfc-430b-8d3b-595b5f27d988.png)
 
 
-
+    select row_number() over(order by new_id) as id, student
+    from (select id + if(id % 2 = 1, 1, -1) as new_id, student from Seat) as tb
 
 
 
