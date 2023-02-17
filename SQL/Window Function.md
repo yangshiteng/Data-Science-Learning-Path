@@ -176,6 +176,15 @@
     from temp2
     where temp_numb2 > 1
 
+# Row Swap Problem
+
+![image](https://user-images.githubusercontent.com/60442877/219551289-e1b58fd8-173b-44a5-8cfe-8907c8fbe893.png)
+![image](https://user-images.githubusercontent.com/60442877/219551304-b59a162f-7bfc-430b-8d3b-595b5f27d988.png)
+
+
+
+
+
 
 
 
