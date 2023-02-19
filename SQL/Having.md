@@ -12,6 +12,7 @@
     group by buyer_id
     having sum(P.product_name = 'S8') > 0 and sum(P.product_name = 'iPhone') = 0
 #####################################################################
+
     select S.buyer_id
     from Sales S left join Product P on S.product_id = P.product_id
     group by buyer_id
