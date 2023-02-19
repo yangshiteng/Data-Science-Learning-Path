@@ -28,6 +28,7 @@
     from Sales S left join Product P on S.product_id = P.product_id
     group by S.product_id
     having sum(if(S.sale_date >= '2019-01-01' and S.sale_date <='2019-03-31',0,1)) = 0
+    # you can't write it as sum(if('2019-01-01'<S.sale_date<'2019-03-31',0,1)) = 0, grammar issue
     
 ######################
 
