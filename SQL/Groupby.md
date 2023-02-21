@@ -44,6 +44,26 @@
     group by business_id
     having count(event_type) > 1
 
+# LeetCode Question (Group Comparison in Select Clause is Value-Based)
 
+![image](https://user-images.githubusercontent.com/60442877/220463601-7f4266ac-cfb3-44ff-89e1-edff1c4302be.png)
+![image](https://user-images.githubusercontent.com/60442877/220463627-8afd09bf-b36b-46cd-b008-85c929c79306.png)
 
+    with temp1 as(
+    select spend_date, user_id, 'both' as new_platform, if(count(platform)=2, sum(amount), 0) as new_amount, if(count(platform)=2, 1, 0) as user_count
+    from Spending
+    group by spend_date, user_id
+    union
+    select spend_date, user_id, 'mobile' as new_platform, if(sum(platform='mobile') = 1 and count(platform)=1, sum(amount), 0) as new_amount,  if(sum(platform='mobile')/count(platform)=1, 1, 0) as user_count
+    from Spending
+    group by spend_date, user_id
+    union
+    select spend_date, user_id, 'desktop' as new_platform, if(sum(platform='desktop')/count(platform)=1, sum(amount), 0) as new_amount, if(sum(platform='desktop')/count(platform)=1, 1, 0) as user_count
+    from Spending
+    group by spend_date, user_id)
 
+    select spend_date, new_platform as platform, sum(new_amount) as total_amount, sum(user_count) as total_users
+    from temp1
+    group by spend_date, new_platform
+
+![image](https://user-images.githubusercontent.com/60442877/220464584-ed8b97e2-df1a-48c9-84e8-1289670b5d24.png)
