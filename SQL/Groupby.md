@@ -28,3 +28,22 @@
 * __In group by, a single record is a group, so, group vs group is not allowed__
 
 ![image](https://user-images.githubusercontent.com/60442877/220374460-7378b066-0f2a-47c2-aa11-6c63b28dc257.png)
+
+# LeetCode Question (Filter First, Group Later)
+
+![image](https://user-images.githubusercontent.com/60442877/220408343-25b5765d-f4fa-4fdc-941b-385e492fbf3f.png)
+![image](https://user-images.githubusercontent.com/60442877/220408378-0b249604-dd3e-41a8-8533-2f1ac98986fe.png)
+
+    with temp1 as (select *, avg(occurences) over(partition by event_type) as ave_event
+    from Events)
+
+    select business_id
+    from temp1
+    where occurences > ave_event
+    # Use where clause to filter table first, then group
+    group by business_id
+    having count(event_type) > 1
+
+
+
+
