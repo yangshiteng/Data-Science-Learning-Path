@@ -27,4 +27,4 @@
 
 * __In group by, a single record is a group, so, group vs group is not allowed__
 
-![image](https://user-images.githubusercontent.com/60442877/220370787-6ab6dcc7-31ba-43c1-aefb-a5099d80259c.png)
+![image](https://user-images.githubusercontent.com/60442877/220374460-7378b066-0f2a-47c2-aa11-6c63b28dc257.png)
