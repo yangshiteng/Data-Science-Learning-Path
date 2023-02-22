@@ -27,6 +27,7 @@
 ## 3. Where (which rows)
 * (can not be used with aggregate function)
 * (together with From, all the logics are applied to the table defined in from...where...)
+
   * [Comparison Operators](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/SQL/Comparison%20Operators.md)
   * [And, Or, Not](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/SQL/And%2C%20Or%2C%20Not.md)
   * [Is Null, Is Not Null](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/SQL/Nullvalue.md)
