@@ -38,6 +38,7 @@
   * [Any](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/SQL/Any.md)
   * [All](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/SQL/ALL.md)
 ## 4. Group by (which column)
+  * By using Group By clause, the table is divided into groups. And in Select Clause, some computations are applied to each group to generate a single value. So, one group one value. Moreover, the computations in each group is value-based not group-based.
   * [Group by clause](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/SQL/Groupby.md)
 ## 5. Having (which condition with which aggregate function)
   * [Having clause](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/SQL/Having.md)
