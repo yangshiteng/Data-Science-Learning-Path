@@ -91,6 +91,7 @@
         group by id
         order by id
 
+* Here, if(month = 'Jan', revenue, null) is (8000,null,null)
 
 
 
