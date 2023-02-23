@@ -31,7 +31,7 @@
     select firstName, lastName, city, state
     from Person left join Address using (personId)
 
-## Filter First and Join Later Rule
+## Filter First and Join Later vs Join First Filter Later
 
 ![image](https://user-images.githubusercontent.com/60442877/220133724-79242e4a-dab7-45d7-9678-62c0f50d3c87.png)
 ![image](https://user-images.githubusercontent.com/60442877/220133746-5e99e520-7126-473f-8ac7-b2e37ce22a17.png)
@@ -47,3 +47,6 @@
     having sum(o.quantity) is null or sum(quantity)<10
 ![image](https://user-images.githubusercontent.com/60442877/220134626-47bbbd29-70d3-4abc-b773-77dde34434d0.png)
 
+![image](https://user-images.githubusercontent.com/60442877/220811771-fbcad1e1-2c9f-47c5-89e6-6b8460e3e4c4.png)
+![image](https://user-images.githubusercontent.com/60442877/220811791-54b9a61d-ee14-47a5-8f93-431ff656d61c.png)
+![image](https://user-images.githubusercontent.com/60442877/220811815-f6ffaa34-6238-4a24-9712-ddc276ee7403.png)
