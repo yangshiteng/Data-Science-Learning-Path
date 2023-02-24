@@ -5,6 +5,10 @@
   * [Python - Add Comment](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/addcomment.md)
   * [Python - Slicing](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/pythonslicing.md)
 
+# Python Statistics
+
+* [Generate Random Number]()
+
 
 # Python Engineering
 
