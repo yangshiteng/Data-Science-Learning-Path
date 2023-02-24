@@ -7,6 +7,8 @@
 
 ![image](https://user-images.githubusercontent.com/60442877/204052713-782a6ad2-8382-4c36-954a-e6e3ebb9030f.png)
 
+# How to assign multiple values to multiple variables in a line
+
 ![image](https://user-images.githubusercontent.com/60442877/204052723-9d0759d1-b9b0-4d9a-9d45-f68c6cc0891f.png)
 
 ![image](https://user-images.githubusercontent.com/60442877/204052772-d76791b0-a805-4817-b7ae-189ee3b6658a.png)
