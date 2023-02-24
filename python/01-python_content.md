@@ -7,7 +7,7 @@
 
 # Python Statistics
 
-* [Generate Random Number]()
+* [Generate Random Number](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/Generate%20Random%20Number.md)
 
 
 # Python Engineering
