@@ -2,6 +2,7 @@
   * [Python - Data Type](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/PythonCommonKnowledge.md)
     * [Python - String](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/string.md)
   * [Python - Variable](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/Variable.md)
+  * [Python - Add Comment]()
   * [Python - Slicing](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/pythonslicing.md)
 
 
