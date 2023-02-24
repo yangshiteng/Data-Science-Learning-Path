@@ -13,7 +13,7 @@
 
 ![image](https://user-images.githubusercontent.com/60442877/204052723-9d0759d1-b9b0-4d9a-9d45-f68c6cc0891f.png)
 
-![image](https://user-images.githubusercontent.com/60442877/204052772-d76791b0-a805-4817-b7ae-189ee3b6658a.png)
+# Global Variable
 
 ![image](https://user-images.githubusercontent.com/60442877/204053232-df96746f-76a2-42d7-9816-908eafe8d0f8.png)
 
