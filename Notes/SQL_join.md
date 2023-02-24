@@ -20,6 +20,10 @@
 ![image](https://user-images.githubusercontent.com/60442877/206081727-c868797b-3f9a-44a7-9d6f-9b88c65fa24a.png)
 ![image](https://user-images.githubusercontent.com/60442877/206081883-c1025445-4882-40ff-b771-7a0cad5ff244.png)
 
+## Full Join in MYSQL with Union
+
+![image](https://user-images.githubusercontent.com/60442877/221287596-22cdaae2-1e6d-4429-b4b4-9f3002d98377.png)
+
 # LeetCode Question
 
 ## Left Join and simplified join keyword
