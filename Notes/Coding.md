@@ -2,6 +2,6 @@
 
 * [SQL](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/SQL/SQL_content.md)
 
-* [Hadoop]
+* [Big Data Platform: Hadoop, Spark]
 
 * [AWS]
