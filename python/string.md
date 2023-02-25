@@ -34,3 +34,15 @@
     a = "Hello, World!"
     print(a.split(",")) # returns ['Hello', ' World!']
     print(a.split())    # returns ['Hello,', 'World!']
+    
+## Count
+
+![image](https://user-images.githubusercontent.com/60442877/221363540-2b414849-61de-4a4a-bdd7-1bafe2f67561.png)
+
+    txt = "I love apples, apple are my favorite fruit"
+    x = txt.count("apple")
+    print(x) # returns 2
+    
+    txt = "I love apples, apple are my favorite fruit"
+    x = txt.count("apple", 10, 24)
+    print(x) # returns 1
