@@ -27,7 +27,7 @@
 ## String Replace
 
     a = "Hello, World!"
-    print(a.replace("H", "J")) # returns "Jello, World"
+    print(a.replace("H", "J")) # return "Jello, World"
     
 ## String Split (default separator is space)
 
