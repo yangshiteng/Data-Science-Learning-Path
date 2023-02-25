@@ -8,21 +8,21 @@
 ## Upper, Lower or Capitalize
 
     a = "Hello, World!"
-    print(a.upper()) # returns "HELLO, WORLD"
+    print(a.upper()) # return "HELLO, WORLD"
     
     a = "Hello, World!"
-    print(a.lower()) # returns "hello, world"
+    print(a.lower()) # return "hello, world"
     
     txt = "hello, and welcome to my world."
     x = txt.capitalize()
-    print (x) # returns "Hello, and welcome to my world."
+    print (x) # return "Hello, and welcome to my world."
 
 ## Remove Whitespace before or/and after the text
 
     a = " Hello, World! "
-    print(a.strip()) # returns "Hello, World"
-    print(a.rstrip() # returns " Hello, World"
-    print(a.lstrip() # returns "Hello, World "
+    print(a.strip()) # return "Hello, World"
+    print(a.rstrip() # return " Hello, World"
+    print(a.lstrip() # return "Hello, World "
     
 ## String Replace
 
@@ -32,8 +32,8 @@
 ## String Split (default separator is space)
 
     a = "Hello, World!"
-    print(a.split(",")) # returns ['Hello', ' World!']
-    print(a.split())    # returns ['Hello,', 'World!']
+    print(a.split(",")) # return ['Hello', ' World!']
+    print(a.split())    # return ['Hello,', 'World!']
     
 ## Count
 
@@ -41,11 +41,11 @@
 
     txt = "I love apples, apple are my favorite fruit"
     x = txt.count("apple")
-    print(x) # returns 2
+    print(x) # return 2
     
     txt = "I love apples, apple are my favorite fruit"
     x = txt.count("apple", 10, 24)
-    print(x) # returns 1
+    print(x) # return 1
     
 ## Start or End with
 
@@ -54,22 +54,41 @@
 
     txt = "Hello, welcome to my world."
     x = txt.startswith("Hello")
-    print(x) # returns True
-    
+    print(x) # return True
+   
     txt = "Hello, welcome to my world."
     x = txt.startswith("wel", 7, 20)
-    print(x) # returns True
+    print(x) # return True
 
     txt = "Hello, welcome to my world."
     x = txt.endswith(".")
-    print(x) # returns True
+    print(x) # return True
     
     txt = "Hello, welcome to my world."
     x = txt.endswith("my world.")
-    print(x) # returns True
+    print(x) # return True
     
     txt = "Hello, welcome to my world."
     x = txt.endswith("my world.", 5, 11)
-    print(x) # returns False
+    print(x) # return False
 
+## Find the index of the first occurence of the specified value
+
+### find()
+
+![image](https://user-images.githubusercontent.com/60442877/221364100-b8c3ad3d-ea23-4dca-a664-ca2d31eaa3ff.png)
+
+    txt = "Hello, welcome to my world."
+    x = txt.find("e")
+    print(x) # return 1
+
+    txt = "Hello, welcome to my world."
+    x = txt.find("e", 5, 10)
+    print(x) # return 8
+    
+    txt = "Hello, welcome to my world."
+    print(txt.find("q")) # return -1
+    print(txt.index("q")) # return error
+
+### index()
     
