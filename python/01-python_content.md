@@ -1,14 +1,18 @@
+
 # Python Basics
-  * [Python - Data Type](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/PythonCommonKnowledge.md)
-    * [Python - String](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/string.md)
-  * [Python - Variable](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/Variable.md)
-  * [Python - Add Comment](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/addcomment.md)
-  * [Python - Slicing](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/pythonslicing.md)
+
+ * [Python - Variable](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/Variable.md)
+ * [Python - Add Comment](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/addcomment.md)
+ * [Python - Slicing](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/pythonslicing.md)
+
+# Python Data Type
+
+* [Python - Data Type](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/PythonCommonKnowledge.md)
+* [Python - String](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/string.md)
 
 # Python Statistics
 
 * [Generate Random Number](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/Generate%20Random%20Number.md)
-
 
 # Python Engineering
 
@@ -16,9 +20,11 @@
 * [if \_\_name__ == '\_\_main__'](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/ifnamemain.md)
 
 # Python Packages
-  * [Pandas](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/pandas.md)
+
+* [Pandas](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/pandas.md)
 
 # Python Practice
-  * [LeetCode Questions and Solutions](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/LeetCodeQuestions.md)
-  * [Terminal (cmd) in Windows](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/pythonterminal.md)
+
+* [LeetCode Questions and Solutions](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/LeetCodeQuestions.md)
+* [Terminal (cmd) in Windows](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/pythonterminal.md)
 
