@@ -122,7 +122,7 @@
     x = txt.endswith("my world.", 5, 11)
     print(x) # return False
 
-### * Check if all characters in the string are alphanumeric
+### * Check if all characters in the string are alphanumeric (0-9A-Za-z)
 
 ![image](https://user-images.githubusercontent.com/60442877/221390177-f372e866-aace-4e90-8369-5ce72ae43411.png)
 
@@ -131,4 +131,22 @@
     x = txt.isalnum()
 
     print(x) # return False
+    
+### * Check if all characters in the string are in the alphabet (a-zA-Z)
+
+    txt = "CompanyX"
+
+    x = txt.isalpha()
+
+    print(x) # return True
+
+
+
+
+
+
+
+
+
+
 
