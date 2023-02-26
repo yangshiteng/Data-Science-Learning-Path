@@ -38,19 +38,6 @@
     print(a.rstrip() # return " Hello, World"
     print(a.lstrip() # return "Hello, World "
 
-### * zfill() - adds zeros (0) at the beginning of the string, until it reaches the specified length
-
-![image](https://user-images.githubusercontent.com/60442877/221391393-5ba719df-6eca-4524-a313-83d95a9ffd8f.png)
-
-    a = "hello"
-    b = "welcome to the jungle"
-    c = "10.000"
-
-    print(a.zfill(10)) # return "00000hello"
-    print(b.zfill(10)) # return "welcome to the jungle"
-    print(c.zfill(10)) # return "000010.000"
-
-
 ## 2. String Modification
 
 ### * replace()
@@ -116,6 +103,19 @@
     x = txt.splitlines()
 
     print(x) # ['Thank you for the music', 'Welcome to the jungle']
+    
+### * zfill() - adds zeros (0) at the beginning of the string, until it reaches the specified length
+
+![image](https://user-images.githubusercontent.com/60442877/221391393-5ba719df-6eca-4524-a313-83d95a9ffd8f.png)
+
+    a = "hello"
+    b = "welcome to the jungle"
+    c = "10.000"
+
+    print(a.zfill(10)) # return "00000hello"
+    print(b.zfill(10)) # return "welcome to the jungle"
+    print(c.zfill(10)) # return "000010.000"
+
 
 ## 3. String Count and Search
 
