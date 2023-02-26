@@ -122,6 +122,6 @@
     x = txt.endswith("my world.", 5, 11)
     print(x) # return False
 
-### * Check
+### * Check if all characters in the string are alphanumeric
 
 
