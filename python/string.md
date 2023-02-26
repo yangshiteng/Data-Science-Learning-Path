@@ -17,19 +17,19 @@
     x = txt.capitalize()
     print (x) # return "Hello, and welcome to my world."
 
-## Remove Whitespace before or/and after the text
+## * Remove Whitespace before or/and after the text
 
     a = " Hello, World! "
     print(a.strip()) # return "Hello, World"
     print(a.rstrip() # return " Hello, World"
     print(a.lstrip() # return "Hello, World "
     
-## String Replace
+## * String Replace
 
     a = "Hello, World!"
     print(a.replace("H", "J")) # return "Jello, World"
     
-## String Split (splits a string into a list) (default separator is space)
+## * String Split (splits a string into a list) (default separator is space)
 
 ![image](https://user-images.githubusercontent.com/60442877/221386460-45cca7d1-1e3c-4bce-9926-094a8e564f55.png)
 
@@ -44,8 +44,7 @@
     x = txt.split("#")
     print(x) # ['apple', 'banana', 'cherry', 'orange']
 
-    
-## Count
+## * Count
 
 ![image](https://user-images.githubusercontent.com/60442877/221363540-2b414849-61de-4a4a-bdd7-1bafe2f67561.png)
 
@@ -57,7 +56,7 @@
     x = txt.count("apple", 10, 24)
     print(x) # return 1
     
-## Start or End with
+## * Start or End with
 
 ![image](https://user-images.githubusercontent.com/60442877/221363669-84d0c7f2-244a-4269-a5f1-b9c34317c091.png)
 ![image](https://user-images.githubusercontent.com/60442877/221363716-1aae3765-c18c-4127-b4bf-f4ce2f2f50ff.png)
@@ -82,9 +81,9 @@
     x = txt.endswith("my world.", 5, 11)
     print(x) # return False
 
-## Find the index of the first occurence of the specified value
+## * Find the index of the first occurence of the specified value
 
-### find()
+### * find()
 
 ![image](https://user-images.githubusercontent.com/60442877/221364100-b8c3ad3d-ea23-4dca-a664-ca2d31eaa3ff.png)
 
@@ -100,7 +99,7 @@
     print(txt.find("q")) # return -1
     print(txt.index("q")) # return error
 
-### index()
+### * index()
 
 ![image](https://user-images.githubusercontent.com/60442877/221386395-e9d5dab1-6d21-41a6-adbd-7f47c7405496.png)
 
