@@ -122,6 +122,28 @@
     print(txt.find("q")) # return -1
     print(txt.index("q")) # return error
     
+#### * rfind() - Searches the string for a specified value and returns the last position of where it was found
+
+![image](https://user-images.githubusercontent.com/60442877/221390845-7e2d693b-1036-4f91-bf24-b0061437b497.png)
+
+    txt = "Hello, welcome to my world."
+
+    x = txt.rfind("e")
+
+    print(x) # return 13
+
+#### * rindex() - Searches the string for a specified value and returns the last position of where it was found
+
+![image](https://user-images.githubusercontent.com/60442877/221390867-bba25c97-b04b-4cb4-9fc0-a0b2468b6fae.png)
+
+    txt = "Hello, welcome to my world."
+    x = txt.rindex("e")
+    print(x) # return 13
+
+    txt = "Hello, welcome to my world."
+    print(txt.rfind("q"))  # return -1
+    print(txt.rindex("q")) # return error
+    
 ## 4. String Checking
     
 ### * Check if string start or end with a specific value
