@@ -7,7 +7,7 @@
 
 ## 1. String Format Change
 
-### * Upper, Lower or Capitalize
+### * Upper, Lower, Capitalize and Title a string
 
     a = "Hello, World!"
     print(a.upper()) # return "HELLO, WORLD"
@@ -18,7 +18,18 @@
     txt = "hello, and welcome to my world."
     x = txt.capitalize()
     print (x) # return "Hello, and welcome to my world."
+    
+    txt = "Welcome to my world"
+    x = txt.title()
+    print(x) # return "Welcome To My World"
 
+### * Case Swap - Swaps cases, lower case becomes upper case and vice versa
+
+    txt = "Hello My Name Is PETER"
+
+    x = txt.swapcase()
+
+    print(x) # return "hELLO mY nAME iS peter"
 
 ### * Remove Whitespace before or/and after the text
 
@@ -27,10 +38,22 @@
     print(a.rstrip() # return " Hello, World"
     print(a.lstrip() # return "Hello, World "
 
+### * zfill() - adds zeros (0) at the beginning of the string, until it reaches the specified length
+
+![image](https://user-images.githubusercontent.com/60442877/221391393-5ba719df-6eca-4524-a313-83d95a9ffd8f.png)
+
+    a = "hello"
+    b = "welcome to the jungle"
+    c = "10.000"
+
+    print(a.zfill(10)) # return "00000hello"
+    print(b.zfill(10)) # return "welcome to the jungle"
+    print(c.zfill(10)) # return "000010.000"
+
 
 ## 2. String Modification
 
-### * String Replace
+### * replace()
 
     a = "Hello, World!"
     print(a.replace("H", "J")) # return "Jello, World"
