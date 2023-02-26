@@ -5,7 +5,7 @@
 
 # String Methods
 
-## Upper, Lower or Capitalize
+## * Upper, Lower or Capitalize
 
     a = "Hello, World!"
     print(a.upper()) # return "HELLO, WORLD"
