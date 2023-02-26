@@ -56,7 +56,7 @@
     x = txt.count("apple", 10, 24)
     print(x) # return 1
     
-## * Start or End with
+## * Check if string start or end with a specific value
 
 ![image](https://user-images.githubusercontent.com/60442877/221363669-84d0c7f2-244a-4269-a5f1-b9c34317c091.png)
 ![image](https://user-images.githubusercontent.com/60442877/221363716-1aae3765-c18c-4127-b4bf-f4ce2f2f50ff.png)
