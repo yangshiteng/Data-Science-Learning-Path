@@ -9,6 +9,7 @@
 
 * [Python - Data Type](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/PythonCommonKnowledge.md)
 * [Python - String](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/string.md)
+* [Python - String Format]()
 
 # Python Statistics
 
