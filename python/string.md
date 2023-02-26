@@ -5,7 +5,7 @@
 
 # String Methods
 
-## String Format Change
+## 1. String Format Change
 
 ### * Upper, Lower or Capitalize
 
@@ -28,7 +28,7 @@
     print(a.lstrip() # return "Hello, World "
 
 
-## String Modification
+## 2. String Modification
 
 ### * String Replace
 
@@ -50,7 +50,7 @@
     x = txt.split("#")
     print(x) # ['apple', 'banana', 'cherry', 'orange']
 
-## String Search
+## 3. String Search
 
 ### * Count (return the number of times a specific value appears in string)
 
@@ -95,7 +95,7 @@
     print(txt.find("q")) # return -1
     print(txt.index("q")) # return error
     
-## String Checking
+## 4. String Checking
     
 ### * Check if string start or end with a specific value
 
