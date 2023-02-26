@@ -40,7 +40,7 @@
     print(txt.format(45))
     # return "The price is 45.00 dollars."
 
-    #without the ".2" inside the placeholder, this number will be displayed like this:
+    # without the ".2" inside the placeholder, this number will be displayed like this:
 
     txt = "The price is {:f} dollars."
     print(txt.format(45))
