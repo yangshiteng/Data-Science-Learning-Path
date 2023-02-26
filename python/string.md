@@ -44,7 +44,7 @@
     x = txt.split("#")
     print(x) # ['apple', 'banana', 'cherry', 'orange']
 
-## * Count
+## * Count (return the number of times a specific value appears in a string)
 
 ![image](https://user-images.githubusercontent.com/60442877/221363540-2b414849-61de-4a4a-bdd7-1bafe2f67561.png)
 
