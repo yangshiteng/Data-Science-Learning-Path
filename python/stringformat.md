@@ -33,7 +33,8 @@
     
 ## * Fix point number format
 
-    #Use "f" to convert a number into a fixed point number, default with 6 decimals, but use a period followed by a number to specify the number of decimals:
+    # Use "f" to convert a number into a fixed point number, 
+    # default with 6 decimals, but use a period followed by a number to specify the number of decimals:
 
     txt = "The price is {:.2f} dollars."
     print(txt.format(45))
