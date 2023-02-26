@@ -124,4 +124,9 @@
 
 ### * Check if all characters in the string are alphanumeric
 
+    txt = "Company 12"
+    
+    x = txt.isalnum()
+
+    print(x) # return False
 
