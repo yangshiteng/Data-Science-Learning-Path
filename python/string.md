@@ -5,7 +5,9 @@
 
 # String Methods
 
-## * Upper, Lower or Capitalize
+## String Format Change
+
+### * Upper, Lower or Capitalize
 
     a = "Hello, World!"
     print(a.upper()) # return "HELLO, WORLD"
@@ -17,19 +19,23 @@
     x = txt.capitalize()
     print (x) # return "Hello, and welcome to my world."
 
-## * Remove Whitespace before or/and after the text
+
+### * Remove Whitespace before or/and after the text
 
     a = " Hello, World! "
     print(a.strip()) # return "Hello, World"
     print(a.rstrip() # return " Hello, World"
     print(a.lstrip() # return "Hello, World "
-    
-## * String Replace
+
+
+## String Modification
+
+### * String Replace
 
     a = "Hello, World!"
     print(a.replace("H", "J")) # return "Jello, World"
     
-## * String Split (splits a string into a list) (default separator is space)
+### * String Split (splits a string into a list) (default separator is space)
 
 ![image](https://user-images.githubusercontent.com/60442877/221386460-45cca7d1-1e3c-4bce-9926-094a8e564f55.png)
 
@@ -44,7 +50,9 @@
     x = txt.split("#")
     print(x) # ['apple', 'banana', 'cherry', 'orange']
 
-## * Count (return the number of times a specific value appears in the string)
+## String Search
+
+### * Count (return the number of times a specific value appears in string)
 
 ![image](https://user-images.githubusercontent.com/60442877/221363540-2b414849-61de-4a4a-bdd7-1bafe2f67561.png)
 
@@ -56,7 +64,40 @@
     x = txt.count("apple", 10, 24)
     print(x) # return 1
     
-## * Check if string start or end with a specific value
+### * Find the index of the first occurence of the specified value
+
+#### * find()
+
+![image](https://user-images.githubusercontent.com/60442877/221364100-b8c3ad3d-ea23-4dca-a664-ca2d31eaa3ff.png)
+
+    txt = "Hello, welcome to my world."
+    x = txt.find("e")
+    print(x) # return 1
+
+    txt = "Hello, welcome to my world."
+    x = txt.find("e", 5, 10)
+    print(x) # return 8
+    
+    txt = "Hello, welcome to my world."
+    print(txt.find("q")) # return -1
+    print(txt.index("q")) # return error
+
+#### * index()
+
+![image](https://user-images.githubusercontent.com/60442877/221386395-e9d5dab1-6d21-41a6-adbd-7f47c7405496.png)
+
+
+    txt = "Hello, welcome to my world."
+    x = txt.index("e")
+    print(x) # return 1
+
+    txt = "Hello, welcome to my world."
+    print(txt.find("q")) # return -1
+    print(txt.index("q")) # return error
+    
+## String Checking
+    
+### * Check if string start or end with a specific value
 
 ![image](https://user-images.githubusercontent.com/60442877/221363669-84d0c7f2-244a-4269-a5f1-b9c34317c091.png)
 ![image](https://user-images.githubusercontent.com/60442877/221363716-1aae3765-c18c-4127-b4bf-f4ce2f2f50ff.png)
@@ -81,36 +122,6 @@
     x = txt.endswith("my world.", 5, 11)
     print(x) # return False
 
-## * Find the index of the first occurence of the specified value
-
-### * find()
-
-![image](https://user-images.githubusercontent.com/60442877/221364100-b8c3ad3d-ea23-4dca-a664-ca2d31eaa3ff.png)
-
-    txt = "Hello, welcome to my world."
-    x = txt.find("e")
-    print(x) # return 1
-
-    txt = "Hello, welcome to my world."
-    x = txt.find("e", 5, 10)
-    print(x) # return 8
-    
-    txt = "Hello, welcome to my world."
-    print(txt.find("q")) # return -1
-    print(txt.index("q")) # return error
-
-### * index()
-
-![image](https://user-images.githubusercontent.com/60442877/221386395-e9d5dab1-6d21-41a6-adbd-7f47c7405496.png)
-
-
-    txt = "Hello, welcome to my world."
-    x = txt.index("e")
-    print(x) # return 1
-
-    txt = "Hello, welcome to my world."
-    print(txt.find("q")) # return -1
-    print(txt.index("q")) # return error
 
 
 
