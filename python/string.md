@@ -124,6 +124,8 @@
 
 ### * Check if all characters in the string are alphanumeric
 
+![image](https://user-images.githubusercontent.com/60442877/221390177-f372e866-aace-4e90-8369-5ce72ae43411.png)
+
     txt = "Company 12"
     
     x = txt.isalnum()
