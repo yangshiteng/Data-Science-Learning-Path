@@ -46,7 +46,26 @@
     print(txt.format(45))
     # return "The price is 45.000000 dollars."
 
+## * Percentage format
 
+    # Use "%" to convert the number into a percentage format:
+    # Default is 6 decimals
+
+    txt = "You scored {:%}"
+    print(txt.format(0.25))
+    # return "You scored 25.000000%"
+
+    # but use a period followed by a number to specify the number of decimal
+
+    txt = "You scored {:.2%}"
+    print(txt.format(0.25))
+    # return "You scored 25.00%"
+
+    # Or, without any decimals:
+
+    txt = "You scored {:.0%}"
+    print(txt.format(0.25))
+    # return "You scored 25%"
 
 
 
