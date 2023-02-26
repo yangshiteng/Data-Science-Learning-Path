@@ -29,11 +29,21 @@
     a = "Hello, World!"
     print(a.replace("H", "J")) # return "Jello, World"
     
-## String Split (default separator is space)
+## String Split (splits a string into a list) (default separator is space)
 
-    a = "Hello, World!"
-    print(a.split(",")) # return ['Hello', ' World!']
-    print(a.split())    # return ['Hello,', 'World!']
+![image](https://user-images.githubusercontent.com/60442877/221386460-45cca7d1-1e3c-4bce-9926-094a8e564f55.png)
+
+    a = "Hello World!"
+    print(a.split()) # return ['Hello', 'World!']
+    
+    txt = "hello, my name is Peter, I am 26 years old"
+    x = txt.split(", ")
+    print(x) # return ['hello', 'my name is Peter', 'I am 26 years old']
+    
+    txt = "apple#banana#cherry#orange"
+    x = txt.split("#")
+    print(x) # ['apple', 'banana', 'cherry', 'orange']
+
     
 ## Count
 
