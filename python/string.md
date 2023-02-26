@@ -50,6 +50,16 @@
     x = txt.split("#")
     print(x) # ['apple', 'banana', 'cherry', 'orange']
 
+### * join() - Converts the elements of an iterable into a string
+
+    myTuple = ("John", "Peter", "Vicky")
+    x = "#".join(myTuple)
+    print(x) # return "John#Peter#Vicky"
+
+    myTuple = ("John", "Peter", "Vicky")
+    x = ",".join(myTuple)
+    print(x) # return "John,Peter,Vicky"
+
 ## 3. String Count and Search
 
 ### * Count a specific value in the string
@@ -140,13 +150,48 @@
 
     print(x) # return True
 
+### * Check if all characters in the string are digits
 
+    txt = "565543"
 
+    x = txt.isnumeric()
 
+    print(x) # return True
 
+### * Check if all characters in the string are whitespaces
 
+    txt = "   "
 
+    x = txt.isspace()
 
+    print(x) # return True
 
+### * Check if the string follows the rules of a title
 
+    txt = "Hello, And Welcome To My World!"
+    x = txt.istitle()
+    print(x) # return True
 
+    txt = "Hello, and Welcome to My World!"
+    x = txt.istitle()
+    print(x) # return False
+    
+### * Check if all the characters are in upper case
+    
+    txt = "THIS IS NOW!"
+
+    x = txt.isupper()
+
+    print(x) # return True
+    
+### * Check if all characters in the string are lower case
+
+    txt = "hello world!"
+
+    x = txt.islower()
+
+    print(x) # return True
+
+    
+    
+    
