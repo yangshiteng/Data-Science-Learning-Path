@@ -50,7 +50,7 @@
     x = txt.split("#")
     print(x) # ['apple', 'banana', 'cherry', 'orange']
 
-## 3. String Search
+## 3. String Count and Search
 
 ### * Count a specific value in the string
 
