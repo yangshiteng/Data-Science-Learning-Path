@@ -50,7 +50,7 @@
     x = txt.split("#")
     print(x) # ['apple', 'banana', 'cherry', 'orange']
     
-### String Partition (Returns a tuple where the string is parted into three parts)
+### partition() - Returns a tuple where the string is parted into three parts
 
 ![image](https://user-images.githubusercontent.com/60442877/221390752-533215c0-cf35-401b-9417-00e4f5a349f5.png)
 
@@ -65,6 +65,16 @@
     txt = "I could eat bananas all day"
     x = txt.partition("apples")
     print(x) # return ('I could eat bananas all day', '', '')
+    
+### rpartition() - Returns a tuple where the string is parted into three parts (searche for the last occurrence of a specified string)
+
+![image](https://user-images.githubusercontent.com/60442877/221391027-cd99281b-efe4-442c-8457-b78a75430370.png)
+
+    txt = "I could eat bananas all day, bananas are my favorite fruit"
+
+    x = txt.rpartition("bananas")
+
+    print(x) # return ('I could eat bananas all day, ', 'bananas', ' are my favorite fruit')
 
 ### * join() - Converts the elements of an iterable into a string
 
