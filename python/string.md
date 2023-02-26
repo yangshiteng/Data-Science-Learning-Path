@@ -91,4 +91,18 @@
     print(txt.index("q")) # return error
 
 ### index()
-    
+
+![image](https://user-images.githubusercontent.com/60442877/221386395-e9d5dab1-6d21-41a6-adbd-7f47c7405496.png)
+
+
+    txt = "Hello, welcome to my world."
+    x = txt.index("e")
+    print(x) # return 1
+
+    txt = "Hello, welcome to my world."
+    print(txt.find("q")) # return -1
+    print(txt.index("q")) # return error
+
+
+
+
