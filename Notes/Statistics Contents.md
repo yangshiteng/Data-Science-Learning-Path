@@ -8,3 +8,4 @@
 
 [Statistical Plot](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Statistical%20Plot.md)
 
+[Time Series]()
