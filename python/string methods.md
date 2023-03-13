@@ -139,7 +139,7 @@
     
 ### * Find the index of the first or last occurence of the specified value
 
-#### * find()
+#### * find() - find the first occurrence of the specified value, return -1 if not found
 
 ![image](https://user-images.githubusercontent.com/60442877/221364100-b8c3ad3d-ea23-4dca-a664-ca2d31eaa3ff.png)
 
@@ -155,7 +155,7 @@
     print(txt.find("q")) # return -1
     print(txt.index("q")) # return error
 
-#### * index()
+#### * index() - find the first occurrence of the specified value, return error if not found
 
 ![image](https://user-images.githubusercontent.com/60442877/221386395-e9d5dab1-6d21-41a6-adbd-7f47c7405496.png)
 
