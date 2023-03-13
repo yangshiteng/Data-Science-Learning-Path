@@ -9,6 +9,7 @@
 # Python Data Type
 
 * [Python - Data Type](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/PythonCommonKnowledge.md)
+* [Python - List, Tuple, Set and Dictionary Summary]()
 * Python - String
   * [Multi-line string](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/multi%20line%20string.md)
   * [String Conctenation](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/string%20contact.md)
@@ -16,7 +17,7 @@
   * [String Format](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/stringformat.md)
   * [String Escape Character (allow the illegal character in a string)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/escape%20character.md)
 * Python - List (one of 4 built-in data types in Python used to store collections of data)
-  * [List Introduction]()
+  * [List Introduction](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/list%20introduction.md)
 
 
 # Python Math and Statistics
