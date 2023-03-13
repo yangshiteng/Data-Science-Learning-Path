@@ -18,7 +18,7 @@
   * [String Escape Character (allow the illegal character in a string)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/escape%20character.md)
 * Python - List (one of 4 built-in data types in Python used to store collections of data)
   * [List Introduction](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/list%20introduction.md)
-  * [List Change Items]()
+  * [List Change Items](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/List%20Change%20Items.md)
 
 
 # Python Math and Statistics
