@@ -41,7 +41,7 @@
     a = "Hello, World!"
     print(a.replace("H", "J")) # return "Jello, World"
     
-### * split() - splits a string into a list) (default separator is space
+### * split() - splits a string into a list (default separator is space)
 
 ![image](https://user-images.githubusercontent.com/60442877/221386460-45cca7d1-1e3c-4bce-9926-094a8e564f55.png)
 
@@ -111,6 +111,16 @@
     print(a.zfill(10)) # return "00000hello"
     print(b.zfill(10)) # return "welcome to the jungle"
     print(c.zfill(10)) # return "000010.000"
+
+### * center() - center align the string, using a specified character (space is default) as the fill character
+
+![image](https://user-images.githubusercontent.com/60442877/224587611-8301b3bd-e12b-45c2-9354-6d8f40e0c93b.png)
+
+    txt = "banana"
+
+    x = txt.center(20, "O")
+
+    print(x) # return "OOOOOOObananaOOOOOOO"
 
 
 ## 3. String Count and Search
