@@ -9,7 +9,7 @@
 
 * [Python - Data Type](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/PythonCommonKnowledge.md)
 * [Python - String](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/string.md)
-  * [Multi-line string]()
+  * [Multi-line string](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/multi%20line%20string.md)
   * [String Conctenation]()
   * [String Methods]()
   * [String Format](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/stringformat.md)
