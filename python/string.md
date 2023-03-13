@@ -75,7 +75,7 @@
     x = txt.partition("bananas")
     print(x) # return ('I could eat ', 'bananas', ' all day')
     
-    txt = "I could eat bananas all day"
+    txt = "I could eat bananas all bananas day"
     x = txt.partition("bananas")
     print(x) # return ('I could eat ', 'bananas', ' all bananas day')
     
