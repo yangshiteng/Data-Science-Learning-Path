@@ -1,13 +1,6 @@
 
 
 
-# String Concatenation
-
-    a = "Hello"
-    b = "World"
-    c = a + b
-    print(c) # return HelloWorld
-
 # String Methods
 
 ## 1. String Format Change
