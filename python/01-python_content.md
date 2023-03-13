@@ -10,7 +10,7 @@
 * [Python - Data Type](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/PythonCommonKnowledge.md)
 * [Python - String](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/string.md)
   * [Multi-line string](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/multi%20line%20string.md)
-  * [String Conctenation]()
+  * [String Conctenation](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/string%20contact.md)
   * [String Methods]()
   * [String Format](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/stringformat.md)
   * [String Escape Character (allow the illegal character in a string)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/escape%20character.md)
