@@ -237,11 +237,23 @@
 
 ### * Check if all characters in the string are digits
 
+![image](https://user-images.githubusercontent.com/60442877/224592164-9f87a376-cc08-4c39-b286-0af8b744e890.png)
+
     txt = "565543"
 
     x = txt.isnumeric()
 
     print(x) # return True
+
+![image](https://user-images.githubusercontent.com/60442877/224592198-5e29007f-de21-4b8d-829d-ff1a0a74c983.png)
+
+    txt = "50800"
+
+    x = txt.isdigit()
+
+    print(x) # return True
+
+    
 
 ### * Check if all characters in the string are whitespaces
 
