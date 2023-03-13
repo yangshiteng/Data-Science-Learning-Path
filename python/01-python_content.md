@@ -4,6 +4,7 @@
  * [Python - Variable](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/Variable.md)
  * [Python - Add Comment](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/addcomment.md)
  * [Python - Slicing](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/pythonslicing.md)
+ * [Python - augmented assignment operator (eg. +=)]()
 
 # Python Data Type
 
@@ -17,7 +18,7 @@
 
 # Python Math and Statistics
 
-* [Python Math]()
+* [Python Math](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/math.md)
 * [Generate Random Number](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/Generate%20Random%20Number.md)
 
 # Python Engineering
