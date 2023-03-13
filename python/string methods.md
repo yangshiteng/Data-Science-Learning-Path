@@ -1,6 +1,4 @@
 
-
-
 # String Methods
 
 ## 1. String Format Change
