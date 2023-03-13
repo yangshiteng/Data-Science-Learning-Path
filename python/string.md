@@ -138,7 +138,7 @@
     x = txt.count("apple", 10, 24)
     print(x) # return 1
     
-### * Find the index of the first occurence of the specified value
+### * Find the index of the first or last occurence of the specified value
 
 #### * find()
 
