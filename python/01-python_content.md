@@ -20,6 +20,7 @@
   * [List Introduction](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/list%20introduction.md)
   * [List Change Items](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/List%20Change%20Items.md)
   * [List Add Items](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/listadditems.md)
+  * [List Remove Items]()
 
 
 # Python Math and Statistics
