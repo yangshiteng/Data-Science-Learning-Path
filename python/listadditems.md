@@ -1,6 +1,7 @@
 # Add item in the end of the list
 
 ![image](https://user-images.githubusercontent.com/60442877/224878145-b0e75aec-e694-4d27-8b24-4a99f8a07366.png)
+![image](https://user-images.githubusercontent.com/60442877/224878882-8fb7c00c-6e8a-4c41-9db7-331cff131bbc.png)
 
 # Insert item in a specified index
 
