@@ -21,7 +21,7 @@
   * [List Change Items](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/List%20Change%20Items.md)
   * [List Add Items](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/listadditems.md)
   * [List Remove Items](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/list%20remove.md)
-  * [List Comprehension (one line list loop)]()
+  * [List Comprehension (one line list loop)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/list%20comprehension.md)
 
 
 # Python Math and Statistics
