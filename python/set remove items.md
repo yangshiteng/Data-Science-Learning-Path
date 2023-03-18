@@ -27,7 +27,7 @@
     print(thisset)
     # return {'cherry', 'apple'}
     
-# pop() - remove a random item
+# pop() - remove a random item (removed item will be returned)
 
 ![image](https://user-images.githubusercontent.com/60442877/226115167-a6137207-a5dd-41a1-826b-ebd0abb42ece.png)
 
