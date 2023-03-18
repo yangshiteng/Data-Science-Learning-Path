@@ -1,12 +1,7 @@
 # Change Tuple Values
    
-    x = ("apple", "banana", "cherry")
-    y = list(x)
-    y[1] = "kiwi"
-    x = tuple(y)
-
-    print(x)
-    # return ("apple", "kiwi", "cherry")
+![image](https://user-images.githubusercontent.com/60442877/226077641-4be20145-cf1e-4726-a551-0d8a8b1d101b.png)
+![image](https://user-images.githubusercontent.com/60442877/226077646-458feb55-3e67-43db-98c2-006b26546516.png)
 
 # Add Items
 
