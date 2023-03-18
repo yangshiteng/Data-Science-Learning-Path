@@ -12,6 +12,6 @@
 
 ![image](https://user-images.githubusercontent.com/60442877/224702163-32f01e3f-0a76-49b7-bcc7-1abd10ff2655.png)
 
-# 4. List items can be different data type
+# 4. List items can contain different data type
 
     a = ['abc',123,{"book":2}, True]
