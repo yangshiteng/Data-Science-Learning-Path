@@ -1,4 +1,4 @@
-# Union
+# 1. Union
 
 ## union() or update() - returns a new set containing all items from both sets
 
@@ -12,7 +12,7 @@
 
 ![image](https://user-images.githubusercontent.com/60442877/226116505-8d9c4c85-7054-4edc-b944-b7dcee4b3a7f.png)
 
-# Intersection
+# 2. Intersection
 
 ## intersection_update() - keep only the items that are present in both sets
 
@@ -35,7 +35,7 @@
     print(x) # return {"apple", "banana", "cherry"}
     print(y) # return {"google", "microsoft", "apple"}
 
-# Symmetric difference
+# 3. Symmetric difference
 
 ## symmetric_difference_update() - keep only the elements that are NOT present in both sets
 
@@ -58,7 +58,7 @@
     print(x) # return {"apple", "banana", "cherry"}
     print(y) # return {"google", "microsoft", "apple"}
 
-## Difference
+## 4. Difference
 
 ## difference_update() - keep only the elements that are NOT present in another set
 
@@ -81,6 +81,21 @@
     print(x) # return {"apple", "banana", "cherry"}
     print(y) # return {"google", "microsoft", "apple"}
 
+## 5. isdisjoint() - check if two sets are disjoint or not
 
+    x = {"apple", "banana", "cherry"}
+    y = {"google", "microsoft", "facebook"}
 
+    z = x.isdisjoint(y) 
+
+    print(z) # return True
+
+## 6. issubset() - check if the first set is the subset of the second set
+
+    x = {"a", "b", "c"}
+    y = {"f", "e", "d", "c", "b", "a"}
+
+    z = x.issubset(y) 
+
+    print(z) # return True
 
