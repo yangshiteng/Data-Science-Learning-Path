@@ -26,7 +26,7 @@
   * [List Copy](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/list%20copy.md)
   * [List Index (Return the index of the first element with the specified value)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/list%20index.md)
    * [Multiply List](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/Multiply%20List.md)
-   * [List Count]()
+   * [List Count](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/List%20count.md)
 * Python - Tuple (one of 4 built-in data types in Python used to store collections of data)
   * [Tuple Introduction](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/tuple%20introduction.md)
   * [Tuple Change, Add and Remove (convert to list)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/Tuple%20change.md)
