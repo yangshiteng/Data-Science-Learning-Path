@@ -1,4 +1,4 @@
-# Tuple is ordered, unchangeable, allow duplicae item, allow different data types
+# Tuple is ordered, unchangeable, allow duplicae item, can contain different data types
 
 ![image](https://user-images.githubusercontent.com/60442877/226077225-0347a85d-7988-44e7-8ab7-621fc2c3063b.png)
 
