@@ -28,6 +28,7 @@
 * Python - Tuple (one of 4 built-in data types in Python used to store collections of data)
   * [Tuple Introduction](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/tuple%20introduction.md)
   * [Tuple Change, Add and Remove (convert to list)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/Tuple%20change.md)
+  * [Tuple Concatenation]()
 
 
 # Python Math and Statistics
