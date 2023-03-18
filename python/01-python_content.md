@@ -36,7 +36,7 @@
   * [Tuple Index (find the first occurrence of the specified value)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/tuple%20index.md)
 * Python - Set (one of 4 built-in data types in Python used to store collections of data)
   * [Set Introduction](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/set%20introduction.md)
-  * [Set Add new items]()
+  * [Set Add new items](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/set%20add%20new%20item.md)
 
 # Python Math and Statistics
 
