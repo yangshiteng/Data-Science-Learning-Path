@@ -12,7 +12,7 @@
 
 ![image](https://user-images.githubusercontent.com/60442877/224878755-d40cf106-d002-4170-ab51-9cbf949e261a.png)
 
-# Add any iterable oject (tules, sets, dictionaries etc.)
+# Add any iterable object (list, tules, sets, dictionaries etc.)
 
 ![image](https://user-images.githubusercontent.com/60442877/224878480-2d494e3f-5915-49d8-bdfc-e308b8d81aa3.png)
 ![image](https://user-images.githubusercontent.com/60442877/224878501-d00ed3a7-b0e1-476a-aa69-ecf95a1b4a83.png)
