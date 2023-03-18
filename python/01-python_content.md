@@ -38,6 +38,7 @@
   * [Set Introduction](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/set%20introduction.md)
   * [Set Add new items](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/set%20add%20new%20item.md)
   * [Set Remove items](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/set%20remove%20items.md)
+  * [Set Loop]()
 
 # Python Math and Statistics
 
