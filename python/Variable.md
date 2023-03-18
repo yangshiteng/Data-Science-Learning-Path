@@ -9,9 +9,18 @@
 
 ![image](https://user-images.githubusercontent.com/60442877/204052713-782a6ad2-8382-4c36-954a-e6e3ebb9030f.png)
 
+# How to assign multiple values to multiple variables with unequal number
+
+![image](https://user-images.githubusercontent.com/60442877/226078379-71fd8fc5-68f0-4220-b0fa-8ae86a7c7bb1.png)
+![image](https://user-images.githubusercontent.com/60442877/226078383-ab135760-6c62-4541-abac-753317566392.png)
+![image](https://user-images.githubusercontent.com/60442877/226078389-feab6ec7-b28e-4dad-b396-088f9ec5ec5e.png)
+![image](https://user-images.githubusercontent.com/60442877/226078395-9c693bed-6453-4a12-9ae6-cfe8c706c61f.png)
+
+
 # How to assign a single value to multiple variables in a line
 
 ![image](https://user-images.githubusercontent.com/60442877/204052723-9d0759d1-b9b0-4d9a-9d45-f68c6cc0891f.png)
+
 
 # Global Variable
 
