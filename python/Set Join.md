@@ -98,4 +98,14 @@
     z = x.issubset(y) 
 
     print(z) # return True
+    
+## 7. issuperset() - check if the first set is the superset of the second set
+
+    x = {"f", "e", "d", "c", "b", "a"}
+    y = {"a", "b", "c"}
+
+    z = x.issuperset(y) 
+
+    print(z) # return True
+
 
