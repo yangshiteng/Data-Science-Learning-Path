@@ -32,7 +32,7 @@
   * [Tuple Change, Add and Remove (convert to list)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/Tuple%20change.md)
   * [Tuple Concatenation](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/tuple%20concate.md)
   * [Multiply Tuple](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/tuple%20multiply.md)
-  * [Tuple Count]()
+  * [Tuple Count](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/tuple%20count.md)
 
 
 # Python Math and Statistics
