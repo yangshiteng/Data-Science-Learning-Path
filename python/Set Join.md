@@ -58,7 +58,28 @@
     print(x) # return {"apple", "banana", "cherry"}
     print(y) # return {"google", "microsoft", "apple"}
 
+## Difference
 
+## difference_update() - keep only the elements that are NOT present in another set
+
+    x = {"apple", "banana", "cherry"}
+    y = {"google", "microsoft", "apple"}
+
+    x.difference_update(y) 
+
+    print(x) # return {'cherry', 'banana'}
+    print(y) # return {"google", "microsoft", "apple"}
+
+## difference() - eturn a new set, that contains only the elements that are NOT present in another set
+
+    x = {"apple", "banana", "cherry"}
+    y = {"google", "microsoft", "apple"}
+
+    z = x.difference(y) 
+
+    print(z) # return {'cherry', 'banana'}
+    print(x) # return {"apple", "banana", "cherry"}
+    print(y) # return {"google", "microsoft", "apple"}
 
 
 
