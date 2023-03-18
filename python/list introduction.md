@@ -1,7 +1,7 @@
 # Lists are one of 4 built-in data types in Python used to store collections of data, the other 3 are Tuple, Set, and Dictionary, all with different qualities and usage.
 
 
-# 1. List items are ordered
+# 1. List items are ordered and indexed
 
 ![image](https://user-images.githubusercontent.com/60442877/224701736-2a97674e-9e8b-4de2-bd51-e81ce78ce95c.png)
 
