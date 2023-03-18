@@ -27,7 +27,7 @@
   * [List Index (Return the index of the first element with the specified value)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/list%20index.md)
 * Python - Tuple (one of 4 built-in data types in Python used to store collections of data)
   * [Tuple Introduction](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/tuple%20introduction.md)
-  * [Tuple Value Change by converting to list](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/Tuple%20change.md)
+  * [Tuple Change, Add and Remove (convert to list)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/Tuple%20change.md)
 
 
 # Python Math and Statistics
