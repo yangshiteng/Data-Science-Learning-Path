@@ -39,7 +39,7 @@
   * [Set Add new items](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/set%20add%20new%20item.md)
   * [Set Remove items](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/set%20remove%20items.md)
   * [Set Loop](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/set%20loop.md)
-  * [Set Join]()
+  * [Set Join](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/Set%20Join.md)
 
 # Python Math and Statistics
 
