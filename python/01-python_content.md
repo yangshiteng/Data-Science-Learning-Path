@@ -25,6 +25,8 @@
   * [List Sort](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/list%20sort.md)
   * [List Copy](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/list%20copy.md)
   * [List Index (Return the index of the first element with the specified value)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/list%20index.md)
+* Python - Tuple (one of 4 built-in data types in Python used to store collections of data)
+  * [Tuple Introduction]()
 
 
 # Python Math and Statistics
