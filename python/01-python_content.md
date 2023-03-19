@@ -49,6 +49,7 @@
   * [Dictionary - Remove Items](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/dictionary%20remove%20item.md)
   * [Dictionary - Loop](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/dictionary%20loop.md)
   * [Dictionary - Copy](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/dictionary%20copy.md)
+  * [setdefault() - returns the value of the item with specified key, if the key does not exist, insert the key with specified value]()
 
 # Python Math and Statistics
 
