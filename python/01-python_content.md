@@ -58,6 +58,10 @@
 * Python Data Type - Range
   * [range() - builtin function in Python that allows you to generate a sequence of integers within a specified range](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/range%20function.md)
 
+# Python - Function and Class
+
+* [Python Function]()
+
 # Python Math and Statistics
 
 * [Python Math](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/math.md)
