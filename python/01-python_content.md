@@ -18,7 +18,7 @@
   * [List, Tuple, Set and Dictionary Summary](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/list%2Ctuple%2Cset%2Cdic.md)
 * Python Data Type - String
   * [Multi-line string](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/multi%20line%20string.md)
-  * [String Conctenation](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/string%20contact.md)
+  * [String Concatenation](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/string%20contact.md)
   * [String Methods](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/string%20methods.md)
   * [String Format](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/stringformat.md)
   * [String Escape Character (allow the illegal character in a string)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/escape%20character.md)
