@@ -47,7 +47,7 @@
   * [Dictionary - Change and Add Items](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/dictionary%20change.md)
   * [Dictionary - Remove Items](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/dictionary%20remove%20item.md)
   * [Dictionary - Loop](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/dictionary%20loop.md)
-  * [Dictionary - Copy]()
+  * [Dictionary - Copy](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/dictionary%20copy.md)
 
 # Python Math and Statistics
 
