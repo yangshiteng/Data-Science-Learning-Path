@@ -13,7 +13,7 @@
 
 # Python Data Type
 
-* [Python - Data Type](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/PythonCommonKnowledge.md)
+* [Python - Data Type Introduction](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/PythonCommonKnowledge.md)
 * Python Data Type - String
   * [Multi-line string](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/multi%20line%20string.md)
   * [String Conctenation](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/string%20contact.md)
