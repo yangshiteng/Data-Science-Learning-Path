@@ -45,7 +45,7 @@
   * [Dictionary - Introduction](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/dictionary%20introduction.md)
   * [Dictionary - Access Items, Get Keys, Get Values, Get Items](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/dictionary%20access%20items.md)
   * [Dictionary - Change and Add Items](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/dictionary%20change.md)
-  * [Dictionary - Remove Items]()
+  * [Dictionary - Remove Items](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/dictionary%20remove%20item.md)
 
 # Python Math and Statistics
 
