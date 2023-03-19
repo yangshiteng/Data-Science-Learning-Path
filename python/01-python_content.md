@@ -50,7 +50,7 @@
   * [Dictionary - Loop](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/dictionary%20loop.md)
   * [Dictionary - Copy](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/dictionary%20copy.md)
   * [setdefault() - returns the value of the item with specified key, if the key does not exist, insert the key with specified value](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/dictionary%20setdefault.md)
-  * [dict.fromkeys() - create a dictionary with keys from a given sequence and all values set to a default value]()
+  * [dict.fromkeys() - create a dictionary with keys from a given sequence and all values set to a default value](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/dictionary%20fromkey.md)
 
 # Python Math and Statistics
 
