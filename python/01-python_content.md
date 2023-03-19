@@ -13,7 +13,7 @@
 
 # Python Data Type
 
-* [Python - Data Type Summary]
+* Python - Data Type Summary
   * [Data Type Introduction](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/PythonCommonKnowledge.md)
   * [Python - List, Tuple, Set and Dictionary Summary](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/list%2Ctuple%2Cset%2Cdic.md)
 * Python Data Type - String
