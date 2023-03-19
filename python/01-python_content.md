@@ -56,7 +56,7 @@
   * [setdefault() - returns the value of the item with specified key, if the key does not exist, insert the key with specified value](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/dictionary%20setdefault.md)
   * [dict.fromkeys() - create a dictionary with keys from a given sequence and all values set to a default value](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/dictionary%20fromkey.md)
 * Python Data Type - Range
-  * [range() - builtin function in Python that allows you to generate a sequence of integers within a specified range]()
+  * [range() - builtin function in Python that allows you to generate a sequence of integers within a specified range](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/range%20function.md)
 
 # Python Math and Statistics
 
