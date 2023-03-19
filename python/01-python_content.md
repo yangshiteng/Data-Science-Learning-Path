@@ -13,7 +13,9 @@
 
 # Python Data Type
 
-* [Python - Data Type Introduction](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/PythonCommonKnowledge.md)
+* [Python - Data Type Summary]
+  * [Data Type Introduction](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/PythonCommonKnowledge.md)
+  * [Python - List, Tuple, Set and Dictionary Summary](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/list%2Ctuple%2Cset%2Cdic.md)
 * Python Data Type - String
   * [Multi-line string](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/multi%20line%20string.md)
   * [String Conctenation](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/string%20contact.md)
@@ -53,7 +55,6 @@
   * [Dictionary - Copy](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/dictionary%20copy.md)
   * [setdefault() - returns the value of the item with specified key, if the key does not exist, insert the key with specified value](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/dictionary%20setdefault.md)
   * [dict.fromkeys() - create a dictionary with keys from a given sequence and all values set to a default value](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/dictionary%20fromkey.md)
-* [Python - List, Tuple, Set and Dictionary Summary](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/list%2Ctuple%2Cset%2Cdic.md)
 
 # Python Math and Statistics
 
