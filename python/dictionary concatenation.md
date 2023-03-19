@@ -1,12 +1,12 @@
 
 
-# update() 
+# 1. update() 
 ## self changed, no new value generated
 
 ![image](https://user-images.githubusercontent.com/60442877/226208659-df1b4246-300f-4979-923e-adf7c3f35c5e.png)
 
 
-# dictionary unpacking operator **
+# 2. dictionary unpacking operator **
 
 ![image](https://user-images.githubusercontent.com/60442877/226208957-f3a1d06f-75ca-425e-a7d7-4fc2e8e1d318.png)
 
