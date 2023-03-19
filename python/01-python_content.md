@@ -60,7 +60,7 @@
 
 # Python - Function and Class
 
-* [Python Function]()
+* [Python Function](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/python%20function.md)
 
 # Python Math and Statistics
 
