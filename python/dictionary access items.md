@@ -57,7 +57,7 @@
     
 # 3. Get Values
 
-## values() - The values() method will return a list of all the values in the dictionary
+## values() - return a list of all the values in the dictionary
 
 
     thisdict = {
@@ -89,4 +89,36 @@
     print(x) #after the change
     # return dict_values(['Ford', 'Mustang', 2020])
 
+# 4. Get Items
+
+## items() - return each item in a dictionary, as tuples in a list
+
+        thisdict = {
+          "brand": "Ford",
+          "model": "Mustang",
+          "year": 1964
+        }
+
+        x = thisdict.items()
+
+        print(x)
+        # return dict_items([('brand', 'Ford'), ('model', 'Mustang'), ('year', 1964)])
+
+## The returned list is a view of the items of the dictionary, meaning that any changes done to the dictionary will be reflected in the items list
+
+        car = {
+        "brand": "Ford",
+        "model": "Mustang",
+        "year": 1964
+        }
+
+        x = car.items()
+
+        print(x) #before the change
+        # return dict_items([('brand', 'Ford'), ('model', 'Mustang'), ('year', 1964)])
+
+        car["year"] = 2020
+
+        print(x) #after the change
+        # return dict_items([('brand', 'Ford'), ('model', 'Mustang'), ('year', 2020)])
 
