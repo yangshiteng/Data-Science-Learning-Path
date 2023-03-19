@@ -8,7 +8,7 @@
 
 # dictionary unpacking operator **
 
-![image](https://user-images.githubusercontent.com/60442877/226208677-7360f879-5909-43ad-9c20-cbd86cf8f7cf.png)
+![image](https://user-images.githubusercontent.com/60442877/226208957-f3a1d06f-75ca-425e-a7d7-4fc2e8e1d318.png)
 
 
 # Note that if there are common keys in the two dictionaries, the values from the second dictionary will overwrite the values from the first dictionary
