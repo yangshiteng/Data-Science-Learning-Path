@@ -19,3 +19,7 @@
 ![image](https://user-images.githubusercontent.com/60442877/226199451-4639535c-0535-4fb0-b022-e0f776d4db5c.png)
 
 ![image](https://user-images.githubusercontent.com/60442877/226199460-020c3aae-2869-45c4-b816-d05aad524f73.png)
+
+# The pass statement
+
+![image](https://user-images.githubusercontent.com/60442877/226199541-f905de4b-c464-422d-baa2-a7ae0d2c90e9.png)
