@@ -1,15 +1,16 @@
 
-# Python Basics
+# Python Miscellaneous Knowledge
 
  * [Python - Variable](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/Variable.md)
  * [Python - Add Comment](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/addcomment.md)
  * [Python - Slicing](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/pythonslicing.md)
  * [Python - augmented assignment operator (eg. +=)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/augmented%20assignment%20operator.md)
- * [Python - 3 types of method](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/two%20types%20methods.md)
+ * [Python - 3 types of methods](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/two%20types%20methods.md)
  * [Python - Copy vs Reference](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/python%20copy%20vs%20reference.md)
  * [Python - if...else...](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/ifelse%20one%20line.md)
  * [Python - While Loops](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/while%20loop.md)
  * [Python - For Loops](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/FOR%20LOOP.md)
+
 
 # Python Data Type
 
@@ -64,6 +65,12 @@
 # Python - Function and Class
 
 * [Python Function](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/python%20function.md)
+
+
+# Python - Build In functions
+
+* [enumerate() - iterate over a sequence (e.g., a list, tuple, or string) and keep track of the index of each element as you iterate]()
+
 
 # Python Math and Statistics
 
