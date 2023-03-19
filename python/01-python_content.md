@@ -69,7 +69,7 @@
 
 # Python - Build In functions
 
-* [enumerate() - iterate over a sequence (e.g., a list, tuple, or string) and keep track of the index of each element as you iterate]()
+* [enumerate() - iterate over a sequence (e.g., a list, tuple, or string) and keep track of the index of each element as you iterate](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/enumerate.md)
 
 
 # Python Math and Statistics
