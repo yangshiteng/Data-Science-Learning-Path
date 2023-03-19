@@ -42,7 +42,7 @@
   * [Set Loop](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/set%20loop.md)
   * [Set Join](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/Set%20Join.md)
 * Python - Dictionary (one of 4 built-in data types in Python used to store collections of data)
-  * [Dictionary - Introduction]()
+  * [Dictionary - Introduction](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/dictionary%20introduction.md)
 
 
 # Python Math and Statistics
