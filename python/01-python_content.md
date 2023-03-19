@@ -22,7 +22,7 @@
   * [String Methods](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/string%20methods.md)
   * [String Format](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/stringformat.md)
   * [String Escape Character (allow the illegal character in a string)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/escape%20character.md)
-* Python Data Type - List (one of 4 built-in data types in Python used to store collections of data)
+* Python Data Type - List 
   * [List Introduction](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/list%20introduction.md)
   * [List Change Items](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/List%20Change%20Items.md)
   * [List Add Items](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/listadditems.md)
@@ -33,20 +33,20 @@
   * [List Index (Return the index of the first element with the specified value)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/list%20index.md)
    * [Multiply List](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/Multiply%20List.md)
    * [List Count](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/List%20count.md)
-* Python Data Type - Tuple (one of 4 built-in data types in Python used to store collections of data)
+* Python Data Type - Tuple
   * [Tuple Introduction](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/tuple%20introduction.md)
   * [Tuple Change, Add and Remove (convert to list)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/Tuple%20change.md)
   * [Tuple Concatenation](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/tuple%20concate.md)
   * [Multiply Tuple](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/tuple%20multiply.md)
   * [Tuple Count](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/tuple%20count.md)
   * [Tuple Index (find the first occurrence of the specified value)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/tuple%20index.md)
-* Python Data Type - Set (one of 4 built-in data types in Python used to store collections of data)
+* Python Data Type - Set 
   * [Set Introduction](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/set%20introduction.md)
   * [Set Add new items](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/set%20add%20new%20item.md)
   * [Set Remove items](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/set%20remove%20items.md)
   * [Set Loop](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/set%20loop.md)
   * [Set Join](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/Set%20Join.md)
-* Python Data Type - Dictionary (one of 4 built-in data types in Python used to store collections of data)
+* Python Data Type - Dictionary 
   * [Dictionary - Introduction](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/dictionary%20introduction.md)
   * [Dictionary - Access Items, Get Keys, Get Values, Get Items](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/dictionary%20access%20items.md)
   * [Dictionary - Change and Add Items](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/dictionary%20change.md)
