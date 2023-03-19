@@ -11,7 +11,7 @@
     print(x)
     # return Mustang
 
-## get() - give you the same resul
+## get() - give you the same result
 
     thisdict =	{
       "brand": "Ford",
