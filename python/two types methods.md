@@ -15,3 +15,15 @@
 
     print(x) # return banana
     print(fruits) # return ['apple', 'cherry']
+
+# self not changed, new value generated
+
+    fruits = ["apple", "banana", "cherry"]
+
+    x = fruits.count("cherry")
+
+    print(x)
+    # return 1
+    
+    print(fruits)
+    # return ['apple', 'banana', 'cherry']
