@@ -43,7 +43,7 @@
   * [Set Join](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/Set%20Join.md)
 * Python - Dictionary (one of 4 built-in data types in Python used to store collections of data)
   * [Dictionary - Introduction](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/dictionary%20introduction.md)
-  * [Dictionary - Access Items]()
+  * [Dictionary - Access Items](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/dictionary%20access%20items.md)
 
 # Python Math and Statistics
 
