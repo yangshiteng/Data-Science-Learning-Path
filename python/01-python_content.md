@@ -7,7 +7,7 @@
  * [Python - augmented assignment operator (eg. +=)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/augmented%20assignment%20operator.md)
  * [Python - 3 types of method](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/two%20types%20methods.md)
  * [Python - Copy vs Reference](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/python%20copy%20vs%20reference.md)
- * [Python - one line if...else...]()
+ * [Python - one-line if-else statement, also known as Ternary Operator or Conditional Expression](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/ifelse%20one%20line.md)
 
 # Python Data Type
 
