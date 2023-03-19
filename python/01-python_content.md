@@ -44,7 +44,7 @@
 * Python - Dictionary (one of 4 built-in data types in Python used to store collections of data)
   * [Dictionary - Introduction](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/dictionary%20introduction.md)
   * [Dictionary - Access Items, Get Keys, Get Values, Get Items](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/dictionary%20access%20items.md)
-  * [Dictionary - Change Items]()
+  * [Dictionary - Change Items](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/dictionary%20change.md)
 
 # Python Math and Statistics
 
