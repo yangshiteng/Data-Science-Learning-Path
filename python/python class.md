@@ -45,3 +45,18 @@
     # return 36
 
 ![image](https://user-images.githubusercontent.com/60442877/226231676-67e7ab00-49f1-4746-9e15-9c6e196b2981.png)
+
+# 4. The \_\_str\_\_() Function
+
+![image](https://user-images.githubusercontent.com/60442877/226232716-66303ec5-8710-4ea8-8b33-f077cec88238.png)
+
+![image](https://user-images.githubusercontent.com/60442877/226232823-48df9843-2a41-4c2a-b898-87bdead76a63.png)
+
+![image](https://user-images.githubusercontent.com/60442877/226232835-5cc5b07f-dbd0-4820-8207-68a2ec083f25.png)
+
+![image](https://user-images.githubusercontent.com/60442877/226232892-b3727475-de7e-43e8-bb28-2190f95c4825.png)
+
+![image](https://user-images.githubusercontent.com/60442877/226232903-d97bdfd2-c026-43cd-b5b8-31b1fb3c5337.png)
+
+
+
