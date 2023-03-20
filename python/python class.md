@@ -8,13 +8,13 @@
 
 ![image](https://user-images.githubusercontent.com/60442877/226230426-42f68d7c-1756-4416-b0b0-df83a2e14ca8.png)
 
-# 3. The __init__() Function
+# 3. The \_\_init\_\_() Function
 
 ![image](https://user-images.githubusercontent.com/60442877/226230792-337f1925-3c1a-4e0b-8c07-dba987135be5.png)
 
 ![image](https://user-images.githubusercontent.com/60442877/226230812-383a3c40-bd90-4188-9613-ff9487a24d9e.png)
 
-## the Class parameters are defined in __init__() function
+## the Class parameters are defined in \_\_init\_\_() function
 
     class Person:
       def __init__(self, name, age):
