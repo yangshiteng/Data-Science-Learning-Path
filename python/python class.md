@@ -64,4 +64,12 @@
 
 ![image](https://user-images.githubusercontent.com/60442877/226233450-e861cfd7-0aa4-465d-8679-1d186b396a07.png)
 
+# 6. The self parameter
+
+![image](https://user-images.githubusercontent.com/60442877/226234153-62810443-8edf-44af-9da3-f1cb9693072a.png)
+
+![image](https://user-images.githubusercontent.com/60442877/226234168-f37f80c0-5105-4c8d-9de7-e45b2ba27bc5.png)
+
+![image](https://user-images.githubusercontent.com/60442877/226234326-e702702d-4efb-45bd-9d42-63511fb579b7.png)
+
 
