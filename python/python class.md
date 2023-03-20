@@ -14,12 +14,29 @@
 
 ![image](https://user-images.githubusercontent.com/60442877/226230812-383a3c40-bd90-4188-9613-ff9487a24d9e.png)
 
+## the Class parameters are defined in __init__() function
+
     class Person:
       def __init__(self, name, age):
         self.person_name = name
         self.person_age = age
 
     p1 = Person("John", 36)
+
+    print(p1.person_name)
+    # return John
+    
+    print(p1.person_age)
+    # return 36
+
+## the Class can have 0 parameter
+
+    class Person:
+      def __init__(self):
+        self.person_name = 'John'
+        self.person_age = 36
+
+    p1 = Person()
 
     print(p1.person_name)
     # return John
