@@ -43,3 +43,5 @@
     
     print(p1.person_age)
     # return 36
+
+![image](https://user-images.githubusercontent.com/60442877/226231676-67e7ab00-49f1-4746-9e15-9c6e196b2981.png)
