@@ -78,10 +78,19 @@
 
 ![image](https://user-images.githubusercontent.com/60442877/226235132-55d56295-b692-43d3-90f3-2f4881080dde.png)
 
+# 8. Delete Object's properties or attributes
 
+![image](https://user-images.githubusercontent.com/60442877/226238172-2b3f386f-c417-4801-8171-45bc7c3912de.png)
 
+![image](https://user-images.githubusercontent.com/60442877/226238190-51ceaaf8-c8d8-43dd-a9ff-842e3dfa53ea.png)
 
+## 9. Delete Objects
 
+![image](https://user-images.githubusercontent.com/60442877/226238306-9c1e3f7c-bde6-4a83-a5e4-e9e7d81e33da.png)
+
+## 10. The pass statement
+
+![image](https://user-images.githubusercontent.com/60442877/226238359-a55e6d25-7350-406a-a79a-6e802a68f1ed.png)
 
 
 
