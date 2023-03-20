@@ -12,7 +12,9 @@
 
 # Arguments vs Parameters
 
-![image](https://user-images.githubusercontent.com/60442877/226205607-47d35b50-7ef3-460c-8739-24c425722c7e.png)
+![image](https://user-images.githubusercontent.com/60442877/226229300-40573525-6d58-4674-aab7-56d45f4082e6.png)
+
+![image](https://user-images.githubusercontent.com/60442877/226229317-a09deb6b-2b46-4e2d-909d-43b2006726eb.png)
 
 # Arguments
 
