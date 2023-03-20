@@ -74,7 +74,7 @@
 # Python - Special Statement
 
 * [Pass, Break, Continue](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/pass%20break%20continue%20statements.md)
-* [Try...Except...]()
+* [Try...Except...](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/try%20except.md)
 
 # Python Math and Statistics
 
