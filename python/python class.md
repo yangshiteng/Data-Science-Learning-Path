@@ -4,7 +4,7 @@
 
 ![image](https://user-images.githubusercontent.com/60442877/226229998-8939c4e5-4ddf-40ec-9712-7ab76ac9b32d.png)
 
-# 2. Define an Object with the Class Created
+# 2. Define an Object or an Instance with the Class Created above
 
 ![image](https://user-images.githubusercontent.com/60442877/226230426-42f68d7c-1756-4416-b0b0-df83a2e14ca8.png)
 
@@ -71,5 +71,19 @@
 ![image](https://user-images.githubusercontent.com/60442877/226234168-f37f80c0-5105-4c8d-9de7-e45b2ba27bc5.png)
 
 ![image](https://user-images.githubusercontent.com/60442877/226234326-e702702d-4efb-45bd-9d42-63511fb579b7.png)
+
+# 7. Modify Object's properties or attributes
+
+![image](https://user-images.githubusercontent.com/60442877/226235106-4ccbe462-775f-4692-a021-701abe9df787.png)
+
+![image](https://user-images.githubusercontent.com/60442877/226235132-55d56295-b692-43d3-90f3-2f4881080dde.png)
+
+
+
+
+
+
+
+
 
 
