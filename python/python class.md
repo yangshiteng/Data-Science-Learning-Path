@@ -1,1 +1,28 @@
+![image](https://user-images.githubusercontent.com/60442877/226229412-ec172af9-5925-4700-a5f4-bd75b6bbd350.png)
 
+# Create a Class
+
+![image](https://user-images.githubusercontent.com/60442877/226229998-8939c4e5-4ddf-40ec-9712-7ab76ac9b32d.png)
+
+# Create Object
+
+![image](https://user-images.githubusercontent.com/60442877/226230426-42f68d7c-1756-4416-b0b0-df83a2e14ca8.png)
+
+# The __init__() Function
+
+![image](https://user-images.githubusercontent.com/60442877/226230792-337f1925-3c1a-4e0b-8c07-dba987135be5.png)
+
+![image](https://user-images.githubusercontent.com/60442877/226230812-383a3c40-bd90-4188-9613-ff9487a24d9e.png)
+
+    class Person:
+      def __init__(self, name, age):
+        self.person_name = name
+        self.person_age = age
+
+    p1 = Person("John", 36)
+
+    print(p1.person_name)
+    # return John
+    
+    print(p1.person_age)
+    # return 36
