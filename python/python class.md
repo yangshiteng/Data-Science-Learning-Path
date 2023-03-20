@@ -58,5 +58,10 @@
 
 ![image](https://user-images.githubusercontent.com/60442877/226232903-d97bdfd2-c026-43cd-b5b8-31b1fb3c5337.png)
 
+# 5. Object Methods
+
+![image](https://user-images.githubusercontent.com/60442877/226233428-af2a5490-4bf7-4c65-87b5-8a2b273b6fa0.png)
+
+![image](https://user-images.githubusercontent.com/60442877/226233450-e861cfd7-0aa4-465d-8679-1d186b396a07.png)
 
 
