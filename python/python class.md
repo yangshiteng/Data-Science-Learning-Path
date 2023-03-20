@@ -4,7 +4,7 @@
 
 ![image](https://user-images.githubusercontent.com/60442877/226229998-8939c4e5-4ddf-40ec-9712-7ab76ac9b32d.png)
 
-# 2. Define a Object with the Class Created
+# 2. Define an Object with the Class Created
 
 ![image](https://user-images.githubusercontent.com/60442877/226230426-42f68d7c-1756-4416-b0b0-df83a2e14ca8.png)
 
