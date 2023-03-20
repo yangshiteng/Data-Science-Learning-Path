@@ -1,17 +1,5 @@
-# The break Statement
+![image](https://user-images.githubusercontent.com/60442877/226225294-6aa25e0c-5491-4d20-abf5-a88a707afc2c.png)
 
-![image](https://user-images.githubusercontent.com/60442877/226198832-f22abb08-cc55-4b9d-b822-795fa0580eb5.png)
+![image](https://user-images.githubusercontent.com/60442877/226225316-02f20e3e-3ad3-42bf-918c-cf4a6bf83293.png)
 
-![image](https://user-images.githubusercontent.com/60442877/226198839-8f37de0a-182a-4dec-9f9d-070a6dc02342.png)
-
-# The continue Statement
-
-![image](https://user-images.githubusercontent.com/60442877/226198859-f211baac-91cc-4744-a037-9f4b15de297a.png)
-
-![image](https://user-images.githubusercontent.com/60442877/226198872-3f6ec412-3e93-46fd-80b7-6017f4f1b47a.png)
-
-# The else Statement
-
-![image](https://user-images.githubusercontent.com/60442877/226198891-dc01cfc2-8f89-4164-9d43-962fd6ce93e5.png)
-
-![image](https://user-images.githubusercontent.com/60442877/226198893-5a8fa720-1d50-4076-a11a-398cd2285e3f.png)
+![image](https://user-images.githubusercontent.com/60442877/226225323-2cc0fa75-379b-4611-bcb1-b557895b382f.png)
