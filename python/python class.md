@@ -4,7 +4,9 @@
 
 ![image](https://user-images.githubusercontent.com/60442877/226229998-8939c4e5-4ddf-40ec-9712-7ab76ac9b32d.png)
 
-# 2. Define an Object or an Instance with the Class Created above with some parameter values
+# 2. Define an Object or an Instance with the Class Created above with specified parameter values
+
+## the defined object or instance will have all the properties of the class (except the methods that can only be called inside class)
 
 ![image](https://user-images.githubusercontent.com/60442877/226230426-42f68d7c-1756-4416-b0b0-df83a2e14ca8.png)
 
