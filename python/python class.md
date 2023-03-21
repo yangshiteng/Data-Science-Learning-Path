@@ -30,6 +30,9 @@
     
     print(p1.person_age)
     # return 36
+    
+![image](https://user-images.githubusercontent.com/60442877/226514537-4299cabd-4656-492c-8967-c43a7c86eca5.png)
+
 
 ## the Class can have 0 parameter
 
