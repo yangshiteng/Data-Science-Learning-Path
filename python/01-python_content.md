@@ -62,13 +62,19 @@
 * Python Data Type - Range
   * [range() - builtin function in Python that allows you to generate a sequence of integers within a specified range](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/range%20function.md)
 
-# Python - Function and Class
+# Python - Function
 
 * [Python Function](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/python%20function.md)
 * [Python Lambda Function](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/lambda%20function.md)
+
+
+# Python - Class
+
 * [Python - Class](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/python%20class.md)
 * [Python - Inheritance (Parent and Child Class)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/python%20inheritance.md)
 * [Python - iterators](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/iterator.md)
+* [Python - @classmethod]()
+
 
 # Python - Build In functions
 
