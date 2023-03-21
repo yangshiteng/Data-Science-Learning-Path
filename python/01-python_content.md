@@ -67,6 +67,7 @@
 * [Python Function](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/python%20function.md)
 * [Python Lambda Function](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/lambda%20function.md)
 * [Python - Class](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/python%20class.md)
+* [Python - Inheritance (Parent and Child Class)]()
 
 # Python - Build In functions
 
