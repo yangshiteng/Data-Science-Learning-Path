@@ -12,11 +12,13 @@
 
 # 3. The \_\_init\_\_() Function
 
+## the Class parameters are defined in \_\_init\_\_()
+
+
 ![image](https://user-images.githubusercontent.com/60442877/226230792-337f1925-3c1a-4e0b-8c07-dba987135be5.png)
 
 ![image](https://user-images.githubusercontent.com/60442877/226230812-383a3c40-bd90-4188-9613-ff9487a24d9e.png)
 
-## the Class parameters are defined in \_\_init\_\_() function
 
     class Person:
       def __init__(self, name, age):
