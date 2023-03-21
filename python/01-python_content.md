@@ -73,7 +73,7 @@
 * [Python - Class](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/python%20class.md)
 * [Python - Inheritance (Parent and Child Class)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/python%20inheritance.md)
 * [Python - iterators](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/iterator.md)
-* [class-level attribute](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/class%20level%20attribute.md)
+* [class-level attribute (class variable)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/class%20level%20attribute.md)
 * [Python - @classmethod](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/python%20classmethod.md)
 
 
