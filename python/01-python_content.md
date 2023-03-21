@@ -74,7 +74,7 @@
 
 * [enumerate() - iterate over a sequence (e.g., a list, tuple, or string) and keep track of the index of each element as you iterate](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/enumerate.md)
 
-# Python - Special Statement
+# Python - Special Statements
 
 * [Pass, Break, Continue](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/pass%20break%20continue%20statements.md)
 * [try...except...else...finally...](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/try%20except.md)
@@ -89,8 +89,9 @@
 * [Windows cmd Terminal Command](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/commoncommand.md)
 * [if \_\_name__ == '\_\_main__'](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/ifnamemain.md)
 
-# Python Packages
+# Python Packages or Modules
 
+* [Python Module Introduction]()
 * [Pandas](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/pandas.md)
 
 # Python Practice
