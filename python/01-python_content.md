@@ -79,6 +79,13 @@
 * [Pass, Break, Continue](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/pass%20break%20continue%20statements.md)
 * [try...except...else...finally...](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/try%20except.md)
 
+# Python Packages or Modules
+
+* [Python Module Introduction]()
+* [Pandas](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/pandas.md)
+
+
+
 # Python Math and Statistics
 
 * [Python Math](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/math.md)
@@ -88,11 +95,6 @@
 
 * [Windows cmd Terminal Command](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/commoncommand.md)
 * [if \_\_name__ == '\_\_main__'](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/ifnamemain.md)
-
-# Python Packages or Modules
-
-* [Python Module Introduction]()
-* [Pandas](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/pandas.md)
 
 # Python Practice
 
