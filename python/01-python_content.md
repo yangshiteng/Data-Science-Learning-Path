@@ -81,7 +81,7 @@
 
 # Python Packages or Modules
 
-* [Python Module Introduction]()
+* [Python Module Introduction](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/python%20modules.md)
 * [Pandas](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/pandas.md)
 
 
