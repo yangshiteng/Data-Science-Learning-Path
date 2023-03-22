@@ -53,6 +53,11 @@
 
 ![image](https://user-images.githubusercontent.com/60442877/226231676-67e7ab00-49f1-4746-9e15-9c6e196b2981.png)
 
+## the Class can have parameters with default values
+
+![image](https://user-images.githubusercontent.com/60442877/227052447-28fa0f3d-acbb-4077-b5d4-ad1e363f8d26.png)
+
+
 # 4. The \_\_str\_\_() Function
 
 ![image](https://user-images.githubusercontent.com/60442877/226232716-66303ec5-8710-4ea8-8b33-f077cec88238.png)
