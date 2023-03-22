@@ -73,6 +73,8 @@
 
 # 6. The self parameter
 
+![image](https://user-images.githubusercontent.com/60442877/226786963-9a03c2e5-daeb-4907-a71c-39ea7891e5e9.png)
+
 ![image](https://user-images.githubusercontent.com/60442877/226234153-62810443-8edf-44af-9da3-f1cb9693072a.png)
 
 ![image](https://user-images.githubusercontent.com/60442877/226234168-f37f80c0-5105-4c8d-9de7-e45b2ba27bc5.png)
