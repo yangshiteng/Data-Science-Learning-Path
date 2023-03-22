@@ -2,7 +2,7 @@
 
 ![image](https://user-images.githubusercontent.com/60442877/226510144-aed8ebc6-d9cc-4b26-829d-e63436c7e627.png)
 
-# The Module can not only contain functions but also variables of all data types
+# The Module can contain function, class and variables of all data types
 
 ![image](https://user-images.githubusercontent.com/60442877/226510305-ac420902-4cac-4f3f-8d24-fbab2e6009b6.png)
 
