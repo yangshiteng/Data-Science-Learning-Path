@@ -19,3 +19,7 @@
 ![image](https://user-images.githubusercontent.com/60442877/226510433-fe1c3530-477d-455a-a51d-f3ab60debf3c.png)
 
 ![image](https://user-images.githubusercontent.com/60442877/226510467-9dbe8b44-0c49-4103-8bac-db1276c5b3d1.png)
+
+# Import From Module
+
+![image](https://user-images.githubusercontent.com/60442877/227062389-a0f8add1-b39a-4468-9367-138f0af1284b.png)
