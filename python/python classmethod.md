@@ -10,4 +10,4 @@
 
 ## Example 3
 
-![image](https://user-images.githubusercontent.com/60442877/227083349-44b2d2ac-0e4b-4c5b-bcde-06f9abda3c63.png)
+![image](https://user-images.githubusercontent.com/60442877/227085898-2db6c348-b897-4ebd-897a-3d07cacb59a7.png)
