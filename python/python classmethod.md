@@ -1,10 +1,9 @@
-# Class method can be called on the class itself 
+![image](https://user-images.githubusercontent.com/60442877/227069170-be105fd2-59cf-4c39-857f-2db8940a117c.png)
+
 
 ## Example 1
 
-![image](https://user-images.githubusercontent.com/60442877/226512531-4b7fe3b3-0a52-4532-93a0-79a45ab9bc9e.png)
-
-![image](https://user-images.githubusercontent.com/60442877/226512553-197bba45-6799-4dcf-8e33-a71bff4748e4.png)
+![image](https://user-images.githubusercontent.com/60442877/227069278-01cc7fdc-5c2e-4db8-a839-4cfd25642d61.png)
 
 ## Example 2
 
