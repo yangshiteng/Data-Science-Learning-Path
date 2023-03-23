@@ -73,7 +73,8 @@
 * [Python - Class](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/python%20class.md)
   * [class-level attribute (or class attribute or class variable)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/class%20level%20attribute.md)
   * [instance-level attribute (or instance attribute or instance variable)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/instant%20attribute.md)
-  * [Python - @classmethod](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/python%20classmethod.md)
+  * [Class Method](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/python%20classmethod.md)
+  * [Instance Method]()
 * [Python - Inheritance (Parent and Child Class)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/python%20inheritance.md)
 * [Python - iterators](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/iterator.md)
 
