@@ -76,7 +76,7 @@
   * [Class Method](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/python%20classmethod.md)
   * [Instance Method](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/instance%20method.md)
   * [Difference between Class method and Instance method](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/difference%20between%20class%20and%20instance%20method.md)
-  * [Magic Method (also called Dunder Method) (it is a instance method with double underscores before and after the method name)]()
+  * [Magic Method (also called Dunder Method) (it is a instance method with double underscores before and after the method name)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/magic%20method.md)
 * [Python - Inheritance (Parent and Child Class)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/python%20inheritance.md)
 * [Python - iterators](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/iterator.md)
 
