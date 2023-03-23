@@ -75,6 +75,7 @@
   * [Instance-level attribute (or instance attribute or instance variable) (specific to each instance)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/instant%20attribute.md)
   * [Class Method](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/python%20classmethod.md)
   * [Instance Method](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/instance%20method.md)
+  * [Difference between Class method and Instance method]()
 * [Python - Inheritance (Parent and Child Class)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/python%20inheritance.md)
 * [Python - iterators](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/iterator.md)
 
