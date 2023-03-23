@@ -71,8 +71,8 @@
 # Python - Class
 
 * [Python - Class](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/python%20class.md)
-  * [class-level attribute (or class attribute or class variable)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/class%20level%20attribute.md)
-  * [instance-level attribute (or instance attribute or instance variable)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/instant%20attribute.md)
+  * [Class-level attribute (or class attribute or class variable) (shared by all instances of a class)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/class%20level%20attribute.md)
+  * [Instance-level attribute (or instance attribute or instance variable) (specific to each instance)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/instant%20attribute.md)
   * [Class Method](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/python%20classmethod.md)
   * [Instance Method](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/instance%20method.md)
 * [Python - Inheritance (Parent and Child Class)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/python%20inheritance.md)
