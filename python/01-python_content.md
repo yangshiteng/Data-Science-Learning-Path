@@ -78,7 +78,7 @@
   * [Difference between Class method and Instance method](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/difference%20between%20class%20and%20instance%20method.md)
   * [Magic Method (it is a special instance method with double underscores before and after the method name)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/magic%20method.md)
   * [Function vs Method](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/function%20vs%20method.md)
-  * [Private Method]()
+  * [Private Method](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/private%20method.md)
 * [Python - Inheritance (Parent and Child Class)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/python%20inheritance.md)
 * [Python - iterators](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/iterator.md)
 
