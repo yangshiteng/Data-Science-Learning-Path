@@ -65,9 +65,7 @@
 
 * [Python Function Introduction (Arguments vs Parameters)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/python%20function.md)
 * [Python Lambda Function Introduction (can be applied in map and sorted functions)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/lambda%20function.md)
-* [Build-in function - enumerate()](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/enumerate.md)
-
-
+* [Build-in functions](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/enumerate.md)
 
 
 # Python - Class
