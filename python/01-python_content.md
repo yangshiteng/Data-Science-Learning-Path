@@ -76,7 +76,7 @@
   * [Class Method](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/python%20classmethod.md)
   * [Instance Method](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/instance%20method.md)
   * [Difference between Class method and Instance method](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/difference%20between%20class%20and%20instance%20method.md)
-  * [Magic Method (it is a special instance method with double underscores before and after the method name)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/magic%20method.md)
+  * [Special Instance Method (instance method with double underscores before and after the method name)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/magic%20method.md)
   * [Private Method](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/private%20method.md)
   * [3 types of methods](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/two%20types%20methods.md)
 * [Python - Inheritance (Parent and Child Class)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/python%20inheritance.md)
