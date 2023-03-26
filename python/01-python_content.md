@@ -29,7 +29,7 @@
   * [List Add Items](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/listadditems.md)
   * [List Remove Items](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/list%20remove.md)
   * [List Comprehension (one line list loop)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/list%20comprehension.md)
-  * [List Sort](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/list%20sort.md)
+  * [List Sort (customized sort rule)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/list%20sort.md)
   * [List Copy](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/list%20copy.md)
   * [List Index (Return the index of the first element with the specified value)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/list%20index.md)
    * [Multiply List](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/Multiply%20List.md)
