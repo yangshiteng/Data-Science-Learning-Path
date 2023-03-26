@@ -8,7 +8,7 @@
  * [Python - Copy vs Reference](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/python%20copy%20vs%20reference.md)
  * [Python - Ternary Operator (one line if else expression)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/ifelse%20one%20line.md)
  * [Python - else in for loop and while loop](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/while%20loop.md)
-
+ * [Python - Module Introduction](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/python%20modules.md)
 
 
 # Python Data Type
@@ -89,9 +89,9 @@
 * [Pass, Break, Continue](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/pass%20break%20continue%20statements.md)
 * [try...except...else...finally...](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/try%20except.md)
 
-# Python Modules
 
-* [Python Module Introduction](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/python%20modules.md)
+# Python Data Analytics
+
 * [pandas](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/pandas.md)
 * [datetime](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/datetime.md)
 
