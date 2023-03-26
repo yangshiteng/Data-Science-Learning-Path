@@ -14,3 +14,6 @@
 
 ![image](https://user-images.githubusercontent.com/60442877/227100156-d42feb21-1567-446c-be79-ff24aa4f5cba.png)
 
+# 4. \_\_add()\_\_
+
+![image](https://user-images.githubusercontent.com/60442877/227804139-07ebaf75-4607-4228-b4d2-18b9e3e1ccb9.png)
