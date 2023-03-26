@@ -93,7 +93,7 @@
 * [Pass, Break, Continue](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/pass%20break%20continue%20statements.md)
 * [try...except...else...finally...](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/try%20except.md)
 
-# Python Packages or Modules
+# Python Modules
 
 * [Python Module or Package Introduction](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/python%20modules.md)
 * [pandas](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/pandas.md)
