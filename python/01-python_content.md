@@ -5,7 +5,6 @@
  * [Python - Add Comment](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/addcomment.md)
  * [Python - Slicing](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/pythonslicing.md)
  * [Python - augmented assignment operator (eg. +=)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/augmented%20assignment%20operator.md)
- * [Python - 3 types of methods](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/two%20types%20methods.md)
  * [Python - Copy vs Reference](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/python%20copy%20vs%20reference.md)
  * [Python - Ternary Operator (one line if else expression)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/ifelse%20one%20line.md)
  * [Python - else in for loop and while loop](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/while%20loop.md)
@@ -81,6 +80,7 @@
   * [Magic Method (it is a special instance method with double underscores before and after the method name)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/magic%20method.md)
   * [Function vs Method](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/function%20vs%20method.md)
   * [Private Method](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/private%20method.md)
+  * [3 types of methods](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/two%20types%20methods.md)
 * [Python - Inheritance (Parent and Child Class)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/python%20inheritance.md)
 * [Python - iterators](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/iterator.md)
 
