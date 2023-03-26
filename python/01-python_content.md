@@ -66,6 +66,8 @@
 
 * [Python Function](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/python%20function.md)
 * [Python Lambda Function](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/lambda%20function.md)
+* Python Build-in functions
+  * [enumerate() - iterate over a sequence (e.g., a list, tuple, or string) and keep track of the index of each element as you iterate](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/enumerate.md)
 
 
 # Python - Class
@@ -83,10 +85,6 @@
 * [Python - iterators](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/iterator.md)
 
 
-
-# Python - Build In functions
-
-* [enumerate() - iterate over a sequence (e.g., a list, tuple, or string) and keep track of the index of each element as you iterate](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/enumerate.md)
 
 # Python - Special Statements
 
