@@ -61,7 +61,7 @@
 * Python Data Type - Range
   * [range() - builtin function in Python that allows you to generate a sequence of integers within a specified range](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/range%20function.md)
 * Python Objects vs Json Data
-  * [json module]()
+  * [json module](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/json%20module.md)
 
 
 # Python - Function
