@@ -60,6 +60,9 @@
   * [dict.fromkeys() - create a dictionary with keys from a given sequence and all values set to a default value](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/dictionary%20fromkey.md)
 * Python Data Type - Range
   * [range() - builtin function in Python that allows you to generate a sequence of integers within a specified range](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/range%20function.md)
+* Python Objects vs Json Data
+  * [json module]()
+
 
 # Python - Function
 
