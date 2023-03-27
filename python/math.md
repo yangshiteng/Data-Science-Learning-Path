@@ -124,3 +124,13 @@
     print (math.gcd(10, 0))     # 10
     print (math.gcd(0, 34))     # 34
     print (math.gcd(0, 0))      # 0
+
+## math.comb()
+
+![image](https://user-images.githubusercontent.com/60442877/227814556-fafae99f-7d07-4cd5-8c76-2a9b448ca3db.png)
+
+![image](https://user-images.githubusercontent.com/60442877/227814596-2edc52a8-99a3-4874-bf6a-5284a0f89922.png)
+
+
+
+
