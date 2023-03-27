@@ -74,3 +74,39 @@
     print(math.trunc(2.77))   # return 2
     print(math.trunc(8.32))   # return 8
     print(math.trunc(-99.29)) # return -99
+    
+## math.fmod()
+
+![image](https://user-images.githubusercontent.com/60442877/227813547-eb958e56-6b56-42d1-a1a3-0d98c0b2c8e6.png)
+
+## math.fabs()
+
+![image](https://user-images.githubusercontent.com/60442877/227813594-80877d49-d41d-41df-a9a8-42ee1ba61fa1.png)
+
+    #Import math Library
+    import math
+
+    #Print absolute values from numbers
+    print(math.fabs(-66.43)) # return 66.43
+    print(math.fabs(-7))     # return 7
+    
+## math.fsum()
+
+![image](https://user-images.githubusercontent.com/60442877/227813680-03f2244a-5f61-4c43-9042-d037bbf55ee8.png)
+
+## math.gcd()
+
+![image](https://user-images.githubusercontent.com/60442877/227813788-db827a10-8117-4adc-8043-3eb91052698b.png)
+
+    #Import math Library
+    import math
+
+    #find the  the greatest common divisor of the two integers
+    print (math.gcd(3, 6))      # 3
+    print (math.gcd(6, 12))     # 6
+    print (math.gcd(12, 36))    # 12
+    print (math.gcd(-12, -36))  # 12
+    print (math.gcd(5, 12))     # 1
+    print (math.gcd(10, 0))     # 10
+    print (math.gcd(0, 34))     # 34
+    print (math.gcd(0, 0))      # 0
