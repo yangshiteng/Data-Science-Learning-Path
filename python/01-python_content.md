@@ -23,6 +23,7 @@
   * [String Format](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/stringformat.md)
   * [String Escape Character (allow the illegal character in a string)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/escape%20character.md)
   * [String Reverse](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/string%20reverse.md)
+  * [Regular Expression (re module)]()
 * Python Data Type - List 
   * [List Introduction](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/list%20introduction.md)
   * [List Change Items](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/List%20Change%20Items.md)
