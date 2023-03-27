@@ -50,7 +50,7 @@
 
 ![image](https://user-images.githubusercontent.com/60442877/227838450-69319b82-f244-45b4-adf7-72cd9dc9e610.png)
 
-# Match Object and its methods
+# Match/Search Object and its methods
 
 ![image](https://user-images.githubusercontent.com/60442877/227840291-b69f49de-c295-46d0-a066-ed964f62c136.png)
 
