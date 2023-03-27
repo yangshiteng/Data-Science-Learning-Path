@@ -32,6 +32,20 @@
 
 ![image](https://user-images.githubusercontent.com/60442877/227813057-4c982b16-a69c-404e-b05e-337065ff2705.png)
 
+## math.isqrt()
+
+![image](https://user-images.githubusercontent.com/60442877/227814048-0b1574f0-5f8e-42e7-9834-35e5869ddd23.png)
+
+    # Import math Library
+    import math
+
+    # Print the square root of different numbers
+    print (math.sqrt(10))   # 3.1622776601683795
+
+    # Round square root downward to the nearest integer
+    print (math.isqrt(10))  # 3
+
+
 ## math.ceil() and math.floor()
 
 ![image](https://user-images.githubusercontent.com/60442877/227813085-bff37427-e629-4684-bc20-fc1de71f8653.png)
