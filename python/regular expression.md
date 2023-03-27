@@ -50,11 +50,15 @@
 
 ![image](https://user-images.githubusercontent.com/60442877/227838450-69319b82-f244-45b4-adf7-72cd9dc9e610.png)
 
-# Match Object
+# Match Object and its methods
 
 ![image](https://user-images.githubusercontent.com/60442877/227840291-b69f49de-c295-46d0-a066-ed964f62c136.png)
 
-    .span() - returns a tuple containing the start-, and end positions of the match
+    .span()  - returns a tuple containing the start-, and end positions of the match
+    .start([group]) - Returns the start position of the match (or the specified subgroup) in the input string
+    .end()
+    .string  - returns the string passed into the function
+    .group() - returns the part of the string where there was a match
     
 
 
