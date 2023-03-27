@@ -93,6 +93,15 @@
 
 ![image](https://user-images.githubusercontent.com/60442877/227813547-eb958e56-6b56-42d1-a1a3-0d98c0b2c8e6.png)
 
+    # Import math Library
+    import math 
+
+    # Return the remainder of x/y
+    print(math.fmod(20, 4))  # 0.0
+    print(math.fmod(20, 3))  # 2.0
+    print(math.fmod(15, 6))  # 3.0
+    print(math.fmod(-10, 3)) # -1.0
+
 ## math.remainder()
 
 ![image](https://user-images.githubusercontent.com/60442877/227816012-1b864ca9-9d9d-4103-9fb0-872667e29827.png)
