@@ -54,6 +54,10 @@
 
 ![image](https://user-images.githubusercontent.com/60442877/227813095-c39efb43-a95f-427f-a384-96d770d377fd.png)
 
+## math.e
+
+![image](https://user-images.githubusercontent.com/60442877/227816280-d1a610f8-ba90-44b6-a08b-860ee3cd9335.png)
+
 ## math.dist()
 
 ![image](https://user-images.githubusercontent.com/60442877/227813165-32018adf-ca57-408c-a5a1-8a5584577abb.png)
