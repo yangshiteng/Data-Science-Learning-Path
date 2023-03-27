@@ -63,4 +63,29 @@
 .group() - Returns one or more subgroups of the match. If no arguments are provided, it returns the entire matched substring. If a single argument is provided, it returns the corresponding subgroup. If multiple arguments are provided, it returns a tuple containing the corresponding subgroups
     
 
+    import re
 
+    # Sample text
+    text = "John Smith (25) works at Example Corp."
+
+    # Regular expression pattern with named groups
+    pattern = r'(?P<name>[A-Za-z\s]+)\s\((?P<age>\d+)\)\sworks\sat\s(?P<company>[A-Za-z\s]+)'
+
+    # Search for the pattern in the text
+    match = re.search(pattern, text)
+
+    # Check if a match is found
+    if match:
+        print("Match found:")
+        print("Full match:", match.group())
+        print("Full match:", match.groups())
+        print("Name:", match.group('name'))
+        print("Age:", match.group('age'))
+        print("Company:", match.group('company'))
+        print("Match start:", match.start())
+        print("Match end:", match.end())
+        print("Match span:", match.span())
+        print("Match span:", match.span('name'))
+        print("Match span:", match.string)
+    else:
+        print("No match found")
