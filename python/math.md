@@ -93,6 +93,20 @@
 
 ![image](https://user-images.githubusercontent.com/60442877/227813547-eb958e56-6b56-42d1-a1a3-0d98c0b2c8e6.png)
 
+## math.remainder()
+
+![image](https://user-images.githubusercontent.com/60442877/227816012-1b864ca9-9d9d-4103-9fb0-872667e29827.png)
+
+
+    # Import math Library
+    import math
+
+    # Return the remainder of x/y 
+    print (math.remainder(9, 2))  # return 1.0
+    print (math.remainder(9, 3))  # return 0.0
+    print (math.remainder(18, 4)) # return 2.0
+
+
 ## math.fabs()
 
 ![image](https://user-images.githubusercontent.com/60442877/227813594-80877d49-d41d-41df-a9a8-42ee1ba61fa1.png)
@@ -131,6 +145,12 @@
 
 ![image](https://user-images.githubusercontent.com/60442877/227814596-2edc52a8-99a3-4874-bf6a-5284a0f89922.png)
 
+## math.factorial()
 
+![image](https://user-images.githubusercontent.com/60442877/227814669-f0a3716d-7f7b-4263-a71c-e26dc71f1857.png)
+
+## math.perm()
+
+![image](https://user-images.githubusercontent.com/60442877/227815935-de7c108f-b70a-4afc-b685-5f0d76de58ce.png)
 
 
