@@ -54,11 +54,11 @@
 
 ![image](https://user-images.githubusercontent.com/60442877/227840291-b69f49de-c295-46d0-a066-ed964f62c136.png)
 
-    .span([group])  - Returns a tuple containing the (start, end) positions of the match (or the specified subgroup) in the input string
-    .start([group]) - Returns the start position of the match (or the specified subgroup) in the input string
-    .end([group])   - Returns the end position of the match (or the specified subgroup) in the input string
-    .string  - returns the string passed into the function
-    .group() - returns the part of the string where there was a match
+    .span('group name')  - Returns a tuple containing the (start, end) positions of the match (or the specified subgroup) in the input string
+    .start('group name') - Returns the start position of the match (or the specified subgroup) in the input string
+    .end('group name')   - Returns the end position of the match (or the specified subgroup) in the input string
+    .string  - Returns the string passed into the function
+    .group() - Returns one or more subgroups of the match. If no arguments are provided, it returns the entire matched substring. If a single argument is provided, it returns the corresponding subgroup. If multiple arguments are provided, it returns a tuple containing the corresponding subgroups
     
 
 
