@@ -50,6 +50,10 @@
 
 ![image](https://user-images.githubusercontent.com/60442877/227813218-e8231d68-26a9-4a46-a173-d906529102fc.png)
 
+## math.log()
+
+![image](https://user-images.githubusercontent.com/60442877/227813497-d9d64f1b-e877-4295-850a-3d9822e5ead3.png)
+
 ## math.pow()
 
 ![image](https://user-images.githubusercontent.com/60442877/227813344-6dee7b89-c173-4993-b348-503d30f57bd4.png)
