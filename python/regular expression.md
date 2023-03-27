@@ -1,1 +1,38 @@
+![image](https://user-images.githubusercontent.com/60442877/227833271-35f0be93-ed46-4c16-85d9-9d6a98667d35.png)
+
+![image](https://user-images.githubusercontent.com/60442877/227833070-d113a7c4-7adf-403f-bf9f-a88ff3e81d6a.png)
+
+![image](https://user-images.githubusercontent.com/60442877/227834679-ec6472be-060c-4759-80c0-d84e4ae32c12.png)
+
+![image](https://user-images.githubusercontent.com/60442877/227835461-a093683e-2621-4f82-8725-0189d50f0ca5.png)
+
+![image](https://user-images.githubusercontent.com/60442877/227835742-1253f0ee-7ba7-4c48-82d8-870ec73e6f1d.png)
+
+# 1. re.search()
+
+## * If there is more than one match, only the first occurrence of the match will be returned
+
+![image](https://user-images.githubusercontent.com/60442877/227834272-c019919b-ab37-4db8-bb33-a3a8a14a3330.png)
+
+![image](https://user-images.githubusercontent.com/60442877/227834297-f118b93f-7c7b-4d8e-8b45-a6409eab615f.png)
+
+# 2. re.findall()
+
+![image](https://user-images.githubusercontent.com/60442877/227837071-c7410b33-0fdc-46f0-9ead-8326fb400d31.png)
+
+# 3. re.split()
+
+![image](https://user-images.githubusercontent.com/60442877/227837451-534657e3-83eb-4b60-badc-a3b195245573.png)
+
+![image](https://user-images.githubusercontent.com/60442877/227837468-f0bbe21c-fc7c-4350-a8d7-c79a46bb7b62.png)
+
+# 4. re.sub()
+
+![image](https://user-images.githubusercontent.com/60442877/227838385-20fff413-9a50-474d-93ce-cc6cbb9bb9cd.png)
+
+![image](https://user-images.githubusercontent.com/60442877/227838409-d2914a9f-4ec3-480e-bdbd-634b7e040966.png)
+
+![image](https://user-images.githubusercontent.com/60442877/227838431-b71b2ca7-23b7-487c-aa4f-cc7abbf2d8f5.png)
+
+![image](https://user-images.githubusercontent.com/60442877/227838450-69319b82-f244-45b4-adf7-72cd9dc9e610.png)
 
