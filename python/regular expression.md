@@ -32,6 +32,13 @@
 
 ## 3. re.finditer() - return match object
 
+![image](https://user-images.githubusercontent.com/60442877/228116135-fc7e511b-3441-47a7-a18c-dd7b6fb17fa5.png)
+
+![image](https://user-images.githubusercontent.com/60442877/228116354-88776e23-cad6-4f8f-915b-39d0b66f3cdc.png)
+
+![image](https://user-images.githubusercontent.com/60442877/228116483-0272b5f3-f04b-4a6c-b2e7-c18cfd85df69.png)
+
+![image](https://user-images.githubusercontent.com/60442877/228116501-c66e6713-af32-46a8-afba-b30142c90428.png)
 
 
 ## 4. re.findall()
