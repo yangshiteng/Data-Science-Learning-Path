@@ -56,6 +56,11 @@
 
 ## 7. re.compile()
 
+![image](https://user-images.githubusercontent.com/60442877/228106291-51ff6327-18cc-402c-b358-493b8532cb57.png)
+
+![image](https://user-images.githubusercontent.com/60442877/228106315-37c3a068-e95a-44f4-8b3c-a662872bed45.png)
+
+
 # Match Object and its methods
 
 ![image](https://user-images.githubusercontent.com/60442877/228101400-71eb7d16-83b9-4e17-9587-a8215522e8d7.png)
@@ -72,8 +77,11 @@
     
     match = re.search(pattern, text)
     
+    # returns the entire match
     print(match.group())    # Output: "42 apples"
     print(match.group(0))   # Output: "42 apples"
+    
+    # returns the nth captured group (1-indexed)
     print(match.group(1))   # Output: "42"
     print(match.group(2))   # Output: "apples"
     
