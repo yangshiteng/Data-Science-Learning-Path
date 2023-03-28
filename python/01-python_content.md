@@ -9,7 +9,7 @@
  * [Python - Ternary Operator (one line if else expression)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/ifelse%20one%20line.md)
  * [Python - else in for loop and while loop](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/while%20loop.md)
  * [Python - Module Introduction](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/python%20modules.md)
- * [Python - PIP]()
+ * [Python - PIP](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/python%20pip.md)
 
 
 # Python Data Type
