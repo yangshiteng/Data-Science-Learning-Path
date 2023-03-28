@@ -29,3 +29,9 @@
 # install a package
 
     pip install package_name
+
+# check if pip is installed
+
+    pip --version
+    
+    
