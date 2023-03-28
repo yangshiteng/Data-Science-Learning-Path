@@ -79,7 +79,7 @@
     print(match.group(1))   # Output: "42"
     print(match.group(2))   # Output: "apples"
     
-    # We can also assign the name to each group, and retrieve it by using it name
+### * We can also assign the name to each group, and retrieve it by using it name
     
     pattern = r'(?P<digit>\d+)\s+(?P<words>\w+)'
     
