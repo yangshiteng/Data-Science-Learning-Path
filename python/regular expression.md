@@ -61,7 +61,7 @@
 
 ![image](https://user-images.githubusercontent.com/60442877/227838450-69319b82-f244-45b4-adf7-72cd9dc9e610.png)
 
-## 7. re.compile()
+## 7. re.compile() - pattern object
 
 ![image](https://user-images.githubusercontent.com/60442877/228106291-51ff6327-18cc-402c-b358-493b8532cb57.png)
 
