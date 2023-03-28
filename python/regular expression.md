@@ -63,8 +63,6 @@
 ## 1. group() - Returns the matched substring
 
 ### * You can also pass an integer as an argument to get a specific captured group
-### * group(0) returns the entire match
-### * group(1) returns the first captured group, and so on
 
     # In this example, we're using a pattern that matches a number followed by one or more whitespace characters and a word
     
@@ -107,35 +105,34 @@
     print(match.groups())   # Output: ('42', 'apples')
 
 
+## 3. start(), end(), span()
 
+![image](https://user-images.githubusercontent.com/60442877/228103439-735645c0-2eff-4297-8ba6-64de93847313.png)
 
-
-
-
-
-    import re
-
-    # Sample text
-    text = "John Smith (25) works at Example Corp."
-
-    # Regular expression pattern with named groups
-    pattern = r'(?P<name>[A-Za-z\s]+)\s\((?P<age>\d+)\)\sworks\sat\s(?P<company>[A-Za-z\s]+)'
-
-    # Search for the pattern in the text
+    pattern = r'(?P<digit>\d+)\s+(?P<words>\w+)'
+    
+    text = "I have 42 apples and 3 oranges."
+    
     match = re.search(pattern, text)
 
-    # Check if a match is found
-    if match:
-        print("Match found:")
-        print("Full match:", match.group())
-        print("Full match:", match.groups())
-        print("Name:", match.group('name'))
-        print("Age:", match.group('age'))
-        print("Company:", match.group('company'))
-        print("Match start:", match.start())
-        print("Match end:", match.end())
-        print("Match span:", match.span())
-        print("Match span:", match.span('name'))
-        print("Match span:", match.string)
-    else:
-        print("No match found")
+    print(match.start())        # Output: 7
+    print(match.start("digit")) # Output: 7
+    print(match.start("words")) # Output: 10
+    
+    print(match.end())          # Output: 16
+    print(match.end("digit"))   # Output: 9
+    print(match.end("words"))   # Output: 16
+    
+    print(match.span())         # Output: (7, 16)
+    print(match.span("digit"))  # Output: (7, 9)
+    print(match.span("words"))  # Output: (10, 16)
+
+## 4. string - return the input string
+
+    pattern = r'(?P<digit>\d+)\s+(?P<words>\w+)'
+    
+    text = "I have 42 apples and 3 oranges."
+    
+    match = re.search(pattern, text)
+    
+    print(match.string)     # Output: "I have 42 apples and 3 oranges."
