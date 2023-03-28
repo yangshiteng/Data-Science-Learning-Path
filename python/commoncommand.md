@@ -18,4 +18,14 @@
     quit()
     exit()
     
+# list packages
+
+    pip list
     
+# uninstall a package
+
+    pip uninstall package_name
+    
+# install a package
+
+    pip install package_name
