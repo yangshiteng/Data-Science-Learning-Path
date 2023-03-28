@@ -30,17 +30,21 @@
 
 ![image](https://user-images.githubusercontent.com/60442877/227839229-bd93892e-da11-4afb-a4e4-c883904d6b51.png)
 
-## 3. re.findall()
+## 3. re.finditer() - return match object
+
+
+
+## 4. re.findall()
 
 ![image](https://user-images.githubusercontent.com/60442877/227837071-c7410b33-0fdc-46f0-9ead-8326fb400d31.png)
 
-## 4. re.split()
+## 5. re.split()
 
 ![image](https://user-images.githubusercontent.com/60442877/227837451-534657e3-83eb-4b60-badc-a3b195245573.png)
 
 ![image](https://user-images.githubusercontent.com/60442877/227837468-f0bbe21c-fc7c-4350-a8d7-c79a46bb7b62.png)
 
-## 5. re.sub()
+## 6. re.sub()
 
 ![image](https://user-images.githubusercontent.com/60442877/227838385-20fff413-9a50-474d-93ce-cc6cbb9bb9cd.png)
 
@@ -50,17 +54,49 @@
 
 ![image](https://user-images.githubusercontent.com/60442877/227838450-69319b82-f244-45b4-adf7-72cd9dc9e610.png)
 
-# Match/Search Object and its methods
+## 7. re.compile()
 
-![image](https://user-images.githubusercontent.com/60442877/227840291-b69f49de-c295-46d0-a066-ed964f62c136.png)
+# Match Object and its methods
 
-1. span('group name')  - Returns a tuple containing the (start, end) positions of the match (or the specified subgroup) in the input string
+![image](https://user-images.githubusercontent.com/60442877/228101400-71eb7d16-83b9-4e17-9587-a8215522e8d7.png)
 
-.span('group name')  - Returns a tuple containing the (start, end) positions of the match (or the specified subgroup) in the input string
-.start('group name') - Returns the start position of the match (or the specified subgroup) in the input string
-.end('group name')   - Returns the end position of the match (or the specified subgroup) in the input string
-.string  - Returns the string passed into the function
-.group() - Returns one or more subgroups of the match. If no arguments are provided, it returns the entire matched substring. If a single argument is provided, it returns the corresponding subgroup. If multiple arguments are provided, it returns a tuple containing the corresponding subgroups
+## 1. group() - Returns the matched substring
+
+### * You can also pass an integer as an argument to get a specific captured group
+### * group(0) returns the entire match
+### * group(1) returns the first captured group, and so on
+
+    # In this example, we're using a pattern that matches a number followed by one or more whitespace characters and a word
+    
+    pattern = r'(\d+)\s+(\w+)'
+    
+    text = "I have 42 apples and 3 oranges."
+    
+    match = re.search(pattern, text)
+    
+    print(match.group())    # Output: "42 apples"
+    print(match.group(0))   # Output: "42 apples"
+    print(match.group(1))   # Output: "42"
+    print(match.group(2))   # Output: "apples"
+    
+    # We can also assign the name to each group, and retrieve it by using it name
+    
+    pattern = r'(?P<digit>\d+)\s+(?P<words>\w+)'
+    
+    text = "I have 42 apples and 3 oranges."
+    
+    match = re.search(pattern, text)
+    
+    print(match.group())    # Output: "42 apples"
+    print(match.group(0))   # Output: "42 apples"
+    print(match.group(1))   # Output: "42"
+    print(match.group(2))   # Output: "apples"
+    
+    print(match.group("digit")) # Output: "42"
+    print(match.group("words")) # Output: "apples"
+    
+
+## 2. groups() - Returns a tuple containing all captured groups
     
 
     import re
