@@ -98,6 +98,20 @@
 
 ## 2. groups() - Returns a tuple containing all captured groups
     
+    pattern = r'(?P<digit>\d+)\s+(?P<words>\w+)'
+    
+    text = "I have 42 apples and 3 oranges."
+    
+    match = re.search(pattern, text)
+
+    print(match.groups())   # Output: ('42', 'apples')
+
+
+
+
+
+
+
 
     import re
 
