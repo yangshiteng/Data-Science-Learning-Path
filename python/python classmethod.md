@@ -8,6 +8,6 @@
 
 ![image](https://user-images.githubusercontent.com/60442877/226513947-ba9d28ac-fb98-4c6a-adb3-72f36dd42f7c.png)
 
-## Example 3
+## Example 3 （class method can also be called by the object or instance of the class）
 
 ![image](https://user-images.githubusercontent.com/60442877/227085898-2db6c348-b897-4ebd-897a-3d07cacb59a7.png)
