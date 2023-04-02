@@ -91,6 +91,7 @@
 # Python - File Handling
 
 * [File Handling Introduction](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/open%20function.md)
+* [File Delete]()
 
 # Python - Special Statements
 
