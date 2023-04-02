@@ -6,6 +6,8 @@
 
 # Read Files
 
+## 1. Open a file on the server
+
 ![image](https://user-images.githubusercontent.com/60442877/229325152-970562e2-b9c8-4406-897c-fc31c6ff457f.png)
 
 ![image](https://user-images.githubusercontent.com/60442877/229325214-b361ff00-c35b-4a7a-9a8e-cdffa7ffc7dc.png)
@@ -14,6 +16,24 @@
 
 ![image](https://user-images.githubusercontent.com/60442877/229325216-7c2df488-afed-4557-8cb1-9c72333dbe0f.png)
 
+## 2. Read only parts of the file
+
 ![image](https://user-images.githubusercontent.com/60442877/229325187-0cf0c1a4-1207-4f4e-8932-d1e27f2b934c.png)
 
 ![image](https://user-images.githubusercontent.com/60442877/229325197-3717dc10-97a7-4988-a0c0-0c2d6573ca35.png)
+
+## 3. Read Lines
+
+![image](https://user-images.githubusercontent.com/60442877/229325259-2d3082bf-a732-403a-8567-53da46cf8f43.png)
+
+![image](https://user-images.githubusercontent.com/60442877/229325295-18d0c91e-153b-4f74-8325-d5b97a1ec91e.png)
+
+![image](https://user-images.githubusercontent.com/60442877/229325301-2ddf3092-8216-43a4-81fc-eff096c84547.png)
+
+![image](https://user-images.githubusercontent.com/60442877/229325305-56c301f1-1044-424b-968f-0f7cb3cf9b6f.png)
+
+## 4. Looping the lines of the file
+
+![image](https://user-images.githubusercontent.com/60442877/229325363-dd06348f-bfdc-4d1b-8edf-38e576826ccc.png)
+
+![image](https://user-images.githubusercontent.com/60442877/229325367-75e5b5d2-a3bc-4d3a-8d7d-7ce8d4f8eb38.png)
