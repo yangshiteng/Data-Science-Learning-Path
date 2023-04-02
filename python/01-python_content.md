@@ -111,7 +111,7 @@
 
 # Python Engineering
 
-* [os module]()
+* [os module](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/os%20module.md)
 * [Windows cmd Terminal Command](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/commoncommand.md)
 * [if \_\_name__ == '\_\_main__'](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/ifnamemain.md)
 
