@@ -90,7 +90,7 @@
 
 # Python - File Handling
 
-* [open() function]()
+* [File Handling Introduction](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/open%20function.md)
 
 # Python - Special Statements
 
