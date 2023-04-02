@@ -37,3 +37,13 @@
 ![image](https://user-images.githubusercontent.com/60442877/229325363-dd06348f-bfdc-4d1b-8edf-38e576826ccc.png)
 
 ![image](https://user-images.githubusercontent.com/60442877/229325367-75e5b5d2-a3bc-4d3a-8d7d-7ce8d4f8eb38.png)
+
+## 5. Close Files
+
+![image](https://user-images.githubusercontent.com/60442877/229326459-354554cb-4344-49af-bbdf-64a3de39a7a9.png)
+
+![image](https://user-images.githubusercontent.com/60442877/229326468-abeed1ed-f73f-429c-8270-41ec75ce97c8.png)
+
+
+
+
