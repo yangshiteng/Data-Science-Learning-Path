@@ -89,4 +89,3 @@
 # "x" mode - create the specified file, return an error if the file exists
 
 ![image](https://user-images.githubusercontent.com/60442877/229327608-434771d1-c366-43bf-9f97-4131ee64f2a3.png)
-
