@@ -88,6 +88,9 @@
 * [Python - iterators](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/iterator.md)
 * [Function vs Method](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/function%20vs%20method.md)
 
+# Python - File Handling
+
+* [open() function]()
 
 # Python - Special Statements
 
