@@ -5,6 +5,14 @@
     txt3 = "My name is {}, I'm {}".format("John",36)
     # all return "My name is John, I'm 36"
 
+# Index Numbers
+
+![image](https://user-images.githubusercontent.com/60442877/229323656-f894c321-fb54-4162-9798-2a4c020e3405.png)
+
+# Name Indexes
+
+![image](https://user-images.githubusercontent.com/60442877/229323672-88b2ac8c-c721-4e9b-aee9-59058a4a8c1c.png)
+
 # Formatting Types
 
 ## * Use a comma as a thousand separator
