@@ -99,8 +99,9 @@
 * [try...except...else...finally...](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/try%20except.md)
 * [with...as...](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/with%20as.md)
 
-# Python Data Analytics
+# Python Data Analytics Modules
 
+* [numpy]()
 * [pandas](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/pandas.md)
 * [datetime](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/datetime.md)
 
