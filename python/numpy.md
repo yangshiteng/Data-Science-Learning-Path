@@ -259,8 +259,9 @@
 
 ![image](https://user-images.githubusercontent.com/60442877/229402757-ae87df0e-be04-4eb4-801d-c1cf2ff1aeba.png)
 
+# 12. Numpy Array Iterating
 
-
+## 1-D 
 
 
 
