@@ -231,6 +231,39 @@
 
 ![image](https://user-images.githubusercontent.com/60442877/229398836-5e55492b-21da-4fff-ace1-83359f78b25a.png)
 
+## Reshape from 1-D to 2-D
+
+![image](https://user-images.githubusercontent.com/60442877/229402387-4265d480-58da-47d7-abe5-4cff06860b3c.png)
+
+![image](https://user-images.githubusercontent.com/60442877/229402395-d5c7a7f8-5235-49d1-a4de-866b443601cf.png)
+
+## Reshape from 1-D to 3-D
+
+![image](https://user-images.githubusercontent.com/60442877/229402448-afb2f078-c6db-4f54-bc3a-900468a2fd8a.png)
+
+![image](https://user-images.githubusercontent.com/60442877/229402457-c2aa6d20-155f-45cf-a9c3-d7a92ddc5da6.png)
+
+## Can we reshape into any shape?
+
+![image](https://user-images.githubusercontent.com/60442877/229402566-bb40c4c3-5699-4a57-ad36-d02a9f075829.png)
+
+## Unknow Dimension
+
+![image](https://user-images.githubusercontent.com/60442877/229402644-90de49ac-c484-4bad-aab1-1daf60245635.png)
+
+![image](https://user-images.githubusercontent.com/60442877/229402655-52abc54c-5a10-4310-8900-a0eb2547f4f8.png)
+
+## Flattening the Array
+
+![image](https://user-images.githubusercontent.com/60442877/229402739-93e7f5ab-9a74-437a-957c-d3b95b150933.png)
+
+![image](https://user-images.githubusercontent.com/60442877/229402757-ae87df0e-be04-4eb4-801d-c1cf2ff1aeba.png)
+
+
+
+
+
+
 
 
 
