@@ -52,5 +52,87 @@
 
 ![image](https://user-images.githubusercontent.com/60442877/229390796-9bb5216b-01fa-4fc6-a357-611b7fc00e3c.png)
 
+# 6. Numpy Array Indexing
 
+## Access 1-D Array
 
+![image](https://user-images.githubusercontent.com/60442877/229390983-0be1e880-f00f-44e2-9ca5-9e343105020d.png)
+
+    import numpy as np
+
+    arr = np.array([1, 2, 3, 4])
+
+    print(arr[0])
+    # return 1
+
+## Access 2-D Array
+
+![image](https://user-images.githubusercontent.com/60442877/229393544-52836ced-bf61-499a-8374-2b33c7019376.png)
+
+    import numpy as np
+
+    arr = np.array([[1,2,3,4,5], [6,7,8,9,10]])
+
+    print('2nd element on 1st row: ', arr[0, 1])
+    # return 2nd element on 1st dim:  2
+
+## Access 3-D Array
+
+    import numpy as np
+
+    arr = np.array([[[1, 2, 3], [4, 5, 6]], [[7, 8, 9], [10, 11, 12]]])
+
+    print(arr[0, 1, 2])
+    # return 6
+    
+## Negative Indexing
+
+![image](https://user-images.githubusercontent.com/60442877/229393690-be648702-7559-41fc-9bf1-d17321b56a54.png)
+
+![image](https://user-images.githubusercontent.com/60442877/229393696-aa9d4e5d-d3fa-4560-bd27-532a92374fd1.png)
+
+# 7. Numpy Array Slicing
+
+![image](https://user-images.githubusercontent.com/60442877/229394389-9b0f638a-b333-4e09-8308-0531cfb5200b.png)
+
+# 1-D Array Slicing
+
+    import numpy as np
+
+    arr = np.array([1, 2, 3, 4, 5, 6, 7])
+
+    print(arr[1:5])
+    # return [2 3 4 5]
+
+    print(arr[4:])
+    # return [5 6 7]
+    
+    print(arr[:4])
+    # return [1 2 3 4]
+    
+    print(arr[-3:-1])
+    # return [5 6]
+    
+    print(arr[1:5:2])
+    # return [2 4]
+    
+    print(arr[::2])
+    # return [1 3 5 7]
+    
+# 2-D Array Slicing
+
+    import numpy as np
+
+    arr = np.array([[1, 2, 3, 4, 5], [6, 7, 8, 9, 10]])
+
+    print(arr[1, 1:4])
+    # return [7 8 9]
+
+    print(arr[0:2, 2])
+    # return [3 8]
+    
+    print(arr[0:2, 1:4])
+    # return [[2 3 4]
+              [7 8 9]]
+    
+    
