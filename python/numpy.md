@@ -170,14 +170,61 @@
     print(newarr)       # [1 2 3]
     print(newarr.dtype) # int32
     
+# 9. Copy vs View
 
+![image](https://user-images.githubusercontent.com/60442877/229397171-7d981539-d40e-432b-9092-da5f327c251d.png)
 
+    # Copy Example
+    
+    import numpy as np
 
+    arr = np.array([1, 2, 3, 4, 5])
+    x = arr.copy()
+    arr[0] = 42
 
+    print(arr) # [42  2  3  4  5]
+    print(x)   # [1 2 3 4 5] 
 
+    # View Example
 
+    import numpy as np
 
+    arr = np.array([1, 2, 3, 4, 5])
+    x = arr.view()
+    arr[0] = 42
 
+    print(arr)  # [42  2  3  4  5]
+    print(x)    # [42  2  3  4  5]
 
+## Check if Array owns its data
+
+![image](https://user-images.githubusercontent.com/60442877/229397496-6e1be3ca-00e2-4401-91a1-160bd78acb70.png)
+
+    import numpy as np
+
+    arr = np.array([1, 2, 3, 4, 5])
+
+    x = arr.copy()
+    y = arr.view()
+
+    print(x.base) # None
+    print(y.base) # [1 2 3 4 5] 
+
+# 10. Shape of a numpy ndarray
+
+    import numpy as np
+
+    arr = np.array([[1, 2, 3, 4], [5, 6, 7, 8]])
+
+    print(arr.shape) 
+    # (2, 4)
+
+    arr = np.array([1, 2, 3, 4], ndmin=5)
+
+    print(arr)
+    # [[[[[1 2 3 4]]]]]
+    
+    print('shape of array :', arr.shape)
+    # shape of array : (1, 1, 1, 1, 4)
 
 
