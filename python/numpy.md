@@ -95,7 +95,9 @@
 
 ![image](https://user-images.githubusercontent.com/60442877/229394389-9b0f638a-b333-4e09-8308-0531cfb5200b.png)
 
-# 1-D Array Slicing
+![image](https://user-images.githubusercontent.com/60442877/229395308-881c6766-e91e-4c89-ab59-b9aefd89c203.png)
+
+## 1-D Array Slicing
 
     import numpy as np
 
@@ -119,7 +121,7 @@
     print(arr[::2])
     # return [1 3 5 7]
     
-# 2-D Array Slicing
+## 2-D Array Slicing
 
     import numpy as np
 
@@ -135,4 +137,47 @@
     # return [[2 3 4]
               [7 8 9]]
     
+# 8. Data Types in Numpy
+
+![image](https://user-images.githubusercontent.com/60442877/229395411-1ec456ab-9e27-4426-882f-5fee39fcaea0.png)
+
+## Data Type Checking 
+
+    import numpy as np
+
+    arr = np.array([1, 2, 3, 4])
+
+    print(arr.dtype)
+    # return int64
+
+## Create a numpy ndarray with a defined Data Type
+
+![image](https://user-images.githubusercontent.com/60442877/229395744-e91de665-252e-49ba-8298-dc50c90f9b3b.png)
+
+![image](https://user-images.githubusercontent.com/60442877/229395757-d0d7d5a4-55dc-43e9-8466-19a392b87576.png)
+
+![image](https://user-images.githubusercontent.com/60442877/229395812-5c9f3c3b-e9d0-4aa3-88af-e6f291b65cd2.png)
+
+## Data Type Convert
+
+    import numpy as np
+
+    arr = np.array([1.1, 2.1, 3.1])
+
+    newarr = arr.astype('i') 
+    # newarr = arr.astype(int)
+
+    print(newarr)       # [1 2 3]
+    print(newarr.dtype) # int32
     
+
+
+
+
+
+
+
+
+
+
+
