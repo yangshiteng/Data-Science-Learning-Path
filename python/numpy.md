@@ -227,4 +227,11 @@
     print('shape of array :', arr.shape)
     # shape of array : (1, 1, 1, 1, 4)
 
+# 11. Numpy Array Reshaping
+
+![image](https://user-images.githubusercontent.com/60442877/229398836-5e55492b-21da-4fff-ace1-83359f78b25a.png)
+
+
+
+
 
