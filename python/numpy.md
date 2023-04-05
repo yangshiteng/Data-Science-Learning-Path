@@ -413,7 +413,7 @@
         [3 6]]]
 
 
-# 14. NumPy Array Split
+# 14. NumPy Array Split - np.array_split()
 
 ![image](https://user-images.githubusercontent.com/60442877/229964669-fbcc20c5-4c91-49ac-b5e5-a9217c07aa5e.png)
 
@@ -433,9 +433,25 @@
 
 ![image](https://user-images.githubusercontent.com/60442877/229966810-8113f0ae-4510-4c0f-ba7d-a4f914bb63d0.png)
 
+# 16. Numpy ufuncs (Vectorization)
 
+## Introduction
 
+![image](https://user-images.githubusercontent.com/60442877/229967610-19fbfc83-ddd5-4fca-84cd-ef7443881110.png)
 
+![image](https://user-images.githubusercontent.com/60442877/229967635-d3e79873-4f75-4ddb-973c-e618beb21209.png)
+
+![image](https://user-images.githubusercontent.com/60442877/229967658-d08b2530-3ed2-46d8-9ef3-b22f09011147.png)
+
+![image](https://user-images.githubusercontent.com/60442877/229967684-43c10f75-edf1-4236-8df3-af5539e302e8.png)
+
+## Create Your Own ufunc
+
+![image](https://user-images.githubusercontent.com/60442877/229968118-dcdf66e4-965b-492c-b37c-49cb33c39ead.png)
+
+![image](https://user-images.githubusercontent.com/60442877/229968132-bfb009e5-af42-4f60-8018-52c58473cbc3.png)
+
+![image](https://user-images.githubusercontent.com/60442877/229968153-57fafe4f-9470-460f-ac76-c82ee926bf5a.png)
 
 
 
