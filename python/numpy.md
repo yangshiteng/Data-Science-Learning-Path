@@ -453,7 +453,16 @@
 
 ![image](https://user-images.githubusercontent.com/60442877/229968153-57fafe4f-9470-460f-ac76-c82ee926bf5a.png)
 
-# 17. NumPy Calculation
+# 17. NumPy Sort - np.sort()
+
+![image](https://user-images.githubusercontent.com/60442877/229972193-22e82717-8582-4b77-889a-92880b9459aa.png)
+
+![image](https://user-images.githubusercontent.com/60442877/229972221-ecab5c0b-8c06-4939-bd46-af53d40d6879.png)
+
+![image](https://user-images.githubusercontent.com/60442877/229972249-e4b85097-2053-40d3-8a5b-b29b44f58bd7.png)
+
+
+# 18. NumPy Calculation
 
 ## np.add()
 
