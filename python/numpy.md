@@ -462,7 +462,18 @@
 ![image](https://user-images.githubusercontent.com/60442877/229972249-e4b85097-2053-40d3-8a5b-b29b44f58bd7.png)
 
 
-# 18. NumPy Calculation
+# 18. Numpy Array Filter
+
+![image](https://user-images.githubusercontent.com/60442877/229973101-f491ba25-ae72-48d1-8684-48b282746434.png)
+
+![image](https://user-images.githubusercontent.com/60442877/229973116-c7199cb7-fc38-4e59-9cd4-0d63cf628ff4.png)
+
+![image](https://user-images.githubusercontent.com/60442877/229973143-f9672316-eb74-4a65-a218-bc9d2751dd78.png)
+
+![image](https://user-images.githubusercontent.com/60442877/229973177-6119231f-098b-4ae7-be3c-4dbb4acb60c2.png)
+
+
+# 19. NumPy Calculation
 
 ## np.add()
 
