@@ -261,10 +261,54 @@
 
 # 12. Numpy Array Iterating
 
-## 1-D 
+## 1-D Array Iterating
 
+    import numpy as np
 
+    arr = np.array([1, 2, 3])
 
+    for x in arr:
+      print(x)
+      # 1
+      # 2
+      # 3
+
+## 2-D Array Iterating
+
+    import numpy as np
+
+    arr = np.array([[1, 2, 3], [4, 5, 6]])
+
+    for x in arr:
+      print(x)
+      # [1 2 3]
+      # [4 5 6]
+
+![image](https://user-images.githubusercontent.com/60442877/229957442-80f4bcd5-9673-448e-909f-de057eb9918d.png)
+
+    import numpy as np
+
+    arr = np.array([[1, 2, 3], [4, 5, 6]])
+
+    for x in arr:
+      for y in x:
+        print(y)
+        # 1
+        # 2
+        # 3
+        # 4
+        # 5
+        # 6
+        
+## 3-D Array Iterating
+
+![image](https://user-images.githubusercontent.com/60442877/229957774-22d700c9-11f7-41d6-b3f5-9454a3328d73.png)
+
+![image](https://user-images.githubusercontent.com/60442877/229957783-c0af0d74-a8fb-45af-8044-69927925d74f.png)
+
+![image](https://user-images.githubusercontent.com/60442877/229957835-edbaaf04-6081-4454-a486-f40dde8f2e0a.png)
+
+![image](https://user-images.githubusercontent.com/60442877/229957843-f887326d-f375-44a1-98df-3107c83e1e5d.png)
 
 
 
