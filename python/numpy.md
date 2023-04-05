@@ -477,5 +477,132 @@
 
 ## np.add()
 
+    import numpy as np
+
+    arr1 = np.array([10, 11, 12, 13, 14, 15])
+    arr2 = np.array([20, 21, 22, 23, 24, 25])
+
+    newarr = np.add(arr1, arr2)
+
+    print(newarr)
+    # [30 32 34 36 38 40]
+    
+## np.subtract()
+
+    import numpy as np
+
+    arr1 = np.array([10, 20, 30, 40, 50, 60])
+    arr2 = np.array([20, 21, 22, 23, 24, 25])
+
+    newarr = np.subtract(arr1, arr2)
+
+    print(newarr)
+    # [-10  -1   8  17  26  35]
+
+## np.multiply()
+
+    import numpy as np
+
+    arr1 = np.array([10, 20, 30, 40, 50, 60])
+    arr2 = np.array([20, 21, 22, 23, 24, 25])
+
+    newarr = np.multiply(arr1, arr2)
+
+    print(newarr)
+    # [ 200  420  660  920 1200 1500]
 
 
+## np.divide()
+
+    import numpy as np
+
+    arr1 = np.array([10, 20, 30, 40, 50, 60])
+    arr2 = np.array([3, 5, 10, 8, 2, 33])
+
+    newarr = np.divide(arr1, arr2)
+
+    print(newarr)
+    # [ 3.33333333  4.          3.          5.         25.          1.81818182]
+
+
+## np.power()
+
+    import numpy as np
+
+    arr1 = np.array([10, 20, 30, 40, 50, 60])
+    arr2 = np.array([3, 5, 6, 8, 2, 33])
+
+    newarr = np.power(arr1, arr2)
+
+    print(newarr)
+    # [         1000       3200000     729000000 6553600000000          2500             0]
+
+
+## np.mod() or np.remainder()
+
+    import numpy as np
+
+    arr1 = np.array([10, 20, 30, 40, 50, 60])
+    arr2 = np.array([3, 7, 9, 8, 2, 33])
+
+    newarr = np.mod(arr1, arr2)
+    newarr = np.remainder(arr1, arr2)
+    
+    print(newarr)
+    # [ 1  6  3  0  0 27]
+
+## np.absolute()
+
+    import numpy as np
+
+    arr = np.array([-1, -2, 1, 2, 3, -4])
+
+    newarr = np.absolute(arr)
+
+    print(newarr)
+    # 1 2 1 2 3 4]
+
+## np.trunc() or np.fix()
+
+    import numpy as np
+
+    arr = np.trunc([-3.1666, 3.6667])
+    arr = np.fix([-3.1666, 3.6667])
+    
+    print(arr)
+    # [-3.  3.]
+
+## np.around()
+
+![image](https://user-images.githubusercontent.com/60442877/229975706-f76a95ed-0ab8-4342-8d1e-7faa5d489b2f.png)
+
+    import numpy as np
+
+    arr = np.around(3.1666, 2)
+
+    print(arr)
+    # 3.17
+
+## np.floor()
+
+    import numpy as np
+
+    arr = np.floor([-3.1666, 3.6667])
+
+    print(arr)
+    # [-4.  3.]
+    
+## np.ceil()
+
+    import numpy as np
+
+    arr = np.ceil([-3.1666, 3.6667])
+
+    print(arr)
+    # [-3.  4.]
+    
+    
+
+
+    
+    
