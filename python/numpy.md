@@ -330,9 +330,9 @@
 
 ![image](https://user-images.githubusercontent.com/60442877/229958531-8d215a7f-8562-4036-b0d7-d758f1368e89.png)
 
-## 13.NumPy Joining Array
+# 13.NumPy Joining Array
 
-### np.concatenate()
+## np.concatenate()
 
     import numpy as np
 
@@ -359,7 +359,7 @@
        [5 6]
        [7 8]]
 
-### np.stack()
+## np.stack()
 
     import numpy as np
 
@@ -378,7 +378,7 @@
     # [[1 2 3]
        [4 5 6]]
    
-### np.hstack()
+## np.hstack()
 
 
     import numpy as np
@@ -389,7 +389,7 @@
     print(arr)
     # [1 2 3 4 5 6]
 
-### np.vstack()
+## np.vstack()
 
     import numpy as np
     
@@ -400,7 +400,7 @@
     # [[1 2 3]
        [4 5 6]]
        
-### np.dstack()
+## np.dstack()
 
     import numpy as np
 
