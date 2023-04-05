@@ -412,3 +412,14 @@
         [2 5]
         [3 6]]]
 
+
+# 14. NumPy Array Split
+
+![image](https://user-images.githubusercontent.com/60442877/229964669-fbcc20c5-4c91-49ac-b5e5-a9217c07aa5e.png)
+
+![image](https://user-images.githubusercontent.com/60442877/229964740-aa79754d-de19-4440-a45e-49ecad8cc30c.png)
+
+![image](https://user-images.githubusercontent.com/60442877/229964776-28d7c6e5-8832-4a17-a404-c51b1f18b385.png)
+
+![image](https://user-images.githubusercontent.com/60442877/229964805-431c6074-5d4f-41dd-9bf4-2330807272d9.png)
+
