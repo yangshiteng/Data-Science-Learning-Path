@@ -601,7 +601,23 @@
     print(arr)
     # [-3.  4.]
     
-    
+## np.log2() - log at the base 2
+
+## np.log10() - log at the base 10
+
+## np.log() - log at the base e
+
+## log at any base
+
+![image](https://user-images.githubusercontent.com/60442877/229976347-804be640-8fc6-4d43-8569-37e6469bc88a.png)
+
+
+
+
+
+
+
+
 
 
     
