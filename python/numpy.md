@@ -423,3 +423,22 @@
 
 ![image](https://user-images.githubusercontent.com/60442877/229964805-431c6074-5d4f-41dd-9bf4-2330807272d9.png)
 
+# 15. NumPy Array Search - np.where()
+
+![image](https://user-images.githubusercontent.com/60442877/229966728-0ee8a16a-9535-44ea-bec9-d20679d07600.png)
+
+![image](https://user-images.githubusercontent.com/60442877/229966765-31dfbd47-29b1-43e5-956f-5f880553a0d8.png)
+
+![image](https://user-images.githubusercontent.com/60442877/229966795-5072960f-6244-4d3d-96c5-947be529e331.png)
+
+![image](https://user-images.githubusercontent.com/60442877/229966810-8113f0ae-4510-4c0f-ba7d-a4f914bb63d0.png)
+
+
+
+
+
+
+
+
+
+
