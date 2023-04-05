@@ -310,6 +310,30 @@
 
 ![image](https://user-images.githubusercontent.com/60442877/229957843-f887326d-f375-44a1-98df-3107c83e1e5d.png)
 
+## Iterating Arrays Using nditer()
+
+![image](https://user-images.githubusercontent.com/60442877/229958078-2b3a769b-c369-4c64-9200-2d6dc67946e3.png)
+
+![image](https://user-images.githubusercontent.com/60442877/229958095-3e0b27cf-1933-4178-8f53-9afc32c95c1b.png)
+
+![image](https://user-images.githubusercontent.com/60442877/229958361-4206b7b8-dba9-4bd4-9c34-8c6e4634bb82.png)
+
+![image](https://user-images.githubusercontent.com/60442877/229958382-e2aec79b-741e-49ed-9137-16166f0c90cb.png)
+
+## Enumerated Iteration Using ndenumerate()
+
+![image](https://user-images.githubusercontent.com/60442877/229958495-ebe41fa2-77c8-4ecf-a824-1d9742c9d7ec.png)
+
+![image](https://user-images.githubusercontent.com/60442877/229958505-a82e152e-d1cc-4d0f-a3fc-c585066eb481.png)
+
+![image](https://user-images.githubusercontent.com/60442877/229958521-6e8596fa-84a7-4065-8692-007660fb6660.png)
+
+![image](https://user-images.githubusercontent.com/60442877/229958531-8d215a7f-8562-4036-b0d7-d758f1368e89.png)
+
+
+
+
+
 
 
 
