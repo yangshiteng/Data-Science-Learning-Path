@@ -648,6 +648,32 @@
 
 ![image](https://user-images.githubusercontent.com/60442877/230697944-658c580a-b87b-42ad-8d6d-97e178cdcf12.png)
 
+# 21. Numpy Products
+
+## np.prod()
+
+![image](https://user-images.githubusercontent.com/60442877/230698055-68475b86-bd46-4809-b0e5-a90f84e20d60.png)
+
+![image](https://user-images.githubusercontent.com/60442877/230698083-c5ffc496-6a6b-47cb-b321-716ad8b7c249.png)
+
+## Product Over an Axis
+
+    import numpy as np
+
+    arr1 = np.array([1, 2, 3, 4])
+    arr2 = np.array([5, 6, 7, 8])
+
+    newarr = np.prod([arr1, arr2], axis=1)
+    print(newarr)
+    # [24 1680]
+
+    newarr = np.prod([arr1, arr2], axis=0)
+    print(newarr)
+    # [5 12 21 32]
+
+## Cummulative Product - np.cumprod()
+
+![image](https://user-images.githubusercontent.com/60442877/230698130-d4fa3736-5836-4502-bfcc-88f29413362e.png)
 
 
 
