@@ -473,7 +473,7 @@
 ![image](https://user-images.githubusercontent.com/60442877/229973177-6119231f-098b-4ae7-be3c-4dbb4acb60c2.png)
 
 
-# 19. NumPy Calculation
+# 19. NumPy Basic Calculation
 
 ## np.add()
 
@@ -610,6 +610,45 @@
 ## log at any base
 
 ![image](https://user-images.githubusercontent.com/60442877/229976347-804be640-8fc6-4d43-8569-37e6469bc88a.png)
+
+# 20. Numpy Summations
+
+## Difference between summation and addition
+
+![image](https://user-images.githubusercontent.com/60442877/230697776-cfc5da50-e6e9-4236-8815-c8067c3a81da.png)
+
+![image](https://user-images.githubusercontent.com/60442877/230697779-11adeeeb-f5a3-4115-b54e-55175240587e.png)
+
+![image](https://user-images.githubusercontent.com/60442877/230697818-fa50cf66-be0a-444f-bb55-4510fcb8daf3.png)
+
+## Summation in 3 ways
+
+    import numpy as np
+
+    arr1 = np.array([1, 2, 3])
+    arr2 = np.array([1, 2, 3])
+    arr3 = np.array([1, 2, 3])
+    
+    # first way
+    newarr = np.sum([arr1, arr2, arr3])
+    print(newarr)
+    # 18
+
+    # second way
+    newarr = np.sum([arr1, arr2, arr3], axis=0)
+    print(newarr)
+    # [3 6 9]
+
+    # third way
+    newarr = np.sum([arr1, arr2, arr3], axis=1)
+    print(newarr)
+    # [6 6 6]
+
+## Cumulative Sum - np.cumsum()
+
+![image](https://user-images.githubusercontent.com/60442877/230697939-d08dab45-fb3d-4e51-8b84-26b2cad094ca.png)
+
+![image](https://user-images.githubusercontent.com/60442877/230697944-658c580a-b87b-42ad-8d6d-97e178cdcf12.png)
 
 
 
