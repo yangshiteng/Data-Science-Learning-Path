@@ -615,11 +615,9 @@
 
 ## Difference between summation and addition
 
-![image](https://user-images.githubusercontent.com/60442877/230697776-cfc5da50-e6e9-4236-8815-c8067c3a81da.png)
+![image](https://user-images.githubusercontent.com/60442877/230698043-913e8417-fb54-4026-8d00-e25244b8ba00.png)
 
-![image](https://user-images.githubusercontent.com/60442877/230697779-11adeeeb-f5a3-4115-b54e-55175240587e.png)
-
-![image](https://user-images.githubusercontent.com/60442877/230697818-fa50cf66-be0a-444f-bb55-4510fcb8daf3.png)
+![image](https://user-images.githubusercontent.com/60442877/230698046-31a2e5a8-00c3-4591-9b72-0efef97b99c9.png)
 
 ## Summation in 3 ways
 
