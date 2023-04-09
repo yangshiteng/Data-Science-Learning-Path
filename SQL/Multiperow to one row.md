@@ -9,7 +9,9 @@
 ![image](https://user-images.githubusercontent.com/60442877/213007603-a99101b1-b143-4cc2-88cf-e962d9a067e7.png)
 
 
-# Concatenate multiple rows in different columns into one single field
+# Concatenate multiple rows of different columns into one single field
+
+## CONCAT() and Group_CONCAT()
 
 ![image](https://user-images.githubusercontent.com/60442877/213008493-cf56df9c-f222-4a68-9d7b-a3f0ca26c4d9.png)
 ![image](https://user-images.githubusercontent.com/60442877/213008556-7ac58b8b-e1cb-43e4-9237-6c82a8b794e6.png)
