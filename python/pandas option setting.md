@@ -18,6 +18,10 @@
     
 ![image](https://user-images.githubusercontent.com/60442877/230984958-59f672b8-6b26-45e2-8fea-eb59bcb77b17.png)
 
+## 4. Set the display precision
+
 ![image](https://user-images.githubusercontent.com/60442877/230984992-08c9f583-d4fc-4642-91cb-32f8875c822a.png)
+
+## 5. Set the
 
 ![image](https://user-images.githubusercontent.com/60442877/230985020-ec671f4d-1ac8-4ee3-8900-a57d226df4eb.png)
