@@ -102,7 +102,7 @@
 # Python Data Analytics Modules
 
 * [numpy](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/numpy.md)
-* [pandas](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/pandas.md)
+* [pandas](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/pandas.md)
 * [datetime](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/datetime.md)
 
 # Python Math and Statistics
