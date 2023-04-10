@@ -770,6 +770,13 @@
     # [1 2 5 6]
 
 
+# 22. np.arange()
+
+![image](https://user-images.githubusercontent.com/60442877/230819140-cdd8df07-358d-4488-a843-a9979fdd4b01.png)
+
+![image](https://user-images.githubusercontent.com/60442877/230819177-82411694-f33b-47de-ad41-b32dd04a29ca.png)
+
+![image](https://user-images.githubusercontent.com/60442877/230819200-103d2b92-703b-4c81-b504-dfe3432fafae.png)
 
 
 
