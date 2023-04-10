@@ -2,7 +2,7 @@
 
 ![image](https://user-images.githubusercontent.com/60442877/230985176-cb70309c-deaf-450f-a3be-2bd4bdab034a.png)
 
-## set max row
+## Set the maximum number of rows
 
 ![image](https://user-images.githubusercontent.com/60442877/230985135-7ae59dde-ac1a-4e6f-942d-0f5dcb4e3cfe.png)
 
