@@ -14,6 +14,8 @@
   
 ![image](https://user-images.githubusercontent.com/60442877/230987539-ebbd9271-1bac-44eb-a0c3-537c318dc77d.png)
     
+## 3. Set the display width
+    
 ![image](https://user-images.githubusercontent.com/60442877/230984958-59f672b8-6b26-45e2-8fea-eb59bcb77b17.png)
 
 ![image](https://user-images.githubusercontent.com/60442877/230984992-08c9f583-d4fc-4642-91cb-32f8875c822a.png)
