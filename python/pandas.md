@@ -11,5 +11,5 @@
 # DataFrame
 
 ## * [Create a DataFrame](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/create%20dataframe.md)
-## * [DataFrame Indexing](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/dataframe%20indexing.md)
+## * [DataFrame Indexing (notice the difference between label-based and integer-based indexing)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/dataframe%20indexing.md)
 ## * [Read Files](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/pandas%20read%20files.md)
