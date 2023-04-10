@@ -675,13 +675,102 @@
 
 ![image](https://user-images.githubusercontent.com/60442877/230698130-d4fa3736-5836-4502-bfcc-88f29413362e.png)
 
+# 21. Numpy Difference - np.diff()
 
+![image](https://user-images.githubusercontent.com/60442877/230814996-6e0e2eb3-b323-42a4-9ec2-e49c64cb48fb.png)
 
+![image](https://user-images.githubusercontent.com/60442877/230815087-45367a9e-b016-411d-b865-59044c284121.png)
 
+# 22. LCM (Lowest Common Multiple) and GCD
 
+## LCM
 
+![image](https://user-images.githubusercontent.com/60442877/230815203-53dd7fb4-0518-4a5f-94a2-e568927b4438.png)
 
+![image](https://user-images.githubusercontent.com/60442877/230815382-080c8806-ddf0-4108-8fbb-3ee5a2d06f22.png)
 
+    import numpy as np
 
+    arr = np.arange(1, 11)
+
+    x = np.lcm.reduce(arr)
+
+    print(x)
+    # 2520
+
+## GCD
+
+![image](https://user-images.githubusercontent.com/60442877/230815554-f9781473-f908-43fd-aba0-a6d071cbc6f9.png)
+
+![image](https://user-images.githubusercontent.com/60442877/230815697-9362f0de-86da-4986-a47c-cd95afc0c4dc.png)
+
+# 23. Numpy Set Operations (union, intersection, difference, symmetric difference)
+
+![image](https://user-images.githubusercontent.com/60442877/230817039-7129ea85-f3d5-4088-a45e-c636b89fc99a.png)
+
+    import numpy as np
+
+    arr = np.array([1, 1, 1, 2, 3, 4, 5, 5, 6, 7])
+
+    x = np.unique(arr)
+
+    print(x)
+    # [1 2 3 4 5 6 7]
     
+## Finding Union - np.union1d()
+
+    import numpy as np
+
+    arr1 = np.array([1, 2, 3, 4])
+    arr2 = np.array([3, 4, 5, 6])
+
+    newarr = np.union1d(arr1, arr2)
+
+    print(newarr)
+    # [1 2 3 4 5 6]
+
+## Finding Intersection - np.intersection1d()
+
+    import numpy as np
+
+    arr1 = np.array([1, 2, 3, 4])
+    arr2 = np.array([3, 4, 5, 6])
+
+    newarr = np.intersect1d(arr1, arr2, assume_unique=True)
+
+    print(newarr)
+    # [3 4]
+
+![image](https://user-images.githubusercontent.com/60442877/230817417-c04b2325-219f-422c-b676-3f2373a1ba68.png)
+
+## Finding Difference - np.setdiff1d()
+
+### To find only the values in the first set that is NOT present in the seconds set, use the setdiff1d() method.
+
+    import numpy as np
+
+    set1 = np.array([1, 2, 3, 4])
+    set2 = np.array([3, 4, 5, 6])
+
+    newarr = np.setdiff1d(set1, set2, assume_unique=True)
+
+    print(newarr)
+    # [1 2]
+
+## Finding Symmetric Difference - np.setxor1d()
+
+    import numpy as np
+
+    set1 = np.array([1, 2, 3, 4])
+    set2 = np.array([3, 4, 5, 6])
+
+    newarr = np.setxor1d(set1, set2, assume_unique=True)
+
+    print(newarr)
+    # [1 2 5 6]
+
+
+
+
+
     
