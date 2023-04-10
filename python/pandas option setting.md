@@ -25,3 +25,9 @@
 ## 5. Set the display to truncate
 
 ![image](https://user-images.githubusercontent.com/60442877/230985020-ec671f4d-1ac8-4ee3-8900-a57d226df4eb.png)
+
+# pd.get_option()
+
+![image](https://user-images.githubusercontent.com/60442877/230988816-fa8c5be6-b623-4aa9-89fc-1436a89b35a4.png)
+
+![image](https://user-images.githubusercontent.com/60442877/230988841-d1ee7671-acf4-4110-9997-e4cf8d3bc0d1.png)
