@@ -1,6 +1,8 @@
 # pd.set_option()
 
-![image](https://user-images.githubusercontent.com/60442877/230984675-9ca9c7a0-6ac8-426e-becd-d62b0a9ea91e.png)
+![image](https://user-images.githubusercontent.com/60442877/230985176-cb70309c-deaf-450f-a3be-2bd4bdab034a.png)
+
+![image](https://user-images.githubusercontent.com/60442877/230985135-7ae59dde-ac1a-4e6f-942d-0f5dcb4e3cfe.png)
 
     # show all the rows
     pd.set_option('display.max_rows', None)
