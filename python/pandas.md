@@ -6,10 +6,10 @@
 
 # Series
 
-* [Create a Series](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/series%20and%20dataframes.md)
+## * [Create a Series](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/series%20and%20dataframes.md)
 
 # DataFrame
 
-* [Create a DataFrame](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/create%20dataframe.md)
-* [DataFrame Indexing](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/dataframe%20indexing.md)
-* [Read Files](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/pandas%20read%20files.md)
+## * [Create a DataFrame](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/create%20dataframe.md)
+## * [DataFrame Indexing](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/dataframe%20indexing.md)
+## * [Read Files](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/pandas%20read%20files.md)
