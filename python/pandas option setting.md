@@ -2,13 +2,13 @@
 
 ![image](https://user-images.githubusercontent.com/60442877/230985176-cb70309c-deaf-450f-a3be-2bd4bdab034a.png)
 
-## Set the maximum number of rows
+## 1. Set the maximum number of rows
 
 ![image](https://user-images.githubusercontent.com/60442877/230985135-7ae59dde-ac1a-4e6f-942d-0f5dcb4e3cfe.png)
 
 ![image](https://user-images.githubusercontent.com/60442877/230987254-1adeb1ef-0f0e-4501-a227-4a0238dead66.png)
 
-## Set the maximum number of columns
+## 2. Set the maximum number of columns
 
 ![image](https://user-images.githubusercontent.com/60442877/230984807-0db5d6c7-f915-413f-aa1d-cc125be5119f.png)
   
