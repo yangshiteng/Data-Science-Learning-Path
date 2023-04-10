@@ -31,3 +31,15 @@
 ![image](https://user-images.githubusercontent.com/60442877/230988816-fa8c5be6-b623-4aa9-89fc-1436a89b35a4.png)
 
 ![image](https://user-images.githubusercontent.com/60442877/230988841-d1ee7671-acf4-4110-9997-e4cf8d3bc0d1.png)
+
+# pd.reset_option()
+
+    pd.reset_option('display.max_rows')
+    pd.reset_option('display.max_columns')
+    pd.reset_option('display.width')
+    pd.reset_option('display.precision')
+    pd.reset_option('display.expand_frame_repr')
+    
+    
+    
+    
