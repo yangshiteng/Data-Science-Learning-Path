@@ -1,6 +1,3 @@
-https://sparkbyexamples.com/pandas/pandas-replace-nan-with-blank-empty-string/
+# Pandas Basic
 
-
-# Drop_duplicate
-
-https://datagy.io/pandas-drop-duplicates/
+[* Introduction]()
