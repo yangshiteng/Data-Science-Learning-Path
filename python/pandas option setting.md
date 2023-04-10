@@ -12,8 +12,7 @@
 
 ![image](https://user-images.githubusercontent.com/60442877/230984807-0db5d6c7-f915-413f-aa1d-cc125be5119f.png)
   
-    # show all the columns
-    pd.set_option('display.max_columns', 30)
+![image](https://user-images.githubusercontent.com/60442877/230987539-ebbd9271-1bac-44eb-a0c3-537c318dc77d.png)
     
 ![image](https://user-images.githubusercontent.com/60442877/230984958-59f672b8-6b26-45e2-8fea-eb59bcb77b17.png)
 
