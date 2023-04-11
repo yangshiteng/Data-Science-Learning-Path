@@ -65,4 +65,10 @@
     print("\nPairwise correlation of numerical columns using corr():")
     print(data.corr())
 
-![image](https://user-images.githubusercontent.com/60442877/231043178-469bfb3f-9cf1-4bf9-b715-0a1e3cb58f98.png)
+![image](https://user-images.githubusercontent.com/60442877/231044390-958449b0-0b47-4748-b0bd-6006e7ebd7e0.png)
+
+![image](https://user-images.githubusercontent.com/60442877/231044480-2bf367d3-316f-4f0c-a6cc-ef65dab17f4b.png)
+
+![image](https://user-images.githubusercontent.com/60442877/231044509-1b1dd2f1-079a-4d2e-bc59-9e47f64b2da9.png)
+
+
