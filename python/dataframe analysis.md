@@ -64,3 +64,5 @@
     # corr()
     print("\nPairwise correlation of numerical columns using corr():")
     print(data.corr())
+
+![image](https://user-images.githubusercontent.com/60442877/231043178-469bfb3f-9cf1-4bf9-b715-0a1e3cb58f98.png)
