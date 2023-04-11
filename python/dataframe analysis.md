@@ -4,3 +4,63 @@
 
 ![image](https://user-images.githubusercontent.com/60442877/231036469-373253a4-84a8-4137-bc27-74be4624aae3.png)
 
+    import pandas as pd
+    import numpy as np
+
+    # Create a sample DataFrame
+    data = pd.DataFrame({
+        'A': [1, 2, 3, 4, np.nan],
+        'B': [5, 6, 7, 8, 9],
+        'C': ['apple', 'banana', 'orange', 'grape', 'pear']
+    })
+
+    print("Sample DataFrame:")
+    print(data)
+
+    # head()
+    print("\nFirst 3 rows using head():")
+    print(data.head(3))
+
+    # tail()
+    print("\nLast 3 rows using tail():")
+    print(data.tail(3))
+
+    # shape
+    print("\nShape (rows, columns) using shape:")
+    print(data.shape)
+
+    # info()
+    print("\nDataFrame summary using info():")
+    print(data.info())
+
+    # describe()
+    print("\nSummary statistics of numerical columns using describe():")
+    print(data.describe())
+
+    # dtypes
+    print("\nData types of columns using dtypes:")
+    print(data.dtypes)
+
+    # columns
+    print("\nColumn names using columns:")
+    print(data.columns)
+
+    # index
+    print("\nIndex using index:")
+    print(data.index)
+
+    # value_counts()
+    print("\nValue counts for column 'C' using value_counts():")
+    print(data['C'].value_counts())
+
+    # isnull()
+    print("\nCheck for null values using isnull():")
+    print(data.isnull())
+
+    # notnull()
+    print("\nCheck for non-null values using notnull():")
+    print(data.notnull())
+
+    # corr()
+    print("\nPairwise correlation of numerical columns using corr():")
+    print(data.corr())
