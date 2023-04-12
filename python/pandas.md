@@ -16,3 +16,4 @@
 ## * [Pandas Option Setting](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/pandas%20option%20setting.md)
 ## * [DataFrame Information Checking](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/dataframe%20analysis.md)
 ## * [DataFrame Cleaning](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/dataframe%20cleaning.md)
+## * [DataFrame Math]()
