@@ -11,6 +11,18 @@
 ![image](https://user-images.githubusercontent.com/60442877/231340938-b8728e1f-be1a-4859-b7c1-b7283fe34c8d.png)
 
 
+# dropna()
+
+## Syntax:
+
+    DataFrame.dropna(axis=0, how='any', thresh=None, subset=None, inplace=False)
+
+![image](https://user-images.githubusercontent.com/60442877/231342395-f774e8d2-76b4-43b8-96e4-51e432a462cc.png)
+
+![image](https://user-images.githubusercontent.com/60442877/231342457-0fce0934-c8d7-4525-94c7-f9b4165a5d69.png)
+
+![image](https://user-images.githubusercontent.com/60442877/231342693-192ff180-7c43-43c3-a293-30c55d732a75.png)
+
 
 
 ![image](https://user-images.githubusercontent.com/60442877/231333063-512826ac-d081-484b-b792-ffff25ae4d9b.png)
