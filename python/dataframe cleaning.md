@@ -1,6 +1,8 @@
 # drop()
 
-# DataFrame.drop(labels=None, axis=0, index=None, columns=None, level=None, inplace=False, errors='raise')
+## Syntax:
+
+    DataFrame.drop(labels=None, axis=0, index=None, columns=None, level=None, inplace=False, errors='raise')
 
 ![image](https://user-images.githubusercontent.com/60442877/231340884-73e9e68a-ccfa-4a18-9114-7103eff77a0a.png)
 
