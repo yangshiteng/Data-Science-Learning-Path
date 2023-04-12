@@ -4,7 +4,7 @@
 
     DataFrame.drop(labels=None, axis=0, index=None, columns=None, level=None, inplace=False, errors='raise')
 
-![image](https://user-images.githubusercontent.com/60442877/231340884-73e9e68a-ccfa-4a18-9114-7103eff77a0a.png)
+![image](https://user-images.githubusercontent.com/60442877/231341535-ae8e49db-1cca-4091-a95c-9dc291728c39.png)
 
 ![image](https://user-images.githubusercontent.com/60442877/231340912-fe392756-4584-4768-a5ee-896a7093d244.png)
 
