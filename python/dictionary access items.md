@@ -1,6 +1,6 @@
 # 1. Access Items
 
-## You can access the items of a dictionary by referring to its key name, inside square brackets
+## You can access the items of a dictionary by referring to its key name, inside square brackets, will raise error if key not exist
 
     thisdict = {
       "brand": "Ford",
@@ -11,7 +11,7 @@
     print(x)
     # return Mustang
 
-## get() - give you the same result
+## get() - give you the same result without raising error if the key not exist
 
     thisdict =	{
       "brand": "Ford",
