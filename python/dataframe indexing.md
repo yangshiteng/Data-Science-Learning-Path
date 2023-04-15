@@ -1,4 +1,4 @@
-# Column indexing
+# 1. Column indexing
 
 ## [] -  Basic indexing operator for selecting columns in a DataFrame or slicing rows in a DataFrame or Series.
 
@@ -16,7 +16,7 @@
     
     df[a:d] (include row index d)
 
-# Label-based indexing
+# 2. Label-based indexing
 
 ## .loc[] - Label based indexer for selecting data by row and column labels
 
@@ -48,7 +48,7 @@
     
     df.loc['a':'b', 'A':'C']
 
-# Integer-based indexing
+# 3. Integer-based indexing
 
 ## .iloc[] - Integer based indexer for selecting data by row and column indices
 
@@ -70,7 +70,7 @@
 
     df.loc[0:3, 0:2]
 
-# Fast scalar accessing
+# 4. Fast scalar accessing
     
 ## .at[] - Faster label based indexer for accessing a scalar value (single element) in a DataFrame
 
@@ -83,7 +83,7 @@
     df.iat[1,0]
 
 
-# Boolean indexing
+# 5. Boolean indexing
 
 ## .query() - Method for querying a DataFrame using boolean expressions
 
