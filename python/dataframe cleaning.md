@@ -138,7 +138,17 @@
 
 ![image](https://user-images.githubusercontent.com/60442877/232179681-37d6b5df-22a7-4763-a0b2-5ed31927f1b1.png)
 
+# 13. duplicated()
 
+![image](https://user-images.githubusercontent.com/60442877/232180424-c64759e8-6604-4bb7-b2b3-73d7a6d3608a.png)
+
+    DataFrame.duplicated(subset=None, keep='first')
+
+![image](https://user-images.githubusercontent.com/60442877/232180433-14411ef3-3ccf-40ac-8e67-120e5b0735c9.png)
+
+![image](https://user-images.githubusercontent.com/60442877/232180489-fc635c80-0edf-484a-b43b-69ffe1077df9.png)
+
+![image](https://user-images.githubusercontent.com/60442877/232180498-634dde88-2d81-4f8d-8f13-37add371e2c5.png)
 
 
 
