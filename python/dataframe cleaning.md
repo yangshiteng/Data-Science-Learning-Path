@@ -68,7 +68,15 @@
 
 # 7. apply()
 
+![image](https://user-images.githubusercontent.com/60442877/232177636-a3554cc1-d8c7-4843-851b-dab6ff758504.png)
 
+    DataFrame.apply(func, axis=0, raw=False, result_type=None, args=(), **kwargs)
+
+![image](https://user-images.githubusercontent.com/60442877/232177698-709ef0ef-0c12-4c7a-83c0-e2227ca5e075.png)
+
+![image](https://user-images.githubusercontent.com/60442877/232177782-88efd57e-c5be-42cc-9681-dad769928f3c.png)
+
+![image](https://user-images.githubusercontent.com/60442877/232177787-5263e59d-9fb3-4b08-8df8-1ff5268139b7.png)
 
 # 8. applymap()
 
