@@ -19,3 +19,12 @@
 ![image](https://user-images.githubusercontent.com/60442877/230968685-8f2f07a9-bc12-44aa-a1c3-7bf9ca9629ec.png)
 
 ![image](https://user-images.githubusercontent.com/60442877/230968783-67c12767-cf24-48bf-b194-02c42af78861.png)
+
+# pd.read_pickle() and DataFrame.to_pickle()
+
+![image](https://user-images.githubusercontent.com/60442877/232181319-29a3a242-23c7-4ce8-ab72-255bec190c6a.png)
+
+![image](https://user-images.githubusercontent.com/60442877/232181329-9da0781c-0af7-47e5-97dd-3f09d93b1960.png)
+
+![image](https://user-images.githubusercontent.com/60442877/232181331-e82ad75e-715c-4788-a128-c12394d165d2.png)
+
