@@ -80,7 +80,13 @@
 
 # 8. applymap()
 
+![image](https://user-images.githubusercontent.com/60442877/232178250-8d178222-5cfe-487d-9cff-d6fcbeeb6e77.png)
 
+    DataFrame.applymap(func)
+
+![image](https://user-images.githubusercontent.com/60442877/232178272-eeec58ed-218b-4df4-965f-047ac310ae0b.png)
+
+![image](https://user-images.githubusercontent.com/60442877/232178284-a43ca021-906f-438a-98f8-983db2433d45.png)
 
 
 
