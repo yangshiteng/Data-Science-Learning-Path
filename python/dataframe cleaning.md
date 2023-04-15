@@ -152,5 +152,4 @@
 
 
 
-![image](https://user-images.githubusercontent.com/60442877/231333149-617e390b-615c-4225-b257-b385348b06b5.png)
 
