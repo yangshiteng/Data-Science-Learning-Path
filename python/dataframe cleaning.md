@@ -54,6 +54,23 @@
 
 ![image](https://user-images.githubusercontent.com/60442877/232177178-ab1cc955-3c59-41b8-8835-3958a643e0c5.png)
 
+# 6. astype()
+
+![image](https://user-images.githubusercontent.com/60442877/232177473-06feb0fc-6337-4094-9c4a-3722bf6afa09.png)
+
+    DataFrame.astype(dtype, copy=True, errors='raise')
+
+![image](https://user-images.githubusercontent.com/60442877/232177485-aa2adbd1-3735-4152-a36e-79f9883563b1.png)
+
+![image](https://user-images.githubusercontent.com/60442877/232177505-8f2d291e-6383-41c9-8350-11ec38b3b5f8.png)
+
+![image](https://user-images.githubusercontent.com/60442877/232177507-d717c726-fc85-4f14-a0c4-35d0874061fd.png)
+
+
+
+
+
+
 
 
 
