@@ -1,10 +1,109 @@
+# Column indexing
 
-![image](https://user-images.githubusercontent.com/60442877/230956356-348cf239-72d9-4f1a-8078-a985759a4d93.png)
+## [] -  Basic indexing operator for selecting columns in a DataFrame or slicing rows in a DataFrame or Series.
 
-![image](https://user-images.githubusercontent.com/60442877/230956418-df97e77c-430c-417d-a527-ff0892076cef.png)
+### 1. Select a single column
 
-![image](https://user-images.githubusercontent.com/60442877/230956516-b13d7882-3f7f-4139-906e-4424559563aa.png)
+    df['A']
 
-![image](https://user-images.githubusercontent.com/60442877/230956556-ce7b2b2a-c21f-45bb-9c01-c8864e488482.png)
+### 2. Select multiple columns
 
-![image](https://user-images.githubusercontent.com/60442877/230956598-7a675e18-c0f6-45af-82a4-2a52e8b54f43.png)
+    df[['A','B']]
+
+### 3. Slice the rows
+
+    df[0:2] (not include row index 2)
+    
+    df[a:d] (include row index d)
+
+# Label-based indexing
+
+## .loc[] - Label based indexer for selecting data by row and column labels
+
+### 1. Select a single row
+
+    df.loc[1]
+    
+    df.loc['b']
+    
+### 2. Select multiple rows
+
+    df.loc[0:3] (not include row index 3)
+    
+    df.loc['a':'c'] (include row index c)
+    
+    df.loc[['a', 'c']]
+  
+    df.loc[[0,2]]
+    
+### 3. Select a single value
+
+    df.loc[0, 'A']
+
+    df.loc['b', 'A']
+    
+### 4. Select a range of rows and columns
+
+    df.loc[0:3, 'A':'C']
+    
+    df.loc['a':'b', 'A':'C']
+
+# Integer-based indexing
+
+## .iloc[] - Integer based indexer for selecting data by row and column indices
+
+### 1. Select a single row
+
+    df.iloc[0]
+    
+### 2. Select multiple rows
+
+    df.iloc[0:3]
+    
+    df.iloc[[0,2]]
+    
+### 3. Select a single value
+
+    df.loc[0, 1]
+    
+### 4. Select a range of rows and columns
+
+    df.loc[0:3, 0:2]
+
+# Fast scalar accessing
+    
+## .at[] - Faster label based indexer for accessing a scalar value (single element) in a DataFrame
+
+    df.at[1, 'A']
+
+    df.at['a', 'A']
+    
+## .iat[] - Faster integer based indexer for accessing a scalar value (single element) in a DataFrame
+
+    df.iat[1,0]
+
+
+# Boolean indexing
+
+## .query() - Method for querying a DataFrame using boolean expressions
+
+    # Selecting rows where the value in column 'A' is greater than 1
+    subset_df = df.query("A > 1")
+    print(subset_df)
+
+## .mask() - Method to mask elements in a DataFrame based on a condition
+
+    # Mask values greater than 4
+    masked_df = df.mask(df > 4)
+    print(masked_df)
+
+## Filter data based on a boolean condition 
+
+    df[(df['A'] > 2) & (df['B'] < 9)]
+
+
+
+
+
+
+
