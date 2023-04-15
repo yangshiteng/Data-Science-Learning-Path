@@ -100,7 +100,7 @@
 
 ![image](https://user-images.githubusercontent.com/60442877/232178690-63d2ea7a-5200-4285-8caf-52cbe469fe03.png)
 
-# 10. concate()
+# 10. concat()
 
 ![image](https://user-images.githubusercontent.com/60442877/232178872-1b44cf25-a298-466f-92a9-34d6fa5f2a62.png)
 
