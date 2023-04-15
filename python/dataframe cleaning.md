@@ -88,6 +88,18 @@
 
 ![image](https://user-images.githubusercontent.com/60442877/232178284-a43ca021-906f-438a-98f8-983db2433d45.png)
 
+# 9. merge()
+
+![image](https://user-images.githubusercontent.com/60442877/232178546-2d5e2434-6308-431f-9200-04054c394cee.png)
+
+    pd.merge(left, right, how='inner', on=None, left_on=None, right_on=None, left_index=False, right_index=False, sort=False, suffixes=('_x', '_y'), copy=True, indicator=False, validate=None)
+
+![image](https://user-images.githubusercontent.com/60442877/232178650-c27806e3-25ff-4552-a575-2e80cbfa2856.png)
+
+![image](https://user-images.githubusercontent.com/60442877/232178686-bfcbdf1a-a879-4491-a993-ef27a6a3d957.png)
+
+![image](https://user-images.githubusercontent.com/60442877/232178690-63d2ea7a-5200-4285-8caf-52cbe469fe03.png)
+
 
 
 
