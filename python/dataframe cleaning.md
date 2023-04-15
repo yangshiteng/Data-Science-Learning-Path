@@ -20,7 +20,6 @@
 ![image](https://user-images.githubusercontent.com/60442877/232176141-c3bc2a00-ac9b-4787-8c88-8d0d901b580f.png)
 
 
-
 # 3. fillna()
 
     DataFrame.fillna(value=None, method=None, axis=None, inplace=False, limit=None, downcast=None)
