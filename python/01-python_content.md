@@ -99,7 +99,7 @@
 * [try...except...else...finally...](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/try%20except.md)
 * [with...as...](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/with%20as.md)
 
-# Python Data Analytics Modules
+# Python Library - Data Analysis
 
 * [numpy](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/numpy.md)
 * [pandas](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/pandas.md)
