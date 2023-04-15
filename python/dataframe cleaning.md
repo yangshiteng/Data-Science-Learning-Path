@@ -1,4 +1,4 @@
-# drop()
+# 1. drop()
 
 ## Syntax:
 
@@ -11,7 +11,7 @@
 ![image](https://user-images.githubusercontent.com/60442877/231340938-b8728e1f-be1a-4859-b7c1-b7283fe34c8d.png)
 
 
-# dropna()
+# 2. dropna()
 
 ## Syntax:
 
