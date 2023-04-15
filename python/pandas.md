@@ -1,4 +1,4 @@
-# [Introduction]()
+* [Introduction]()
 * [Create a Series](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/series%20and%20dataframes.md)
 * [Create a DataFrame](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/create%20dataframe.md)
 * [DataFrame Indexing (Label-based and Integer-based)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/dataframe%20indexing.md)
