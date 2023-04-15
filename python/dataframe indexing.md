@@ -1,4 +1,3 @@
-# Notice the difference between label-based and integer-based indexing
 
 ![image](https://user-images.githubusercontent.com/60442877/230956356-348cf239-72d9-4f1a-8078-a985759a4d93.png)
 
