@@ -25,8 +25,15 @@
 
 # 3. fillna()
 
+## Syntax:
 
+    DataFrame.fillna(value=None, method=None, axis=None, inplace=False, limit=None, downcast=None)
 
+![image](https://user-images.githubusercontent.com/60442877/232175661-c3d97fe0-20a2-48a6-aca5-6ddd521d51f4.png)
+
+![image](https://user-images.githubusercontent.com/60442877/232175738-3350a18c-03b6-4abf-8f79-34892832a603.png)
+
+![image](https://user-images.githubusercontent.com/60442877/232175712-47f26892-e24c-4405-97d3-0efbfed96efe.png)
 
 
 
