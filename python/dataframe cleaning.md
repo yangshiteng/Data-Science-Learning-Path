@@ -34,6 +34,15 @@
 
 # 4. replace()
 
+    DataFrame.replace(to_replace=None, value=None, inplace=False, limit=None, regex=False, method='pad')
+
+![image](https://user-images.githubusercontent.com/60442877/232176264-2189d503-b864-41dc-acd2-505d8a79eef5.png)
+
+![image](https://user-images.githubusercontent.com/60442877/232176758-d646d3fc-f10e-4ae8-ae0a-2118074b5066.png)
+
+![image](https://user-images.githubusercontent.com/60442877/232176765-bf596cf6-7d0f-4ae0-a4d0-c9048e2f1866.png)
+
+
 
 
 ![image](https://user-images.githubusercontent.com/60442877/231333063-512826ac-d081-484b-b792-ffff25ae4d9b.png)
