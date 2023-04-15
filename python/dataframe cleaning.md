@@ -117,7 +117,15 @@
 
 # 11. pivot_table()
 
+![image](https://user-images.githubusercontent.com/60442877/232179232-5eab8a3a-ba97-4a4b-a596-dbd7d7d052cf.png)
 
+    pd.pivot_table(data, values=None, index=None, columns=None, aggfunc='mean', fill_value=None, margins=False, dropna=True, margins_name='All', observed=False)
+
+![image](https://user-images.githubusercontent.com/60442877/232179268-ca85a104-08f4-46be-8b62-a7a22a93633d.png)
+
+![image](https://user-images.githubusercontent.com/60442877/232179479-02368ad8-d252-4b93-8eff-1c60df3b600b.png)
+
+![image](https://user-images.githubusercontent.com/60442877/232179486-642a9854-dcf5-4606-b363-775e8d95ffc7.png)
 
 
 
