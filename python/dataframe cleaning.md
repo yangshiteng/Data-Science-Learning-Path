@@ -115,7 +115,7 @@
 ![image](https://user-images.githubusercontent.com/60442877/232179034-9a53e86b-d727-48aa-8257-e3055c2a11da.png)
 
 
-
+# 11. pivot_table()
 
 
 
