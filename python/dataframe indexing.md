@@ -71,6 +71,8 @@
     df.loc[0:3, 0:2]
 
 # 4. Fast scalar accessing
+
+![image](https://user-images.githubusercontent.com/60442877/232183868-e3678803-6517-4eeb-8017-05b396164396.png)
     
 ## .at[] - Faster label based indexer for accessing a scalar value (single element) in a DataFrame
 
