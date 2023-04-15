@@ -1,5 +1,7 @@
 # 1. drop()
 
+![image](https://user-images.githubusercontent.com/60442877/232180566-29291716-905d-4ad4-aa5e-6f29523e9489.png)
+
     DataFrame.drop(labels=None, axis=0, index=None, columns=None, level=None, inplace=False, errors='raise')
 
 ![image](https://user-images.githubusercontent.com/60442877/231341535-ae8e49db-1cca-4091-a95c-9dc291728c39.png)
@@ -11,6 +13,8 @@
 
 # 2. dropna()
 
+![image](https://user-images.githubusercontent.com/60442877/232180547-24d2caf6-a1d6-4f5b-b7ce-61585301a291.png)
+
     DataFrame.dropna(axis=0, how='any', thresh=None, subset=None, inplace=False)
 
 ![image](https://user-images.githubusercontent.com/60442877/231342395-f774e8d2-76b4-43b8-96e4-51e432a462cc.png)
@@ -21,6 +25,8 @@
 
 
 # 3. fillna()
+
+![image](https://user-images.githubusercontent.com/60442877/232180556-11920a4a-aebb-4977-b01f-6911ab7e70cb.png)
 
     DataFrame.fillna(value=None, method=None, axis=None, inplace=False, limit=None, downcast=None)
 
