@@ -66,8 +66,11 @@
 
 ![image](https://user-images.githubusercontent.com/60442877/232177507-d717c726-fc85-4f14-a0c4-35d0874061fd.png)
 
+# 7. apply()
 
 
+
+# 8. applymap()
 
 
 
