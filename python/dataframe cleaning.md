@@ -15,9 +15,11 @@
 
 ![image](https://user-images.githubusercontent.com/60442877/231342395-f774e8d2-76b4-43b8-96e4-51e432a462cc.png)
 
-![image](https://user-images.githubusercontent.com/60442877/231342457-0fce0934-c8d7-4525-94c7-f9b4165a5d69.png)
+![image](https://user-images.githubusercontent.com/60442877/232176136-b085cc31-d534-4075-9cd8-14aff8935c55.png)
 
-![image](https://user-images.githubusercontent.com/60442877/231342693-192ff180-7c43-43c3-a293-30c55d732a75.png)
+![image](https://user-images.githubusercontent.com/60442877/232176141-c3bc2a00-ac9b-4787-8c88-8d0d901b580f.png)
+
+
 
 # 3. fillna()
 
