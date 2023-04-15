@@ -100,10 +100,14 @@
 
 ![image](https://user-images.githubusercontent.com/60442877/232178690-63d2ea7a-5200-4285-8caf-52cbe469fe03.png)
 
+# 10. concate()
 
+![image](https://user-images.githubusercontent.com/60442877/232178872-1b44cf25-a298-466f-92a9-34d6fa5f2a62.png)
 
+    pd.concat(objs, axis=0, join='outer', ignore_index=False, keys=None, levels=None, names=None, verify_integrity=False, sort=False, copy=True)
 
-![image](https://user-images.githubusercontent.com/60442877/231333063-512826ac-d081-484b-b792-ffff25ae4d9b.png)
+![image](https://user-images.githubusercontent.com/60442877/232178882-b574c28e-a45c-4f22-9dd6-9eec9cb76b36.png)
+
 
 ![image](https://user-images.githubusercontent.com/60442877/231333115-0b6fc859-a2b3-4089-b92c-50619b33977d.png)
 
