@@ -23,6 +23,12 @@
 
 ![image](https://user-images.githubusercontent.com/60442877/231342693-192ff180-7c43-43c3-a293-30c55d732a75.png)
 
+# 3. fillna()
+
+
+
+
+
 
 
 ![image](https://user-images.githubusercontent.com/60442877/231333063-512826ac-d081-484b-b792-ffff25ae4d9b.png)
