@@ -51,3 +51,21 @@
 ![image](https://user-images.githubusercontent.com/60442877/232334895-dac36e78-8367-43a0-85e3-f999869ee4a3.png)
 
 ![image](https://user-images.githubusercontent.com/60442877/232334906-33c3d595-abc1-4220-850a-25948e39ace1.png)
+
+# compare()
+
+![image](https://user-images.githubusercontent.com/60442877/232335426-e6b65c53-2b84-441b-8ed9-c5e119a6f213.png)
+
+    result = first_object.compare(second_object, align_axis=None, keep_shape=False, keep_equal=False)
+
+![image](https://user-images.githubusercontent.com/60442877/232335442-8ae147d5-ad37-4642-b2bc-313abb8ca56c.png)
+
+![image](https://user-images.githubusercontent.com/60442877/232335454-e4bddb1a-f89b-4dbf-bdd4-38104a111d18.png)
+
+![image](https://user-images.githubusercontent.com/60442877/232335462-f0268975-b4a6-4905-aeb9-c4dc055a1938.png)
+
+
+
+
+
+
