@@ -79,6 +79,11 @@
 
 ![image](https://user-images.githubusercontent.com/60442877/232265521-4e0ab29c-baad-42e0-89b2-ee95ffc8e509.png)
 
+# cov()
+
+![image](https://user-images.githubusercontent.com/60442877/232335851-22a0d9ac-323f-4eac-9bb8-5a72dabc9b1a.png)
+
+![image](https://user-images.githubusercontent.com/60442877/232335855-1db7bf08-2bef-4ce9-ad4c-c1b0d793bedb.png)
 
 # all()
 
