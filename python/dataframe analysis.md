@@ -105,4 +105,10 @@
 
 ![image](https://user-images.githubusercontent.com/60442877/232326775-a0eefca7-a31f-414d-82f1-ae5f91045314.png)
 
+## 16. axes
+
+![image](https://user-images.githubusercontent.com/60442877/232328122-d616f8a4-58ca-4488-98d0-54e6c3bd2944.png)
+
+![image](https://user-images.githubusercontent.com/60442877/232328133-58bc8e2b-2245-4e50-8fdf-9c740ea783c6.png)
+
 
