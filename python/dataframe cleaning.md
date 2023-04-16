@@ -95,20 +95,7 @@
 
 ![image](https://user-images.githubusercontent.com/60442877/232178284-a43ca021-906f-438a-98f8-983db2433d45.png)
 
-
-# 9. duplicated()
-
-![image](https://user-images.githubusercontent.com/60442877/232180424-c64759e8-6604-4bb7-b2b3-73d7a6d3608a.png)
-
-    DataFrame.duplicated(subset=None, keep='first')
-
-![image](https://user-images.githubusercontent.com/60442877/232180433-14411ef3-3ccf-40ac-8e67-120e5b0735c9.png)
-
-![image](https://user-images.githubusercontent.com/60442877/232180489-fc635c80-0edf-484a-b43b-69ffe1077df9.png)
-
-![image](https://user-images.githubusercontent.com/60442877/232180498-634dde88-2d81-4f8d-8f13-37add371e2c5.png)
-
-# 10. drop_duplicates()
+# 9. drop_duplicates()
 
 ![image](https://user-images.githubusercontent.com/60442877/232265742-86075abe-1dff-463f-9c30-0fb2e4e759a7.png)
 
