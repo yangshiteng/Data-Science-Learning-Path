@@ -1,4 +1,4 @@
-# 9. merge()
+# 1. merge()
 
 ![image](https://user-images.githubusercontent.com/60442877/232178546-2d5e2434-6308-431f-9200-04054c394cee.png)
 
@@ -10,7 +10,7 @@
 
 ![image](https://user-images.githubusercontent.com/60442877/232178690-63d2ea7a-5200-4285-8caf-52cbe469fe03.png)
 
-# 10. concat()
+# 2. concat()
 
 ![image](https://user-images.githubusercontent.com/60442877/232178872-1b44cf25-a298-466f-92a9-34d6fa5f2a62.png)
 
@@ -25,7 +25,7 @@
 ![image](https://user-images.githubusercontent.com/60442877/232179034-9a53e86b-d727-48aa-8257-e3055c2a11da.png)
 
 
-# 11. pivot_table()
+# 3. pivot_table()
 
 ![image](https://user-images.githubusercontent.com/60442877/232179232-5eab8a3a-ba97-4a4b-a596-dbd7d7d052cf.png)
 
@@ -37,7 +37,7 @@
 
 ![image](https://user-images.githubusercontent.com/60442877/232179486-642a9854-dcf5-4606-b363-775e8d95ffc7.png)
 
-# 12. melt()
+# 4. melt()
 
 ![image](https://user-images.githubusercontent.com/60442877/232179567-05da3c43-8758-4072-ae68-4cf8fccdb7f1.png)
 
