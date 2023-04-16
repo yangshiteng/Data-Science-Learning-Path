@@ -1,4 +1,4 @@
-# 1. head() or tail()
+# 1. df.head() or df.tail()
 
     df.head() # first 5 rows
     df.head(10)
@@ -6,23 +6,31 @@
     df.tail() # last 5 rows
     df.tail(10)
 
-# 2.shape
+# 2. df.shape
 
 ![image](https://user-images.githubusercontent.com/60442877/232264414-4be710dc-a9aa-4559-962b-c623995f8133.png)
 
-# 3. info()
+# 3. df.info()
 
 ![image](https://user-images.githubusercontent.com/60442877/232264445-024c752c-faf9-4ff5-a947-a69794a0bcca.png)
 
 ![image](https://user-images.githubusercontent.com/60442877/232264502-d11f1b31-eb11-4d23-9081-cbe89068251e.png)
 
+# 4. df.describe()
+
+![image](https://user-images.githubusercontent.com/60442877/232264812-772cbbe6-5458-4287-a4b8-fd962578550b.png)
+
+![image](https://user-images.githubusercontent.com/60442877/232264817-d9dbdf29-1059-4095-a0ad-196a2c747f52.png)
+
+# 5. df.dtype
+
+![image](https://user-images.githubusercontent.com/60442877/232264879-7f50f099-f6b1-4fc7-8feb-dc0a29ce5fc4.png)
+
+![image](https://user-images.githubusercontent.com/60442877/232264937-b3955a16-ca9d-417c-b62e-01197fb6fb76.png)
+
+# 6. df.column
 
 
-
-
-
-
-![image](https://user-images.githubusercontent.com/60442877/231036418-2d2c771b-d6a9-4cd2-810c-51adb7f23fad.png)
 
 ![image](https://user-images.githubusercontent.com/60442877/231036438-2a2e1e6e-f2d0-4288-a3da-061fc9c9c323.png)
 
