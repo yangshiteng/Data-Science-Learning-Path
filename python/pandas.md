@@ -7,6 +7,6 @@
 * [Pandas Option Setting](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/pandas%20option%20setting.md)
 
 # Pandas Methods
-* [Explore the DataFrame](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/dataframe%20analysis.md)
-* [Clean the DataFrame](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/dataframe%20cleaning.md)
-* [DataFrame Math](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/dataframe%20math.md)
+* [Pandas Methods - Explore the DataFrame](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/dataframe%20analysis.md)
+* [Pandas Methods - Clean the DataFrame](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/dataframe%20cleaning.md)
+* [Pandas Methods - DataFrame Math](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/dataframe%20math.md)
