@@ -1,4 +1,4 @@
-# 1. abs()
+# abs()
 
 ![image](https://user-images.githubusercontent.com/60442877/232265969-f990a0f8-053b-4c56-b628-7a73613b0ac8.png)
 
@@ -6,7 +6,7 @@
 
 ![image](https://user-images.githubusercontent.com/60442877/232265990-c1b9ec45-4773-455a-aa0f-8ea8c9c8ba1f.png)
 
-# 2. add()
+# add()
 
 ![image](https://user-images.githubusercontent.com/60442877/232320048-898e3796-caa4-4c38-8a10-6bccbbc813ff.png)
 
