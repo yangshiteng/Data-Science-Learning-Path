@@ -1,4 +1,4 @@
-# 1. Column indexing
+# 1. Basic indexing operator
 
 ## [] -  Basic indexing operator for selecting columns in a DataFrame or slicing rows in a DataFrame or Series.
 
