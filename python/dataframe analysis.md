@@ -1,3 +1,17 @@
+# 1. head() or tail()
+
+    df.head() # first 5 rows
+    df.head(10)
+    
+    df.tail() # last 5 rows
+    df.tail(10)
+
+# 2.shape
+
+
+
+
+
 ![image](https://user-images.githubusercontent.com/60442877/231036418-2d2c771b-d6a9-4cd2-810c-51adb7f23fad.png)
 
 ![image](https://user-images.githubusercontent.com/60442877/231036438-2a2e1e6e-f2d0-4288-a3da-061fc9c9c323.png)
