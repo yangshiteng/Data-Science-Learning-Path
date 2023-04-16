@@ -8,6 +8,6 @@
 
 # Pandas Methods
 * [Pandas Methods - Understand the DataFrame](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/dataframe%20analysis.md)
-* [Pandas Methods - Clean the DataFrame](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/dataframe%20cleaning.md)
+* [Pandas Methods - Manipulate the DataFrame](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/dataframe%20cleaning.md)
 * [Pandas Methods - DataFrame join, concat, pivot and melt](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/dataframe%20join.md)
 * [Pandas Methods - DataFrame Math](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/dataframe%20math.md)
