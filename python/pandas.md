@@ -7,6 +7,8 @@
 * [Pandas Option Setting](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/pandas%20option%20setting.md)
 
 # Pandas Methods
+
+* [Pandas Methods - add, drop, modify rows or columns]()
 * [Pandas Methods - Understand the DataFrame](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/dataframe%20analysis.md)
 * [Pandas Methods - Manipulate the DataFrame](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/dataframe%20cleaning.md)
 * [Pandas Methods - DataFrame join, concat, pivot and melt](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/dataframe%20join.md)
