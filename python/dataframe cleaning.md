@@ -113,7 +113,15 @@
 
 ![image](https://user-images.githubusercontent.com/60442877/232321220-fbfe83a4-956d-44ee-80b6-04ed9ca3f4fe.png)
 
+# 11. append()
 
+![image](https://user-images.githubusercontent.com/60442877/232327324-e1b340b2-7ef4-4457-ac00-6418b3419ce0.png)
+
+![image](https://user-images.githubusercontent.com/60442877/232327412-597d7d89-ed11-4b98-a91b-3cd66fb479ea.png)
+
+![image](https://user-images.githubusercontent.com/60442877/232327432-e2f428fd-688d-42de-a9f9-c559e60c4826.png)
+
+![image](https://user-images.githubusercontent.com/60442877/232327444-3f99d07b-30f3-4e47-92cc-6b1b0a0ed8eb.png)
 
 
 
