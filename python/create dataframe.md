@@ -14,5 +14,6 @@
 
 ![image](https://user-images.githubusercontent.com/60442877/232322456-c925217e-5fee-40c4-8bf2-d9af0937964f.png)
 
+# Make a copy of the data frame
 
-
+![image](https://user-images.githubusercontent.com/60442877/232335808-d4778df3-0ca6-4149-a185-010cda09175d.png)
