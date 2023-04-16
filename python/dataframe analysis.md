@@ -28,9 +28,19 @@
 
 ![image](https://user-images.githubusercontent.com/60442877/232264937-b3955a16-ca9d-417c-b62e-01197fb6fb76.png)
 
-# 6. df.column
+# 6. df.columns
 
+![image](https://user-images.githubusercontent.com/60442877/232264985-cea7419d-9b65-434e-ad4f-64fcacd3e135.png)
 
+![image](https://user-images.githubusercontent.com/60442877/232264990-421384e6-9c8a-40ae-920d-19bace58196a.png)
+
+# 7. df.index
+
+![image](https://user-images.githubusercontent.com/60442877/232265060-dd8c70d1-a676-4844-8fb3-86be411694d8.png)
+
+![image](https://user-images.githubusercontent.com/60442877/232265066-9aac5509-207f-4523-8430-62af0bb5e2a1.png)
+
+# 8.
 
 ![image](https://user-images.githubusercontent.com/60442877/231036438-2a2e1e6e-f2d0-4288-a3da-061fc9c9c323.png)
 
