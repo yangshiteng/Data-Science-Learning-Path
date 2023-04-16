@@ -123,5 +123,12 @@
 
 ![image](https://user-images.githubusercontent.com/60442877/232327444-3f99d07b-30f3-4e47-92cc-6b1b0a0ed8eb.png)
 
+# 12. assign()
+
+![image](https://user-images.githubusercontent.com/60442877/232327907-106b7ea6-0aec-4db6-a47c-1d61494c313c.png)
+
+![image](https://user-images.githubusercontent.com/60442877/232327916-aa744a10-6ac6-4352-a869-68c212fccd1a.png)
+
+![image](https://user-images.githubusercontent.com/60442877/232327923-f490b685-674c-49f8-bd9f-888e28a21a3f.png)
 
 
