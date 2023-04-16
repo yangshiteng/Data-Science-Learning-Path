@@ -97,3 +97,12 @@
 
 ![image](https://user-images.githubusercontent.com/60442877/232326537-1a20a16d-e070-4a5e-ac33-5e02fde81a6e.png)
 
+# 15. any()
+
+![image](https://user-images.githubusercontent.com/60442877/232326746-ad33e06b-f3e3-4821-95ef-a805044f9ec7.png)
+
+![image](https://user-images.githubusercontent.com/60442877/232326770-f2a391c9-e5dc-4ec9-97f3-16c1a55f07c6.png)
+
+![image](https://user-images.githubusercontent.com/60442877/232326775-a0eefca7-a31f-414d-82f1-ae5f91045314.png)
+
+
