@@ -1,8 +1,5 @@
 
-
-
-
-# 4. replace()
+# replace()
 
 ![image](https://user-images.githubusercontent.com/60442877/232180537-0be487dc-4751-4d58-b2c1-937a06cf3171.png)
 
