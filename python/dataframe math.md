@@ -21,10 +21,21 @@
 ![image](https://user-images.githubusercontent.com/60442877/232337353-866a8c6c-00f7-4914-9baf-377bb938db91.png)
 
 # cummin()
-## 	Calculate the cumulative minmum values of the DataFrame
+
+![image](https://user-images.githubusercontent.com/60442877/232347604-59824678-78c4-4be4-aabe-78b2b1b8945f.png)
+
+![image](https://user-images.githubusercontent.com/60442877/232347852-f5eae23c-fe54-4952-89b9-1e4dc685b1e5.png)
 
 # cumprod()
-## Calculate the cumulative product over the DataFrame
+
+![image](https://user-images.githubusercontent.com/60442877/232347868-963c5ec6-af51-446b-bf2e-e9b1427f0a30.png)
+
+![image](https://user-images.githubusercontent.com/60442877/232347983-5b2b983a-cc1d-470f-8981-d82eae904658.png)
 
 # cumsum()
-## Calculate the cumulative sum over the DataFrame
+
+![image](https://user-images.githubusercontent.com/60442877/232348023-f53f2e7a-5179-4068-b603-c7f5661e4f01.png)
+
+![image](https://user-images.githubusercontent.com/60442877/232348097-c110b527-3f6e-42bc-9d6a-f2231081a829.png)
+
+
