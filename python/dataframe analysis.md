@@ -58,20 +58,14 @@
 
 ![image](https://user-images.githubusercontent.com/60442877/232265425-962cc9f0-77e6-4de5-90c6-4170daf3dc8c.png)
 
+# 11. corr()
+
+![image](https://user-images.githubusercontent.com/60442877/232265496-3fb99e37-b00f-401f-b895-6efe229aca17.png)
+
+![image](https://user-images.githubusercontent.com/60442877/232265517-a78548d9-bac0-4f57-921f-260fd440d1d1.png)
+
+![image](https://user-images.githubusercontent.com/60442877/232265521-4e0ab29c-baad-42e0-89b2-ee95ffc8e509.png)
 
 
-
-![image](https://user-images.githubusercontent.com/60442877/231036438-2a2e1e6e-f2d0-4288-a3da-061fc9c9c323.png)
-
-![image](https://user-images.githubusercontent.com/60442877/231036469-373253a4-84a8-4137-bc27-74be4624aae3.png)
-
-
-
-
-![image](https://user-images.githubusercontent.com/60442877/231044390-958449b0-0b47-4748-b0bd-6006e7ebd7e0.png)
-
-![image](https://user-images.githubusercontent.com/60442877/231044480-2bf367d3-316f-4f0c-a6cc-ef65dab17f4b.png)
-
-![image](https://user-images.githubusercontent.com/60442877/231044509-1b1dd2f1-079a-4d2e-bc59-9e47f64b2da9.png)
 
 
