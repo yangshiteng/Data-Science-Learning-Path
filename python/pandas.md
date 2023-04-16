@@ -9,4 +9,5 @@
 # Pandas Methods
 * [Pandas Methods - Explore the DataFrame](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/dataframe%20analysis.md)
 * [Pandas Methods - Clean the DataFrame](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/dataframe%20cleaning.md)
+* [Pandas Methods - DataFrame join, concat, pivot and melt]()
 * [Pandas Methods - DataFrame Math](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/dataframe%20math.md)
