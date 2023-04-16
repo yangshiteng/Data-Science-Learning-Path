@@ -16,4 +16,4 @@
 * [Pandas Methods - Multiple Dataframes (merge, concat, append)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/Multiple%20Dataframes%20(join%2C%20concat).md)
 * [Pandas Methods - Change Values in Data Frame](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/dataframe%20cleaning.md)
 * [Pandas Methods - DataFrame Pivot and Melt](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/dataframe%20join.md)
-* [Pandas Methods - DataFrame Math](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/dataframe%20math.md)
+* [Pandas Methods - Math Operation in DataFrame](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/dataframe%20math.md)
