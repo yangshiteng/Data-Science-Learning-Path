@@ -38,17 +38,7 @@
 
 ![image](https://user-images.githubusercontent.com/60442877/232176765-bf596cf6-7d0f-4ae0-a4d0-c9048e2f1866.png)
 
-# 5. rename()
 
-![image](https://user-images.githubusercontent.com/60442877/232176994-d9cd036b-6f46-474d-a20d-85094d396982.png)
-
-    DataFrame.rename(mapper=None, index=None, columns=None, axis=None, copy=True, inplace=False, level=None, errors='raise')
-
-![image](https://user-images.githubusercontent.com/60442877/232177091-1b15b9de-e363-4900-913d-b8de5708b2ca.png)
-
-![image](https://user-images.githubusercontent.com/60442877/232177171-bb6eedcf-0ef8-4bee-b595-019cbee06ae1.png)
-
-![image](https://user-images.githubusercontent.com/60442877/232177178-ab1cc955-3c59-41b8-8835-3958a643e0c5.png)
 
 # 6. astype()
 
