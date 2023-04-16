@@ -88,3 +88,12 @@
 
 ![image](https://user-images.githubusercontent.com/60442877/232321986-3e100d81-2941-4a87-9af4-9569eb8ad06f.png)
 
+
+# 14. all()
+
+![image](https://user-images.githubusercontent.com/60442877/232326507-d1f07bc5-e1bc-4810-a974-85e7c3b059d7.png)
+
+![image](https://user-images.githubusercontent.com/60442877/232326524-4e9b48b7-2fdf-449a-902c-0a9a34a38203.png)
+
+![image](https://user-images.githubusercontent.com/60442877/232326537-1a20a16d-e070-4a5e-ac33-5e02fde81a6e.png)
+
