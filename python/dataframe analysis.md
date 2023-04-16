@@ -46,6 +46,13 @@
 
 ![image](https://user-images.githubusercontent.com/60442877/232265066-9aac5509-207f-4523-8430-62af0bb5e2a1.png)
 
+# count()
+
+![image](https://user-images.githubusercontent.com/60442877/232335687-4f3b9d40-d0e5-4283-9f7a-366a7e40c75a.png)
+
+![image](https://user-images.githubusercontent.com/60442877/232335731-2ffa4aa1-c4e2-42e1-9d5f-e53d190e58a8.png)
+
+
 # value_counts()
 
 ![image](https://user-images.githubusercontent.com/60442877/232265204-25b8284d-58e1-414a-b8bb-9a4adb4b538a.png)
