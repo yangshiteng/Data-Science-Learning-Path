@@ -48,7 +48,11 @@
 
 ![image](https://user-images.githubusercontent.com/60442877/232348831-4386e404-e017-45b8-86be-b9aebf3834f3.png)
 
+# div() 
 
+![image](https://user-images.githubusercontent.com/60442877/232349348-08c1a61d-e945-4f5a-bf13-91a0538124a6.png)
+
+![image](https://user-images.githubusercontent.com/60442877/232349638-93d60ff3-7387-4ea8-ba65-4f32162f01bc.png)
 
 
 
