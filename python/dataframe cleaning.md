@@ -1,14 +1,3 @@
-# 1. drop()
-
-![image](https://user-images.githubusercontent.com/60442877/232180566-29291716-905d-4ad4-aa5e-6f29523e9489.png)
-
-    DataFrame.drop(labels=None, axis=0, index=None, columns=None, level=None, inplace=False, errors='raise')
-
-![image](https://user-images.githubusercontent.com/60442877/231341535-ae8e49db-1cca-4091-a95c-9dc291728c39.png)
-
-![image](https://user-images.githubusercontent.com/60442877/231340912-fe392756-4584-4768-a5ee-896a7093d244.png)
-
-![image](https://user-images.githubusercontent.com/60442877/231340938-b8728e1f-be1a-4859-b7c1-b7283fe34c8d.png)
 
 
 # 2. dropna()
@@ -107,11 +96,7 @@
 
 ![image](https://user-images.githubusercontent.com/60442877/232265788-9f397de7-983b-4f01-a0f6-097670d66e0d.png)
 
-# 10. add_prefix() or add_suffix()
 
-![image](https://user-images.githubusercontent.com/60442877/232321186-669a406f-2a3b-4960-a573-7e9d953e37f2.png)
-
-![image](https://user-images.githubusercontent.com/60442877/232321220-fbfe83a4-956d-44ee-80b6-04ed9ca3f4fe.png)
 
 # 11. append()
 
@@ -123,13 +108,7 @@
 
 ![image](https://user-images.githubusercontent.com/60442877/232327444-3f99d07b-30f3-4e47-92cc-6b1b0a0ed8eb.png)
 
-# 12. assign()
 
-![image](https://user-images.githubusercontent.com/60442877/232327907-106b7ea6-0aec-4db6-a47c-1d61494c313c.png)
-
-![image](https://user-images.githubusercontent.com/60442877/232327916-aa744a10-6ac6-4352-a869-68c212fccd1a.png)
-
-![image](https://user-images.githubusercontent.com/60442877/232327923-f490b685-674c-49f8-bd9f-888e28a21a3f.png)
 
 # 13. bfill()
 
