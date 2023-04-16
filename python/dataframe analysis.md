@@ -8,6 +8,16 @@
 
 # 2.shape
 
+![image](https://user-images.githubusercontent.com/60442877/232264414-4be710dc-a9aa-4559-962b-c623995f8133.png)
+
+# 3. info()
+
+![image](https://user-images.githubusercontent.com/60442877/232264445-024c752c-faf9-4ff5-a947-a69794a0bcca.png)
+
+![image](https://user-images.githubusercontent.com/60442877/232264502-d11f1b31-eb11-4d23-9081-cbe89068251e.png)
+
+
+
 
 
 
