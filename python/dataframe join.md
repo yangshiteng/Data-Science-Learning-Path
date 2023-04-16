@@ -1,7 +1,4 @@
-
-
-
-# 3. pivot_table()
+# pivot_table()
 
 ![image](https://user-images.githubusercontent.com/60442877/232179232-5eab8a3a-ba97-4a4b-a596-dbd7d7d052cf.png)
 
@@ -13,7 +10,7 @@
 
 ![image](https://user-images.githubusercontent.com/60442877/232179486-642a9854-dcf5-4606-b363-775e8d95ffc7.png)
 
-# 4. melt()
+# melt()
 
 ![image](https://user-images.githubusercontent.com/60442877/232179567-05da3c43-8758-4072-ae68-4cf8fccdb7f1.png)
 
