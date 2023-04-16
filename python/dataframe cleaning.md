@@ -107,6 +107,13 @@
 
 ![image](https://user-images.githubusercontent.com/60442877/232265788-9f397de7-983b-4f01-a0f6-097670d66e0d.png)
 
+# 10. add_prefix() or add_suffix()
+
+![image](https://user-images.githubusercontent.com/60442877/232321186-669a406f-2a3b-4960-a573-7e9d953e37f2.png)
+
+![image](https://user-images.githubusercontent.com/60442877/232321220-fbfe83a4-956d-44ee-80b6-04ed9ca3f4fe.png)
+
+
 
 
 
