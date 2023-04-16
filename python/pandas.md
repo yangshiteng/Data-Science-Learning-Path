@@ -11,7 +11,7 @@
 * [Pandas Methods - Manipulate the Rows or Columns (add, drop and modify)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/add%2C%20drop%2C%20modify%20rows%20or%20columns.md)
 * [Pandas Methods - DataFrame Exploration](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/dataframe%20analysis.md)
 * [Pandas Methods - Apply Functions](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/apply%20functions.md)
-* [Pandas Methods - Handling NA]()
+* [Pandas Methods - Handling NA](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/handling%20NA.md)
 * [Pandas Methods - Manipulate the DataFrame](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/dataframe%20cleaning.md)
 * [Pandas Methods - DataFrame join, concat, pivot and melt](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/dataframe%20join.md)
 * [Pandas Methods - DataFrame Math](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/dataframe%20math.md)
