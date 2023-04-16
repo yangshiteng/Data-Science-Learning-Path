@@ -11,3 +11,16 @@
 ![image](https://user-images.githubusercontent.com/60442877/232320048-898e3796-caa4-4c38-8a10-6bccbbc813ff.png)
 
 ![image](https://user-images.githubusercontent.com/60442877/232320123-a74984b4-3f8a-4be5-91df-5a6abba71bb3.png)
+
+# cummax()
+
+![image](https://user-images.githubusercontent.com/60442877/232337167-67f74900-ebb8-41b2-b68c-934b15f344ee.png)
+
+![image](https://user-images.githubusercontent.com/60442877/232337181-3cfea839-86b9-4980-be5e-22968f416c59.png)
+
+![image](https://user-images.githubusercontent.com/60442877/232337353-866a8c6c-00f7-4914-9baf-377bb938db91.png)
+
+# cummin()
+
+# cumprod()
+
