@@ -131,4 +131,10 @@
 
 ![image](https://user-images.githubusercontent.com/60442877/232327923-f490b685-674c-49f8-bd9f-888e28a21a3f.png)
 
+# 13. bfill()
 
+![image](https://user-images.githubusercontent.com/60442877/232328327-e4e4b01b-d29f-429a-a86b-5bb9543dc29b.png)
+
+![image](https://user-images.githubusercontent.com/60442877/232328564-05b58f5b-b970-43dc-b7fb-c66fa5a78420.png)
+
+![image](https://user-images.githubusercontent.com/60442877/232328575-cffd0c22-31c0-454f-b499-4477b9de93e8.png)
