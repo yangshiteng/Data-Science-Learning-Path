@@ -21,6 +21,10 @@
 ![image](https://user-images.githubusercontent.com/60442877/232337353-866a8c6c-00f7-4914-9baf-377bb938db91.png)
 
 # cummin()
+## 	Calculate the cumulative minmum values of the DataFrame
 
 # cumprod()
+## Calculate the cumulative product over the DataFrame
 
+# cumsum()
+## Calculate the cumulative sum over the DataFrame
