@@ -54,6 +54,11 @@
 
 ![image](https://user-images.githubusercontent.com/60442877/232349638-93d60ff3-7387-4ea8-ba65-4f32162f01bc.png)
 
+# dot() 
+
+![image](https://user-images.githubusercontent.com/60442877/232349949-8db98ec8-70e2-4b9b-8dd5-fb5270dee0a0.png)
+
+![image](https://user-images.githubusercontent.com/60442877/232350288-ff51f4a7-6cff-4e9e-8bc2-7b74efede4d0.png)
 
 
 
