@@ -1,3 +1,12 @@
+# join()
+
+![image](https://user-images.githubusercontent.com/60442877/232374075-bac4ede6-2044-4733-aa74-57982b115861.png)
+
+![image](https://user-images.githubusercontent.com/60442877/232374096-a4fdeec0-0c35-410b-a347-728e238a0ccd.png)
+
+
+
+
 # merge()
 
 ![image](https://user-images.githubusercontent.com/60442877/232178546-2d5e2434-6308-431f-9200-04054c394cee.png)
