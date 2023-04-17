@@ -1,3 +1,8 @@
+# to_string()
+    
+    # show the entire dataframe
+    df.to_string()
+
 # head() or tail()
 
     df.head() # first 5 rows
