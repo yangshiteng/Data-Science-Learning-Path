@@ -1,18 +1,18 @@
 # 1. Basic indexing operator
 
-### Select columns with []
-#### will raise error if column name not exist
+## Select columns with []
+### will raise error if column name not exist
 
     df['A']
 
     df[['A','B']]
 
-### Select columns with get()
-#### will not raise error if column name not exist
+## Select columns with get()
+### will not raise error if column name not exist
 
 ![image](https://user-images.githubusercontent.com/60442877/232361276-135d697f-811f-461c-a76e-0f364e989dd8.png)
 
-### Slice the rows
+## Select rows with slicing
 
     df[0:2] (not include row index 2)
     
