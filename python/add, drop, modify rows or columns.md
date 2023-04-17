@@ -1,3 +1,9 @@
+# insert()
+
+![image](https://user-images.githubusercontent.com/60442877/232367895-badab79b-1b08-48ad-8c2d-be8775fbe0c6.png)
+
+![image](https://user-images.githubusercontent.com/60442877/232368001-eacc490a-5088-4446-b222-9afbccc4879d.png)
+
 # assign()
 
 ![image](https://user-images.githubusercontent.com/60442877/232327907-106b7ea6-0aec-4db6-a47c-1d61494c313c.png)
