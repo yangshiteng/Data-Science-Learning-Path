@@ -48,5 +48,13 @@
 
 ![image](https://user-images.githubusercontent.com/60442877/232334906-33c3d595-abc1-4220-850a-25948e39ace1.png)
 
+# interpolate()
+
+![image](https://user-images.githubusercontent.com/60442877/232371268-1040a292-181a-478c-94d1-2c7b42ddbdd8.png)
+
+![image](https://user-images.githubusercontent.com/60442877/232371301-4b058d13-1368-4529-ae29-91223562ef88.png)
+
+![image](https://user-images.githubusercontent.com/60442877/232371544-b7497337-355f-4560-993d-f7989e3bbacc.png)
+
 
 
