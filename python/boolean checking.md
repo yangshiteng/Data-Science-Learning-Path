@@ -58,3 +58,14 @@
 ![image](https://user-images.githubusercontent.com/60442877/232356582-7f0c6a3d-ff76-488f-82df-0f1912d43e36.png)
 
 
+# gt()
+
+
+# ge()
+
+![image](https://user-images.githubusercontent.com/60442877/232364248-c00cdb33-1ba9-4848-8dc9-0af1cd24b308.png)
+
+![image](https://user-images.githubusercontent.com/60442877/232364370-2ed6de05-e721-4ec6-b100-11acdedd0531.png)
+
+
+
