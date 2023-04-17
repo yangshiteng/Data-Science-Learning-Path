@@ -3,6 +3,7 @@
 * [Create a Series](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/series%20and%20dataframes.md)
 * [Create a DataFrame](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/create%20dataframe.md)
 * [DataFrame Indexing (Basic indexing operator, Label-based, Integer-based and Boolean-based)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/dataframe%20indexing.md)
+* [DataFrame Filter (returns only the rows or columns that are specified in the filter)]()
 * [Read and Save Files](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/pandas%20read%20files.md)
 * [Pandas Option Setting](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/pandas%20option%20setting.md)
 
