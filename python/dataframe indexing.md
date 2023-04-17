@@ -19,17 +19,15 @@
     
     df[a:d] (include row index d)
 
-# 2. Label-based indexing
+# 2. Label-based indexing - loc[]
 
-## .loc[] - Label based indexer for selecting data by row and column labels
-
-### Select a single row
+## Select a single row
 
     df.loc[1]
     
     df.loc['b']
     
-### Select multiple rows
+## Select multiple rows
 
     df.loc[0:3] (not include row index 3)
     
@@ -39,13 +37,13 @@
   
     df.loc[[0,2]]
     
-### Select a single value
+## Select a single value
 
     df.loc[0, 'A']
 
     df.loc['b', 'A']
     
-### Select a range of rows and columns
+## Select a range of rows and columns
 
     df.loc[0:3, 'A':'C']
     
