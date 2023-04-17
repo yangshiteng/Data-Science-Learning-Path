@@ -12,7 +12,8 @@
 
 ![image](https://user-images.githubusercontent.com/60442877/232361276-135d697f-811f-461c-a76e-0f364e989dd8.png)
 
-## Select rows with slicing
+## Select rows with [] and slicing
+### only works for slicing
 
     df[0:2] (not include row index 2)
     
