@@ -21,3 +21,9 @@
 ![image](https://user-images.githubusercontent.com/60442877/232179674-112bd19c-40cf-4997-9a9b-ff1461f4ea7d.png)
 
 ![image](https://user-images.githubusercontent.com/60442877/232179681-37d6b5df-22a7-4763-a0b2-5ed31927f1b1.png)
+
+# explode()
+
+![image](https://user-images.githubusercontent.com/60442877/232358409-31e21916-7175-42b6-a444-4bb15b0d72c9.png)
+
+![image](https://user-images.githubusercontent.com/60442877/232358422-0db7d10c-66d1-411d-bab2-ad0339125ba5.png)
