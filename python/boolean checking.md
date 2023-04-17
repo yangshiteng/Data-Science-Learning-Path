@@ -60,6 +60,10 @@
 
 # gt()
 
+![image](https://user-images.githubusercontent.com/60442877/232364656-d35d8a2e-68a4-4893-9ccf-836c1c439897.png)
+
+![image](https://user-images.githubusercontent.com/60442877/232364747-d3ed8f7a-c4dd-47cd-b33d-e1b0a5b7c1e6.png)
+
 
 # ge()
 
