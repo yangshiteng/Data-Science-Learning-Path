@@ -1,16 +1,18 @@
 # 1. Basic indexing operator
 
-## [] -  Basic indexing operator for selecting columns in a DataFrame or slicing rows in a DataFrame or Series.
-
-### 1. Select a single column
+### Select columns with []
+#### will raise error if column name not exist
 
     df['A']
 
-### 2. Select multiple columns
-
     df[['A','B']]
 
-### 3. Slice the rows
+### Select columns with get()
+#### will not raise error if column name not exist
+
+![image](https://user-images.githubusercontent.com/60442877/232361276-135d697f-811f-461c-a76e-0f364e989dd8.png)
+
+### Slice the rows
 
     df[0:2] (not include row index 2)
     
@@ -20,13 +22,13 @@
 
 ## .loc[] - Label based indexer for selecting data by row and column labels
 
-### 1. Select a single row
+### Select a single row
 
     df.loc[1]
     
     df.loc['b']
     
-### 2. Select multiple rows
+### Select multiple rows
 
     df.loc[0:3] (not include row index 3)
     
@@ -36,13 +38,13 @@
   
     df.loc[[0,2]]
     
-### 3. Select a single value
+### Select a single value
 
     df.loc[0, 'A']
 
     df.loc['b', 'A']
     
-### 4. Select a range of rows and columns
+### Select a range of rows and columns
 
     df.loc[0:3, 'A':'C']
     
@@ -52,21 +54,21 @@
 
 ## .iloc[] - Integer based indexer for selecting data by row and column indices
 
-### 1. Select a single row
+### Select a single row
 
     df.iloc[0]
     
-### 2. Select multiple rows
+### Select multiple rows
 
     df.iloc[0:3]
     
     df.iloc[[0,2]]
     
-### 3. Select a single value
+### Select a single value
 
     df.loc[0, 1]
     
-### 4. Select a range of rows and columns
+### Select a range of rows and columns
 
     df.loc[0:3, 0:2]
 
