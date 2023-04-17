@@ -10,7 +10,7 @@
 
 * [Pandas Methods - Manipulate the Rows or Columns](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/add%2C%20drop%2C%20modify%20rows%20or%20columns.md)
 * [Pandas Methods - DataFrame Exploration](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/dataframe%20analysis.md)
-* [Pandas Methods - DataFrame Checking (Return Boolean)]()
+* [Pandas Methods - DataFrame Checking (Return Boolean)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/boolean%20checking.md)
 * [Pandas Methods - Apply Functions](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/apply%20functions.md)
 * [Pandas Methods - Handling NA](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/handling%20NA.md)
 * [Pandas Methods - Check and Drop Duplicates](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/check%20and%20drop%20duplicates.md)
