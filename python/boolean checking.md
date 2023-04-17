@@ -71,5 +71,10 @@
 
 ![image](https://user-images.githubusercontent.com/60442877/232364370-2ed6de05-e721-4ec6-b100-11acdedd0531.png)
 
+# isin()
+
+![image](https://user-images.githubusercontent.com/60442877/232372091-46988f39-ed1a-4117-8017-56c572dac0b3.png)
+
+![image](https://user-images.githubusercontent.com/60442877/232372580-4e25fee5-d9f4-491a-8168-737ebe1cd508.png)
 
 
