@@ -49,25 +49,23 @@
     
     df.loc['a':'b', 'A':'C']
 
-# 3. Integer-based indexing
+# 3. Integer-based indexing - iloc[]
 
-## .iloc[] - Integer based indexer for selecting data by row and column indices
-
-### Select a single row
+## Select a single row
 
     df.iloc[0]
     
-### Select multiple rows
+## Select multiple rows
 
     df.iloc[0:3]
     
     df.iloc[[0,2]]
     
-### Select a single value
+## Select a single value
 
     df.loc[0, 1]
     
-### Select a range of rows and columns
+## Select a range of rows and columns
 
     df.loc[0:3, 0:2]
 
