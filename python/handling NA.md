@@ -31,6 +31,15 @@
 
 ![image](https://user-images.githubusercontent.com/60442877/232328575-cffd0c22-31c0-454f-b499-4477b9de93e8.png)
 
+# ffill()
+
+![image](https://user-images.githubusercontent.com/60442877/232358806-97c2baf8-eda3-455f-993c-f353cb1124ce.png)
+
+![image](https://user-images.githubusercontent.com/60442877/232358830-a84bc7fb-49a5-4ba5-ac3d-7d9348a9262b.png)
+
+![image](https://user-images.githubusercontent.com/60442877/232358887-726160c4-6ebd-4354-9654-d096b4374e83.png)
+
+
 # combine_first()
 
 ![image](https://user-images.githubusercontent.com/60442877/232334888-0222380c-94f1-4c57-ad49-637e98d20f9c.png)
