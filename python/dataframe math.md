@@ -98,6 +98,10 @@
 
 ![image](https://user-images.githubusercontent.com/60442877/232348097-c110b527-3f6e-42bc-9d6a-f2231081a829.png)
 
+# sum()
+
+![image](https://user-images.githubusercontent.com/60442877/232666394-9e696138-a53f-4ba0-bc20-ba2a9f436cf4.png)
+
 # diff()
 
 ![image](https://user-images.githubusercontent.com/60442877/232348552-d14f885d-e3cc-4035-8ccd-94fa94d1d0ef.png)
@@ -128,3 +132,5 @@
 ![image](https://user-images.githubusercontent.com/60442877/232664572-a944037e-3e46-4fea-9147-f80f54b4b846.png)
 
 # std() and var()
+
+![image](https://user-images.githubusercontent.com/60442877/232666506-c287a261-8a32-4f90-81e8-e83a8efb575b.png)
