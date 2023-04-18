@@ -11,6 +11,9 @@
 
 ![image](https://user-images.githubusercontent.com/60442877/232176765-bf596cf6-7d0f-4ae0-a4d0-c9048e2f1866.png)
 
+# transpose()
+
+![image](https://user-images.githubusercontent.com/60442877/232667007-3e447ee7-ef53-4ddc-852b-8954febfc5bd.png)
 
 # pivot_table()
 
@@ -60,6 +63,13 @@
 
 ![image](https://user-images.githubusercontent.com/60442877/232648991-9d794534-46c2-4ff2-87c5-0bca5505c3c1.png)
 
+# where()
+
+![image](https://user-images.githubusercontent.com/60442877/232667668-15067431-3379-422c-9a95-f65cb53c91ba.png)
+
+![image](https://user-images.githubusercontent.com/60442877/232667687-19da7790-79f3-4639-a559-38ad97062c5f.png)
+
+![image](https://user-images.githubusercontent.com/60442877/232667706-b2aba34c-6546-4a87-84e2-880fda8a7dee.png)
 
 
 
