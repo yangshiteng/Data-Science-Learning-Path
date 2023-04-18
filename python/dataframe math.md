@@ -14,7 +14,7 @@
 
 ![image](https://user-images.githubusercontent.com/60442877/232665355-be530e3c-ffc9-4b48-9c20-6d75f23e8e30.png)
 
-# multiply()
+# multiply() or mul()
 
 ![image](https://user-images.githubusercontent.com/60442877/232665625-2bd413c7-6c82-45e4-865d-0ce5a784a9dd.png)
 
