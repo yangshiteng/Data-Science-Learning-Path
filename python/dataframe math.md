@@ -90,5 +90,10 @@
 
 ![image](https://user-images.githubusercontent.com/60442877/232365476-a8d8020f-11b0-4fe9-b959-45d38b8f4ba6.png)
 
+# mod()
+
+![image](https://user-images.githubusercontent.com/60442877/232652395-d101438b-5d0c-46a0-a927-51f0f806ecba.png)
+
+![image](https://user-images.githubusercontent.com/60442877/232652335-eac2a091-c24f-4990-86d1-ad285736f9b9.png)
 
 
