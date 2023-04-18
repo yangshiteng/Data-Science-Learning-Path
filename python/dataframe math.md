@@ -14,6 +14,20 @@
 
 ![image](https://user-images.githubusercontent.com/60442877/232665355-be530e3c-ffc9-4b48-9c20-6d75f23e8e30.png)
 
+# multiply()
+
+![image](https://user-images.githubusercontent.com/60442877/232665625-2bd413c7-6c82-45e4-865d-0ce5a784a9dd.png)
+
+![image](https://user-images.githubusercontent.com/60442877/232665657-0eb3a644-c500-48f0-9a1f-154a5dada2ba.png)
+
+
+# div() 
+
+![image](https://user-images.githubusercontent.com/60442877/232349348-08c1a61d-e945-4f5a-bf13-91a0538124a6.png)
+
+![image](https://user-images.githubusercontent.com/60442877/232349638-93d60ff3-7387-4ea8-ba65-4f32162f01bc.png)
+
+
 # prod()
 
 ![image](https://user-images.githubusercontent.com/60442877/232661412-f2dfbde1-6fef-4a88-aa50-8969b4cc7ca7.png)
@@ -27,13 +41,6 @@
 ![image](https://user-images.githubusercontent.com/60442877/232349949-8db98ec8-70e2-4b9b-8dd5-fb5270dee0a0.png)
 
 ![image](https://user-images.githubusercontent.com/60442877/232350288-ff51f4a7-6cff-4e9e-8bc2-7b74efede4d0.png)
-
-
-# div() 
-
-![image](https://user-images.githubusercontent.com/60442877/232349348-08c1a61d-e945-4f5a-bf13-91a0538124a6.png)
-
-![image](https://user-images.githubusercontent.com/60442877/232349638-93d60ff3-7387-4ea8-ba65-4f32162f01bc.png)
 
 # abs()
 
