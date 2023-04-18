@@ -87,4 +87,11 @@
 ![image](https://user-images.githubusercontent.com/60442877/232650835-2229455e-9e9e-44c4-b091-dbf469256ec2.png)
 
 
+# nlargest()
+
+![image](https://user-images.githubusercontent.com/60442877/232656120-720ea938-5b98-49ec-a223-5fcf728e8d8b.png)
+
+![image](https://user-images.githubusercontent.com/60442877/232656298-87d45ff8-da15-41b1-8aa3-24f5b252ead6.png)
+
+![image](https://user-images.githubusercontent.com/60442877/232656353-c45d7bd5-9361-4e45-beba-d18b270f68e5.png)
 
