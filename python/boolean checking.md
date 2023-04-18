@@ -1,14 +1,15 @@
-# isnull()
+# isnull() - same with isna()
 
 ![image](https://user-images.githubusercontent.com/60442877/232265374-ceec6f4d-09fe-459d-a7cf-5dc7b32f0740.png)
 
 ![image](https://user-images.githubusercontent.com/60442877/232265378-04cca2a1-2cc7-48f1-95cc-a1c958227d36.png)
 
-# notnull()
+# notnull() - same with notna()
 
 ![image](https://user-images.githubusercontent.com/60442877/232265418-64edf05a-49fe-496c-9fbc-bdc2e1defcd1.png)
 
 ![image](https://user-images.githubusercontent.com/60442877/232265425-962cc9f0-77e6-4de5-90c6-4170daf3dc8c.png)
+
 
 # all()
 
