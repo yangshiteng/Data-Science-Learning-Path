@@ -63,7 +63,7 @@
 
 ![image](https://user-images.githubusercontent.com/60442877/232648991-9d794534-46c2-4ff2-87c5-0bca5505c3c1.png)
 
-# where()
+# where() - opposite of the mask() method
 
 ![image](https://user-images.githubusercontent.com/60442877/232667668-15067431-3379-422c-9a95-f65cb53c91ba.png)
 
