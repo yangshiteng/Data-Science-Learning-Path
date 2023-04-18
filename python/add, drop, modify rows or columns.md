@@ -54,6 +54,11 @@
 
 ![image](https://user-images.githubusercontent.com/60442877/232177507-d717c726-fc85-4f14-a0c4-35d0874061fd.png)
 
+# droplevel()
+
+![image](https://user-images.githubusercontent.com/60442877/232644099-fc66e402-7009-4f9f-8a55-4a7f3bf7f79c.png)
+
+![image](https://user-images.githubusercontent.com/60442877/232644419-3107aca4-b331-44d8-a3a1-00f2a704e21a.png)
 
 
 
