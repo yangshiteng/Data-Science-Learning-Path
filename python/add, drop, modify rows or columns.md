@@ -42,6 +42,7 @@
 
 ![image](https://user-images.githubusercontent.com/60442877/232177178-ab1cc955-3c59-41b8-8835-3958a643e0c5.png)
 
+
 # astype()
 
 ![image](https://user-images.githubusercontent.com/60442877/232177473-06feb0fc-6337-4094-9c4a-3722bf6afa09.png)
