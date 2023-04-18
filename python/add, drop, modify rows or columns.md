@@ -67,5 +67,11 @@
 
 ![image](https://user-images.githubusercontent.com/60442877/232660573-13daf650-0915-4b4a-bcf1-689bcc07bb3d.png)
 
+# reset_index()
 
+![image](https://user-images.githubusercontent.com/60442877/232663747-63deccf4-5855-4fbc-8bd2-25fcb1946ebf.png)
+
+![image](https://user-images.githubusercontent.com/60442877/232663781-03f7d91b-f727-4790-83fa-f1d963f60254.png)
+
+![image](https://user-images.githubusercontent.com/60442877/232663798-2afc0e74-d32a-482a-a008-74ac1e325500.png)
 
