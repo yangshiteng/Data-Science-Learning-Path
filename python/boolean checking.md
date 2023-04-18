@@ -57,6 +57,11 @@
 
 ![image](https://user-images.githubusercontent.com/60442877/232356582-7f0c6a3d-ff76-488f-82df-0f1912d43e36.png)
 
+# ne()
+
+![image](https://user-images.githubusercontent.com/60442877/232653099-21b05b4f-7aa0-48f8-ab98-e98216c8e226.png)
+
+![image](https://user-images.githubusercontent.com/60442877/232653155-9b777188-3fec-4d72-be59-0650d80f004c.png)
 
 # gt()
 
