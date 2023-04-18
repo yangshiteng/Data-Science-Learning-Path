@@ -78,6 +78,13 @@
 
 ![image](https://user-images.githubusercontent.com/60442877/232335855-1db7bf08-2bef-4ce9-ad4c-c1b0d793bedb.png)
 
+# memory_usage()
+
+![image](https://user-images.githubusercontent.com/60442877/232650787-c9cfdbef-2fe0-4fcc-8404-998969e014d2.png)
+
+![image](https://user-images.githubusercontent.com/60442877/232650821-eedd90d0-52b0-4111-b041-ec9d5498728f.png)
+
+![image](https://user-images.githubusercontent.com/60442877/232650835-2229455e-9e9e-44c4-b091-dbf469256ec2.png)
 
 
 
