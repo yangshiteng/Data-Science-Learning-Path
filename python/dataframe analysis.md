@@ -110,6 +110,11 @@
 
 ![image](https://user-images.githubusercontent.com/60442877/232660095-467a0042-fb48-41c8-ae68-d3e16609650d.png)
 
+# quantile()
+
+![image](https://user-images.githubusercontent.com/60442877/232662018-5156e7fc-3a64-494c-8ed6-f9dc5c59a95c.png)
+
+![image](https://user-images.githubusercontent.com/60442877/232662075-81e9f4ab-06c5-4295-a077-2a2517ca5493.png)
 
 
 
