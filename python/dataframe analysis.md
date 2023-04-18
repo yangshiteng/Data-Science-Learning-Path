@@ -104,6 +104,11 @@
 ![image](https://user-images.githubusercontent.com/60442877/232659108-0a26512f-1753-4060-8567-dbe7cbfadee6.png)
 
 
+# nunique()
+
+![image](https://user-images.githubusercontent.com/60442877/232660046-6c94ee7c-75ec-46fb-8f6c-6b3ba87d0ec2.png)
+
+![image](https://user-images.githubusercontent.com/60442877/232660095-467a0042-fb48-41c8-ae68-d3e16609650d.png)
 
 
 
