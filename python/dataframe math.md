@@ -12,6 +12,28 @@
 
 ![image](https://user-images.githubusercontent.com/60442877/232320123-a74984b4-3f8a-4be5-91df-5a6abba71bb3.png)
 
+# max(), min(), mean(), median(), mode()
+
+![image](https://user-images.githubusercontent.com/60442877/232650430-2f4a5d04-c952-48f9-ae42-aa9130141372.png)
+
+    result = obj.max(axis=None, skipna=True, level=None, numeric_only=None, **kwargs)
+
+    result = obj.min(axis=None, skipna=True, level=None, numeric_only=None, **kwargs)
+
+    result = obj.mean(axis=None, skipna=True, level=None, numeric_only=None, **kwargs)
+    
+    result = obj.median(axis=None, skipna=True, level=None, numeric_only=None, **kwargs)
+
+    result = obj.mode(axis=None, numeric_only=None, dropna=True)
+
+![image](https://user-images.githubusercontent.com/60442877/232650567-103c20c1-9ad7-4250-a270-c39ddbf94a9f.png)
+
+![image](https://user-images.githubusercontent.com/60442877/232650609-e77c1d93-668f-4883-bfa0-5f608ff2cd0e.png)
+
+![image](https://user-images.githubusercontent.com/60442877/232650632-4e89c84b-abbe-405e-86b5-252639e0b839.png)
+
+![image](https://user-images.githubusercontent.com/60442877/232650659-c9da910a-242b-4045-8efc-4df6f95be105.png)
+
 # cummax()
 
 ![image](https://user-images.githubusercontent.com/60442877/232337167-67f74900-ebb8-41b2-b68c-934b15f344ee.png)
