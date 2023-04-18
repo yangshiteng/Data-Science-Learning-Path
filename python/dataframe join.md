@@ -35,3 +35,18 @@
 ![image](https://user-images.githubusercontent.com/60442877/232362978-fa4d4759-4303-4533-bbad-e5164747a204.png)
 
 ![image](https://user-images.githubusercontent.com/60442877/232362998-71ef99c1-e8ac-4bb5-bee5-a3dcc2fe3e74.png)
+
+# mask()
+
+![image](https://user-images.githubusercontent.com/60442877/232648727-349ef4a2-3f73-490b-af65-423c3b152acc.png)
+
+    result = obj.mask(cond, other=None, inplace=False, axis=None, level=None, errors='raise', try_cast=False)
+    
+![image](https://user-images.githubusercontent.com/60442877/232648761-980f65ee-a1b6-4f02-94b6-4e7f519320e2.png)
+
+![image](https://user-images.githubusercontent.com/60442877/232648991-9d794534-46c2-4ff2-87c5-0bca5505c3c1.png)
+
+
+
+
+
