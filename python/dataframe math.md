@@ -96,4 +96,11 @@
 
 ![image](https://user-images.githubusercontent.com/60442877/232652335-eac2a091-c24f-4990-86d1-ad285736f9b9.png)
 
+# prod()
+
+![image](https://user-images.githubusercontent.com/60442877/232661412-f2dfbde1-6fef-4a88-aa50-8969b4cc7ca7.png)
+
+![image](https://user-images.githubusercontent.com/60442877/232661429-9e1478d9-e0f2-4072-ba8f-5fe290210394.png)
+
+![image](https://user-images.githubusercontent.com/60442877/232661528-e27c1912-e78b-4314-8132-00c871e0d487.png)
 
