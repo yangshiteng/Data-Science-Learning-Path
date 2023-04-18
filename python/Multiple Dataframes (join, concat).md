@@ -75,7 +75,13 @@
 ![image](https://user-images.githubusercontent.com/60442877/232335462-f0268975-b4a6-4905-aeb9-c4dc055a1938.png)
 
 
+# align()
 
+![image](https://user-images.githubusercontent.com/60442877/232641525-1f8d48f5-7200-43ae-b259-f6d5fe010f64.png)
 
+    aligned_obj1, aligned_obj2 = obj1.align(obj2, join='outer', axis=None, fill_value=None, method=None, limit=None, fill_axis=0, broadcast_axis=None)
 
+![image](https://user-images.githubusercontent.com/60442877/232641559-d66d1c79-64d7-4aac-bd8d-802a500decdf.png)
+
+![image](https://user-images.githubusercontent.com/60442877/232641728-420bb61c-2c77-4f38-8d2d-e84ce52a7136.png)
 
