@@ -9,7 +9,7 @@
 
 # Pandas Methods
 
-* [Pandas Methods - Manipulate the Rows or Columns](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/add%2C%20drop%2C%20modify%20rows%20or%20columns.md)
+* [Pandas Methods - Operations on the Rows or Columns](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/add%2C%20drop%2C%20modify%20rows%20or%20columns.md)
 * [Pandas Methods - Explore the information in DataFrame](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/dataframe%20analysis.md)
 * [Pandas Methods - Checking DataFrame (Return Boolean)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/boolean%20checking.md)
 * [Pandas Methods - Apply Functions](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/apply%20functions.md)
