@@ -60,6 +60,11 @@
 
 ![image](https://user-images.githubusercontent.com/60442877/232644419-3107aca4-b331-44d8-a3a1-00f2a704e21a.png)
 
+# pop()
+
+![image](https://user-images.githubusercontent.com/60442877/232660395-c515911a-f6a8-4297-8314-4c9673336cdc.png)
+
+![image](https://user-images.githubusercontent.com/60442877/232660573-13daf650-0915-4b4a-bcf1-689bcc07bb3d.png)
 
 
 
