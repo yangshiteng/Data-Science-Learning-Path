@@ -127,4 +127,4 @@
 
 ![image](https://user-images.githubusercontent.com/60442877/232664572-a944037e-3e46-4fea-9147-f80f54b4b846.png)
 
-# std()
+# std() and var()
