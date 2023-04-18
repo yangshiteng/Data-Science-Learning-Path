@@ -95,3 +95,17 @@
 
 ![image](https://user-images.githubusercontent.com/60442877/232656353-c45d7bd5-9361-4e45-beba-d18b270f68e5.png)
 
+# nsmallest()
+
+![image](https://user-images.githubusercontent.com/60442877/232659042-49b33c4d-2d46-42a7-a48b-d57deab89d19.png)
+
+![image](https://user-images.githubusercontent.com/60442877/232659091-d8150878-c90b-4522-805f-43923b290ea5.png)
+
+![image](https://user-images.githubusercontent.com/60442877/232659108-0a26512f-1753-4060-8567-dbe7cbfadee6.png)
+
+
+
+
+
+
+
