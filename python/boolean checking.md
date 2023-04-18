@@ -38,6 +38,11 @@
 
 ![image](https://user-images.githubusercontent.com/60442877/232180498-634dde88-2d81-4f8d-8f13-37add371e2c5.png)
 
+# equals()
+
+![image](https://user-images.githubusercontent.com/60442877/232356490-8ab0ce2e-96d9-4cb3-92aa-5c6f02d03287.png)
+
+![image](https://user-images.githubusercontent.com/60442877/232356582-7f0c6a3d-ff76-488f-82df-0f1912d43e36.png)
 
 # eq()
 
@@ -51,11 +56,6 @@
 
 ![image](https://user-images.githubusercontent.com/60442877/232356220-f7fb50b1-0605-4e68-8313-3c95e7310c33.png)
 
-# equals()
-
-![image](https://user-images.githubusercontent.com/60442877/232356490-8ab0ce2e-96d9-4cb3-92aa-5c6f02d03287.png)
-
-![image](https://user-images.githubusercontent.com/60442877/232356582-7f0c6a3d-ff76-488f-82df-0f1912d43e36.png)
 
 # ne()
 
