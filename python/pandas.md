@@ -15,7 +15,6 @@
 * [Pandas Methods - Apply Functions](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/apply%20functions.md)
 * [Pandas Methods - Handling NA](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/handling%20NA.md)
 * [Pandas Methods - Check and Drop Duplicates](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/check%20and%20drop%20duplicates.md)
-* [Pandas Methods - Replace Values in Data Frame](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/dataframe%20cleaning.md)
 * [Pandas Methods - Operations on Multiple Dataframes](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/Multiple%20Dataframes%20(join%2C%20concat).md)
 * [Pandas Methods - Operations on a Single DataFrame](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/dataframe%20join.md)
 * [Pandas Methods - Math Operation in DataFrame](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/dataframe%20math.md)
