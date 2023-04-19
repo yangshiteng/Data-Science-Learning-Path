@@ -10,7 +10,8 @@
  * [Python - else in for loop and while loop](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/while%20loop.md)
  * [Python - Module (also called Package, Library) Introduction](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/python%20modules.md)
  * [Python - PIP](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/python%20pip.md)
-
+ * [os module](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/os%20module.md)
+ * [Windows cmd Terminal Command](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/commoncommand.md)
 
 # Python Data Type
 
@@ -87,6 +88,7 @@
 * [Python - Inheritance (Parent and Child Class)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/python%20inheritance.md)
 * [Python - iterators](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/iterator.md)
 * [Function vs Method](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/function%20vs%20method.md)
+* [if \_\_name__ == '\_\_main__'](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/ifnamemain.md)
 
 # Python - File Handling
 
@@ -110,10 +112,9 @@
 * [Python Math](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/math.md)
 * [Generate Random Number](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/Generate%20Random%20Number.md)
 
-# Python Engineering
+# Python Web Development
 
-* [os module](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/os%20module.md)
-* [Windows cmd Terminal Command](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/commoncommand.md)
-* [if \_\_name__ == '\_\_main__'](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/ifnamemain.md)
+* [Django]()
+
 
 
