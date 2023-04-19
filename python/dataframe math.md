@@ -113,14 +113,6 @@
 ![image](https://user-images.githubusercontent.com/60442877/232348831-4386e404-e017-45b8-86be-b9aebf3834f3.png)
 
 
-# idxmax() and idxmin()
-
-![image](https://user-images.githubusercontent.com/60442877/232364994-af384baa-ce6c-4486-805a-7a3c6321ad47.png)
-
-![image](https://user-images.githubusercontent.com/60442877/232365016-1194926d-298c-49c4-b1be-8ff91da2bdc9.png)
-
-![image](https://user-images.githubusercontent.com/60442877/232365476-a8d8020f-11b0-4fe9-b959-45d38b8f4ba6.png)
-
 # mod()
 
 ![image](https://user-images.githubusercontent.com/60442877/232652395-d101438b-5d0c-46a0-a927-51f0f806ecba.png)
