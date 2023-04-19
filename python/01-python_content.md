@@ -106,6 +106,7 @@
 * [numpy](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/numpy.md)
 * [pandas](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/pandas.md)
 * [datetime](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/datetime.md)
+* [Scipy - Statistical Tests]()
 
 # Python Math and Statistics
 
