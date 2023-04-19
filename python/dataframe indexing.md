@@ -108,8 +108,13 @@
 
 ![image](https://user-images.githubusercontent.com/60442877/232360255-316203ee-0781-4953-b9cf-0d90d1ded429.png)
 
+# 7. truncate()
 
+![image](https://user-images.githubusercontent.com/60442877/232947955-3a64f797-da82-4d38-8e8f-45a1b178a8fd.png)
 
+![image](https://user-images.githubusercontent.com/60442877/232947972-9842cbc8-8267-4e81-bb37-edcf0a777105.png)
+
+![image](https://user-images.githubusercontent.com/60442877/232947993-7de966c9-e6dd-4713-84a8-d45a6d6bddfc.png)
 
 
 
