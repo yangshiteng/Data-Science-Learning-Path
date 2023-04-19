@@ -1,6 +1,10 @@
 
 # Windows cmd terminal
 
+## How to enter windows terminal
+
+       windowns key + R, then, type cmd, press enter
+
 ## check python version
 
     python --version
