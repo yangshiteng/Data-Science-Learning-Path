@@ -106,12 +106,12 @@
 * [numpy](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/numpy.md)
 * [pandas](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/pandas.md)
 * [datetime](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/datetime.md)
-* [Scipy - Statistical Tests]()
 
 # Python Math and Statistics
 
 * [Python Math](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/math.md)
 * [Generate Random Number](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/Generate%20Random%20Number.md)
+* [Scipy - Statistical Tests]()
 
 # Python Web Development
 
