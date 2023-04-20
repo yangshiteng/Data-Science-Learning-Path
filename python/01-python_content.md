@@ -1,17 +1,8 @@
+# Python Basics
 
-# Python Miscellaneous Knowledge
+* [os module](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/os%20module.md)
+* [Windows cmd Terminal Command](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/commoncommand.md)
 
- * [Python - Variable Basics](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/Variable.md)
- * [Python - Add Comment](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/addcomment.md)
- * [Python - Slicing](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/pythonslicing.md)
- * [Python - augmented assignment operator (eg. +=)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/augmented%20assignment%20operator.md)
- * [Python - Copy vs Reference](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/python%20copy%20vs%20reference.md)
- * [Python - Ternary Operator (one line if else expression)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/ifelse%20one%20line.md)
- * [Python - else in for loop and while loop](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/while%20loop.md)
- * [Python - Module (also called Package, Library) Introduction](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/python%20modules.md)
- * [Python - PIP](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/python%20pip.md)
- * [os module](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/os%20module.md)
- * [Windows cmd Terminal Command](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/commoncommand.md)
 
 # Python Data Type
 
@@ -66,6 +57,19 @@
 * Python Objects vs Json Data
   * [json module](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/json%20module.md)
 
+# Python Miscellaneous Knowledge
+
+ * [Python - Variable Basics](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/Variable.md)
+ * [Python - Add Comment](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/addcomment.md)
+ * [Python - Slicing](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/pythonslicing.md)
+ * [Python - augmented assignment operator (eg. +=)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/augmented%20assignment%20operator.md)
+ * [Python - Copy vs Reference](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/python%20copy%20vs%20reference.md)
+ * [Python - Ternary Operator (one line if else expression)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/ifelse%20one%20line.md)
+ * [Python - else in for loop and while loop](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/while%20loop.md)
+ * [Python - Module (also called Package, Library) Introduction](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/python%20modules.md)
+ * [Python - PIP](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/python%20pip.md)
+
+
 
 # Python - Function
 
@@ -111,6 +115,7 @@
 
 * [Python Math](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/math.md)
 * [Scipy - Statistical Tests]()
+
 
 # Python Web Development
 
