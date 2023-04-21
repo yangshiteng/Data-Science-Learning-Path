@@ -57,7 +57,7 @@
 * Python Objects vs Json Data
   * [json module](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/json%20module.md)
 * Python sequence iteration
- * [enumerate() - iterate over a sequence (like a list, tuple, or string) while keeping track of the index of the current item](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/enumerate.md)
+  * [enumerate() - iterate over a sequence (like a list, tuple, or string) while keeping track of the index of the current item](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/enumerate.md)
 
 # Python Miscellaneous Knowledge
 
