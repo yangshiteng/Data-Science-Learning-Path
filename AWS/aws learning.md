@@ -83,6 +83,10 @@
 
 ## EC2 Scaling
 
+![image](https://user-images.githubusercontent.com/60442877/233746804-3ca00955-dd78-4bd7-9305-bb0a9f78ea46.png)
 
+![image](https://user-images.githubusercontent.com/60442877/233747205-7e52418e-cc65-41fc-98e4-9a87c5e8a1db.png)
+
+![image](https://user-images.githubusercontent.com/60442877/233747218-218994ba-e81c-4c14-840f-37f712f42d62.png)
 
 
