@@ -59,7 +59,7 @@
 * Python Sequence Iteration
   * [enumerate() - iterate over a sequence (like a list, tuple, or string) while keeping track of the index of the current item](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/enumerate.md)
 * Python Sequence Filter
-  * [filter() - filter elements from an iterable (like a list, tuple, or string) based on a certain condition]()
+  * [filter() - filter elements from an iterable (like a list, tuple, or string) based on a certain condition](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/filter().md)
 
 # Python Miscellaneous Knowledge
 
