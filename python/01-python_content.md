@@ -58,7 +58,7 @@
   * [json module](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/json%20module.md)
 * Python Sequence Iteration
   * [enumerate() - iterate over a sequence (like a list, tuple, or string) while keeping track of the index of the current item](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/enumerate.md)
-  * [zip() - combine two or more iterables (like lists, tuples, or strings) element-wise, creating a new iterable of tuples]()
+  * [zip() - combine two or more iterables (like lists, tuples, or strings) element-wise, creating a new iterable of tuples](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/zip().md)
 * Python Sequence Filter
   * [filter() - filter elements from an iterable (like a list, tuple, or string) based on a certain condition defined in function](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/filter().md)
 * Python Sequence Function Mapping
