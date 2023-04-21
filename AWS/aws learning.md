@@ -18,6 +18,6 @@
 
 ## 1. Cloud-based Deployment （基于云的部署）
 
-## 2. On-premises Deployment (本地部署)
+## 2. On-premises Deployment (本地部署) （also known as private cloud deployment）
 
 ## 3. Hybrid Deployment （混合部署）
