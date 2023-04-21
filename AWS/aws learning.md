@@ -21,3 +21,10 @@
 ## 2. On-premises Deployment (本地部署) （also known as private cloud deployment）
 
 ## 3. Hybrid Deployment （混合部署）
+
+# Benfit of Cloud Computing
+
+## 1. Cost Savings
+## 2. Security
+## 3. Scalability (可扩展性)
+## 4. Flexibility (灵活性)
