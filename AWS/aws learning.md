@@ -59,7 +59,24 @@
 
 ![image](https://user-images.githubusercontent.com/60442877/233735721-49dc335a-a196-4138-ae4e-bfcedc8e2d2e.png)
 
+## EC2 Pricing
 
+### 1. On Demand Instances
 
+![image](https://user-images.githubusercontent.com/60442877/233745180-91e90416-2bdb-48bd-921b-121215bcca1a.png)
 
+### 2. Savings Plan
 
+![image](https://user-images.githubusercontent.com/60442877/233745227-c0af644b-be9a-4785-a8e3-9ea13cc28428.png)
+
+### 3. Reserved Instances
+
+![image](https://user-images.githubusercontent.com/60442877/233745205-d1804bf7-a46d-439a-9ebd-32b8e0f2f319.png)
+
+### 4. Spot Instances
+
+![image](https://user-images.githubusercontent.com/60442877/233745250-62b72783-bacb-4f32-a1d3-7ab7e0f912f4.png)
+
+### 5. Dedicated Instances or Hosts
+
+![image](https://user-images.githubusercontent.com/60442877/233745272-bec3eb0b-5e34-461e-9f0d-2a52e305ace2.png)
