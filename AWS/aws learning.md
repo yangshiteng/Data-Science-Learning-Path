@@ -55,7 +55,7 @@
 
 ![image](https://user-images.githubusercontent.com/60442877/233735562-5d0fc9eb-e2a6-4400-ac55-079760d503c8.png)
 
-### 5. Storage Optimized Instance
+### 5. Storage Optimized Instance （SSD 固态硬盘）
 
 ![image](https://user-images.githubusercontent.com/60442877/233735721-49dc335a-a196-4138-ae4e-bfcedc8e2d2e.png)
 
