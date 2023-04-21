@@ -80,3 +80,9 @@
 ### 5. Dedicated Instances or Hosts
 
 ![image](https://user-images.githubusercontent.com/60442877/233745272-bec3eb0b-5e34-461e-9f0d-2a52e305ace2.png)
+
+## EC2 Scaling
+
+
+
+
