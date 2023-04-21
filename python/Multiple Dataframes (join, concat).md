@@ -1,3 +1,17 @@
+
+# merge()
+
+![image](https://user-images.githubusercontent.com/60442877/232178546-2d5e2434-6308-431f-9200-04054c394cee.png)
+
+    pd.merge(left, right, how='inner', on=None, left_on=None, right_on=None, left_index=False, right_index=False, sort=False, suffixes=('_x', '_y'), copy=True, indicator=False, validate=None)
+
+![image](https://user-images.githubusercontent.com/60442877/232178650-c27806e3-25ff-4552-a575-2e80cbfa2856.png)
+
+![image](https://user-images.githubusercontent.com/60442877/232178686-bfcbdf1a-a879-4491-a993-ef27a6a3d957.png)
+
+![image](https://user-images.githubusercontent.com/60442877/232178690-63d2ea7a-5200-4285-8caf-52cbe469fe03.png)
+
+
 # concat()
 
 ![image](https://user-images.githubusercontent.com/60442877/232178872-1b44cf25-a298-466f-92a9-34d6fa5f2a62.png)
@@ -22,18 +36,6 @@
 ![image](https://user-images.githubusercontent.com/60442877/232375574-79a09243-8fa7-4717-9b82-84bf51de11ce.png)
 
 ![image](https://user-images.githubusercontent.com/60442877/232375599-e4de34a6-c27b-485c-9661-b4000b9dd7cd.png)
-
-# merge()
-
-![image](https://user-images.githubusercontent.com/60442877/232178546-2d5e2434-6308-431f-9200-04054c394cee.png)
-
-    pd.merge(left, right, how='inner', on=None, left_on=None, right_on=None, left_index=False, right_index=False, sort=False, suffixes=('_x', '_y'), copy=True, indicator=False, validate=None)
-
-![image](https://user-images.githubusercontent.com/60442877/232178650-c27806e3-25ff-4552-a575-2e80cbfa2856.png)
-
-![image](https://user-images.githubusercontent.com/60442877/232178686-bfcbdf1a-a879-4491-a993-ef27a6a3d957.png)
-
-![image](https://user-images.githubusercontent.com/60442877/232178690-63d2ea7a-5200-4285-8caf-52cbe469fe03.png)
 
 
 # append()
