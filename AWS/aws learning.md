@@ -28,3 +28,15 @@
 ## 2. Security
 ## 3. Scalability (可扩展性)
 ## 4. Flexibility (灵活性)
+
+# Amazon EC2 (Elastic Cloud Compute) 
+
+![image](https://user-images.githubusercontent.com/60442877/233731117-4ccde7bb-2e62-4cf8-acbb-b0f1d86b0d82.png)
+
+
+
+
+
+
+
+
