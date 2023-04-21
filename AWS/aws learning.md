@@ -33,7 +33,7 @@
 
 ## Introduction
 
-![image](https://user-images.githubusercontent.com/60442877/233731117-4ccde7bb-2e62-4cf8-acbb-b0f1d86b0d82.png)
+![image](https://user-images.githubusercontent.com/60442877/233746215-2b239dae-df38-4c23-bbaf-2e3843c123d6.png)
 
 ## Virtual Server (also known as Instance)
 
