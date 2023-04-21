@@ -54,7 +54,7 @@
   * [dict.fromkeys() - create a dictionary with keys from a given sequence and all values set to a default value](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/dictionary%20fromkey.md)
 * Python Data Type - Range
   * [range() - builtin function in Python that allows you to generate a sequence of integers within a specified range](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/range%20function.md)
-* Python Objects vs Json Data
+* Python Object vs Json Data
   * [json module](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/json%20module.md)
 * Python Sequence Iteration
   * [enumerate() - iterate over a sequence (like a list, tuple, or string) while keeping track of the index of the current item](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/enumerate.md)
