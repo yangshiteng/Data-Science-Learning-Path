@@ -93,7 +93,7 @@
 * [Python - iterators](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/iterator.md)
 * [Function vs Method](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/function%20vs%20method.md)
 * [if \_\_name__ == '\_\_main__'](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/ifnamemain.md)
-* [dir() - returns a list of the specified object's properties and methods]()
+* [dir() - returns a list of the specified object's properties and methods](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/dir%20function.md)
 
 # Python - File Handling
 
