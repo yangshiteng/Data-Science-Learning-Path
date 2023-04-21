@@ -79,6 +79,7 @@
 
 * [Python Function Introduction (Arguments vs Parameters)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/python%20function.md)
 * [Python Lambda Function Introduction (can be applied in map and sorted functions)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/lambda%20function.md)
+* [map() - apply a function to each element of an iterable (like a list, tuple, or string) and create a new iterable with the results]()
 
 # Python - Class
 
