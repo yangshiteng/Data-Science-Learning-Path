@@ -43,15 +43,15 @@
 
 ![image](https://user-images.githubusercontent.com/60442877/233732672-20e55ef5-80f2-450a-a84f-a96effaa169b.png)
 
-### 2. Compute Optimized Instance
+### 2. Compute Optimized Instance (CPU)
 
 ![image](https://user-images.githubusercontent.com/60442877/233733984-be4188c7-0308-4f83-8f8d-83bd60ab3edf.png)
 
-### 3. Memory Optimized Instance
+### 3. Memory Optimized Instance (Memory 内存)
 
 ![image](https://user-images.githubusercontent.com/60442877/233734995-1ccac0e2-5fae-420c-b53d-7b607987f383.png)
 
-### 4. Accelerated Computing Instance
+### 4. Accelerated Computing Instance （GPU）
 
 ![image](https://user-images.githubusercontent.com/60442877/233735562-5d0fc9eb-e2a6-4400-ac55-079760d503c8.png)
 
