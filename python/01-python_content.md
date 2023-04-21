@@ -60,6 +60,8 @@
   * [enumerate() - iterate over a sequence (like a list, tuple, or string) while keeping track of the index of the current item](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/enumerate.md)
 * Python Sequence Filter
   * [filter() - filter elements from an iterable (like a list, tuple, or string) based on a certain condition defined in function](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/filter().md)
+* Python Sequence Function Mapping
+  * [map() - apply a function to each element of an iterable (like a list, tuple, or string) and create a new iterable with the results](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/map().md)
 
 # Python Miscellaneous Knowledge
 
@@ -79,7 +81,6 @@
 
 * [Python Function Introduction (Arguments vs Parameters)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/python%20function.md)
 * [Python Lambda Function Introduction (can be applied in map and sorted functions)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/lambda%20function.md)
-* [map() - apply a function to each element of an iterable (like a list, tuple, or string) and create a new iterable with the results](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/map().md)
 
 # Python - Class
 
