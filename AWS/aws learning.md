@@ -64,10 +64,9 @@
 ![image](https://user-images.githubusercontent.com/60442877/233755016-5b431ed7-6b63-4ba4-a38c-fae4a6cc7504.png)
 
 
-
 # AWS Service
 
-## Amazon EC2 (Elastic Cloud Compute) 
+## AWS EC2 (Elastic Cloud Compute) 
 
 ### Introduction
 
@@ -131,8 +130,11 @@
 
 ![image](https://user-images.githubusercontent.com/60442877/233747859-80cba8c0-627f-41e0-a63f-14a14f4c747c.png)
 
-
 ## AWS Serverless
 
+### Introduction 
 
+![image](https://user-images.githubusercontent.com/60442877/233755888-d03ef70a-47ed-4b54-b8cf-606dcac81fe7.png)
+
+![image](https://user-images.githubusercontent.com/60442877/233756296-407837a4-5dd7-4d53-a010-6717ce23dcd5.png)
 
