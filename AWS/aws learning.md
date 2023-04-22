@@ -2,7 +2,7 @@
 
 # [Cloud Computing](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/AWS/aws%20cloud.md)
 
-# [Elastic Load Balancing]()
+# [Elastic Load Balancing](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/AWS/ELB.md)
 
 ## Messaging and Queueing
 
