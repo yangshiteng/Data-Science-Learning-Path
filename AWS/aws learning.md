@@ -69,7 +69,7 @@
 
 ![image](https://user-images.githubusercontent.com/60442877/233756296-407837a4-5dd7-4d53-a010-6717ce23dcd5.png)
 
-## AWS Container
+## AWS Container (容器)
 
 ![image](https://user-images.githubusercontent.com/60442877/233758256-c1379c03-e6f4-46b6-b677-951984b44721.png)
 
