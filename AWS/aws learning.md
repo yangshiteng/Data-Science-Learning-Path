@@ -8,11 +8,6 @@
 
 ![image](https://user-images.githubusercontent.com/60442877/233752914-33104382-c23d-41c2-9181-9d5ff03bd260.png)
 
-### Monolithic Applications (整体应用程序) and Microservices (微服务)
-
-![image](https://user-images.githubusercontent.com/60442877/233753308-ab4648b2-0603-47b3-8248-f411d03f71a4.png)
-
-![image](https://user-images.githubusercontent.com/60442877/233753321-9c1ecc55-00ae-4f7f-9440-c0e07db4deef.png)
 
 ### Simple Notification Service (SNS）（简单通知服务）
 
