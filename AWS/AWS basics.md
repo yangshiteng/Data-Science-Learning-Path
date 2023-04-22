@@ -26,3 +26,7 @@
 ![image](https://user-images.githubusercontent.com/60442877/233753321-9c1ecc55-00ae-4f7f-9440-c0e07db4deef.png)
 
 ![image](https://user-images.githubusercontent.com/60442877/233795772-e17de18e-8cfe-4343-a2ed-14421b5379e7.png)
+
+# Distributed System
+
+![image](https://user-images.githubusercontent.com/60442877/233796250-c421c188-bf89-4605-baf1-9f0a1c840a62.png)
