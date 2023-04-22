@@ -6,6 +6,7 @@
 
 # [Messaging and Queueing](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/AWS/Messaging%20and%20Queueing.md)
 
+# [AWS EC2 and Serverless]()
 
 ## AWS Serverless Compute
 
