@@ -30,3 +30,7 @@
 # Distributed System
 
 ![image](https://user-images.githubusercontent.com/60442877/233796250-c421c188-bf89-4605-baf1-9f0a1c840a62.png)
+
+# Distributed Computing System
+
+![image](https://user-images.githubusercontent.com/60442877/233796785-22e0b26e-b2ca-44d4-934a-0392cf7a5ab9.png)
