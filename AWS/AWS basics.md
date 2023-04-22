@@ -9,7 +9,6 @@
 ![image](https://user-images.githubusercontent.com/60442877/233724679-e621ae80-f34c-4ff5-b0be-3d99a6c2835b.png)
 
 
-
 # Elastic Load Balancing (ELB) (弹性负载均衡)
 
 ![image](https://user-images.githubusercontent.com/60442877/233749480-ed7a4a4c-400b-49f5-9dba-3c5d2576b8e8.png)
@@ -25,3 +24,5 @@
 ![image](https://user-images.githubusercontent.com/60442877/233753308-ab4648b2-0603-47b3-8248-f411d03f71a4.png)
 
 ![image](https://user-images.githubusercontent.com/60442877/233753321-9c1ecc55-00ae-4f7f-9440-c0e07db4deef.png)
+
+![image](https://user-images.githubusercontent.com/60442877/233795772-e17de18e-8cfe-4343-a2ed-14421b5379e7.png)
