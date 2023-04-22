@@ -31,6 +31,10 @@
 
 ![image](https://user-images.githubusercontent.com/60442877/233796250-c421c188-bf89-4605-baf1-9f0a1c840a62.png)
 
+![image](https://user-images.githubusercontent.com/60442877/233796802-36daace1-df04-4fd5-8358-c270cfba29b8.png)
+
 # Distributed Computing System
 
 ![image](https://user-images.githubusercontent.com/60442877/233796785-22e0b26e-b2ca-44d4-934a-0392cf7a5ab9.png)
+
+![image](https://user-images.githubusercontent.com/60442877/233796914-fc990465-26d0-4edf-8be5-51bcab7e57b6.png)
