@@ -1,6 +1,6 @@
-# [AWS Basic Concept](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/AWS/AWS%20basics.md)
+# [Basic Concept](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/AWS/AWS%20basics.md)
 
-# [AWS Cloud Computing Platform]()
+# [Cloud Computing](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/AWS/aws%20cloud.md)
 
 ## Messaging and Queueing
 
