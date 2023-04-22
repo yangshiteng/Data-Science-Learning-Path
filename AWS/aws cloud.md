@@ -6,15 +6,10 @@
 
 ![image](https://user-images.githubusercontent.com/60442877/233796979-05d4cf04-1564-4214-b0c7-e22649b0cc9d.png)
 
+## Types of Cloud Deployments
+
 ![image](https://user-images.githubusercontent.com/60442877/233726817-594cdd46-3f94-4f02-80e8-e01abca0c7a8.png)
 
-## Deployment Models
-
-### 1. Cloud-based Deployment （基于云的部署）
-
-### 2. On-premises Deployment (本地部署) （also known as private cloud deployment）
-
-### 3. Hybrid Deployment （混合部署）
 
 ![image](https://user-images.githubusercontent.com/60442877/233797056-792ac80a-931d-424d-87b3-21f09be0f6dd.png)
 
