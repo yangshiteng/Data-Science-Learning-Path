@@ -2,7 +2,7 @@
 
 ![image](https://user-images.githubusercontent.com/60442877/233717741-8a230841-b416-4876-b6eb-28925041ab42.png)
 
-# Client-Server Model
+# Client-Server Model (客户端–服务器模式)
 
 ![image](https://user-images.githubusercontent.com/60442877/233724534-bd741067-8f8d-4328-a912-219614e2bd88.png)
 
