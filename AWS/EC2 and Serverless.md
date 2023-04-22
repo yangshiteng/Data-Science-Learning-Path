@@ -56,7 +56,7 @@
 
 ![image](https://user-images.githubusercontent.com/60442877/233747205-7e52418e-cc65-41fc-98e4-9a87c5e8a1db.png)
 
-## EC2 Auto Scaling
+## EC2 Auto Scaling (Horizontal Scaling)
 
 ![image](https://user-images.githubusercontent.com/60442877/233747218-218994ba-e81c-4c14-840f-37f712f42d62.png)
 
