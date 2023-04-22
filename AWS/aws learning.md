@@ -4,7 +4,7 @@
 
 # [Elastic Load Balancing](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/AWS/ELB.md)
 
-# [Messaging and Queueing]()
+# [Messaging and Queueing](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/AWS/Messaging%20and%20Queueing.md)
 
 ## Messaging and Queueing
 
