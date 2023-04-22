@@ -8,11 +8,9 @@
 
 ## Types of Cloud Deployments
 
-![image](https://user-images.githubusercontent.com/60442877/233726817-594cdd46-3f94-4f02-80e8-e01abca0c7a8.png)
-
+![image](https://user-images.githubusercontent.com/60442877/233797204-105f4275-23f3-48f8-9cc9-b822ded2bd0c.png)
 
 ![image](https://user-images.githubusercontent.com/60442877/233797056-792ac80a-931d-424d-87b3-21f09be0f6dd.png)
-
 
 ## Benfit of Cloud Computing
 
