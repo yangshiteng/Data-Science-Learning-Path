@@ -10,7 +10,7 @@
 
 ### [AWS Serverless Computing (不需要去考虑服务器问题的计算服务)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/AWS/serverless.md)
    * [AWS Lambda](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/AWS/AWS%20lambda.md)
-   * [AWS Lambda vs Container]()
+   * [AWS Lambda vs Container](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/AWS/AWS%20fargate%20vs%20container.md)
 
 ### [AWS Container (容器)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/AWS/AWS%20container.md)
    * [Docker](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/AWS/Docker.md)
