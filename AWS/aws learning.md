@@ -8,7 +8,7 @@
 
 # [AWS EC2](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/AWS/EC2%20and%20Serverless.md)
 
-# [Serverless Computing Service (不需要去考虑服务器问题的计算服务)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/AWS/serverless.md)
+# [AWS Serverless Computing (不需要去考虑服务器问题的计算服务)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/AWS/serverless.md)
    * [AWS Lambda](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/AWS/AWS%20lambda.md)
 
 # [AWS Container (容器)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/AWS/AWS%20container.md)
