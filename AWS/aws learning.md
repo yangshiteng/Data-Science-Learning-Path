@@ -49,11 +49,6 @@
 
 
 
-## AWS Lambda (Serverless Compute Service)
-
-![image](https://user-images.githubusercontent.com/60442877/233757823-96c49048-37fc-42bf-a7c1-7f99f47183b7.png)
-
-![image](https://user-images.githubusercontent.com/60442877/233757850-11c5c05e-1fc3-4c22-b44b-68789331d73f.png)
 
 
 ## AWS ECS (Elastic Container Service) (弹性容器服务)
