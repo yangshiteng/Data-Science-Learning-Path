@@ -12,7 +12,7 @@
 
 ![image](https://user-images.githubusercontent.com/60442877/233758285-d42a5069-202e-4de3-ad84-8d476dcf962d.png)
 
-### Containerized Applications (容器应用程序)
+### Containerized Applications (容器化的应用程序)
 
 ![image](https://user-images.githubusercontent.com/60442877/233758824-ecb07f5e-95a3-4d7a-b6cc-02ca0ba3b9e6.png)
 
