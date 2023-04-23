@@ -1,7 +1,5 @@
 # AWS Container (容器)
 
-![image](https://user-images.githubusercontent.com/60442877/233759226-4899a6cc-78ea-4571-a9ac-acb21caf1a7a.png)
-
 ![image](https://user-images.githubusercontent.com/60442877/233814526-151b1d81-0612-485e-bfd6-2fd211a9740b.png)
 
 ## Introduction
