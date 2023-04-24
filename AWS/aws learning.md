@@ -35,5 +35,5 @@
 
 ### [AWS Networking](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/AWS/AWS%20networking.md)
 
-   * [AWS Virtual Private Cloud (VPC)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/AWS/AWS%20VPC.md)
+   * [AWS Virtual Private Cloud (VPC) (虚拟私有云)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/AWS/AWS%20VPC.md)
 
