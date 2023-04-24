@@ -23,6 +23,7 @@
 ## Second Section
 
 ### [AWS Infrastructure](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/AWS/AWS%20infrastructure.md)
-   * [Regions](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/AWS/Regions.md)
+   * [Regions (地区)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/AWS/Regions.md)
+   * [Availability Zones (可用性区域)]()
 
 
