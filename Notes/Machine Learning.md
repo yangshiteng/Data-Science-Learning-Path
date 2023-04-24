@@ -30,6 +30,8 @@
 
 * [Bootstrapping](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Bootstrapping.md)
 
+* [Base Model]()
+
 # 2. Machine Learning Models (Classification and Regression)
 
 ## 2.1 Linear Regression
