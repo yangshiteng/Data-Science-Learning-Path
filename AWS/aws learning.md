@@ -23,7 +23,7 @@
 ## Second Section
 
 ### [AWS Infrastructure](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/AWS/AWS%20infrastructure.md)
-   * [Regions (地区)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/AWS/Regions.md)
+   * [Regions (地域)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/AWS/Regions.md)
    * [Availability Zones (可用性区域)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/AWS/Availability%20Zones.md)
    * [AWS Edge Locations (边缘站点)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/AWS/Edge%20locations.md)
    * [AWS Cloud Resource Provisioning](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/AWS/AWS%20Provision.md)
