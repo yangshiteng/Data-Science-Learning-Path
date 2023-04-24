@@ -2,7 +2,7 @@
 
 ![image](https://user-images.githubusercontent.com/60442877/234086554-d650d7af-e6cb-4350-b181-d8dc44e239eb.png)
 
-# Internet Gateway (互联网门户)
+# Internet Gateway (IGW) (互联网门户)
 
 ![image](https://user-images.githubusercontent.com/60442877/234109086-22a95e8e-8e65-4b4c-bcb9-2380dc69d657.png)
 
