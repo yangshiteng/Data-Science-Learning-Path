@@ -27,4 +27,8 @@
 
 ![image](https://user-images.githubusercontent.com/60442877/234049167-501a2cd0-0d57-429d-8740-646699e4cef9.png)
 
+# AWS Elastic Beanstalk
 
+![image](https://user-images.githubusercontent.com/60442877/234056613-e50ee8f7-37af-4313-93a2-8028df5cc2ab.png)
+
+![image](https://user-images.githubusercontent.com/60442877/234056646-23fa26e7-265d-4358-9861-59f041b68992.png)
