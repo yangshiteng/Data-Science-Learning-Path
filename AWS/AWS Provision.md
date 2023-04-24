@@ -29,6 +29,8 @@
 
 # AWS Elastic Beanstalk
 
+![image](https://user-images.githubusercontent.com/60442877/234071095-f21a5caf-e109-43f1-aa77-11661277a511.png)
+
 ![image](https://user-images.githubusercontent.com/60442877/234056613-e50ee8f7-37af-4313-93a2-8028df5cc2ab.png)
 
 ![image](https://user-images.githubusercontent.com/60442877/234056646-23fa26e7-265d-4358-9861-59f041b68992.png)
@@ -40,8 +42,6 @@
 # AWS CloudFormation
 
 ![image](https://user-images.githubusercontent.com/60442877/234074403-8b2f4162-8d8a-420a-b877-49e4f5fdddfe.png)
-
-![image](https://user-images.githubusercontent.com/60442877/234071095-f21a5caf-e109-43f1-aa77-11661277a511.png)
 
 ![image](https://user-images.githubusercontent.com/60442877/234063767-3eeceb1c-2d36-4836-8ae2-5b0db98fdf62.png)
 
