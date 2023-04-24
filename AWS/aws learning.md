@@ -26,5 +26,6 @@
    * [Regions (地区)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/AWS/Regions.md)
    * [Availability Zones (可用性区域)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/AWS/Availability%20Zones.md)
    * [AWS Edge Locations (边缘站点)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/AWS/Edge%20locations.md)
+   * [AWS Provision]()
 
 
