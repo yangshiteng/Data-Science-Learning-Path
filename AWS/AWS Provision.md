@@ -35,6 +35,8 @@
 
 ![image](https://user-images.githubusercontent.com/60442877/234057566-71926f61-7b39-428c-a6e5-cd8681016aa0.png)
 
+![image](https://user-images.githubusercontent.com/60442877/234071824-307726d7-25a2-4097-9f1e-4f1db1bbd31b.png)
+
 # AWS CloudFormation
 
 ![image](https://user-images.githubusercontent.com/60442877/234071095-f21a5caf-e109-43f1-aa77-11661277a511.png)
