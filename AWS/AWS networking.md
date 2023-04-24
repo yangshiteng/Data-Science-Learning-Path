@@ -1,7 +1,2 @@
-# Amazon Virtual Private Cloud (VPC) (亚马逊虚拟私有云)
+![image](https://user-images.githubusercontent.com/60442877/234090129-af62c07e-8e1b-4afc-95d8-9dfb0acb3181.png)
 
-![image](https://user-images.githubusercontent.com/60442877/234088270-e461e47c-5a9d-415a-a509-ca3b339aa985.png)
-
-![image](https://user-images.githubusercontent.com/60442877/234086554-d650d7af-e6cb-4350-b181-d8dc44e239eb.png)
-
-![image](https://user-images.githubusercontent.com/60442877/234087186-b200fb0c-4ddb-48e2-8d9d-f64468b62621.png)
