@@ -1,5 +1,7 @@
 ![image](https://user-images.githubusercontent.com/60442877/233875758-20816929-e04f-43e5-af08-1fe3f35ac3f3.png)
 
+![image](https://user-images.githubusercontent.com/60442877/233875990-5142c490-313f-4dd9-8ea7-c1c305e426f8.png)
+
 ![image](https://user-images.githubusercontent.com/60442877/233875797-6f62ed5a-1711-4fb4-9df0-4389a38c0d3f.png)
 
 ## Data Regulations
