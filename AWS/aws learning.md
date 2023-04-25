@@ -36,7 +36,7 @@
 ### [AWS Networking](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/AWS/AWS%20networking.md)
 
    * [AWS Virtual Private Cloud (VPC) (虚拟私有云)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/AWS/VPC.md)
-   * [Virtual Private Network (VPN) (虚拟专用网络)]()
+   * [Virtual Private Network (VPN) (虚拟专用网络)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/AWS/VPN.md)
    * [AWS Internet Gateway (IGW) (互联网门户)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/AWS/IGW.md)
    * [AWS Virtual Private Gateway (VGW) (虚拟专用网关)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/AWS/VGW.md)
    * [AWS Direct Connect](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/AWS/AWS%20VPC.md)
