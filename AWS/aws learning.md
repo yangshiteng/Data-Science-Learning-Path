@@ -42,7 +42,7 @@
    * [AWS Subnets (子网络)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/AWS/AWS%20subnets.md)
    * [AWS Packet (数据包)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/AWS/AWS%20packet.md)
    * [AWS Network Access Control Lists (ACLs) (网络访问控制列表)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/AWS/ACLs.md)
-   * [AWS Security Groups (安全组)]()
+   * [AWS Security Groups (安全组)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/AWS/AWS%20security%20groups.md)
 
    
 
