@@ -38,5 +38,6 @@
    * [AWS Connectivity](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/AWS/AWS%20VPC.md)
    * [AWS Virtual Private Cloud (VPC) (虚拟私有云)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/AWS/VPC.md)
    * [AWS Internet Gateway (IGW) (互联网门户)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/AWS/IGW.md)
+   * [AWS Virtual Private Gateway (VGW) (虚拟专用网关)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/AWS/VGW.md)
    * [AWS Subnets (子网络)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/AWS/AWS%20subnets.md)
 
