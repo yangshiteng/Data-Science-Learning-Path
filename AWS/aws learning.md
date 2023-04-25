@@ -36,4 +36,5 @@
 ### [AWS Networking](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/AWS/AWS%20networking.md)
 
    * [AWS Connectivity](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/AWS/AWS%20VPC.md)
+   * [AWS Subnets (子网络)]()
 
