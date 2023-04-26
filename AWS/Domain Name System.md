@@ -1,5 +1,9 @@
 # Domain Name System (DNS) (域名系统)
 
+# Authoritative DNS (Amazon Route 53)
+
+# Recursive DNS (DNS Resolver)
+
 ![image](https://user-images.githubusercontent.com/60442877/234174694-ea2fe4e0-9608-4c18-886d-1495e8559f18.png)
 
 ![image](https://user-images.githubusercontent.com/60442877/234174712-dfae3d09-3bdd-45fb-bb63-42f33806690f.png)
