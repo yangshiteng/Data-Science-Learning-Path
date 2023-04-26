@@ -16,4 +16,8 @@
 
 ![image](https://user-images.githubusercontent.com/60442877/234173649-63d943ba-a2a9-4d36-8edc-4dd07260bb01.png)
 
+# AWS Route 53
 
+![image](https://user-images.githubusercontent.com/60442877/234438701-3c2d5d38-f260-48e6-999d-b835abc983c7.png)
+
+![image](https://user-images.githubusercontent.com/60442877/234438932-10c17b21-8bba-4ccb-ace6-b0fca5c643fa.png)
