@@ -50,7 +50,7 @@
    
 ## Fourth Section
 
-### [AWS Storage]()
+### [AWS Storage](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/AWS/AWS%20Storage.md)
 
    * [AWS Instance Stores](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/AWS/Instance%20Stores.md)
 
