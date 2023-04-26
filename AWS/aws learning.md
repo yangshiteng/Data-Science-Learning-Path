@@ -44,8 +44,8 @@
    * [AWS Packet (数据包)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/AWS/AWS%20packet.md)
    * [AWS Network Access Control Lists (ACLs) (网络访问控制列表)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/AWS/ACLs.md)
    * [AWS Security Groups (安全组)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/AWS/AWS%20security%20groups.md)
-   * [AWS CloudFront](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/AWS/AWS%20CloudFront.md)
    * [Content Delivery Network (CDN)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/AWS/CDN.md)
+   * [AWS CloudFront](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/AWS/AWS%20CloudFront.md)
    * [AWS Global Networking](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/AWS/Domain%20Name%20System.md)
    
 
