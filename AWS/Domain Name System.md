@@ -14,6 +14,8 @@
 
 ![image](https://user-images.githubusercontent.com/60442877/234173609-8f6babf8-de16-4cef-a846-f9fbc7c92454.png)
 
+![image](https://user-images.githubusercontent.com/60442877/234442462-0421b21b-3017-4e83-ac15-e8a7865a1040.png)
+
 ![image](https://user-images.githubusercontent.com/60442877/234173649-63d943ba-a2a9-4d36-8edc-4dd07260bb01.png)
 
 # AWS Route 53 (DBS service) (Authoritative DNS)
