@@ -4,6 +4,6 @@
 
 ![image](https://user-images.githubusercontent.com/60442877/234744807-002beb5c-41ed-43bb-a516-7bd90b556f57.png)
 
-# EBS Snapshot
+# EBS Snapshot (EBS快照)
 
 ![image](https://user-images.githubusercontent.com/60442877/234746855-bf1d6aac-a181-433a-b88f-d4319e23b0ec.png)
