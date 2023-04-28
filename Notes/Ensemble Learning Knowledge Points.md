@@ -1,5 +1,4 @@
 # Ensemble Learning (集成学习)
-
   * [Ensemble Learning](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Ensemble%20Learning.md)
   * [Bagging (Bootstrap Aggregatting)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Bagging.md)
   * [Boosting (2 types)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Boosting.md)
