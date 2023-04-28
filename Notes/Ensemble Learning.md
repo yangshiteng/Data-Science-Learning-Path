@@ -25,7 +25,7 @@
 
 ![image](https://user-images.githubusercontent.com/60442877/235270096-0e0a0d22-bc3f-4037-aab1-a5322cadec47.png)
 
-# Stacking
+# Stacking (堆叠法)
 
 ![image](https://user-images.githubusercontent.com/60442877/196837688-119e3a14-ed25-4faf-8240-8b016b23df48.png)
 
