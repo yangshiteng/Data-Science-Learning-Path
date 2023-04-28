@@ -8,6 +8,9 @@
 
 ![image](https://user-images.githubusercontent.com/60442877/196834094-6dd12e0e-40d4-411b-a8a6-bfff9222125b.png)
 
+![image](https://user-images.githubusercontent.com/60442877/235266591-a14ed475-705f-433f-a59e-096bbd2968bb.png)
+
+
 # Bagging (Bootstrap Aggregating)
 
 ![image](https://user-images.githubusercontent.com/60442877/196834603-05a48da7-e218-4655-aeeb-a10e05c34cac.png)
