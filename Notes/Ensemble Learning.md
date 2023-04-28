@@ -10,6 +10,8 @@
 
 ![image](https://user-images.githubusercontent.com/60442877/235266591-a14ed475-705f-433f-a59e-096bbd2968bb.png)
 
+![image](https://user-images.githubusercontent.com/60442877/235268916-bf380d68-e6d0-4d3e-8a51-4f14f6b23a61.png)
+
 
 # Bagging (Bootstrap Aggregating)
 
