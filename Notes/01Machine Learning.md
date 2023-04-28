@@ -78,7 +78,7 @@
 
 ## 2.7 Ensemble Learning (集成学习)
 
-### [Knowledge Point]()
+### [Knowledge Point](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Ensemble%20Learning%20Knowledge%20Points.md)
 
 ### [Q & A]()
 
