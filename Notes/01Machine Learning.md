@@ -76,7 +76,15 @@
 * [Decision Tree Introduction](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Decision%20Tree%20Introduction.md)
 * [Tree Pruning (the Alpha is selected by Hyperparameter Tuning Techinque)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Pruning%20the%20tree%20model.md)
 
-## 2.7 Ensemble Learning (Bagging and Boosting)
+## 2.7 Ensemble Learning (集成学习)
+
+### [Knowledge]()
+
+### [Q & A]()
+
+### [Projects]()
+
+
 
 ### 2.7.0 Introduction of Ensemble Learning
 
