@@ -78,7 +78,7 @@
 
 ## 2.7 Ensemble Learning (集成学习)
 
-### [Knowledge]()
+### [Knowledge Point]()
 
 ### [Q & A]()
 
