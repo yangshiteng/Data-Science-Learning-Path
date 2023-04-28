@@ -25,15 +25,8 @@
 
 ![image](https://user-images.githubusercontent.com/60442877/235270096-0e0a0d22-bc3f-4037-aab1-a5322cadec47.png)
 
-# Stacking (堆叠法)
 
-![image](https://user-images.githubusercontent.com/60442877/196837688-119e3a14-ed25-4faf-8240-8b016b23df48.png)
-
-![image](https://user-images.githubusercontent.com/60442877/196837902-4e907651-05cd-4484-84b6-26bc9014aea1.png)
-
-![image](https://user-images.githubusercontent.com/60442877/196837927-77cb9b6c-260b-4e9e-a5f9-08ebcd8e4c86.png)
-
-# Boosting
+# Boosting (提升算法)
 
 ![image](https://user-images.githubusercontent.com/60442877/196840284-1da5dc83-95f4-4171-a648-448cb56336aa.png)
 
@@ -45,5 +38,13 @@
 
 ![image](https://user-images.githubusercontent.com/60442877/196842774-e943f157-ba85-433f-b117-5f20a701dfa7.png)
 
+# Stacking (堆叠法)
 
+![image](https://user-images.githubusercontent.com/60442877/196837688-119e3a14-ed25-4faf-8240-8b016b23df48.png)
+
+![image](https://user-images.githubusercontent.com/60442877/196837902-4e907651-05cd-4484-84b6-26bc9014aea1.png)
+
+![image](https://user-images.githubusercontent.com/60442877/196837927-77cb9b6c-260b-4e9e-a5f9-08ebcd8e4c86.png)
+
+![image](https://user-images.githubusercontent.com/60442877/235271088-8f3bcc5e-2769-43bc-883a-7939fde5eb1b.png)
 
