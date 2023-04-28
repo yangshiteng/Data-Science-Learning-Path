@@ -13,7 +13,7 @@
 ![image](https://user-images.githubusercontent.com/60442877/235268916-bf380d68-e6d0-4d3e-8a51-4f14f6b23a61.png)
 
 
-# Bagging (Bootstrap Aggregating)
+# Bagging 装袋算法 (Bootstrap Aggregating 引导聚集算法) 
 
 ![image](https://user-images.githubusercontent.com/60442877/196834603-05a48da7-e218-4655-aeeb-a10e05c34cac.png)
 
