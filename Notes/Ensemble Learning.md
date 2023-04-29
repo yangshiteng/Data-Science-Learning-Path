@@ -26,7 +26,7 @@
 ![image](https://user-images.githubusercontent.com/60442877/235270096-0e0a0d22-bc3f-4037-aab1-a5322cadec47.png)
 
 
-# Boosting (提升算法)
+# Boosting (提升算法) (algorithms that can convert a bunch of weak leaners to a strong learner)
 
 ![image](https://user-images.githubusercontent.com/60442877/196840284-1da5dc83-95f4-4171-a648-448cb56336aa.png)
 
