@@ -46,3 +46,13 @@
 [23 - Sampling Distribution](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/sampling%20distribution.md)
 
 [24 - Maximum A Posteriori (MAP)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Maximum%20A%20Posteriori%20(MAP).md)
+
+[25 - Fundamental Concepts in Statistics (StatQuest)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/03%20-%20Fundamental%20Concepts%20in%20Statistics.md)
+
+[26 - SSR, MSE and R-squared (StatQuest)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/SSR%2C%20MSE%20and%20R-squared.md)
+
+[27 - P-value (StatQuest)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/P-value.md)
+
+[28 - The Mean, Variance and Standard Deviation (StatQuest) (sample variance vs population variance)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/13%20-%20Mean%2C%20Variance%20and%20Standard%20Deviation.md)
+
+[29 - Standard Deviation vs Standard Error](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Standard%20Deviation%20vs%20Standard%20Error.md)
