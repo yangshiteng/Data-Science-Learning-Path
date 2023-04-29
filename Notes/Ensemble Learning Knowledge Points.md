@@ -13,11 +13,11 @@
 
 # Ensemble Learning - Boosting
 
-## AdaBoost (Adaptive Boosting 自适应提升算法) (Weight-based boosting algorithm 基于权重的提升算法)
+## AdaBoost (Adaptive Boosting 自适应提升算法) (Weight-based boosting algorithm)
   * [AdaBoost (Boosting Algorithm Only for Classification)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/AdaBoost.pdf)
   * [AdaBoost Summary](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/AdaBoost%20Summary.md)
 
-## Gradient Boost (梯度提升算法) (Residual-based boosting algorithm 基于残差的提升算法) 
+## Gradient Boost (梯度提升算法) (Residual-based boosting algorithm) 
   * [Gradient Boost Summary(Boosting Algorithm for Classification and Regression)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Gradient%20Boost%20Summary.md)
   * [Gradient Boost For Regression](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Gradient%20Boost%20for%20Regression.pdf)
   * [Gradient Boost for Classification](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Gradient%20Boost%20For%20Classification.pdf)
