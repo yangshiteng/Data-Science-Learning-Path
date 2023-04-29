@@ -1,4 +1,4 @@
-# Introduction of Ensemble Learning (集成学习)
+# Introduction of Ensemble Learning (集成学习) (convert weak learners to a strong learner)
 
 ![image](https://user-images.githubusercontent.com/60442877/196843226-4712cbf4-9df1-49ba-b12f-67c4704a5d00.png)
 
@@ -26,7 +26,7 @@
 ![image](https://user-images.githubusercontent.com/60442877/235270096-0e0a0d22-bc3f-4037-aab1-a5322cadec47.png)
 
 
-# Boosting (提升算法) (convert weak learners to a strong learner)
+# Boosting (提升算法)
 
 ![image](https://user-images.githubusercontent.com/60442877/235272674-7f475e41-d1f1-4504-9321-9127fec70d74.png)
 
