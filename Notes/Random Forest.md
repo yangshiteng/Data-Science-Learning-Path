@@ -27,3 +27,5 @@
     print("Accuracy:", accuracy)
 
 ![image](https://user-images.githubusercontent.com/60442877/235328665-5b6ae976-160d-4bb0-9c80-88cffa613579.png)
+
+![image](https://user-images.githubusercontent.com/60442877/235328677-92ec03ef-a1a6-4ae7-81a9-b95bb586de52.png)
