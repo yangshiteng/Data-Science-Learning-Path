@@ -5,24 +5,26 @@
   * [Bagging vs Boosting](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Bagging%20vs%20Boosting.md)
   * [Stacking (堆叠算法)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/stacking.md)
 
-# Ensemble Learning - Bagging
+## 1. Ensemble Learning - Bagging
 
-##  Random Forest (随机森林)
+### Random Forest (随机森林)
   * [Random Forest (Bagging)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/RandomForest.pdf)
   * [Random Forest: Missing Data and Clustering (Proximity Matrix)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/TreemodelMissingdata.pdf)
 
-# Ensemble Learning - Boosting
+## 2. Ensemble Learning - Boosting
 
-## AdaBoost (Adaptive Boosting 自适应提升算法) (Weight-based boosting algorithm)
+### AdaBoost (Adaptive Boosting 自适应提升算法) (Weight-based boosting algorithm)
   * [AdaBoost (Boosting Algorithm Only for Classification)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/AdaBoost.pdf)
   * [AdaBoost Summary](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/AdaBoost%20Summary.md)
 
-## Gradient Boost (梯度提升算法) (Residual-based boosting algorithm) 
+### Gradient Boost (梯度提升算法) (Residual-based boosting algorithm) 
   * [Gradient Boost Summary(Boosting Algorithm for Classification and Regression)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Gradient%20Boost%20Summary.md)
   * [Gradient Boost For Regression](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Gradient%20Boost%20for%20Regression.pdf)
   * [Gradient Boost for Classification](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Gradient%20Boost%20For%20Classification.pdf)
 
-## XGBoost (Implementation of Gradient Boost designed for computational speed)
+### XGBoost (Implementation of Gradient Boost designed for computational speed)
   * [XGBoost (Boosting Algorithm for Classification and Regression)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/XGBoost%20(Boosting%20Algorithm%20for%20Classification%20and%20Regression).md)
   * [XGBoost for Regression](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/XGBoost%20for%20Regression.pdf)
   * [XGBoost for Classification](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/XGBoost%20for%20Classification.pdf)
+
+## 3. Ensemble Learning - Stacking
