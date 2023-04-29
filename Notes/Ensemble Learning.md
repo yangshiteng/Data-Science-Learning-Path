@@ -1,4 +1,4 @@
-# Introduction of Ensemble Learning (集成学习) (convert weak learners to a strong learner)
+# Introduction of Ensemble Learning (集成学习) 
 
 ![image](https://user-images.githubusercontent.com/60442877/196843226-4712cbf4-9df1-49ba-b12f-67c4704a5d00.png)
 
