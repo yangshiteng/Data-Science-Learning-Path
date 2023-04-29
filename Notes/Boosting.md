@@ -12,3 +12,10 @@
 
 ![image](https://user-images.githubusercontent.com/60442877/196847619-e119e3ef-898e-4c3d-80bf-679866dc8862.png)
 
+# AdaBoost vs Gradient Boost
+
+![image](https://user-images.githubusercontent.com/60442877/235286466-49e3ef61-d052-4db7-af60-c6eb987c246b.png)
+
+![image](https://user-images.githubusercontent.com/60442877/235286473-4866c2d3-89d7-4a3c-a554-b412da996807.png)
+
+![image](https://user-images.githubusercontent.com/60442877/235286480-64b5e29e-e648-48e3-a9cf-a2cff06b4942.png)
