@@ -57,7 +57,32 @@
 
 ![image](https://user-images.githubusercontent.com/60442877/235282681-e55a7fe6-0702-4df6-873b-f0202b5d773d.png)
 
-![image](https://user-images.githubusercontent.com/60442877/235282718-164a9374-9a0e-416e-9d0d-96438ef2b649.png)
+    # For this basic implementation, we only need these modules
+    from sklearn.datasets import load_breast_cancer
+    from sklearn.model_selection import train_test_split
+    from sklearn.tree import DecisionTreeClassifier
+    from sklearn.ensemble import AdaBoostClassifier
+
+    # Load the well-known Breast Cancer dataset
+    # Split into train and test sets
+    x, y = load_breast_cancer(return_X_y=True)
+    x_train, x_test, y_train, y_test = train_test_split(x, y, test_size=0.25, random_state=23)
+
+    # The base learner will be a decision tree with depth = 2
+    tree = DecisionTreeClassifier(max_depth=2, random_state=23)
+
+    # AdaBoost initialization
+    # It's defined the decision tree as the base learner
+    # The number of estimators will be 5
+    # The penalizer for the weights of each estimator is 0.1
+    adaboost = AdaBoostClassifier(base_estimator=tree, n_estimators=5, learning_rate=0.1, random_state=23)
+
+    # Train!
+    adaboost.fit(x_train, y_train)
+
+    # Evaluation
+    print(f"Train score: {adaboost.score(x_train, y_train)}")
+    print(f"Test score: {adaboost.score(x_test, y_test)}")
 
 ![image](https://user-images.githubusercontent.com/60442877/235282730-603b275b-d9ee-4fb1-9075-d1e7776dc363.png)
 
