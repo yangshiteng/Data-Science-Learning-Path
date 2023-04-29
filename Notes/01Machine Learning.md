@@ -1,19 +1,5 @@
 # 1. Basic Concepts
 
-## 1.1 Fundamental Concepts in Statistics
-
-* [Fundamental Concepts in Statistics (StatQuest)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/03%20-%20Fundamental%20Concepts%20in%20Statistics.md)
-
-* [SSR, MSE and R-squared (StatQuest)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/SSR%2C%20MSE%20and%20R-squared.md)
-
-* [P-value (StatQuest)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/P-value.md)
-
-* [The Mean, Variance and Standard Deviation (StatQuest) (sample variance vs population variance)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/13%20-%20Mean%2C%20Variance%20and%20Standard%20Deviation.md)
-
-* [Standard Deviation vs Standard Error](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Standard%20Deviation%20vs%20Standard%20Error.md)
-
-## 1.2 Fundamental Concepts in Machine Learning
-
 * [Fundamental Concepts in Machine Learning (StatQuest)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/01%20-%20Fundamental%20Concepts%20in%20Machine%20Learning.md)
 
 * [Cross Validation (StatQuest)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/02%20-%20Cross%20Validation.md)
