@@ -43,7 +43,7 @@
 ![image](https://user-images.githubusercontent.com/60442877/235273037-fd01ab59-8b84-4598-a268-542e2062a8f7.png)
 
 
-# Stacking (堆叠法)
+# Stacking (堆叠算法)
 
 ![image](https://user-images.githubusercontent.com/60442877/196837688-119e3a14-ed25-4faf-8240-8b016b23df48.png)
 
@@ -52,6 +52,8 @@
 ![image](https://user-images.githubusercontent.com/60442877/196837927-77cb9b6c-260b-4e9e-a5f9-08ebcd8e4c86.png)
 
 ![image](https://user-images.githubusercontent.com/60442877/235271088-8f3bcc5e-2769-43bc-883a-7939fde5eb1b.png)
+
+![image](https://user-images.githubusercontent.com/60442877/235278456-fe060934-6089-4c4d-94b2-588bea18e3e8.png)
 
 
 # Bagging vs Boosting vs Stacking
