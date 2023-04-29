@@ -49,6 +49,50 @@
 ![image](https://user-images.githubusercontent.com/60442877/235279795-8b963ec8-f190-416e-8a1d-87388359835f.png)
 * 基础学习器所造成的误差可以通过很多不同的方法被下一个基础学习器纠正，不同的提升算法的核心差异就在于使用了不同的误差纠正方法
 
+![image](https://user-images.githubusercontent.com/60442877/235280042-8d71fa4a-876b-4c86-b948-0e5dc42865af.png)
+
+### Adaboost (Adaptive Boosting) (自适应提升算法)
+
+![image](https://user-images.githubusercontent.com/60442877/235280895-84b4514f-cc1e-417c-9737-4a93839765fa.png)
+
+![image](https://user-images.githubusercontent.com/60442877/235282681-e55a7fe6-0702-4df6-873b-f0202b5d773d.png)
+
+![image](https://user-images.githubusercontent.com/60442877/235282718-164a9374-9a0e-416e-9d0d-96438ef2b649.png)
+
+![image](https://user-images.githubusercontent.com/60442877/235282730-603b275b-d9ee-4fb1-9075-d1e7776dc363.png)
+
+### Gradient Boosting (梯度上升算法)
+
+![image](https://user-images.githubusercontent.com/60442877/235282828-b4b72ce6-a27c-437b-a297-d14922cf9a84.png)
+
+![image](https://user-images.githubusercontent.com/60442877/235283064-eb636c35-f0cc-467c-a050-b80a995e8f81.png)
+
+    # For this basic implementation, we only need these modules
+    from sklearn.datasets import load_breast_cancer
+    from sklearn.model_selection import train_test_split
+    from sklearn.ensemble import GradientBoostingClassifier
+
+    # Load the well-known Breast Cancer dataset
+    # Split into train and test sets
+    x, y = load_breast_cancer(return_X_y=True)
+    x_train, x_test, y_train, y_test = train_test_split(x, y, test_size=0.25, random_state=23)
+
+    # Gradient Boosting initialization
+    # The base learner is a decision tree as default
+    # The number of estimators is 5
+    # The depth for each deciion tree is 2
+    # The learning rate for each estimator in the sequence is 1
+    gradientBoosting = GradientBoostingClassifier(n_estimators=5, learning_rate=1, max_depth=2, random_state=23)
+
+    # Train!
+    gradientBoosting.fit(x_train, y_train)
+
+    # Evaluation
+    print(f"Train score: {gradientBoosting.score(x_train, y_train)}")
+    print(f"Test score: {gradientBoosting.score(x_test, y_test)}")
+    
+![image](https://user-images.githubusercontent.com/60442877/235283107-fbcdd8ea-6957-4b9a-8296-e5b603b54d0d.png)
+
 
 # Stacking (堆叠算法)
 
