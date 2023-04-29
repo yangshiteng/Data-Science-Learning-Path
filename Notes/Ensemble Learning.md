@@ -28,6 +28,8 @@
 
 # Boosting (提升算法)
 
+## Tutorial 1
+
 ![image](https://user-images.githubusercontent.com/60442877/235272674-7f475e41-d1f1-4504-9321-9127fec70d74.png)
 
 ![image](https://user-images.githubusercontent.com/60442877/196840284-1da5dc83-95f4-4171-a648-448cb56336aa.png)
@@ -41,6 +43,11 @@
 ![image](https://user-images.githubusercontent.com/60442877/196842774-e943f157-ba85-433f-b117-5f20a701dfa7.png)
 
 ![image](https://user-images.githubusercontent.com/60442877/235273037-fd01ab59-8b84-4598-a268-542e2062a8f7.png)
+
+## Tutorial 2
+
+![image](https://user-images.githubusercontent.com/60442877/235279795-8b963ec8-f190-416e-8a1d-87388359835f.png)
+* 基础学习器所造成的误差可以通过很多种不同的方法被下一个基础学习器纠正，不同的提升算法的核心差异就在于使用了不同的误差纠正方法
 
 
 # Stacking (堆叠算法)
