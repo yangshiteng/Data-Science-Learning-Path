@@ -54,10 +54,13 @@
 ![image](https://user-images.githubusercontent.com/60442877/235271088-8f3bcc5e-2769-43bc-883a-7939fde5eb1b.png)
 
 
-# Bagging vs Boosting
+# Bagging vs Boosting vs Stacking
 
 ![image](https://user-images.githubusercontent.com/60442877/235278094-1ebd638b-2748-4a40-98b0-093d7a74721a.png)
 
+![image](https://user-images.githubusercontent.com/60442877/235278404-30f8cb3f-1f17-499e-8af4-bd60c7baa96d.png)
+
+![image](https://user-images.githubusercontent.com/60442877/235278420-df309a9d-6a88-41bd-a633-aaa571a415bf.png)
 
 
 
