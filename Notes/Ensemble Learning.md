@@ -45,6 +45,7 @@
 
 # Bagging vs Boosting
 
+![image](https://user-images.githubusercontent.com/60442877/235278094-1ebd638b-2748-4a40-98b0-093d7a74721a.png)
 
 
 # Stacking (堆叠法)
