@@ -1,4 +1,4 @@
-# Adaboost Procedure
+# AdaBoost for Classfication
 
 1. Give each sample a weight that indicates how important it is to be correctly classified, the initial weights are the same for all the samples, be just 1 over the total number of samples
 2. By using Gini index, build the stump
@@ -12,6 +12,8 @@
 7. Normalize these new sample weights so that they add up to 1
 8. With these new sample weights, by using weighted gini index, create the second stump, then, repeat 3-7 procedure (Or instead of weighted gini index, we can make a new dataset of same size with bootstrap sampling by using those new sample weights, and give each sample in this new dataset same weight, and repeat 1-7 procedure)
 
-# Adaboost how to make classification
-
 ![image](https://user-images.githubusercontent.com/60442877/194981873-a1d1c1e9-a536-4f36-994e-d93f3eb254e7.png)
+
+# AdaBoost for Regression
+
+![image](https://user-images.githubusercontent.com/60442877/235336026-d7696596-9486-4af6-8131-616741aa4c19.png)
