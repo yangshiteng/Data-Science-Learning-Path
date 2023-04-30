@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/60442877/235334766-599ea3fb-091a-4946-b054-4bfb69b15045.png)
+![image](https://user-images.githubusercontent.com/60442877/235335919-7a10216e-eb51-4efb-af1a-6ae39878cd3c.png)
 
     from sklearn.datasets import load_boston
     from sklearn.model_selection import train_test_split
