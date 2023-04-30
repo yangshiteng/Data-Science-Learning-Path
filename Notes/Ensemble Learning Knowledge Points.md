@@ -34,7 +34,7 @@
 
 ## 3. Ensemble Learning - Stacking
 
-  * [Stacking with Random Forest and CatBoost]()
+  * [Stacking with Random Forest and CatBoost](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/stacking%20with%20randomforest%20and%20catboost.md)
 
 
 
