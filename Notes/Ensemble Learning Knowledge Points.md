@@ -16,7 +16,7 @@
 ## 2. Ensemble Learning - Boosting
 
 ### AdaBoost (Adaptive Boosting 自适应提升算法) (Weight-based boosting algorithm)
-  * [AdaBoost - Introduction]()
+  * [AdaBoost - Introduction](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/AdaBoost%20Introduction.md)
   * [AdaBoost - How to build](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/AdaBoost.pdf)
   * [AdaBoost Summary](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/AdaBoost%20Summary.md)
 
