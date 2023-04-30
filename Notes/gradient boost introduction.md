@@ -6,7 +6,7 @@
 
 ![image](https://user-images.githubusercontent.com/60442877/235363771-aed75c40-994e-4e8a-acba-baf37c41d202.png)
 
-## How to Calculate the gradient
+## How to calculate the gradient
 
 ![image](https://user-images.githubusercontent.com/60442877/235363828-72057f43-70b1-4fbe-906c-8577d925cad0.png)
 
@@ -19,3 +19,9 @@
 ![image](https://user-images.githubusercontent.com/60442877/235371484-e89e7515-8f80-4a48-a224-d027c247fe2a.png)
 
 ![image](https://user-images.githubusercontent.com/60442877/235371499-cec048e1-4bd6-401f-8b8f-8812f2b03af8.png)
+
+## How to calculate the gradient
+
+![image](https://user-images.githubusercontent.com/60442877/235372562-7edfebc6-15a7-4c0c-8866-ecc6915a8f5d.png)
+
+![image](https://user-images.githubusercontent.com/60442877/235372420-543540b4-23d5-4059-951f-000079848302.png)
