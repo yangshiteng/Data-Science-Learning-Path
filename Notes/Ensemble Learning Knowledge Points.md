@@ -23,9 +23,9 @@
 
 ### Gradient Boost (梯度提升算法) (Residual-based boosting algorithm) 
   * [Gradient Boost - Introduction](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/gradient%20boost%20introduction.md)
-  * [Gradient Boost Summary(Boosting Algorithm for Classification and Regression)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Gradient%20Boost%20Summary.md)
   * [Gradient Boost For Regression](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Gradient%20Boost%20for%20Regression.pdf)
   * [Gradient Boost for Classification](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Gradient%20Boost%20For%20Classification.pdf)
+  * [Gradient Boost Summary](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Gradient%20Boost%20Summary.md)
 
 ### XGBoost (Implementation of Gradient Boost designed for computational speed)
   * [XGBoost (Boosting Algorithm for Classification and Regression)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/XGBoost%20(Boosting%20Algorithm%20for%20Classification%20and%20Regression).md)
