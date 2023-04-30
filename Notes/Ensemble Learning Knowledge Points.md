@@ -3,7 +3,7 @@
   * [Bagging 装袋算法 (Bootstrap Aggregatting 引导聚集算法)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Bagging.md)
   * [Boosting 提升算法](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Boosting.md)
   * [Bagging vs Boosting](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Bagging%20vs%20Boosting.md)
-  * [Stacking (堆叠算法)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/stacking.md)
+  * [Stacking 堆叠算法 (Stacked Generalization 堆叠泛化)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/stacking.md)
 
 ## 1. Ensemble Learning - Bagging
 
@@ -22,6 +22,7 @@
   * [AdaBoost Summary](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/AdaBoost%20Summary.md)
 
 ### Gradient Boost (梯度提升算法) (Residual-based boosting algorithm) 
+  * [Gradient Boost]
   * [Gradient Boost Summary(Boosting Algorithm for Classification and Regression)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Gradient%20Boost%20Summary.md)
   * [Gradient Boost For Regression](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Gradient%20Boost%20for%20Regression.pdf)
   * [Gradient Boost for Classification](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Gradient%20Boost%20For%20Classification.pdf)
