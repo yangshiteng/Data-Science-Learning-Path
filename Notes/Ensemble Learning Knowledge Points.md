@@ -22,7 +22,7 @@
   * [AdaBoost Summary](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/AdaBoost%20Summary.md)
 
 ### Gradient Boost (梯度提升算法) (Residual-based boosting algorithm) 
-  * [Gradient Boost - Introduction]()
+  * [Gradient Boost - Introduction](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/gradient%20boost%20introduction.md)
   * [Gradient Boost Summary(Boosting Algorithm for Classification and Regression)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Gradient%20Boost%20Summary.md)
   * [Gradient Boost For Regression](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Gradient%20Boost%20for%20Regression.pdf)
   * [Gradient Boost for Classification](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Gradient%20Boost%20For%20Classification.pdf)
