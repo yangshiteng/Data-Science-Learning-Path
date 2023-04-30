@@ -9,6 +9,7 @@
 
 ### Random Forest (随机森林)
   * [Random Forest - Introduction](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Random%20Forest.md)
+  * [Random Forest - Out of Bag Sample]()
   * [Random Forest - How to build, evaluate and hyperparameter tuning](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/RandomForest.pdf)
   * [Random Forest - Missing Data and Clustering (Proximity Matrix)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/TreemodelMissingdata.pdf)
 
