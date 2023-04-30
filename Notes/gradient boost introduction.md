@@ -29,3 +29,7 @@
 ![image](https://user-images.githubusercontent.com/60442877/235376396-986904b0-5dfe-4c5d-b7da-c5e9b51b1f89.png)
 
 ![image](https://user-images.githubusercontent.com/60442877/235376407-27eafb03-3283-41b6-8616-d3f37d9244eb.png)
+
+# Why it is called Gradient Boost?
+
+![image](https://user-images.githubusercontent.com/60442877/235380468-0a6dd494-cdb8-48ef-ba12-409da26e3d13.png)
