@@ -33,3 +33,8 @@
   * [XGBoost for Classification](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/XGBoost%20for%20Classification.pdf)
 
 ## 3. Ensemble Learning - Stacking
+
+  * [Stacking with Random Forest and CatBoost]()
+
+
+
