@@ -34,6 +34,7 @@
 
 ### CatBoost
   * [CatBoost - Introduction](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/catboost.md)
+  * [CatBoost - Parameters]()
 
 
 ## 3. Ensemble Learning - Stacking
