@@ -90,7 +90,7 @@
 
     print(z) # return True
 
-## 6. issubset() - check if the first set is the subset of the second set
+# 6. issubset() - check if the first set is the subset of the second set
 
     x = {"a", "b", "c"}
     y = {"f", "e", "d", "c", "b", "a"}
@@ -99,7 +99,7 @@
 
     print(z) # return True
     
-## 7. issuperset() - check if the first set is the superset of the second set
+# 7. issuperset() - check if the first set is the superset of the second set
 
     x = {"f", "e", "d", "c", "b", "a"}
     y = {"a", "b", "c"}
