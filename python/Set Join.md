@@ -70,7 +70,7 @@
     print(x) # return {'cherry', 'banana'}
     print(y) # return {"google", "microsoft", "apple"}
 
-## difference() - eturn a new set, that contains only the elements that are NOT present in another set
+## difference() - return a new set, that contains only the elements that are NOT present in another set
 
     x = {"apple", "banana", "cherry"}
     y = {"google", "microsoft", "apple"}
