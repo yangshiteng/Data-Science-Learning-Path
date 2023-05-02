@@ -58,7 +58,7 @@
     print(x) # return {"apple", "banana", "cherry"}
     print(y) # return {"google", "microsoft", "apple"}
 
-## 4. Difference
+# 4. Difference
 
 ## difference_update() - keep only the elements that are NOT present in another set
 
@@ -81,7 +81,7 @@
     print(x) # return {"apple", "banana", "cherry"}
     print(y) # return {"google", "microsoft", "apple"}
 
-## 5. isdisjoint() - check if two sets are disjoint or not
+# 5. isdisjoint() - check if two sets are disjoint or not
 
     x = {"apple", "banana", "cherry"}
     y = {"google", "microsoft", "facebook"}
