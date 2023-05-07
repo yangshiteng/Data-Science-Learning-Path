@@ -56,4 +56,5 @@
    * [AWS Elastic Block Store (弹性块存储)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/AWS/EBS.md)
    * [AWS Simple Storage Service (S3) (简单存储服务)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/AWS/AWS%20S3.md)
    * [EBS vs S3](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/AWS/EBS%20vs%20S3.md)
+   * [AWS Elastic File System](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/AWS/AWS%20Elastic%20File%20System.md)
 
