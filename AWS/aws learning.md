@@ -51,7 +51,7 @@
 ## Fourth Section
 
 ### [AWS Storage](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/AWS/AWS%20Storage.md)
-   * [File-level, Block-level and Object-level Storage (文件级存储， 区块级存储，对象级存储)]()
+   * [File-level, Block-level and Object-level Storage (文件级存储， 区块级存储，对象级存储)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/AWS/File-level%2C%20Block-level%20and%20Object-level%20Storage.md)
    * [AWS Instance Store (实例存储)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/AWS/Instance%20Stores.md)
    * [AWS Elastic Block Store (弹性块存储)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/AWS/EBS.md)
    * [AWS Simple Storage Service (S3) (简单存储服务)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/AWS/AWS%20S3.md)
