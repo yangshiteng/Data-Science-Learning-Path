@@ -15,7 +15,7 @@
 
 ![image](https://user-images.githubusercontent.com/60442877/234748557-f5c20be4-3af3-4148-9d5a-cd2a8b8fe407.png)
 
-# EBS Snapshot (EBS快照)
+# EBS Snapshot (EBS快照) - Incremental Backups
 
 ![image](https://user-images.githubusercontent.com/60442877/236678290-b3991bf1-245a-4d40-8fe3-fd0d683facb6.png)
 
