@@ -46,8 +46,9 @@
 
 ![image](https://user-images.githubusercontent.com/60442877/236691900-f1622f6a-05ac-45e5-85e7-fd648b907c30.png)
 
+# Amazon S3 Bucket (存储桶)
 
-
+![image](https://user-images.githubusercontent.com/60442877/236699317-3933b5c3-574e-4c62-baf0-4d27635b330f.png)
 
 
 
