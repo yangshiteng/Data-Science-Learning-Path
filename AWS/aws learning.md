@@ -54,5 +54,5 @@
 
    * [AWS Instance Store (实例存储)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/AWS/Instance%20Stores.md)
    * [AWS Elastic Block Store (弹性块存储)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/AWS/EBS.md)
-   * [AWS Simple Storage Service (S3) (简单存储服务)]()
+   * [AWS Simple Storage Service (S3) (简单存储服务)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/AWS/AWS%20S3.md)
 
