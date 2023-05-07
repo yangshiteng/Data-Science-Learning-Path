@@ -36,5 +36,25 @@
 
 # 5. S3 Glacier
 
+![image](https://user-images.githubusercontent.com/60442877/236691371-e44d9ec6-4b30-403e-b012-c35692555f34.png)
+
+# 6. S3 Glacier Deep Archive
+
+![image](https://user-images.githubusercontent.com/60442877/236691656-5febff02-f2b9-4769-a1e1-0d0177e1c02f.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
