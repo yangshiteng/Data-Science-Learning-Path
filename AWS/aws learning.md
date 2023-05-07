@@ -58,5 +58,5 @@
    * [EBS vs S3](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/AWS/EBS%20vs%20S3.md)
    * [AWS Elastic File System (EFS) (弹性文件系统）](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/AWS/AWS%20Elastic%20File%20System.md)
    * [AWS Relational Database Service (RDS) (关联型数据库服务)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/AWS/AWS%20RDS.md)
-   * [AWS DynamoDB (Non-Relational, No-SQL database)]()
+   * [AWS DynamoDB (Non-Relational, No-SQL database)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/AWS/DynamoDb.md)
 
