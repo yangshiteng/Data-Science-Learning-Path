@@ -11,7 +11,7 @@
 
 ![image](https://user-images.githubusercontent.com/60442877/234747714-e190fdf0-bed9-46ec-94b3-79c903f4eef6.png)
 
-# Block-Level Storage (块级存储)
+# Block-Level Storage (区块级存储)
 
 ![image](https://user-images.githubusercontent.com/60442877/236684266-ac2db271-2c21-4b0b-ba63-9c5163471aed.png)
 
