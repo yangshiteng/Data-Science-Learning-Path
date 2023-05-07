@@ -1,5 +1,5 @@
 
-# Elastic Block Storage (弹性块存储)
+# Elastic Block Store (弹性块存储)
 
 ![image](https://user-images.githubusercontent.com/60442877/236678171-48068010-6fed-4f33-812c-2d12864aa04b.png)
 
