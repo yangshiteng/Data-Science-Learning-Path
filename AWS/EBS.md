@@ -13,7 +13,7 @@
 
 # Block-Level Storage (块级存储)
 
-
+![image](https://user-images.githubusercontent.com/60442877/236684266-ac2db271-2c21-4b0b-ba63-9c5163471aed.png)
 
 # EBS Volume (EBS 存储卷)
 
