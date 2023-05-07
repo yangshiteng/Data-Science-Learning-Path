@@ -26,19 +26,19 @@
 
 ![image](https://user-images.githubusercontent.com/60442877/236688181-d9511cca-2a78-4689-9613-4f57149fa8e5.png)
 
-# 3. S3 One Zone-IA (S3 One Zone-Infrequent Access)
+## 3. S3 One Zone-IA (S3 One Zone-Infrequent Access)
 
 ![image](https://user-images.githubusercontent.com/60442877/236690720-837d7b93-f53a-440e-8265-dcf27b28d172.png)
 
-# 4. S3 Intelligent-Tiering
+## 4. S3 Intelligent-Tiering
 
 ![image](https://user-images.githubusercontent.com/60442877/236691049-80aa35ba-ae3b-4c80-a8a2-230fc58dddbf.png)
 
-# 5. S3 Glacier
+## 5. S3 Glacier
 
 ![image](https://user-images.githubusercontent.com/60442877/236691371-e44d9ec6-4b30-403e-b012-c35692555f34.png)
 
-# 6. S3 Glacier Deep Archive
+## 6. S3 Glacier Deep Archive
 
 ![image](https://user-images.githubusercontent.com/60442877/236691656-5febff02-f2b9-4769-a1e1-0d0177e1c02f.png)
 
