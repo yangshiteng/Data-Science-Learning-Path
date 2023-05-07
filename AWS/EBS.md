@@ -11,6 +11,10 @@
 
 ![image](https://user-images.githubusercontent.com/60442877/234747714-e190fdf0-bed9-46ec-94b3-79c903f4eef6.png)
 
+# Block-Level Storage (块级存储)
+
+
+
 # EBS Volume (EBS 存储卷)
 
 ![image](https://user-images.githubusercontent.com/60442877/234748557-f5c20be4-3af3-4148-9d5a-cd2a8b8fe407.png)
