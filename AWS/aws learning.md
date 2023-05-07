@@ -60,5 +60,5 @@
    * [AWS Relational Database Service (RDS) (关联型数据库服务)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/AWS/AWS%20RDS.md)
    * [AWS DynamoDB (Non-Relational 非关联型, No-SQL database)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/AWS/DynamoDb.md)
    * [AWS RDS vs DynamoDB](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/AWS/AWS%20RDS%20vs%20DynamoDB.md)
-   * [AWS Redshift]()
+   * [AWS Redshift](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/AWS/Redshift.md)
 
