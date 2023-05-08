@@ -62,5 +62,5 @@
    * [AWS RDS vs DynamoDB](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/AWS/AWS%20RDS%20vs%20DynamoDB.md)
    * [Data Warehouse]()
    * [AWS Redshift](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/AWS/Redshift.md)
-   * [AWS Database Migration Service (DMS) (数据库迁移服务)]()
+   * [AWS Database Migration Service (DMS) (数据库迁移服务)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/AWS/DMS.md)
 
