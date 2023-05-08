@@ -59,8 +59,8 @@
    * [AWS Elastic File System (EFS) (弹性文件系统）](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/AWS/AWS%20Elastic%20File%20System.md)
 
 ### [AWS Database Service]()
-   * [AWS Relational Database Service (RDS) (关联型数据库服务)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/AWS/AWS%20RDS.md)
-   * [AWS DynamoDB (Non-Relational 非关联型, No-SQL database)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/AWS/DynamoDb.md)
+   * [AWS Relational Database Service (RDS) (关联数据库服务)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/AWS/AWS%20RDS.md)
+   * [AWS DynamoDB (Non-Relational 非关联的, No-SQL database)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/AWS/DynamoDb.md)
    * [AWS RDS vs DynamoDB](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/AWS/AWS%20RDS%20vs%20DynamoDB.md)
    * [AWS Aurora (Relational Database Engine)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/AWS/Aurora.md)
    * [Data Warehouse](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/AWS/data%20warehouse.md)
