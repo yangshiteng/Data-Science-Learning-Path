@@ -24,6 +24,6 @@
 
 ![image](https://github.com/yangshiteng/StatQuest-Study-Notes/assets/60442877/815712ba-e915-4c9e-abf2-f2201de4818f)
 
-# Multi-factor Authentication (MFA)
+# Multi-factor Authentication (MFA) (多重验证)
 
 ![image](https://github.com/yangshiteng/StatQuest-Study-Notes/assets/60442877/da467e03-8921-4f11-b649-efb642a892f7)
