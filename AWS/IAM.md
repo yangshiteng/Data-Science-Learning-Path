@@ -2,7 +2,7 @@
 
 ![image](https://github.com/yangshiteng/StatQuest-Study-Notes/assets/60442877/cadf0cc7-b225-4c48-ba9f-13bf272fd389)
 
-# Account Root User
+# Account Root User (根用户)
 
 ![image](https://github.com/yangshiteng/StatQuest-Study-Notes/assets/60442877/e1e6f832-f08f-4b6a-a336-fb44c7eb6021)
 
@@ -10,7 +10,7 @@
 
 ![image](https://github.com/yangshiteng/StatQuest-Study-Notes/assets/60442877/ec96dd66-4764-4bbe-aabd-d5efb947b700)
 
-# IAM Policies
+# IAM Policies (策略)
 
 ![image](https://github.com/yangshiteng/StatQuest-Study-Notes/assets/60442877/36447c15-f879-481b-bdeb-a2d7145c530a)
 
