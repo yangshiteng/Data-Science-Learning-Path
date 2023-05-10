@@ -1,5 +1,7 @@
 ![image](https://github.com/yangshiteng/StatQuest-Study-Notes/assets/60442877/1749b7eb-1ed0-4009-a705-0f368462bb69)
 
+![image](https://github.com/yangshiteng/StatQuest-Study-Notes/assets/60442877/cadf0cc7-b225-4c48-ba9f-13bf272fd389)
+
 # Account Root User
 
 ![image](https://github.com/yangshiteng/StatQuest-Study-Notes/assets/60442877/e1e6f832-f08f-4b6a-a336-fb44c7eb6021)
