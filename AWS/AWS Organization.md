@@ -15,3 +15,5 @@
 # Service Control Policy (SCP) (服务控制策略)
 
 ![image](https://github.com/yangshiteng/StatQuest-Study-Notes/assets/60442877/763c7087-d4bc-4bc6-99cb-63816f61fc52)
+
+![image](https://github.com/yangshiteng/StatQuest-Study-Notes/assets/60442877/06d2ab98-9c8e-4e70-871d-cc185a2c1fea)
