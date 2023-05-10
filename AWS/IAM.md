@@ -16,7 +16,7 @@
 
 ![image](https://github.com/yangshiteng/StatQuest-Study-Notes/assets/60442877/e5da5373-29a0-4d7b-acbc-aed9ed968f33)
 
-# IAM Groups
+# IAM Groups (群组)
 
 ![image](https://github.com/yangshiteng/StatQuest-Study-Notes/assets/60442877/604a446f-4d96-457e-b78b-05bb48ac8109)
 
