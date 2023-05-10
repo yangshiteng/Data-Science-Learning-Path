@@ -71,6 +71,7 @@
 
 ### [Cloud Security](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/AWS/AWS%20Cloud%20Security.md)
   * [AWS Shared Responsibility Model (责任分担模式)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/AWS/AWS%20Shared%20Responsibility%20Model.md)
+  * [AWS IAM (Identity and Access Management) (身份和访问管理)]()
 
 
 
