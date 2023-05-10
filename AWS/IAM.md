@@ -20,7 +20,7 @@
 
 ![image](https://github.com/yangshiteng/StatQuest-Study-Notes/assets/60442877/604a446f-4d96-457e-b78b-05bb48ac8109)
 
-# IAM Roles
+# IAM Roles (角色)
 
 ![image](https://github.com/yangshiteng/StatQuest-Study-Notes/assets/60442877/815712ba-e915-4c9e-abf2-f2201de4818f)
 
