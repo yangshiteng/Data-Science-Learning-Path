@@ -18,7 +18,7 @@
 
 * [Base Model](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/basemodel.md)
 
-* [Sparse Data]()
+* [Sparse Data](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Sparse%20Data.md)
 
 # 2. Machine Learning Models (Classification and Regression)
 
