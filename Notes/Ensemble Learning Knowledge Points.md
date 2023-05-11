@@ -37,7 +37,7 @@
   * [CatBoost - Parameters](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/CatBoost%20Parameters.md)
 
 ### LightGBM (Implementation of Gradient Boost)
-  * [LightGBM - Introduction]()
+  * [LightGBM - Introduction](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/LightGBM.md)
 
 
 ## 3. Ensemble Learning - Stacking
