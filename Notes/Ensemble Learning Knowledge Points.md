@@ -28,9 +28,9 @@
   * [Gradient Boost Implementation Summary](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Gradient%20Boost%20Summary.md)
 
 ### XGBoost (Implementation of Gradient Boost designed for computational speed)
-  * [XGBoost (Boosting Algorithm for Classification and Regression)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/XGBoost%20(Boosting%20Algorithm%20for%20Classification%20and%20Regression).md)
   * [XGBoost for Regression](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/XGBoost%20for%20Regression.pdf)
   * [XGBoost for Classification](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/XGBoost%20for%20Classification.pdf)
+  * [XGBoost Implementation Summary (Boosting Algorithm for Classification and Regression)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/XGBoost%20(Boosting%20Algorithm%20for%20Classification%20and%20Regression).md)
 
 ### CatBoost
   * [CatBoost - Introduction](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/catboost.md)
