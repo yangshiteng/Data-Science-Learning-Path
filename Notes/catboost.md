@@ -2,5 +2,3 @@
 
 ![image](https://user-images.githubusercontent.com/60442877/235383410-b2c9bb1b-ca4b-4e58-b481-82c4cdaa6276.png)
 
-
-https://catboost.ai/en/docs/
