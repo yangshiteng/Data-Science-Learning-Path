@@ -15,26 +15,30 @@
 
 ## 2. Ensemble Learning - Boosting
 
-### AdaBoost (Adaptive Boosting 自适应提升算法) (Weight-based boosting algorithm)
+### 2.1 - AdaBoost (Adaptive Boosting 自适应提升算法) (Weight-based boosting algorithm)
   * [AdaBoost - Introduction](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/AdaBoost%20Introduction.md)
   * [AdaBoost - How to build for Classification](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/AdaBoost.pdf)
   * [AdaBoost - How to build for Regression (AdaBoost R2)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Adaboost%20for%20Regression.md)
   * [AdaBoost Implementation Summary](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/AdaBoost%20Summary.md)
 
-### Gradient Boost (梯度提升算法) (Residual-based boosting algorithm) 
+### 2.2 - Gradient Boost (梯度提升算法) (Residual-based boosting algorithm) 
   * [Gradient Boost - Introduction](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/gradient%20boost%20introduction.md)
   * [Gradient Boost for Regression](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Gradient%20Boost%20for%20Regression.pdf)
   * [Gradient Boost for Classification](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Gradient%20Boost%20For%20Classification.pdf)
   * [Gradient Boost Implementation Summary](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Gradient%20Boost%20Summary.md)
 
-### XGBoost (Implementation of Gradient Boost designed for computational speed)
+
+#### 2.21 XGBoost (Implementation of Gradient Boost designed for computational speed)
   * [XGBoost for Regression](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/XGBoost%20for%20Regression.pdf)
   * [XGBoost for Classification](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/XGBoost%20for%20Classification.pdf)
   * [XGBoost Implementation Summary (Boosting Algorithm for Classification and Regression)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/XGBoost%20(Boosting%20Algorithm%20for%20Classification%20and%20Regression).md)
 
-### CatBoost
+#### 2.22 CatBoost
   * [CatBoost - Introduction](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/catboost.md)
   * [CatBoost - Parameters](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/CatBoost%20Parameters.md)
+
+#### 2.23 LightGBM
+
 
 
 ## 3. Ensemble Learning - Stacking
