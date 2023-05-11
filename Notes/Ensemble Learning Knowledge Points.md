@@ -28,16 +28,16 @@
   * [Gradient Boost Implementation Summary](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Gradient%20Boost%20Summary.md)
 
 
- #### 2.21 XGBoost (Implementation of Gradient Boost designed for computational speed)
-   * [XGBoost for Regression](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/XGBoost%20for%20Regression.pdf)
-   * [XGBoost for Classification](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/XGBoost%20for%20Classification.pdf)
-   * [XGBoost Implementation Summary (Boosting Algorithm for Classification and Regression)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/XGBoost%20(Boosting%20Algorithm%20for%20Classification%20and%20Regression).md)
+#### 2.21 XGBoost (Implementation of Gradient Boost designed for computational speed)
+  * [XGBoost for Regression](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/XGBoost%20for%20Regression.pdf)
+  * [XGBoost for Classification](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/XGBoost%20for%20Classification.pdf)
+  * [XGBoost Implementation Summary (Boosting Algorithm for Classification and Regression)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/XGBoost%20(Boosting%20Algorithm%20for%20Classification%20and%20Regression).md)
 
- #### 2.22 CatBoost
-   * [CatBoost - Introduction](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/catboost.md)
-   * [CatBoost - Parameters](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/CatBoost%20Parameters.md)
+#### 2.22 CatBoost
+  * [CatBoost - Introduction](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/catboost.md)
+  * [CatBoost - Parameters](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/CatBoost%20Parameters.md)
 
- #### 2.23 LightGBM
+#### 2.23 LightGBM
 
 
 
