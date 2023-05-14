@@ -18,6 +18,9 @@
 
 ![image](https://user-images.githubusercontent.com/60442877/232177787-5263e59d-9fb3-4b08-8df8-1ff5268139b7.png)
 
+![image](https://github.com/yangshiteng/StatQuest-Study-Notes/assets/60442877/1f1f385f-5ee8-4f34-a439-bd95b2774ba8)
+
+
 # applymap()
 
 ![image](https://user-images.githubusercontent.com/60442877/232178250-8d178222-5cfe-487d-9cff-d6fcbeeb6e77.png)
