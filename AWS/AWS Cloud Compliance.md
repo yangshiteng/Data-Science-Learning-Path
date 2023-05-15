@@ -12,4 +12,5 @@
 
 # AWS Artifact Report
 
+![image](https://github.com/yangshiteng/StatQuest-Study-Notes/assets/60442877/ad6ac852-32cb-47d4-a4aa-94c5b9744e40)
 
