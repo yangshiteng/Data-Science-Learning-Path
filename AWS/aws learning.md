@@ -75,7 +75,7 @@
   * [AWS Organization (组织)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/AWS/AWS%20Organization.md)
   * [AWS Cloud Compliance](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/AWS/AWS%20Cloud%20Compliance.md)
   * [AWS DDoS and Shield](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/AWS/AWS%20DDOS.md)
-  * [Other Security Service]()
+  * [Other Security Service](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/AWS/Other%20Security%20Service.md)
 
 
 
