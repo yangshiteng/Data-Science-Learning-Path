@@ -7,3 +7,4 @@
 
 ![image](https://github.com/yangshiteng/StatQuest-Study-Notes/assets/60442877/e33ac14e-3abf-4124-ba93-94fef92a8e57)
  
+![image](https://github.com/yangshiteng/StatQuest-Study-Notes/assets/60442877/b316dfa1-8310-4fc8-b5f7-96290fb37f63)
