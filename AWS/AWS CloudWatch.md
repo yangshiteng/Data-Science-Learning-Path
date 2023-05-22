@@ -1,5 +1,7 @@
 ![image](https://github.com/yangshiteng/StatQuest-Study-Notes/assets/60442877/dcba5adc-0b8e-4a82-89aa-d31a27be404f)
 
+![image](https://github.com/yangshiteng/StatQuest-Study-Notes/assets/60442877/8838cfaa-9187-4fb0-ad9d-dcd626107660)
+
 # CloudWatch Alarms (云监控警报)
 
 ![image](https://github.com/yangshiteng/StatQuest-Study-Notes/assets/60442877/8834bdd5-94ed-42b7-84e9-707065c89e7f)
