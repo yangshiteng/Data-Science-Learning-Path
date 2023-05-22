@@ -90,7 +90,7 @@
   * [Free Tier](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/AWS/AWS%20free%20tier.md)
   * [AWS Pricing Models and Pricing Calculator](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/AWS/AWS%20Pricing%20model.md)
   * [AWS Billing](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/AWS/AWS%20billing%20dashboard.md)
-  * [AWS Budget]()
+  * [AWS Budget](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/AWS/AWS%20Budget.md)
 
 
 
