@@ -87,7 +87,7 @@
 ## Seventh Section
 
 ### [AWS Pricing and Support](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/AWS/AWS%20pricing.md)
-  * [Free Tier]()
+  * [Free Tier](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/AWS/AWS%20free%20tier.md)
 
 
 
