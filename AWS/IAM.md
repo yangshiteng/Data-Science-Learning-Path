@@ -27,3 +27,7 @@
 # Multi-factor Authentication (MFA) (多重验证)
 
 ![image](https://github.com/yangshiteng/StatQuest-Study-Notes/assets/60442877/da467e03-8921-4f11-b649-efb642a892f7)
+
+# Identity Federation (身份联合)
+
+![image](https://github.com/yangshiteng/StatQuest-Study-Notes/assets/60442877/aff2ab18-720a-4826-8cd8-586d43218f15)
