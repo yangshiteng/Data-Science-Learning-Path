@@ -86,7 +86,7 @@
 
 ## Seventh Section
 
-### [AWS Pricing and Support]()
+### [AWS Pricing and Support](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/AWS/AWS%20pricing.md)
 
 
 
