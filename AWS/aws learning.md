@@ -84,7 +84,9 @@
   * [AWS CloudTrail](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/AWS/AWS%20CloudTrail.md)
   * [AWS TrustedAdvisor](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/AWS/AWS%20TrustedAdvisor.md)
 
+## Seventh Section
 
+### [AWS Pricing and Support]()
 
 
 
