@@ -80,6 +80,9 @@
 ## Sixth Section
 
 ### [AWS Monitoring and Analytics](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/AWS/AWS%20Monitoring.md)
+  * [AWS CloudWatch]()
+  * [AWS CloudTrail]()
+  * [AWS TrustedAdvisor]()
 
 
 
