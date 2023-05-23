@@ -97,9 +97,8 @@
 
 ## Eight Section
 
-### [AWS Migration and Innovation]()
-]
-
+### [AWS Migration and Innovation](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/AWS/AWS%20Migration%20and%20Innovation.md)
+  * [Cloud Adoption Framework]()
 
 
 
