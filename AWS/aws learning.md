@@ -105,7 +105,7 @@
 
 ## Ninth Section
 
-### [AWS Well-Architected Framework]()
+### [AWS Well-Architected Framework](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/AWS/Well-architected%20framework.md)
 
 
 
