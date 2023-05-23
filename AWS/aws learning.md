@@ -93,7 +93,7 @@
   * [AWS Budget](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/AWS/AWS%20Budget.md)
   * [AWS Cost Explorer](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/AWS/AWS%20cost%20explorer.md)
   * [Support Plans](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/AWS/Support%20Plans.md)
-  * [Marketplace]()
+  * [Marketplace](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/AWS/Marketplace.md)
 
 
 
