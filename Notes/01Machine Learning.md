@@ -68,8 +68,6 @@
 
 ### [Knowledge](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Ensemble%20Learning%20Knowledge%20Points.md)
 
-### [Summary]()
-
 ### [Q & A]()
 
 ### [Projects]()
