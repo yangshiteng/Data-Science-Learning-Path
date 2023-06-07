@@ -1,7 +1,7 @@
 
 ![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/ba8e4752-1055-4efe-b637-bec96d619be5)
 
-# Operational Excelence Pillar
+# Operational Excellence Pillar
 
 ![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/105744fd-f723-46ad-8263-4331e1251a40)
 
