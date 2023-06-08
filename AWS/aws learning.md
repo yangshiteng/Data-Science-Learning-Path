@@ -108,9 +108,7 @@
 ### [AWS Well-Architected Framework](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/AWS/Well-architected%20framework.md)
 ### [AWS 6 Benefits](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/AWS/AWS%206%20benefit.md)
 
-# Reference
 
-## [Concepts Summary](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/AWS/Reference.md)
 
 
 
