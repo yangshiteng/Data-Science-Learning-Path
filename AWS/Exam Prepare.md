@@ -21,3 +21,4 @@ https://www.examtopics.com/exams/amazon/aws-certified-cloud-practitioner/view/
 * AWS Snowmobile - data transfer service that is used to move extremely large amounts of data to AWS
 * AWS Local Zones - help you run latency-sensitive sections of applications local to end-users, providing them with a better experience
 * AWS outposts - extends AWS infrastructure, services, APIs, and tools to virtually any datacenter, co-location space, or on-premises facility for a truly consistent hybrid experience
+* AWS Fargate - serverless compute engine for containers, helps you focus on building applications, eliminates the need to manage the infrastructure
