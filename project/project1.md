@@ -24,3 +24,6 @@ import math
     
     print(f"End point: ({end_x}, {end_y})")
 
+
+    coordinate = [(0,0),(150, 38), (108, 223), (-47,184),(0,0)]
+
