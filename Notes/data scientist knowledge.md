@@ -6,6 +6,4 @@
 
 [Coding](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Coding.md)
 
-[Cloud]()
-
-[Big Data]()
+[Cloud](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/AWS/AWS.md)
