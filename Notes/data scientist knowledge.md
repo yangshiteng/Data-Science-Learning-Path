@@ -5,3 +5,7 @@
 [Deep learning](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Deep%20Learning.md)
 
 [Coding](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Coding.md)
+
+[Cloud]()
+
+[Big Data]()
