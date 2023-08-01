@@ -1,4 +1,4 @@
-[Data Scientist Knowledge]()
+[Data Scientist Knowledge](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Notes/data%20scientist%20knowledge.md)
 
 [Interview Q & A]()
 
@@ -6,13 +6,5 @@
 
 [Projects](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Projects.md)
 
-
-[Statistics](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Statistics%20Contents.md)
-
-[Machine Learning](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/01Machine%20Learning.md)
-
-[Deep learning](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Deep%20Learning.md)
-
-[Coding](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Coding.md)
 
 
