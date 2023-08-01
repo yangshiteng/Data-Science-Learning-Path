@@ -4,7 +4,6 @@
 
 [Deep learning](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Deep%20Learning.md)
 
-[Projects](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Projects.md)
-
 [Coding](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Coding.md)
 
+[Projects](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Projects.md)
