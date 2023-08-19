@@ -2,4 +2,4 @@
 
 * [SQL](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/SQL/SQL_content.md)
 
-* [Vistual Studio Code]()
+* [Vistual Studio Code](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/files/vscode/vscode.md)
