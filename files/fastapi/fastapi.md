@@ -4,8 +4,6 @@ https://fastapi.tiangolo.com/
 
 https://fastapi.tiangolo.com/tutorial/
 
-![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/a4c53be2-ec4e-437d-aeb7-1b31ee04f00d)
-
 # Commonly used Code
 
 ## 1. Install the fast api
