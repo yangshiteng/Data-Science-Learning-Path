@@ -4,4 +4,4 @@
 
 * [Vistual Studio Code](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/files/vscode/vscode.md)
 
-* [FastAPI]()
+* [FastAPI](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/files/fastapi/fastapi.md)
