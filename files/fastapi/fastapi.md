@@ -46,7 +46,7 @@ https://fastapi.tiangolo.com/
 
 ![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/4e877b90-37c0-4af4-b65d-c3699844c16f)
 
-
+## 5. path parameter
 
 
 
