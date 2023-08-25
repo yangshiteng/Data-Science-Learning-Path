@@ -26,7 +26,11 @@ https://fastapi.tiangolo.com/
     
     uvicorn main:app --reload
 
+## 3. Pydantic models
 
+![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/ec3d5321-4374-447f-9f4a-01d7ce991518)
+
+![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/5a07e9c4-57f0-4c8d-9b82-312acf4a0bf3)
 
 
 
