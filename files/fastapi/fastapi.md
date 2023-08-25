@@ -2,8 +2,6 @@
 
 https://fastapi.tiangolo.com/
 
-https://fastapi.tiangolo.com/tutorial/
-
 # Commonly used Code
 
 ## 1. Install the fast api
