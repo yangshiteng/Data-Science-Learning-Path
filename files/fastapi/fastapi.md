@@ -28,12 +28,11 @@ https://fastapi.tiangolo.com/
     def root():
         return {"message": "Hello World"}
 
-    # file name must be main.py
-    # also make sure you are in the same folder with your FastAPI app instance
-    # with reload, you don't need to restart the API if you made any change in your py file
     # run the following code in your terminal
     
     uvicorn main:app --reload
+
+![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/a96a60b5-bfa3-47d9-b853-5510c443fadc)
 
 ![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/0cbf93db-e582-4c83-aad6-2319ddcb3706)
 
