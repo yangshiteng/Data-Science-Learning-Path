@@ -46,7 +46,7 @@ https://fastapi.tiangolo.com/
 
 ![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/4e877b90-37c0-4af4-b65d-c3699844c16f)
 
-## 5. path parameter (parameter defined in @app.get("/items/{item_id}"))
+## 5. path parameter (defined in @app.get("/items/{item_id}"))
 
 ### 5.1 regular path parameter
 
@@ -58,7 +58,7 @@ https://fastapi.tiangolo.com/
     async def read_item(item_id: int):
         return {"item_id": item_id}
 
-![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/3eb028f6-555e-4f11-81d9-e8ae82c75d6f)
+![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/d1b219e7-b673-4a18-a7aa-5d91d097c43c)
 
 ### 5.2 path parameter with enumeration (pre-defined value in drop down style)
 
@@ -83,10 +83,22 @@ https://fastapi.tiangolo.com/
     
         return {"model_name": model_name, "message": "Have some residuals"}
 
-![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/679403d8-288b-4dac-96f5-c5267be97b88)
+![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/7d91bc98-36b3-47aa-acda-28fe4e1b1e24)
 
+## 6. query parameter (not defined in @app.get("/items/"))
 
+    from fastapi import FastAPI
+    
+    app = FastAPI()
+    
+    fake_items_db = [{"item_name": "Foo"}, {"item_name": "Bar"}, {"item_name": "Baz"}]
+    
+    
+    @app.get("/items/")
+    async def read_item(skip: int = 0, limit: int = 10):
+        return fake_items_db[skip : skip + limit]
 
+![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/85d2d54d-fa31-4fd9-b11a-67efc4e372be)
 
 
 
