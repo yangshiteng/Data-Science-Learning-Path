@@ -1,4 +1,4 @@
-# Tutorial
+# Tutorial (all code are under python 3.10)
 
 https://fastapi.tiangolo.com/
 
@@ -87,6 +87,8 @@ https://fastapi.tiangolo.com/
 
 ## 6. query parameter (not defined in @app.get("/items/")) (can be optional and can have default values)
 
+### 6.1 query parameter - default value
+
     from fastapi import FastAPI
     
     app = FastAPI()
@@ -100,7 +102,20 @@ https://fastapi.tiangolo.com/
 
 ![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/85d2d54d-fa31-4fd9-b11a-67efc4e372be)
 
+### 6.2 query parameter - optional value
 
+    from fastapi import FastAPI
+    
+    app = FastAPI()
+    
+    
+    @app.get("/items/{item_id}")
+    async def read_item(item_id: str, q: str | None = None):
+        if q:
+            return {"item_id": item_id, "q": q}
+        return {"item_id": item_id}
+    
+![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/f05d25b9-98b5-4522-8bec-976a6b60ea22)
 
 
 
