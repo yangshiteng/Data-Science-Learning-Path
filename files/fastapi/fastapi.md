@@ -117,6 +117,30 @@ https://fastapi.tiangolo.com/
     
 ![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/f05d25b9-98b5-4522-8bec-976a6b60ea22)
 
+### 6.3 path and query parameters together 
+
+    from fastapi import FastAPI
+    
+    app = FastAPI()
+    
+    
+    @app.get("/users/{user_id}/items/{item_id}")
+    async def read_user_item(
+        user_id: int, item_id: str, q: str | None = None, short: bool = False
+    ):
+        item = {"item_id": item_id, "owner_id": user_id}
+        if q:
+            item.update({"q": q})
+        if not short:
+            item.update(
+                {"description": "This is an amazing item that has a long description"}
+            )
+        return item
+
+![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/66daddc9-b3a2-4b35-abe2-320adc0f0753)
+
+
+
 
 
 
