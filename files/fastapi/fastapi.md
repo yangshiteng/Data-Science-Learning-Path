@@ -87,7 +87,22 @@ https://fastapi.tiangolo.com/
 
 ## 6. query parameter (not defined in @app.get("/items/")) (can be optional and can have default values)
 
-### 6.1 query parameter - default value
+### 6.1 query parameter - required value
+
+    from fastapi import FastAPI
+    
+    app = FastAPI()
+    
+    fake_items_db = [{"item_name": "Foo"}, {"item_name": "Bar"}, {"item_name": "Baz"}]
+    
+    @app.get("/items/")
+    def read_item(skip: int, limit: int):
+        return fake_items_db[skip : skip + limit]
+
+![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/414c4b2c-5408-4882-830d-fdb3ae99d40b)
+
+
+### 6.2 query parameter - default value
 
     from fastapi import FastAPI
     
@@ -102,7 +117,7 @@ https://fastapi.tiangolo.com/
 
 ![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/85d2d54d-fa31-4fd9-b11a-67efc4e372be)
 
-### 6.2 query parameter - optional value
+### 6.3 query parameter - optional value
 
     from fastapi import FastAPI
     
@@ -117,7 +132,7 @@ https://fastapi.tiangolo.com/
     
 ![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/f05d25b9-98b5-4522-8bec-976a6b60ea22)
 
-### 6.3 path and query parameters together 
+### 6.4 path and query parameters together 
 
     from fastapi import FastAPI
     
@@ -193,6 +208,84 @@ https://fastapi.tiangolo.com/
 ![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/11410241-b470-4094-bf9c-8a58b417f7f6)
 
 ## 8. Annotated
+
+### 8.1 Annotated - min_length and max_length
+
+    from typing import Annotated
+    
+    from fastapi import FastAPI, Query
+    
+    app = FastAPI()
+    
+    
+    @app.get("/items/")
+    def read_items(
+        q: Annotated[str | None, Query(min_length=3, max_length=50)] = None
+    ):
+        results = {"items": [{"item_id": "Foo"}, {"item_id": "Bar"}]}
+        if q:
+            results.update({"q": q})
+        return results
+
+### 8.2 Annotated - add regular expression
+
+    from typing import Annotated
+    
+    from fastapi import FastAPI, Query
+    
+    app = FastAPI()
+    
+    @app.get("/items/")
+    def read_items(
+        q: Annotated[
+            str | None, Query(pattern="^fixed.+")
+        ] = None
+    ):
+        results = {"items": [{"item_id": "Foo"}, {"item_id": "Bar"}]}
+        if q:
+            results.update({"q": q})
+        return results
+
+### 8.3 Annotated - query parameter - optional
+
+    # Annotated[...] should be used with at least two arguments (a type and an annotation)
+    
+    from typing import Annotated
+    
+    from fastapi import FastAPI, Query
+    
+    app = FastAPI()
+    
+    @app.get("/items/")
+    def read_items(q: Annotated[str | None, Query(max_length=50)] = None):
+        results = {"items": [{"item_id": "Foo"}, {"item_id": "Bar"}]}
+        if q:
+            results.update({"q": q})
+        return results
+
+        
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
