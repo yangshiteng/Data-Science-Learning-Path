@@ -85,7 +85,7 @@ https://fastapi.tiangolo.com/
 
 ![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/7d91bc98-36b3-47aa-acda-28fe4e1b1e24)
 
-## 6. query parameter (not defined in @app.get("/items/"))
+## 6. query parameter (not defined in @app.get("/items/")) (can be optional and can have default values)
 
     from fastapi import FastAPI
     
