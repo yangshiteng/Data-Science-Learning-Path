@@ -48,6 +48,18 @@ https://fastapi.tiangolo.com/
 
 ## 5. path parameter
 
+### regular path parameter
+
+    from fastapi import FastAPI
+    
+    app = FastAPI()
+    
+    
+    @app.get("/items/{item_id}")
+    async def read_item(item_id: int):
+        return {"item_id": item_id}
+
+![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/3eb028f6-555e-4f11-81d9-e8ae82c75d6f)
 
 
 
