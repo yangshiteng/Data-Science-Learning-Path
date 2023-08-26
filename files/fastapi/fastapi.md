@@ -139,11 +139,11 @@ https://fastapi.tiangolo.com/
 
 ![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/66daddc9-b3a2-4b35-abe2-320adc0f0753)
 
-# 7. Request Body and Response Body
+## 7. Request Body
 
 ![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/e0dade89-2207-4991-a387-1f8853531cb4)
 
-## 7.1 Request Body
+### 7.1 Request Body
 
     from fastapi import FastAPI
     from pydantic import BaseModel
@@ -170,7 +170,29 @@ https://fastapi.tiangolo.com/
 
 ![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/368b5e5c-7cab-43dc-b1bc-e9892c2259f9)
 
+### 7.2 Request Body + path parameter + query parameter
 
+    from fastapi import FastAPI
+    from pydantic import BaseModel
+    
+    class Item(BaseModel):
+        name: str
+        description: str | None = None
+        price: float
+        tax: float | None = None
+    
+    app = FastAPI()
+    
+    @app.put("/items/{item_id}")
+    def create_item(item_id: int, item: Item, q: str | None = None):
+        result = {"item_id": item_id, **item.dict()}
+        if q:
+            result.update({"q": q})
+        return result
+
+![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/11410241-b470-4094-bf9c-8a58b417f7f6)
+
+## 8. Annotated
 
 
 
