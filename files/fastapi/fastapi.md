@@ -46,7 +46,7 @@ https://fastapi.tiangolo.com/
 
 ![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/4e877b90-37c0-4af4-b65d-c3699844c16f)
 
-## 5. path parameter (defined in @app.get("/items/{item_id}"))
+## 5. path parameter (defined in @app.get("/items/{item_id}")) (can not be optional or have default value)
 
 ### 5.1 regular path parameter
 
@@ -55,7 +55,7 @@ https://fastapi.tiangolo.com/
     app = FastAPI()
     
     @app.get("/items/{item_id}")
-    async def read_item(item_id: int):
+    def read_item(item_id: int):
         return {"item_id": item_id}
 
 ![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/d1b219e7-b673-4a18-a7aa-5d91d097c43c)
@@ -74,7 +74,7 @@ https://fastapi.tiangolo.com/
     app = FastAPI()
     
     @app.get("/models/{model_name}")
-    async def get_model(model_name: ModelName):
+    def get_model(model_name: ModelName):
         if model_name is ModelName.alexnet:
             return {"model_name": model_name, "message": "Deep Learning FTW!"}
     
@@ -97,7 +97,7 @@ https://fastapi.tiangolo.com/
     
     
     @app.get("/items/")
-    async def read_item(skip: int = 0, limit: int = 10):
+    def read_item(skip: int = 0, limit: int = 10):
         return fake_items_db[skip : skip + limit]
 
 ![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/85d2d54d-fa31-4fd9-b11a-67efc4e372be)
@@ -110,7 +110,7 @@ https://fastapi.tiangolo.com/
     
     
     @app.get("/items/{item_id}")
-    async def read_item(item_id: str, q: str | None = None):
+    def read_item(item_id: str, q: str | None = None):
         if q:
             return {"item_id": item_id, "q": q}
         return {"item_id": item_id}
@@ -125,7 +125,7 @@ https://fastapi.tiangolo.com/
     
     
     @app.get("/users/{user_id}/items/{item_id}")
-    async def read_user_item(
+    def read_user_item(
         user_id: int, item_id: str, q: str | None = None, short: bool = False
     ):
         item = {"item_id": item_id, "owner_id": user_id}
@@ -139,7 +139,36 @@ https://fastapi.tiangolo.com/
 
 ![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/66daddc9-b3a2-4b35-abe2-320adc0f0753)
 
+# 7. Request Body and Response Body
 
+![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/e0dade89-2207-4991-a387-1f8853531cb4)
+
+## 7.1 Request Body
+
+    from fastapi import FastAPI
+    from pydantic import BaseModel
+    
+    
+    class Item(BaseModel):
+        name: str
+        description: str | None = None
+        price: float
+        tax: float | None = None
+    
+    
+    app = FastAPI()
+    
+    
+    @app.post("/items/")
+    def create_item(item: Item):
+        item_dict = item.dict()
+        if item.tax:
+            price_with_tax = item.price + item.tax
+            item_dict.update({"price_with_tax": price_with_tax})
+        return item_dict
+
+
+![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/368b5e5c-7cab-43dc-b1bc-e9892c2259f9)
 
 
 
