@@ -48,7 +48,7 @@ https://fastapi.tiangolo.com/
 
 ## 5. path parameter
 
-### regular path parameter
+### 5.1 regular path parameter
 
     from fastapi import FastAPI
     
@@ -61,9 +61,30 @@ https://fastapi.tiangolo.com/
 
 ![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/3eb028f6-555e-4f11-81d9-e8ae82c75d6f)
 
+### 5.2 path parameter with enumeration (pre-defined value in drop down style)
 
+    from enum import Enum
+    
+    from fastapi import FastAPI
+    
+    class ModelName(str, Enum):
+        alexnet = "alexnet"
+        resnet = "resnet"
+        lenet = "lenet"
+    
+    app = FastAPI()
+    
+    @app.get("/models/{model_name}")
+    async def get_model(model_name: ModelName):
+        if model_name is ModelName.alexnet:
+            return {"model_name": model_name, "message": "Deep Learning FTW!"}
+    
+        if model_name.value == "lenet":
+            return {"model_name": model_name, "message": "LeCNN all the images"}
+    
+        return {"model_name": model_name, "message": "Have some residuals"}
 
-
+![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/679403d8-288b-4dac-96f5-c5267be97b88)
 
 
 
