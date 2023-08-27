@@ -314,11 +314,62 @@ https://fastapi.tiangolo.com/
         return item
     
     @app.get("/items/")
-    async def read_items() -> list[Item]:
+    def read_items() -> list[Item]:
         return [
             Item(name="Portal Gun", price=42.0),
             Item(name="Plumbus", price=32.0),
         ]
+
+#### 7.2.2 response body - response_model parameter
+
+    from typing import Any
+    
+    from fastapi import FastAPI
+    from pydantic import BaseModel
+    
+    app = FastAPI()
+    
+    class Item(BaseModel):
+        name: str
+        description: str | None = None
+        price: float
+        tax: float | None = None
+        tags: list[str] = []
+    
+    @app.post("/items/", response_model=Item)
+    async def create_item(item: Item) -> Any:
+        return item
+    
+    @app.get("/items/", response_model=list[Item])
+    def read_items() -> Any:
+        return [
+            {"name": "Portal Gun", "price": 42.0},
+            {"name": "Plumbus", "price": 32.0},
+        ]
+
+#### 7.2.3 response body - exclude or include default values
+
+    from fastapi import FastAPI
+    from pydantic import BaseModel
+    
+    app = FastAPI()
+
+    class Item(BaseModel):
+        name: str
+        description: str | None = None
+        price: float
+        tax: float = 10.5
+        tags: list[str] = []
+    
+    items = {
+        "foo": {"name": "Foo", "price": 50.2},
+        "bar": {"name": "Bar", "description": "The bartenders", "price": 62, "tax": 20.2},
+        "baz": {"name": "Baz", "description": None, "price": 50.2, "tax": 10.5, "tags": []},
+    }
+    
+    @app.get("/items/{item_id}", response_model=Item, response_model_exclude_unset=True) # True if you want to exclude default value, False if you want to keep default value
+    async def read_item(item_id: str):
+        return items[item_id]
 
 
 
