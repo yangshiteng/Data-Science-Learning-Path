@@ -291,12 +291,31 @@ https://fastapi.tiangolo.com/
             results.update({"q": q})
         return results
 
-# Data Type
+### 8.6  Annotated - query parameter - list style
+    
+    from typing import Annotated
+    from fastapi import FastAPI, Query
+    
+    app = FastAPI()
+    
+    @app.get("/items/")
+    def read_items(q: Annotated[list, Query()] = []):
+        query_items = {"q": q}
+        return query_items
 
-* list[str]
+![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/292e0ca5-321b-440f-aaf8-22c655cf8349)
 
-
-
+    from typing import Annotated
+    from fastapi import FastAPI, Query
+    
+    app = FastAPI()
+    
+    @app.get("/items/")
+    def read_items(q: Annotated[list[str], Query()] = ["foo", "bar"]):
+        query_items = {"q": q}
+        return query_items
+    
+![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/267e8536-46c3-48ba-9683-313ca91f5ce4)
 
 
 
