@@ -341,8 +341,60 @@ https://fastapi.tiangolo.com/
     
 ![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/4497ad96-3a9d-412d-b618-52e49ad89259)
 
+### 8.9 Annotated - request body
+
+    from typing import Annotated
+    from fastapi import Body, FastAPI
+    from pydantic import BaseModel
+    
+    app = FastAPI()
+    
+    class Item(BaseModel):
+        name: str
+        description: str | None = None
+        price: float
+        tax: float | None = None
+    
+    class User(BaseModel):
+        username: str
+        full_name: str | None = None
+    
+    @app.put("/items/{item_id}")
+    def update_item(
+        item_id: int,
+        item: Item,
+        user: User,
+        importance: Annotated[int, Body(gt=0)],
+        q: str | None = None
+    ):
+        results = {"item_id": item_id, "item": item, "user": user, "importance": importance}
+        if q:
+            results.update({"q": q})
+        return results
+
+![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/71e4c10b-b43a-464f-a6f8-88e7d5c4e886)
 
 
+### 8.10 Annotated - request body - Embed style
+
+    from typing import Annotated
+    from fastapi import Body, FastAPI
+    from pydantic import BaseModel
+    
+    app = FastAPI()
+    
+    class Item(BaseModel):
+        name: str
+        description: str | None = None
+        price: float
+        tax: float | None = None
+    
+    @app.put("/items/{item_id}")
+    def update_item(item_id: int, item: Annotated[Item, Body(embed=True)]):
+        results = {"item_id": item_id, "item": item}
+        return results
+
+![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/7a6e25a1-6dbb-4955-a74e-22129a5b510a)
 
 
 
