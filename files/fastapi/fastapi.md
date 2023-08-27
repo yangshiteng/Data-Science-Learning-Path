@@ -154,11 +154,11 @@ https://fastapi.tiangolo.com/
 
 ![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/66daddc9-b3a2-4b35-abe2-320adc0f0753)
 
-## 7. request body and response body
+## 7. Body Parameter
 
 ![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/e0dade89-2207-4991-a387-1f8853531cb4)
 
-### 7.1 Requst Body
+### 7.1 Body Parameter - Requst Body
 
 #### 7.1.1 request body
 
@@ -293,7 +293,7 @@ https://fastapi.tiangolo.com/
 
 ![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/ef813cbe-8c62-404e-8eec-e16485822b6d)
 
-### 7.2 Response Body
+### 7.2 Body Parameter - Response Body
 
 #### 7.2.1 response body - Return Type
 
@@ -310,7 +310,7 @@ https://fastapi.tiangolo.com/
         tags: list[str] = []
     
     @app.post("/items/")
-    async def create_item(item: Item) -> Item:
+    def create_item(item: Item) -> Item:
         return item
     
     @app.get("/items/")
@@ -320,7 +320,7 @@ https://fastapi.tiangolo.com/
             Item(name="Plumbus", price=32.0),
         ]
 
-#### 7.2.2 response body - response_model parameter
+#### 7.2.2 response body - set up with response_model 
 
     from typing import Any
     
@@ -544,7 +544,7 @@ https://fastapi.tiangolo.com/
     
 ![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/4497ad96-3a9d-412d-b618-52e49ad89259)
 
-### 8.9 Annotated - request body
+### 8.9 Annotated - body parameter - request body
 
     from typing import Annotated
     from fastapi import Body, FastAPI
@@ -578,7 +578,7 @@ https://fastapi.tiangolo.com/
 ![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/71e4c10b-b43a-464f-a6f8-88e7d5c4e886)
 
 
-### 8.10 Annotated - request body - Embed style
+### 8.10 Annotated - body parameter - request body - Embed style
 
     from typing import Annotated
     from fastapi import Body, FastAPI
@@ -600,7 +600,7 @@ https://fastapi.tiangolo.com/
 ![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/7a6e25a1-6dbb-4955-a74e-22129a5b510a)
 
 
-## 9. Request Files
+## 9. Request Files - File Parameter
 
 ![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/000e8397-6481-492b-bd1a-d6e4efcd10d1)
 
