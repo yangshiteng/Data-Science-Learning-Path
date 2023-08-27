@@ -212,11 +212,9 @@ https://fastapi.tiangolo.com/
 ### 8.1 Annotated - min_length and max_length
 
     from typing import Annotated
-    
     from fastapi import FastAPI, Query
     
     app = FastAPI()
-    
     
     @app.get("/items/")
     def read_items(
@@ -230,7 +228,6 @@ https://fastapi.tiangolo.com/
 ### 8.2 Annotated - add regular expression
 
     from typing import Annotated
-    
     from fastapi import FastAPI, Query
     
     app = FastAPI()
@@ -249,7 +246,6 @@ https://fastapi.tiangolo.com/
 ### 8.3 Annotated - query parameter - optional
 
     from typing import Annotated
-    
     from fastapi import FastAPI, Query
     
     app = FastAPI()
@@ -265,7 +261,6 @@ https://fastapi.tiangolo.com/
 ### 8.4 Annotated - query parameter - default value
 
     from typing import Annotated
-    
     from fastapi import FastAPI, Query
     
     app = FastAPI()
@@ -317,8 +312,34 @@ https://fastapi.tiangolo.com/
     
 ![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/267e8536-46c3-48ba-9683-313ca91f5ce4)
 
-### 8.7 Annotated - ge, gt, le, lt
+### 8.7 Annotated - path parameter
 
+    from typing import Annotated
+    from fastapi import FastAPI, Path
+    
+    app = FastAPI()
+    
+    @app.get("/items/{item_id}")
+    def read_items(item_id: Annotated[int, Path()]):
+        results = {"item_id": item_id}
+        return results
+
+### 8.8 Annotated - ge, gt, le, lt
+
+    from fastapi import FastAPI, Path, Query
+    app = FastAPI()
+    
+    @app.get("/items/{item_id}")
+    def read_items(
+        item_id: Annotated[int, Path(ge=0, le=1000)],
+        q: Annotated[float, Query(gt=0, lt=10.5)]
+    ):
+        results = {"item_id": item_id}
+        if q:
+            results.update({"q": q})
+        return results
+    
+![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/4497ad96-3a9d-412d-b618-52e49ad89259)
 
 
 
