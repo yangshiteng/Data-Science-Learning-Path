@@ -207,7 +207,7 @@ https://fastapi.tiangolo.com/
 
 ![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/11410241-b470-4094-bf9c-8a58b417f7f6)
 
-## 8. Annotated
+## 8. Annotated (should be used with at least two arguments (a type and an annotation))
 
 ### 8.1 Annotated - min_length and max_length
 
