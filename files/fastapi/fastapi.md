@@ -154,11 +154,13 @@ https://fastapi.tiangolo.com/
 
 ![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/66daddc9-b3a2-4b35-abe2-320adc0f0753)
 
-## 7. request body
+## 7. request body and response body
 
 ![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/e0dade89-2207-4991-a387-1f8853531cb4)
 
-### 7.1 request body
+### 7.1 Requst Body
+
+#### 7.1.1 request body
 
     from fastapi import FastAPI
     from pydantic import BaseModel
@@ -181,7 +183,7 @@ https://fastapi.tiangolo.com/
 
 ![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/368b5e5c-7cab-43dc-b1bc-e9892c2259f9)
 
-### 7.2 request body + path parameter + query parameter
+#### 7.1.2 request body + path parameter + query parameter
 
     from fastapi import FastAPI
     from pydantic import BaseModel
@@ -203,7 +205,7 @@ https://fastapi.tiangolo.com/
 
 ![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/11410241-b470-4094-bf9c-8a58b417f7f6)
 
-### 7.3 request body - Field (set up parameter within request body)
+#### 7.1.3 request body - Field (set up parameter within request body)
 
     from typing import Annotated
     from fastapi import Body, FastAPI
@@ -224,7 +226,7 @@ https://fastapi.tiangolo.com/
 
 ![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/cb59b685-c143-4852-88cd-6a6f4e78b485)
 
-### 7.4 request body - list
+#### 7.1.4 request body - list
 
     from fastapi import FastAPI
     from pydantic import BaseModel
@@ -245,7 +247,7 @@ https://fastapi.tiangolo.com/
     
 ![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/4559c566-9cdb-42f6-bfa5-4297ba3a61f2)
 
-### 7.5 request body - nested
+#### 7.1.5 request body - nested
 
     from fastapi import FastAPI
     from pydantic import BaseModel, HttpUrl
@@ -271,7 +273,7 @@ https://fastapi.tiangolo.com/
 
 ![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/0804e5c8-77f4-468a-a6d0-a2aad669acb6)
 
-### 7.6 request body - example data
+#### 7.1.6 request body - example data
 
     from fastapi import FastAPI
     from pydantic import BaseModel, Field
@@ -290,6 +292,36 @@ https://fastapi.tiangolo.com/
         return results
 
 ![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/ef813cbe-8c62-404e-8eec-e16485822b6d)
+
+### 7.2 Response Body
+
+#### 7.2.1 response body - Return Type
+
+    from fastapi import FastAPI
+    from pydantic import BaseModel
+    
+    app = FastAPI()
+    
+    class Item(BaseModel):
+        name: str
+        description: str | None = None
+        price: float
+        tax: float | None = None
+        tags: list[str] = []
+    
+    @app.post("/items/")
+    async def create_item(item: Item) -> Item:
+        return item
+    
+    @app.get("/items/")
+    async def read_items() -> list[Item]:
+        return [
+            Item(name="Portal Gun", price=42.0),
+            Item(name="Plumbus", price=32.0),
+        ]
+
+
+
 
 
 ## 8. Annotated (should be used with at least two arguments (a type and an annotation))
