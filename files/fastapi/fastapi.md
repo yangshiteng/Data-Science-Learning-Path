@@ -293,7 +293,7 @@ https://fastapi.tiangolo.com/
 
 # Data Type
 
-
+* list[str]
 
 
 
