@@ -248,8 +248,6 @@ https://fastapi.tiangolo.com/
 
 ### 8.3 Annotated - query parameter - optional
 
-    # Annotated[...] should be used with at least two arguments (a type and an annotation)
-    
     from typing import Annotated
     
     from fastapi import FastAPI, Query
@@ -257,17 +255,43 @@ https://fastapi.tiangolo.com/
     app = FastAPI()
     
     @app.get("/items/")
-    def read_items(q: Annotated[str | None, Query(max_length=50)] = None):
+    def read_items(q: Annotated[str | None, Query()] = None):
         results = {"items": [{"item_id": "Foo"}, {"item_id": "Bar"}]}
         if q:
             results.update({"q": q})
         return results
 
-        
+
+### 8.4 Annotated - query parameter - default value
+
+    from typing import Annotated
     
+    from fastapi import FastAPI, Query
+    
+    app = FastAPI()
+    
+    @app.get("/items/")
+    def read_items(q: Annotated[str, Query()] = "rick"):
+        results = {"items": [{"item_id": "Foo"}, {"item_id": "Bar"}]}
+        if q:
+            results.update({"q": q})
+        return results
 
+### 8.5 Annotated - query parameter - required
+    
+    from typing import Annotated
+    from fastapi import FastAPI, Query
+    
+    app = FastAPI()
+    
+    @app.get("/items/")
+    def read_items(q: Annotated[str, Query()]):
+        results = {"items": [{"item_id": "Foo"}, {"item_id": "Bar"}]}
+        if q:
+            results.update({"q": q})
+        return results
 
-
+## Data Type
 
 
 
