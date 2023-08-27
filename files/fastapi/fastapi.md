@@ -317,6 +317,8 @@ https://fastapi.tiangolo.com/
     
 ![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/267e8536-46c3-48ba-9683-313ca91f5ce4)
 
+### 8.7 Annotated - ge, gt, le, lt
+
 
 
 
