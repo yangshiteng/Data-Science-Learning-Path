@@ -417,8 +417,52 @@ https://fastapi.tiangolo.com/
 
 ![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/cb59b685-c143-4852-88cd-6a6f4e78b485)
 
+## 10. request body - list
 
+    from fastapi import FastAPI
+    from pydantic import BaseModel
+    
+    app = FastAPI()
+    
+    class Item(BaseModel):
+        name: str
+        description: str | None = None
+        price: float
+        tax: float | None = None
+        tags: list[str] = []
+    
+    @app.put("/items/{item_id}")
+    def update_item(item_id: int, item: Item):
+        results = {"item_id": item_id, "item": item}
+        return results
+    
+![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/4559c566-9cdb-42f6-bfa5-4297ba3a61f2)
 
+## 11. request body - nested
+
+    from fastapi import FastAPI
+    from pydantic import BaseModel, HttpUrl
+    
+    app = FastAPI()
+    
+    class Image(BaseModel):
+        url: HttpUrl
+        name: str
+    
+    class Item(BaseModel):
+        name: str
+        description: str | None = None
+        price: float
+        tax: float | None = None
+        tags: set[str] = set()
+        images: list[Image] | None = None
+    
+    @app.put("/items/{item_id}")
+    def update_item(item_id: int, item: Item):
+        results = {"item_id": item_id, "item": item}
+        return results
+
+![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/0804e5c8-77f4-468a-a6d0-a2aad669acb6)
 
 
 
