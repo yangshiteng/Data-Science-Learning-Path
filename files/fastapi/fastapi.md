@@ -299,7 +299,7 @@ https://fastapi.tiangolo.com/
     app = FastAPI()
     
     @app.get("/items/")
-    def read_items(q: Annotated[list, Query()] = []):
+    def read_items(q: Annotated[list(str), Query()] = []):
         query_items = {"q": q}
         return query_items
 
