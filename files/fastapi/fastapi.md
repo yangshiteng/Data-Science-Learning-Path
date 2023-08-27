@@ -203,7 +203,7 @@ https://fastapi.tiangolo.com/
 
 ![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/11410241-b470-4094-bf9c-8a58b417f7f6)
 
-### 7.3 request body - Field 
+### 7.3 request body - Field (set up parameter within request body)
 
     from typing import Annotated
     from fastapi import Body, FastAPI
