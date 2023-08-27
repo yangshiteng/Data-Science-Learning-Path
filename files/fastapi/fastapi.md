@@ -271,6 +271,27 @@ https://fastapi.tiangolo.com/
 
 ![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/0804e5c8-77f4-468a-a6d0-a2aad669acb6)
 
+### 7.6 request body - example data
+
+    from fastapi import FastAPI
+    from pydantic import BaseModel, Field
+    
+    app = FastAPI()
+    
+    class Item(BaseModel):
+        name: str = Field(examples=["Foo"])
+        description: str | None = Field(default=None, examples=["A very nice Item"])
+        price: float = Field(examples=[35.4])
+        tax: float | None = Field(default=None, examples=[3.2])
+    
+    @app.put("/items/{item_id}")
+    async def update_item(item_id: int, item: Item):
+        results = {"item_id": item_id, "item": item}
+        return results
+
+![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/ef813cbe-8c62-404e-8eec-e16485822b6d)
+
+
 ## 8. Annotated (should be used with at least two arguments (a type and an annotation))
 
 ### 8.1 Annotated - min_length and max_length
