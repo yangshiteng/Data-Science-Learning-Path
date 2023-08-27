@@ -600,6 +600,9 @@ https://fastapi.tiangolo.com/
 ![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/7a6e25a1-6dbb-4955-a74e-22129a5b510a)
 
 
+## 9. Request Files
+
+![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/000e8397-6481-492b-bd1a-d6e4efcd10d1)
 
 
 
