@@ -396,6 +396,27 @@ https://fastapi.tiangolo.com/
 
 ![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/7a6e25a1-6dbb-4955-a74e-22129a5b510a)
 
+## 9. request body - Field 
+
+    from typing import Annotated
+    from fastapi import Body, FastAPI
+    from pydantic import BaseModel, Field
+    
+    app = FastAPI()
+    
+    class Item(BaseModel):
+        name: str | None = None
+        description: str | None = Field(default=None, max_length=300)
+        price: float = Field(gt=0)
+        tax: float = Field(default=50, max_length=300)
+    
+    @app.put("/items/{item_id}")
+    async def update_item(item_id: int, item: Annotated[Item, Body(embed=True)]):
+        results = {"item_id": item_id, "item": item}
+        return results
+
+![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/cb59b685-c143-4852-88cd-6a6f4e78b485)
+
 
 
 
