@@ -612,7 +612,7 @@ https://fastapi.tiangolo.com/
     app = FastAPI()
     
     @app.post("/files/")
-    def create_file(file: Annotated[bytes | None, File(description="A file read as UploadFile")] = None):
+    def create_file(file: Annotated[bytes, File(description="A file read as bytes")]):
         return {"file_size": len(file)}
     
 ![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/569b6263-1884-48ab-9e5d-073d04e3483a)
@@ -626,7 +626,7 @@ https://fastapi.tiangolo.com/
     app = FastAPI()
     
     @app.post("/uploadfile/")
-    def create_upload_file(file: UploadFile | None = None):
+    def create_upload_file(file: UploadFile):
         return {"filename": file.filename}
 
     ########################################################
@@ -637,15 +637,37 @@ https://fastapi.tiangolo.com/
     app = FastAPI()
     
     @app.post("/uploadfile/")
-    def create_upload_file(file: Annotated[UploadFile | None, File(description="A file read as UploadFile")] = None):
+    def create_upload_file(file: Annotated[UploadFile, File(description="A file read as UploadFile")]):
         return {"filename": file.filename}
 
 ![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/157728d6-194c-4df7-b5ee-9a7727a5f91e)
 
 ![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/fda018a1-4168-4371-94a7-4ca11b0fc39b)
 
+### 9.3 Multiple File Uploads
+
+    from typing import Annotated
+    from fastapi import FastAPI, File
+    
+    app = FastAPI()
+    
+    @app.post("/files/")
+    async def create_files(files: Annotated[list[bytes], File(description="Multiple files as bytes")]):
+        return {"file_sizes": [len(file) for file in files]}
+
+    #######################################################################################################
+
+    from typing import Annotated
+    from fastapi import FastAPI, File, UploadFile
+    
+    app = FastAPI()
+    
+    @app.post("/uploadfiles/")
+    async def create_upload_files(files: Annotated[list[UploadFile], File(description="Multiple files as UploadFile")]):
+        return {"filenames": [file.filename for file in files]}
 
 
+![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/8e1c8996-4b0b-4970-a617-6d00501e81bf)
 
 
 
