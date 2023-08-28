@@ -56,8 +56,6 @@ https://fastapi.tiangolo.com/
     def read_item(item_id: int):
         return {"item_id": item_id}
 
-![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/d1b219e7-b673-4a18-a7aa-5d91d097c43c)
-
 
 ![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/7d91bc98-36b3-47aa-acda-28fe4e1b1e24)
 
@@ -667,6 +665,5 @@ https://fastapi.tiangolo.com/
     
         return {"model_name": model_name, "message": "Have some residuals"}
 
-
-
+![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/d1b219e7-b673-4a18-a7aa-5d91d097c43c)
     
