@@ -460,7 +460,7 @@ https://fastapi.tiangolo.com/
             results.update({"q": q})
         return results
 
-### 8.6  Annotated - query parameter - list style
+### 8.6  Annotated - query parameter - list style (add item)
     
     from typing import Annotated
     from fastapi import FastAPI, Query
