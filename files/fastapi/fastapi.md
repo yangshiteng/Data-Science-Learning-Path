@@ -462,13 +462,13 @@ https://fastapi.tiangolo.com/
 
 ### 8.6  Annotated - query parameter - list style
     
+    from typing import Annotated
     from fastapi import FastAPI, Query
-    from typing import List
     
     app = FastAPI()
     
     @app.get("/items/")
-    def read_items(q: List[str] = Query([])):
+    def read_items(q: Annotated[list[str], Query()]):
         query_items = {"q": q}
         return query_items
 
