@@ -604,6 +604,33 @@ https://fastapi.tiangolo.com/
 
 ![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/000e8397-6481-492b-bd1a-d6e4efcd10d1)
 
+### 9.1 File Parameter with Annotated
+
+    from typing import Annotated
+    from fastapi import FastAPI, File, UploadFile
+    
+    app = FastAPI()
+    
+    @app.post("/files/")
+    def create_file(file: Annotated[bytes, File()]):
+        return {"file_size": len(file)}
+    
+![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/569b6263-1884-48ab-9e5d-073d04e3483a)
+
+![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/b6ec759d-49a3-47a3-9e08-3db3dc47ef5c)
+
+### 9.2 File Parameter with UploadFile
+
+    from typing import Annotated
+    from fastapi import FastAPI, File, UploadFile
+    
+    app = FastAPI()
+    
+    @app.post("/uploadfile/")
+    def create_upload_file(file: UploadFile):
+        return {"filename": file.filename}
+
+![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/157728d6-194c-4df7-b5ee-9a7727a5f91e)
 
 
 
