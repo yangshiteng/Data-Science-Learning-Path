@@ -56,9 +56,6 @@ https://fastapi.tiangolo.com/
     def read_item(item_id: int):
         return {"item_id": item_id}
 
-
-![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/7d91bc98-36b3-47aa-acda-28fe4e1b1e24)
-
 ## 6. query parameter (not defined in @app.get("/items/")) (can be optional and can have default values)
 
 ### 6.1 query parameter - required value
@@ -643,7 +640,7 @@ https://fastapi.tiangolo.com/
 
 ![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/8e1c8996-4b0b-4970-a617-6d00501e81bf)
 
-## Enumeration (pre-defined value in drop down style)
+## 10. Enumeration (pre-defined value in drop down style)
 
     from enum import Enum
     from fastapi import FastAPI
@@ -665,5 +662,5 @@ https://fastapi.tiangolo.com/
     
         return {"model_name": model_name, "message": "Have some residuals"}
 
-![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/d1b219e7-b673-4a18-a7aa-5d91d097c43c)
+![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/7d91bc98-36b3-47aa-acda-28fe4e1b1e24)
     
