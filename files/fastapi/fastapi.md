@@ -664,3 +664,10 @@ https://fastapi.tiangolo.com/
 
 ![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/7d91bc98-36b3-47aa-acda-28fe4e1b1e24)
     
+# Backend vs Frontend
+
+![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/371e92d1-d225-48cf-8e5f-40a758de8a4e)
+
+![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/403d6776-cb62-4813-aa10-943d0c49e8fa)
+
+
