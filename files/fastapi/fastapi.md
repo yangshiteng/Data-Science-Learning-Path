@@ -48,8 +48,6 @@ https://fastapi.tiangolo.com/
 
 ## 5. path parameter (defined in @app.get("/items/{item_id}")) (can not be optional or have default value)
 
-### 5.1 regular path parameter
-
     from fastapi import FastAPI
     
     app = FastAPI()
@@ -60,28 +58,6 @@ https://fastapi.tiangolo.com/
 
 ![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/d1b219e7-b673-4a18-a7aa-5d91d097c43c)
 
-### 5.2 path parameter with enumeration (pre-defined value in drop down style)
-
-    from enum import Enum
-    
-    from fastapi import FastAPI
-    
-    class ModelName(str, Enum):
-        alexnet = "alexnet"
-        resnet = "resnet"
-        lenet = "lenet"
-    
-    app = FastAPI()
-    
-    @app.get("/models/{model_name}")
-    def get_model(model_name: ModelName):
-        if model_name is ModelName.alexnet:
-            return {"model_name": model_name, "message": "Deep Learning FTW!"}
-    
-        if model_name.value == "lenet":
-            return {"model_name": model_name, "message": "LeCNN all the images"}
-    
-        return {"model_name": model_name, "message": "Have some residuals"}
 
 ![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/7d91bc98-36b3-47aa-acda-28fe4e1b1e24)
 
@@ -669,7 +645,27 @@ https://fastapi.tiangolo.com/
 
 ![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/8e1c8996-4b0b-4970-a617-6d00501e81bf)
 
+## Enumeration (pre-defined value in drop down style)
 
+    from enum import Enum
+    from fastapi import FastAPI
+    
+    class ModelName(str, Enum):
+        alexnet = "alexnet"
+        resnet = "resnet"
+        lenet = "lenet"
+    
+    app = FastAPI()
+    
+    @app.get("/models/{model_name}")
+    def get_model(model_name: ModelName):
+        if model_name is ModelName.alexnet:
+            return {"model_name": model_name, "message": "Deep Learning FTW!"}
+    
+        if model_name.value == "lenet":
+            return {"model_name": model_name, "message": "LeCNN all the images"}
+    
+        return {"model_name": model_name, "message": "Have some residuals"}
 
 
 
