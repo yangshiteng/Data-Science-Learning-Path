@@ -571,11 +571,13 @@ https://fastapi.tiangolo.com/
 ![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/7a6e25a1-6dbb-4955-a74e-22129a5b510a)
 
 
-## 9. Request Files - File Parameter
+## 9. File Parameter
 
 ![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/000e8397-6481-492b-bd1a-d6e4efcd10d1)
 
-### 9.1 File Parameter with Annotated
+### 9.1 Request Files - File Parameter
+
+#### 9.1.1 File Parameter with Annotated
 
     from typing import Annotated
     from fastapi import FastAPI, File
@@ -590,7 +592,7 @@ https://fastapi.tiangolo.com/
 
 ![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/b6ec759d-49a3-47a3-9e08-3db3dc47ef5c)
 
-### 9.2 File Parameter with UploadFile
+#### 9.1.2 File Parameter with UploadFile
 
     from fastapi import FastAPI, UploadFile
     
@@ -615,7 +617,7 @@ https://fastapi.tiangolo.com/
 
 ![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/fda018a1-4168-4371-94a7-4ca11b0fc39b)
 
-### 9.3 Multiple File Uploads
+#### 9.1.3 Multiple File Uploads
 
     from typing import Annotated
     from fastapi import FastAPI, File
@@ -637,8 +639,47 @@ https://fastapi.tiangolo.com/
     async def create_upload_files(files: Annotated[list[UploadFile], File(description="Multiple files as UploadFile")]):
         return {"filenames": [file.filename for file in files]}
 
-
 ![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/8e1c8996-4b0b-4970-a617-6d00501e81bf)
+
+### 9.2 Response Files - File Parameter
+
+#### 9.2.1 Return image file
+
+    from fastapi import FastAPI
+    from fastapi.responses import FileResponse
+    import matplotlib.pyplot as plt
+    import io
+    
+    app = FastAPI()
+    
+    def generate_matplotlib_image():
+       plt.figure(figsize=(5, 5))
+       plt.plot([1, 2, 3, 4], [1, 4, 9, 16])
+       plt.title("Sample Plot")
+       plt.xlabel("x")
+       plt.ylabel("y")
+    
+       buffer = io.BytesIO()
+       plt.savefig(buffer, format="png")
+       buffer.seek(0)
+       return buffer
+    
+    @app.get("/generate-image/")
+    async def generate_image():
+       buffer = generate_matplotlib_image()
+    
+       # Create a temporary file to hold the image
+       # the image is saved in the same directory where your FastAPI application is running
+       
+       temp_file = "generated_image.png"
+       with open(temp_file, "wb") as f:
+           f.write(buffer.read())
+    
+       # Serve the file over FastAPI
+       return FileResponse(temp_file, headers={"Content-Disposition": "attachment; filename=generated_image.png"})
+
+![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/254094fa-928b-4500-9c86-fa09c2c4cfe2)
+
 
 ## 10. Enumeration (pre-defined value in drop down style)
 
@@ -663,6 +704,38 @@ https://fastapi.tiangolo.com/
         return {"model_name": model_name, "message": "Have some residuals"}
 
 ![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/7d91bc98-36b3-47aa-acda-28fe4e1b1e24)
+
+## 11. Title, Version, Description, Tags
+
+    from fastapi import FastAPI
+    from fastapi.responses import FileResponse
+    from legal_metes_and_bound.script.metesandbound_verification import verify_metesandbound
+    
+    app = FastAPI(title = "MetesandBound Legal Boundary Verification Service", version="1.0", description="This is a service used to verify if the boundary of a metesandbounds legal is enclosed or not")
+    
+    @app.post("/verify-metesandbound-enclose/",tags = ['Is Enclose'])
+    async def metesandbound_enclose_verify(legal_str: str):
+       
+        inst_model = verify_metesandbound()
+    
+        is_enclose = inst_model.is_enclose(legal_str)
+    
+        if is_enclose == 'Enclosed':
+            buffer = inst_model.buffer_return(legal_str)
+    
+            # Create a temporary file to hold the image
+            temp_file = "generated_image.png"
+            with open(temp_file, "wb") as f:
+                f.write(buffer.read())
+    
+            # Serve the file over FastAPI
+            return FileResponse(temp_file, headers={"Content-Disposition": "attachment; filename=generated_image.png"})
+    
+        else:
+            return is_enclose
+
+![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/6f08261d-f5e5-4f0f-9a36-657469a743dd)
+
     
 # Backend vs Frontend
 
