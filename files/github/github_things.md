@@ -1,6 +1,10 @@
 
-# Github Pages
+# 1. Github Pages Tutorial
 
 https://pages.github.com/
 
-https://docs.github.com/en/pages/quickstart
+# 2. A Simple Example
+
+## Directory Structure
+
+Your GitHub repository might look something like this:
