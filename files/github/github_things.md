@@ -8,3 +8,8 @@ https://pages.github.com/
 ## Directory Structure
 
 Your GitHub repository might look something like this:
+
+    /my-github-pages-repo
+    ├── index.html
+    ├── style.css
+    └── script.js
