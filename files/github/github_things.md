@@ -101,6 +101,9 @@ Here's some basic JavaScript to make your page interactive. Save this content in
 5. Choose the branch you want to use (usually main or gh-pages).
 6. Your site should be accessible at https://<username>.github.io/<repository>/.
 
+## Test it in local environment
+
+![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/1b71b0df-2bdd-4826-92d6-35560fc44e1c)
 
 
 
