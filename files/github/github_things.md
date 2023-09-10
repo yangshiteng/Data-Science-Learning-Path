@@ -12,7 +12,6 @@ Your GitHub repository might look something like this:
     /my-github-pages-repo
     ├── index.html
     ├── style.css
-    └── script.js
 
 ## HTML (index.html)
 
@@ -29,19 +28,28 @@ Your GitHub repository might look something like this:
         <header>
             <h1>Welcome to My GitHub Pages</h1>
         </header>
-        
+    
         <main>
-            <p>This is a sample paragraph.</p>
-            <button id="sample-button">Click Me</button>
+            <!-- About Me section starts here -->
+            <section id="about-me">
+                <h2>About Me</h2>
+                <p>Hi, my name is Shiteng Yang. I'm currently working as a data scientist at Rocket Companies.</p>
+                <p>Welcome to my GitHub Pages, and feel free to review my projects.</p>
+                <p>My Linkedin: <a href="https://www.linkedin.com/in/shiteng-yang-173939102/" target="_blank">shiteng-yang-linkedin</a></p>
+                <p>My Email: <a href="mailto:yangshiteng007@gmail.com">yangshiteng007@gmail.com</a></p>
+            </section>
+            <!-- About Me section ends here -->
+    
         </main>
     
         <footer>
-            <p>Created with ❤️ by [Your Name]</p>
+            <p>Created with ❤️ by Shiteng Yang</p>
         </footer>
     
         <script src="script.js"></script>
     </body>
     </html>
+
 
 ## CSS (style.css)
 
@@ -79,17 +87,19 @@ Here's a basic stylesheet. Save this content in a file called style.css.
         text-align: center;
         padding: 1em;
     }
+    
+    /* Style for About Me section */
+    #about-me {
+        margin-top: 30px;
+        padding: 15px;
+        background-color: #e9e9e9;
+        border-radius: 5px;
+    }
+    
+    #about-me h2 {
+        margin-bottom: 15px;  /* Increase this to add more space */
+    }
 
-## JavaScript (script.js)
-
-Here's some basic JavaScript to make your page interactive. Save this content in a file called script.js.
-
-    document.addEventListener("DOMContentLoaded", function() {
-        const button = document.getElementById("sample-button");
-        button.addEventListener("click", function() {
-            alert("Hello, World!");
-        });
-    });
 
 ## Push to GitHub and Enable GitHub Pages
 
