@@ -848,6 +848,11 @@ https://fastapi.tiangolo.com/
 
 ![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/39bd7eea-643b-4570-987d-795d65e1636b)
 
+## 17. file structure (don't forget the init file)
+
+![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/a2ae6513-6f1e-4713-b5ed-e38596fab4f7)
+
+
 # Backend vs Frontend
 
 ![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/371e92d1-d225-48cf-8e5f-40a758de8a4e)
