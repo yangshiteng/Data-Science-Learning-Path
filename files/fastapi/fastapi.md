@@ -836,6 +836,84 @@ https://fastapi.tiangolo.com/
 
 ![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/a2ae6513-6f1e-4713-b5ed-e38596fab4f7)
 
+## 18. Testing
+
+![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/8d6d35ea-8b46-4054-80be-04e6a55a7fd0)
+
+![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/1cf92ffe-9107-4b9d-a934-140445c7e329)
+
+![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/c94067cf-22b2-4c32-b76f-ffc8703f1337)
+
+![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/f6fbfc29-6a9e-46bf-8747-abd2b4efa160)
+
+![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/2e75b7cc-3213-47ec-b11a-152853d21370)
+
+    from fastapi.testclient import TestClient
+    
+    from .main import app
+    
+    client = TestClient(app)
+    
+    def test_read_item():
+        response = client.get("/items/foo", headers={"X-Token": "coneofsilence"})
+        assert response.status_code == 200
+        assert response.json() == {
+            "id": "foo",
+            "title": "Foo",
+            "description": "There goes my hero",
+        }
+    
+    
+    def test_read_item_bad_token():
+        response = client.get("/items/foo", headers={"X-Token": "hailhydra"})
+        assert response.status_code == 400
+        assert response.json() == {"detail": "Invalid X-Token header"}
+    
+    
+    def test_read_inexistent_item():
+        response = client.get("/items/baz", headers={"X-Token": "coneofsilence"})
+        assert response.status_code == 404
+        assert response.json() == {"detail": "Item not found"}
+    
+    
+    def test_create_item():
+        response = client.post(
+            "/items/",
+            headers={"X-Token": "coneofsilence"},
+            json={"id": "foobar", "title": "Foo Bar", "description": "The Foo Barters"},
+        )
+        assert response.status_code == 200
+        assert response.json() == {
+            "id": "foobar",
+            "title": "Foo Bar",
+            "description": "The Foo Barters",
+        }
+    
+    
+    def test_create_item_bad_token():
+        response = client.post(
+            "/items/",
+            headers={"X-Token": "hailhydra"},
+            json={"id": "bazz", "title": "Bazz", "description": "Drop the bazz"},
+        )
+        assert response.status_code == 400
+        assert response.json() == {"detail": "Invalid X-Token header"}
+    
+    
+    def test_create_existing_item():
+        response = client.post(
+            "/items/",
+            headers={"X-Token": "coneofsilence"},
+            json={
+                "id": "foo",
+                "title": "The Foo ID Stealers",
+                "description": "There goes my stealer",
+            },
+        )
+        assert response.status_code == 400
+        assert response.json() == {"detail": "Item already exists"}
+
+![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/3d68fee8-b859-47f8-9b0f-d1b38c243f35)
 
 # Backend vs Frontend
 
