@@ -705,36 +705,20 @@ https://fastapi.tiangolo.com/
 
 ![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/7d91bc98-36b3-47aa-acda-28fe4e1b1e24)
 
-## 11. Title, Version, Description
+## 11. Metadata Configuration
 
-    from fastapi import FastAPI
-    from fastapi.responses import FileResponse
-    from legal_metes_and_bound.script.metesandbound_verification import verify_metesandbound
-    
-    app = FastAPI(title = "MetesandBound Legal Boundary Verification Service", version="1.0", description="This is a service used to verify if the boundary of a metesandbounds legal is enclosed or not")
-    
-    @app.post("/verify-metesandbound-enclose/",tags = ['Is Enclose'])
-    async def metesandbound_enclose_verify(legal_str: str):
-       
-        inst_model = verify_metesandbound()
-    
-        is_enclose = inst_model.is_enclose(legal_str)
-    
-        if is_enclose == 'Enclosed':
-            buffer = inst_model.buffer_return(legal_str)
-    
-            # Create a temporary file to hold the image
-            temp_file = "generated_image.png"
-            with open(temp_file, "wb") as f:
-                f.write(buffer.read())
-    
-            # Serve the file over FastAPI
-            return FileResponse(temp_file, headers={"Content-Disposition": "attachment; filename=generated_image.png"})
-    
-        else:
-            return is_enclose
+![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/074e72be-583a-4819-bd81-f1f1c2786fc5)
 
-![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/6f08261d-f5e5-4f0f-9a36-657469a743dd)
+![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/0c9ed9c1-9fd2-47a4-b643-856a72662cf0)
+
+![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/9ca2726e-9526-4388-a1cc-5c9816fc3154)
+
+![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/09a65f59-0f23-4c95-abb7-1f5f94653713)
+
+![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/5379bddf-60a4-45c8-b62b-aaa59732f2ac)
+
+![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/ca18bc99-c8ff-482c-babb-97b8ac4bf4e2)
+
 
 ## 12. Path Operation Configuration (tags, summary, description, docstring)
 
