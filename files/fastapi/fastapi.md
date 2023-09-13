@@ -705,7 +705,7 @@ https://fastapi.tiangolo.com/
 
 ![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/7d91bc98-36b3-47aa-acda-28fe4e1b1e24)
 
-## 11. Title, Version, Description, Tags
+## 11. Title, Version, Description
 
     from fastapi import FastAPI
     from fastapi.responses import FileResponse
@@ -736,7 +736,42 @@ https://fastapi.tiangolo.com/
 
 ![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/6f08261d-f5e5-4f0f-9a36-657469a743dd)
 
-## 12. Dependency Injection for the purpose of REUSE
+## 12. Path Operation Configuration (tags, summary, description, docstring)
+
+### 12.1 tags
+
+![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/bcb4b983-faeb-4cce-8c54-970f1fd83c53)
+
+![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/57ffcc41-8389-492e-bacf-29354974f08e)
+
+![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/4be8828c-622b-4573-9a21-ba58ee39870b)
+
+### 12.2 summary and description
+
+![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/baab55f6-ea0f-4dce-a39b-2619f28d3481)
+
+![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/be891393-536e-4318-97b8-da931efbd9f0)
+
+### 12.3 docstring
+
+![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/97bf94d0-a677-49b9-ae8d-b4dd5a81de5e)
+
+![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/6f1f2d69-84a3-40d3-ad0b-1f838d07e1b9)
+
+### 12.4 response description
+
+![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/7101d4c8-ace3-4f55-b586-e04d49eef89f)
+
+![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/65e6865d-e648-47e4-9e1f-f7f7344dd035)
+
+### 12.5 Deprecate a path operation
+
+![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/771b7def-6e78-4aef-b4b0-5650c6618a65)
+
+![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/4f9ce4ca-ce08-4043-bc23-a585e8c21019)
+
+
+## 13. Dependency Injection for the purpose of REUSE
 
 In FastAPI, you can load your ColumnTransformer or any other model when the application starts and then reuse it for all incoming requests. You can achieve this by setting the model as a global variable and by using FastAPI's dependency injection system.
     
@@ -771,17 +806,17 @@ In FastAPI, you can load your ColumnTransformer or any other model when the appl
     
         return {"prediction": prediction[0]}
 
-## 13. Cookie Parameter
+## 14. Cookie Parameter
 
 ![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/0fe4b670-8af7-46f9-a169-dadd6c71a3bb)
 
-## 14. Header Parameter
+## 15. Header Parameter
 
 ![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/6101dd98-e97f-4374-af79-368c2182261e)
 
 ![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/10688545-ede0-42f5-81dc-efbf24af5330)
 
-## 15. Form Parameter
+## 16. Form Parameter
 
 ![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/e27e3a70-c644-4b7d-b193-17fbf87fb0c8)
 
