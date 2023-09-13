@@ -799,7 +799,8 @@ https://fastapi.tiangolo.com/
 
 ![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/3ff1d352-941e-40d6-b8cd-46ad5bc0807b)
 
-    
+### 13.2 Class as Dependency
+
     from fastapi import FastAPI, Depends
     from sklearn.ensemble import RandomForestClassifier
     from sklearn.compose import ColumnTransformer
