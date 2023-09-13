@@ -771,6 +771,9 @@ In FastAPI, you can load your ColumnTransformer or any other model when the appl
     
         return {"prediction": prediction[0]}
 
+## 13. Cookie Parameter
+
+![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/0fe4b670-8af7-46f9-a169-dadd6c71a3bb)
 
 
 
