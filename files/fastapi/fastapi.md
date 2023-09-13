@@ -736,6 +736,44 @@ https://fastapi.tiangolo.com/
 
 ![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/6f08261d-f5e5-4f0f-9a36-657469a743dd)
 
+## 12. Dependency Injection for the purpose of REUSE
+
+In FastAPI, you can load your ColumnTransformer or any other model when the application starts and then reuse it for all incoming requests. You can achieve this by setting the model as a global variable and by using FastAPI's dependency injection system.
+    
+    from fastapi import FastAPI, Depends
+    from sklearn.ensemble import RandomForestClassifier
+    from sklearn.compose import ColumnTransformer
+    from sklearn.preprocessing import StandardScaler
+    import joblib
+    
+    app = FastAPI()
+    
+    # Load the ColumnTransformer and model when the app starts
+    column_transformer = joblib.load("your_column_transformer_path.joblib")
+    predictive_model = joblib.load("your_model_path.joblib")
+    
+    # Dependencies for FastAPI
+    async def get_column_transformer():
+        return column_transformer
+    
+    async def get_predictive_model():
+        return predictive_model
+    
+    @app.post("/predict/")
+    async def predict(input_data: dict, 
+                      transformer: ColumnTransformer = Depends(get_column_transformer), 
+                      model: RandomForestClassifier = Depends(get_predictive_model)):
+        # Preprocess the input using the ColumnTransformer
+        processed_data = transformer.transform([input_data])
+    
+        # Make prediction using the model
+        prediction = model.predict(processed_data)
+    
+        return {"prediction": prediction[0]}
+
+
+
+
     
 # Backend vs Frontend
 
