@@ -915,6 +915,17 @@ https://fastapi.tiangolo.com/
 
 ![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/3d68fee8-b859-47f8-9b0f-d1b38c243f35)
 
+## 19. Debugging
+
+![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/31f04d2d-c9b1-4c84-aadc-4c060791d5ff)
+
+![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/9f620a10-b80c-406d-bd80-b376dcf15c4b)
+
+![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/bdc7810e-4bcd-4c8f-aa65-56b0d3533a08)
+
+![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/833b6b9d-aae5-4b10-95b8-6e6a8d81dd08)
+
+
 # Backend vs Frontend
 
 ![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/371e92d1-d225-48cf-8e5f-40a758de8a4e)
