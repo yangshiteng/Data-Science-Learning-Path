@@ -613,7 +613,7 @@ https://fastapi.tiangolo.com/
     def create_upload_file(file: Annotated[UploadFile, File(description="A file read as UploadFile")]):
         return {"filename": file.filename}
 
-![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/157728d6-194c-4df7-b5ee-9a7727a5f91e)
+![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/e4b71c6a-37bf-4a3a-a08f-d26ac4b32b7b)
 
 ![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/fda018a1-4168-4371-94a7-4ca11b0fc39b)
 
