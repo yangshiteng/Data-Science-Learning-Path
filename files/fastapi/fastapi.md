@@ -781,6 +781,12 @@ In FastAPI, you can load your ColumnTransformer or any other model when the appl
 
 ![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/10688545-ede0-42f5-81dc-efbf24af5330)
 
+## 15. Form Parameter
+
+![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/e27e3a70-c644-4b7d-b193-17fbf87fb0c8)
+
+![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/39bd7eea-643b-4570-987d-795d65e1636b)
+
 # Backend vs Frontend
 
 ![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/371e92d1-d225-48cf-8e5f-40a758de8a4e)
