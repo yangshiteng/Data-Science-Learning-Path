@@ -771,9 +771,34 @@ https://fastapi.tiangolo.com/
 ![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/4f9ce4ca-ce08-4043-bc23-a585e8c21019)
 
 
-## 13. Dependency Injection for the purpose of REUSE
+## 13. Dependency Injection (depends on which function and which data type this function returned)
 
-In FastAPI, you can load your ColumnTransformer or any other model when the application starts and then reuse it for all incoming requests. You can achieve this by setting the model as a global variable and by using FastAPI's dependency injection system.
+![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/4e42a1b4-f42b-4fb5-94f2-d6d189797a62)
+
+### 13.1 Simple Example
+
+    from typing import Annotated
+    
+    from fastapi import Depends, FastAPI
+    
+    app = FastAPI()
+    
+    
+    async def common_parameters(q: str | None = None, skip: int = 0, limit: int = 100):
+        return {"q": q, "skip": skip, "limit": limit}
+    
+    
+    @app.get("/items/")
+    async def read_items(commons: Annotated[dict, Depends(common_parameters)]):
+        return commons
+    
+    
+    @app.get("/users/")
+    async def read_users(commons: Annotated[dict, Depends(common_parameters)]):
+        return commons
+
+![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/3ff1d352-941e-40d6-b8cd-46ad5bc0807b)
+
     
     from fastapi import FastAPI, Depends
     from sklearn.ensemble import RandomForestClassifier
