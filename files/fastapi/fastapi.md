@@ -929,6 +929,18 @@ https://fastapi.tiangolo.com/
 
 ![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/e47b8386-1ae7-47e7-a2e0-7200a0d10b24)
 
+
+# Deployment
+
+![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/335bb85b-b8a4-42f6-b0bd-bfa2011668ae)
+
+## 1. About Version
+
+![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/d4555de5-15a5-4fc4-a264-8972f2cc0b17)
+
+![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/909d1a13-1d98-45ef-b79c-60024ab84fc7)
+
+
 # Backend vs Frontend
 
 ![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/371e92d1-d225-48cf-8e5f-40a758de8a4e)
