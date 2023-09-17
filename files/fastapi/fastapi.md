@@ -925,6 +925,9 @@ https://fastapi.tiangolo.com/
 
 ![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/833b6b9d-aae5-4b10-95b8-6e6a8d81dd08)
 
+## 20 async def vs def
+
+![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/e47b8386-1ae7-47e7-a2e0-7200a0d10b24)
 
 # Backend vs Frontend
 
