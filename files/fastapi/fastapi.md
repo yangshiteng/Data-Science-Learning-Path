@@ -940,6 +940,9 @@ https://fastapi.tiangolo.com/
 
 ![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/909d1a13-1d98-45ef-b79c-60024ab84fc7)
 
+## 2. Run the Server Program
+
+![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/0e131ab0-11a5-47dd-a35e-78d3f6bc7dab)
 
 # Backend vs Frontend
 
