@@ -4,7 +4,6 @@
 
 [Hypothesis Test](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Hypothesis%20test%20list.md)
 
-[Permutation and Combination](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Permutation%20and%20Combination.md)
 
 
 
