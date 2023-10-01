@@ -58,3 +58,6 @@
 [29 - Standard Deviation vs Standard Error](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Standard%20Deviation%20vs%20Standard%20Error.md)
 
 [30 - Statistical Plot](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Statistical%20Plot.md)
+
+[31 - Permutation and Combination](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Permutation%20and%20Combination.md)
+
