@@ -56,3 +56,5 @@
 [28 - The Mean, Variance and Standard Deviation (StatQuest) (sample variance vs population variance)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/13%20-%20Mean%2C%20Variance%20and%20Standard%20Deviation.md)
 
 [29 - Standard Deviation vs Standard Error](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Standard%20Deviation%20vs%20Standard%20Error.md)
+
+[30 - Statistical Plot](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Statistical%20Plot.md)
