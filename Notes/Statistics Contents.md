@@ -6,5 +6,5 @@
 
 [Permutation and Combination](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Permutation%20and%20Combination.md)
 
-[Statistical Plot](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Statistical%20Plot.md)
+
 
