@@ -4,7 +4,7 @@
 
 * [Basic Statistical Concepts](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Machine%20Learning/basic_concepts/statistics/basic_statistical_concepts/table_of_content.md)
 
-* [Probability Distribution](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Probability.md)
+* [Probability Distribution](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Machine%20Learning/basic_concepts/statistics/hypothesis_test/table_of_content.md)
 
 * [Hypothesis Test](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Hypothesis%20test%20list.md)
 
