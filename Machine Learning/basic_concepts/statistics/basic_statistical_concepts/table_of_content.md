@@ -47,7 +47,7 @@
 
 [24 - Maximum A Posteriori (MAP)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Maximum%20A%20Posteriori%20(MAP).md)
 
-[25 - Fundamental Concepts in Statistics (StatQuest)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/03%20-%20Fundamental%20Concepts%20in%20Statistics.md)
+[25 - Fundamental Concepts in Statistics (StatQuest)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Machine%20Learning/basic_concepts/statistics/basic_statistical_concepts/files/Fundamental_Concepts_in_Machine_Learning.md)
 
 [26 - SSR, MSE and R-squared (StatQuest)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/SSR%2C%20MSE%20and%20R-squared.md)
 
