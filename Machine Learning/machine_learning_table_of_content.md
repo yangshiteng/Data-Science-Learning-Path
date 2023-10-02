@@ -41,7 +41,7 @@
 * [F test](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Machine%20Learning/machine_learning_models/linear_regression/Ftestforlinearregression.md)
 * [Two sample t-test and ANOVA with Linear Model Method](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Machine%20Learning/machine_learning_models/linear_regression/t-test_and_ANOVA_with_linear_model_method.pdf)
 * [Regularization (LASSO and Ridge Regression)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Machine%20Learning/machine_learning_models/linear_regression/Regularization.md)
-* [Elastic Net Regression](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Machine%20Learning/machine_learning_models/linear_regressionElastic_Net_Regression.pdf)
+* [Elastic Net Regression](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Machine%20Learning/machine_learning_models/linear_regression/Elastic_Net_Regression.pdf)
 
 ## 2. Logistic Regression
 * [Logistic Regression](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/06%20-%20Logistic%20Regression.md)
