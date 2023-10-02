@@ -51,11 +51,11 @@
 * [Introduction to Logistic Regression](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Machine%20Learning/machine_learning_models/logistic_regression/Introduction_to_logistic_regression.md)
 
 ## 3. Naive Bayes
-* [Naive Bayes](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/07%20-%20Naive%20Bayes.md)
-* [Naive Bayes Introduction](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Naive%20Bayes%20Introduction.md)
+* [Naive Bayes](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Machine%20Learning/machine_learning_models/naive_bayes/Naive_Bayes_statquest.md)
+* [Naive Bayes Introduction](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Machine%20Learning/machine_learning_models/naive_bayes/Naive_Bayes_Introduction.md)
 
 ## 4. KNN
-* [KNN (K-nearest Neighbors)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/KNN.md)
+* [KNN (K-nearest Neighbors)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Machine%20Learning/machine_learning_models/knn/KNN.md)
 
 ## 5. Support Vector Machine
 * [Support Vector Machine (StatQuest and Summary)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/11%20-%20Support%20Vector%20Machine.md)
