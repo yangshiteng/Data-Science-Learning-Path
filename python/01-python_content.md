@@ -1,6 +1,6 @@
 # Python Basics
 
-* [os module](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/os%20module.md)
+* [os module](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/python/os_module.md)
 * [Windows cmd Terminal Command](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/commoncommand.md)
 
 
