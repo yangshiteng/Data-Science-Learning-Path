@@ -2,7 +2,7 @@
 
 ## Statistics
 
-* [Basic Statistical Concepts](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Statistics.md)
+* [Basic Statistical Concepts](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Machine%20Learning/basic_concepts/statistics/basic_statistical_concepts/table_of_content.md)
 
 * [Probability Distribution](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Probability.md)
 
