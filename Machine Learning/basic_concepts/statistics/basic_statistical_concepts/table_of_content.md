@@ -18,7 +18,7 @@
 
 [Standard Deviation vs Standard Error](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Machine%20Learning/basic_concepts/statistics/basic_statistical_concepts/files/Standard_Deviation_vs_Standard_Error.md)
 
-[Technical and Biological Replicates](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Machine%20Learning/basic_concepts/statistics/basic_statistical_concepts/files/Technical_and_Biological_Replicates.md)
+[Technical, Biological Replicates and effective sample size](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Machine%20Learning/basic_concepts/statistics/basic_statistical_concepts/files/Technical_and_Biological_Replicates.md)
 
 [Probability vs Likelihoood](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Machine%20Learning/basic_concepts/statistics/basic_statistical_concepts/files/Probability_vs_Likelihoood.md)
 
