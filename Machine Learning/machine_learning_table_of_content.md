@@ -44,11 +44,11 @@
 * [Elastic Net Regression](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Machine%20Learning/machine_learning_models/linear_regression/Elastic_Net_Regression.pdf)
 
 ## 2. Logistic Regression
-* [Logistic Regression](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/06%20-%20Logistic%20Regression.md)
-  * [Logistic Regression StatQuest Video 1](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/logistic%20regression%20statquest.pdf)
-  * [Logistic Regression: Likelihood-based R-squared and P-value](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Logistic%20Regression%20-%20Lilkelihood%20based%20Rsquared%20and%20Pvalue.pdf)
-  * [Logistic Regression: Saturated Model, Null Deviance and Residual Deviance](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Saturated%20Model.pdf)
-* [Introduction to Logistic Regression](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Introduction%20to%20logistic%20regression.md)
+* [Logistic Regression](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Machine%20Learning/machine_learning_models/logistic_regression/Logistic_Regression.md)
+* [Logistic Regression StatQuest Video 1](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Machine%20Learning/machine_learning_models/logistic_regression/logistic_regression_statquest.pdf)
+* [Logistic Regression: Likelihood-based R-squared and P-value](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Machine%20Learning/machine_learning_models/logistic_regression/Logistic_Regression_Lilkelihood_based_Rsquared_and_Pvalue.pdf)
+* [Logistic Regression: Saturated Model, Null Deviance and Residual Deviance](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Machine%20Learning/machine_learning_models/logistic_regression/Saturated_Model.pdf)
+* [Introduction to Logistic Regression](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Machine%20Learning/machine_learning_models/logistic_regression/Introduction_to_logistic_regression.md)
 
 ## 3. Naive Bayes
 * [Naive Bayes](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/07%20-%20Naive%20Bayes.md)
