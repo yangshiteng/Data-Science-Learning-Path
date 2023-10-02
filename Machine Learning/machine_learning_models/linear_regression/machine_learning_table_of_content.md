@@ -33,15 +33,15 @@
 # Machine Learning Models (Classification and Regression)
 
 ## 1. Linear Regression
-* [Linear Regression](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/04%20-%20Linear%20Regression.md)
-* [SSR, MSE and R-squared](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/SSR%2C%20MSE%20and%20R-squared.md)
-* [R-squared](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/R-squared.md)
-* [Linear Regression Model Selection](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Regression%20Model%20Selection.md)
-* [Simple Linear Regression](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/simple%20linear%20regression.md)
-* [F test](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Ftestforlinearregression.md)
-  * [Two sample t-test and ANOVA with Linear Model Method](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/t-test%20and%20ANOVA%20with%20linear%20model%20method.pdf)
-* [Regularization (LASSO and Ridge Regression)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/09%20-%20Preventing%20Overfitting%20with%20Regularization.md)
-  * [Elastic Net Regression](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Elastic%20Net%20Regression.pdf)
+* [Linear Regression](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Machine%20Learning/machine_learning_models/linear_regression/Linear_Regression.md)
+* [SSR, MSE and R-squared](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Machine%20Learning/machine_learning_models/linear_regression/SSR_MSE_and_R-squared.md)
+* [R-squared](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Machine%20Learning/machine_learning_models/linear_regression/R-squared.md)
+* [Linear Regression Model Selection](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Machine%20Learning/machine_learning_models/linear_regression/Regression_Model_Selection.md)
+* [Simple Linear Regression](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Machine%20Learning/machine_learning_models/linear_regression/simple_linear_regression.md)
+* [F test](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Machine%20Learning/machine_learning_models/linear_regression/Ftestforlinearregression.md)
+* [Two sample t-test and ANOVA with Linear Model Method](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Machine%20Learning/machine_learning_models/linear_regression/t-test_and_ANOVA_with_linear_model_method.pdf)
+* [Regularization (LASSO and Ridge Regression)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Machine%20Learning/machine_learning_models/linear_regression/Regularization.md)
+* [Elastic Net Regression](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Machine%20Learning/machine_learning_models/linear_regressionElastic_Net_Regression.pdf)
 
 ## 2. Logistic Regression
 * [Logistic Regression](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/06%20-%20Logistic%20Regression.md)

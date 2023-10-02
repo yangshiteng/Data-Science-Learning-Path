@@ -4,8 +4,6 @@
 
 [What is mathematical model](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Machine%20Learning/basic_concepts/statistics/basic_statistical_concepts/files/What_is_mathematical_model.md)
 
-[R-squared](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Machine%20Learning/basic_concepts/statistics/basic_statistical_concepts/files/R-squared.md)
-
 [Sampling from a Distribution](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Machine%20Learning/basic_concepts/statistics/basic_statistical_concepts/files/Sampling_from_a_Distribution.md)
 
 [Population and Estimated Parameters](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Machine%20Learning/basic_concepts/statistics/basic_statistical_concepts/files/Population_and_Estimated_Parameters.md)
@@ -45,8 +43,6 @@
 [Statistical Plot](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Machine%20Learning/basic_concepts/statistics/basic_statistical_concepts/files/Statistical_Plot.md)
 
 [Permutation and Combination](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Machine%20Learning/basic_concepts/statistics/basic_statistical_concepts/files/Permutation_and_Combination.md)
-
-[SSR, MSE and R-squared (StatQuest)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Machine%20Learning/basic_concepts/statistics/basic_statistical_concepts/files/SSR_MSE_and_R-squared.md)
 
 [P-value (StatQuest)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Machine%20Learning/basic_concepts/statistics/basic_statistical_concepts/files/P-value.md)
 
