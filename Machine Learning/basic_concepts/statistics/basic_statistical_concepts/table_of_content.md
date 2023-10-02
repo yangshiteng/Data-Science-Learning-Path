@@ -1,7 +1,5 @@
 # Basics
 
-[Fundamental Concepts in Statistics (StatQuest)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Machine%20Learning/basic_concepts/statistics/basic_statistical_concepts/files/Fundamental_Concepts_in_Machine_Learning.md)
-
 [Histogram](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Machine%20Learning/basic_concepts/statistics/basic_statistical_concepts/files/Histogram.md)
 
 [What is mathematical model](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Machine%20Learning/basic_concepts/statistics/basic_statistical_concepts/files/What_is_mathematical_model.md)

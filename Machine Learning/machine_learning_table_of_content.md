@@ -10,25 +10,25 @@
 
 ## Machine Learning
 
-* [Fundamental Concepts in Machine Learning (StatQuest)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/01%20-%20Fundamental%20Concepts%20in%20Machine%20Learning.md)
+* [Fundamental Concepts in Machine Learning (StatQuest)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Machine%20Learning/basic_concepts/machine_learning/Fundamental_Concepts_in_Machine_Learning.md)
 
-* [Cross Validation (StatQuest)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/02%20-%20Cross%20Validation.md)
+* [Cross Validation (StatQuest)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Machine%20Learning/basic_concepts/machine_learning/Cross_Validation.md)
 
-* [Gradient Descent, (MiniBatch) Stochastic Gradient Descent, and How to avoid local optimum (StatQuest)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/05%20-%20Gradient%20Descent.md)
+* [Gradient Descent, (MiniBatch) Stochastic Gradient Descent, and How to avoid local optimum (StatQuest)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Machine%20Learning/basic_concepts/machine_learning/Gradient_Descent.md)
 
-* [Hyperparameter Tuning (Cross Validation)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Hyperparameter%20Tuning.md)
+* [Hyperparameter Tuning (Cross Validation)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Machine%20Learning/basic_concepts/machine_learning/Hyperparameter_Tuning.md)
 
-* [Assessing Model Performance](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/08%20-%20Assessing%20Model%20Performance.md)
+* [Assessing Model Performance](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Machine%20Learning/basic_concepts/machine_learning/Assessing_Model_Performance.md)
 
-* [Multi-class Classification](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/muticlass%20classification.md)
+* [Multi-class Classification](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Machine%20Learning/basic_concepts/machine_learning/muticlass_classification.md)
 
-* [Anomaly Detection: Outlier Detection and Novelty Detection](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Anomaly%20Detection:%20Outlier%20Detection%20and%20Novelty%20Detection.md)
+* [Anomaly Detection: Outlier Detection and Novelty Detection](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Machine%20Learning/basic_concepts/machine_learning/Anomaly_Detection.md)
 
-* [Bootstrapping](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Bootstrapping.md)
+* [Bootstrapping](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Machine%20Learning/basic_concepts/machine_learning/Bootstrapping.md)
 
-* [Base Model](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/basemodel.md)
+* [Base Model](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Machine%20Learning/basic_concepts/machine_learning/basemodel.md)
 
-* [Sparse Data](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Sparse%20Data.md)
+* [Sparse Data](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Machine%20Learning/basic_concepts/machine_learning/Sparse_Data.md)
 
 # Machine Learning Models (Classification and Regression)
 
