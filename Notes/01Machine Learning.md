@@ -1,5 +1,15 @@
 # Basic Concepts
 
+## Statistics
+
+* [Basic Statistical Concepts](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Statistics.md)
+
+* [Probability Distribution](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Probability.md)
+
+* [Hypothesis Test](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Hypothesis%20test%20list.md)
+
+## Machine Learning
+
 * [Fundamental Concepts in Machine Learning (StatQuest)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/01%20-%20Fundamental%20Concepts%20in%20Machine%20Learning.md)
 
 * [Cross Validation (StatQuest)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/02%20-%20Cross%20Validation.md)
