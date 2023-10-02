@@ -1,4 +1,4 @@
-[Machine Learning](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/01Machine%20Learning.md)
+[Machine Learning](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Machine%20Learning/machine_learning_table_of_content.md)
 
 [Deep Learning](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Deep%20Learning.md)
 
