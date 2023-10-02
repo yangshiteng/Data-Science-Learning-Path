@@ -68,10 +68,6 @@
 
 ### [Knowledge](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Ensemble%20Learning%20Knowledge%20Points.md)
 
-### [Q & A]()
-
-### [Projects]()
-
 
 # 3. Clustering Algorithm (Unsupervised Learning)
 
