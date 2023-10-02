@@ -1,63 +1,65 @@
+# Basics
 
-[01 - Histogram](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Machine%20Learning/basic_concepts/statistics/basic_statistical_concepts/files/Histogram.md)
+[Histogram](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Machine%20Learning/basic_concepts/statistics/basic_statistical_concepts/files/Histogram.md)
 
-[02 - What is mathematical model](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/What%20is%20mathematical%20model.md)
+[What is mathematical model](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Machine%20Learning/basic_concepts/statistics/basic_statistical_concepts/files/What_is_mathematical_model.md)
 
-[03 - R-squared](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/R-squared.md)
+[R-squared](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Machine%20Learning/basic_concepts/statistics/basic_statistical_concepts/files/R-squared.md)
 
-[04 - Sampling from a Distribution](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Sampling%20from%20a%20Distribution.md)
+[Sampling from a Distribution](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Machine%20Learning/basic_concepts/statistics/basic_statistical_concepts/files/Sampling_from_a_Distribution.md)
 
-[05 - Central Limit Theorem](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Central%20Limit%20Theorem.md)
+[Population and Estimated Parameters](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Machine%20Learning/basic_concepts/statistics/basic_statistical_concepts/files/Population_and_Estimated_Parameters.md)
 
-[06 - Population and Estimated Parameters](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Population%20and%20Estimated%20Parameters.md)
+[Confidence Interval](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Machine%20Learning/basic_concepts/statistics/basic_statistical_concepts/files/Confidence_Interval.md)
 
-[07 - Confidence Interval](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Confidence%20Interval.md)
+[Sample Variance](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Machine%20Learning/basic_concepts/statistics/basic_statistical_concepts/files/Sample_Variance.md)
 
-[08 - Sample Variance](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Sample%20Variance.md)
+[Covariance and Pearson's Correlation](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Machine%20Learning/basic_concepts/statistics/basic_statistical_concepts/files/Covariance_and_Correlation.md)
 
-[09 - Covariance and Pearson's Correlation](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Covariance.md)
+[Standard Deviation vs Standard Error](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Machine%20Learning/basic_concepts/statistics/basic_statistical_concepts/files/Standard_Deviation_vs_Standard_Error.md)
 
-[10 - Standard Deviation vs Standard Error](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Standard%20Deviation%20vs%20Standard%20Error.md)
+[Technical and Biological Replicates](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Machine%20Learning/basic_concepts/statistics/basic_statistical_concepts/files/Technical_and_Biological_Replicates.md)
 
-[11 - Technical and Biological Replicates](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/The%20Difference%20Between%20Technical%20and%20Biological%20Replicates.md)
+[Probability vs Likelihoood](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Machine%20Learning/basic_concepts/statistics/basic_statistical_concepts/files/Probability_vs_Likelihoood.md)
 
-[12 - Probability vs Likelihoood](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Probability%20vs%20Likelihoood.md)
+[Expected Value, Variance and Bias (Statistics)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Machine%20Learning/basic_concepts/statistics/basic_statistical_concepts/files/Expected_value_variance_and_bias.md)
 
-[13 - Bayes' Theorem](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Bayes'%20Theorem.md)
+[Quartile, Quantiles and Percentiles](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Machine%20Learning/basic_concepts/statistics/basic_statistical_concepts/files/Quartile_Quantiles_Percentiles.md)
 
-[14 - Law of Large Number, Total Probability, Expectation, Variance and Covariance](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Law%20of%20Total%20Probability%2C%20Expectation%2C%20Variance%20and%20Covariance.md)
+[Normal Distribution: Fat, Heavy, long vs light, thin, short tail And Left vs Right Skewed](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Machine%20Learning/basic_concepts/statistics/basic_statistical_concepts/files/Normal_Distribution_Plot_Feature.md)
 
-[15 - Expected Value, Variance and Bias (Statistics)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Expected%20Value.md)
+[QuantileQuantile Plot (QQ plot)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Machine%20Learning/basic_concepts/statistics/basic_statistical_concepts/files/QQ_plot.md)
 
-[16 - Quartile, Quantiles and Percentiles](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Quantiles%20and%20Percentiles.md)
+[Quantile Normalization](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Machine%20Learning/basic_concepts/statistics/basic_statistical_concepts/files/Quantile_Normalization.md)
 
-[17 - Normal Distribution: Fat, Heavy, long vs light, thin, short tail And Left vs Right Skewed](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Normal%20Distribution%20Plot%20FEATURE.md)
+[Maximum Likelihood](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Machine%20Learning/basic_concepts/statistics/basic_statistical_concepts/files/Maximum_Likelihood.md)
 
-[18 - QuantileQuantile Plot (QQ plot)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/QuantileQuantile%20Plot%20(QQ%20plot)%5D.md)
+[Extremum Estimator](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Machine%20Learning/basic_concepts/statistics/basic_statistical_concepts/files/Extremum_Estimator.md)
 
-[19 - Quantile Normalization](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Quantile%20Normalization.md)
+[Continuity Correction](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Machine%20Learning/basic_concepts/statistics/basic_statistical_concepts/files/Continuity_Correction.md)
 
-[20 - Maximum Likelihood](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Maximum%20Likelihood.md)
+[Sampling Distribution](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Machine%20Learning/basic_concepts/statistics/basic_statistical_concepts/files/sampling_distribution.md)
 
-[21 - Extremum Estimator](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/extremum%20estimator.md)
+[Maximum A Posteriori (MAP)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Machine%20Learning/basic_concepts/statistics/basic_statistical_concepts/files/MAP.md)
 
-[22 - Continuity Correction](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Continuity%20Correction.md)
+[Statistical Plot](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Machine%20Learning/basic_concepts/statistics/basic_statistical_concepts/files/Statistical_Plot.md)
 
-[23 - Sampling Distribution](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/sampling%20distribution.md)
+[Permutation and Combination](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Machine%20Learning/basic_concepts/statistics/basic_statistical_concepts/files/Permutation_and_Combination.md)
 
-[24 - Maximum A Posteriori (MAP)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Maximum%20A%20Posteriori%20(MAP).md)
+# StatQuest Basics
 
-[25 - Fundamental Concepts in Statistics (StatQuest)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Machine%20Learning/basic_concepts/statistics/basic_statistical_concepts/files/Fundamental_Concepts_in_Machine_Learning.md)
+[Fundamental Concepts in Statistics (StatQuest)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Machine%20Learning/basic_concepts/statistics/basic_statistical_concepts/files/Fundamental_Concepts_in_Machine_Learning.md)
 
-[26 - SSR, MSE and R-squared (StatQuest)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/SSR%2C%20MSE%20and%20R-squared.md)
+[SSR, MSE and R-squared (StatQuest)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Machine%20Learning/basic_concepts/statistics/basic_statistical_concepts/files/SSR_MSE_and_R-squared.md)
 
-[27 - P-value (StatQuest)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/P-value.md)
+[P-value (StatQuest)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Machine%20Learning/basic_concepts/statistics/basic_statistical_concepts/files/P-value.md)
 
-[28 - The Mean, Variance and Standard Deviation (StatQuest) (sample variance vs population variance)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/13%20-%20Mean%2C%20Variance%20and%20Standard%20Deviation.md)
+[The Mean, Variance and Standard Deviation (StatQuest) (sample variance vs population variance)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Machine%20Learning/basic_concepts/statistics/basic_statistical_concepts/files/Mean_Variance_Standard_Deviation.md)
 
-[29 - Standard Deviation vs Standard Error](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Standard%20Deviation%20vs%20Standard%20Error.md)
+# Statistical Theorem
 
-[30 - Statistical Plot](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Statistical%20Plot.md)
+[Central Limit Theorem](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Machine%20Learning/basic_concepts/statistics/basic_statistical_concepts/files/Central_Limit_Theorem.md)
 
-[31 - Permutation and Combination](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Permutation%20and%20Combination.md)
+[Bayes' Theorem](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Machine%20Learning/basic_concepts/statistics/basic_statistical_concepts/files/BayesTheorem.md)
 
+[Law of Large Number, Total Probability, Expectation, Variance and Covariance](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Machine%20Learning/basic_concepts/statistics/basic_statistical_concepts/files/Law_of_Total_Probability_Expectation_Variance_and_Covariance.md)
