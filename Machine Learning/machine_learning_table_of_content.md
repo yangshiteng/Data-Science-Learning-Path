@@ -109,10 +109,10 @@
 
 # Dimensionality Reduction
 
-## 1. Principal Component Analysis (PCA)
-* [Principal Component Analysis (PCA) (Singular Value Decomposition SVD)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/statquest_pca_study_guide_v2.pdf)
-* [Principal Component Analysis (PCA) (Eigen Decomposition of Covariance Matrix)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/14.2%20-%20Principal%20Component%20Analysis%20(PCA)%20(Blog).md)
-* [PCA summary](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/PCA%20summary.md)
+## Principal Component Analysis (PCA)
+* [Principal Component Analysis (PCA) (Singular Value Decomposition SVD)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Machine%20Learning/dimension_reduction/statquest_pca_study_guide_v2.pdf)
+* [Principal Component Analysis (PCA) (Eigen Decomposition of Covariance Matrix)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Machine%20Learning/dimension_reduction/PCA_BLOG.md)
+* [PCA summary](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Machine%20Learning/dimension_reduction/PCA_summary.md)
 
 
 
