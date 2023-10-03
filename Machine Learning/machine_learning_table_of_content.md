@@ -90,18 +90,10 @@
 
 ### 7.3 Ensemble Learning - Boosting
 
-#### 7.2.1 AdaBoost (Adaptive Boosting 自适应提升算法) (Weight-based boosting algorithm)
-  * [AdaBoost - Introduction](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/AdaBoost%20Introduction.md)
-  * [AdaBoost - How to build for Classification](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/AdaBoost.pdf)
-  * [AdaBoost - How to build for Regression (AdaBoost R2)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Adaboost%20for%20Regression.md)
-  * [AdaBoost Implementation Summary](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/AdaBoost%20Summary.md)
+* [AdaBoost (Adaptive Boosting 自适应提升算法) (Weight-based boosting algorithm)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Machine%20Learning/machine_learning_models/Ensemble_Learning/Boosting/adaboost/table_of_content.md)
 
-#### 7.2.2 Gradient Boost (梯度提升算法) (Residual-based boosting algorithm) 
-  * [Gradient Boost - Introduction](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/gradient%20boost%20introduction.md)
-  * [Gradient Boost for Regression](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Gradient%20Boost%20for%20Regression.pdf)
-  * [Gradient Boost for Classification](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Gradient%20Boost%20For%20Classification.pdf)
-  * [Gradient Boost Implementation Summary](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Gradient%20Boost%20Summary.md)
-  
+* [Gradient Boost (梯度提升算法) (Residual-based boosting algorithm)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Machine%20Learning/machine_learning_models/Ensemble_Learning/Boosting/gradient_boost/table_of_content.md)
+
 #### 7.2.3 XGBoost (Implementation of Gradient Boost)
   * [XGBoost for Regression](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/XGBoost%20for%20Regression.pdf)
   * [XGBoost for Classification](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/XGBoost%20for%20Classification.pdf)
