@@ -76,11 +76,13 @@
 
 ## 7. Ensemble Learning (集成学习)
 
-  * [Ensemble Learning (集成学习)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Ensemble%20Learning.md)
-  * [Bagging 装袋算法 (Bootstrap Aggregatting 引导聚集算法)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Bagging.md)
-  * [Boosting 提升算法](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Boosting.md)
-  * [Bagging vs Boosting](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Bagging%20vs%20Boosting.md)
-  * [Stacking 堆叠算法 (Stacked Generalization 堆叠泛化)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/stacking.md)
+### 7.1 Introduction
+
+* [Ensemble Learning (集成学习)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Machine%20Learning/machine_learning_models/Ensemble_Learning/Introduction/Ensemble_Learning.md)
+* [Bagging 装袋算法 (Bootstrap Aggregatting 引导聚集算法)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Machine%20Learning/machine_learning_models/Ensemble_Learning/Introduction/Bagging.md)
+* [Boosting 提升算法](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Machine%20Learning/machine_learning_models/Ensemble_Learning/Introduction/Boosting.md)
+* [Bagging vs Boosting](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Machine%20Learning/machine_learning_models/Ensemble_Learning/Introduction/Bagging_vs_Boosting.md)
+* [Stacking 堆叠算法 (Stacked Generalization 堆叠泛化)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Machine%20Learning/machine_learning_models/Ensemble_Learning/Introduction/stacking.md)
 
 ### 7.1 Ensemble Learning - Bagging
 
