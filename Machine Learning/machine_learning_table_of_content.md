@@ -58,16 +58,16 @@
 * [KNN (K-nearest Neighbors)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Machine%20Learning/machine_learning_models/knn/KNN.md)
 
 ## 5. Support Vector Machine
-* [Support Vector Machine (StatQuest and Summary)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/11%20-%20Support%20Vector%20Machine.md)
-  * [Support Vector Machine and Kernel Tricks (StatQuest)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/SupportVectorMachine2.pdf)
-  * [SVM - Polynomial Kernel](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/SVM_Polynomial%20Kernel.pdf)
-  * [SVM - Radial Basis Function (RBF) Kernel](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/RBF%20kernel.pdf)
-  * [SVM - Q & A](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/SVM%20QA.md)
-* [SVM Detail](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Support%20Vector%20Machine%20Detail.md)
-* [SVM Soft Margin and Kernel Tricks (kernel function is used to measure the similarity of two input vectors, it is just the dot production of two transformed input vectors)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/SVM%20Soft%20Margin%20and%20Kernel%20Tricks.md)
-* [SVM for Regression](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/SVR.md)
-* [SVM for Anomaly Detection - Novelty Detection (One Class SVM)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/OneClassSVM.md)
-  * [Python Code for one class SVM](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/06_One_Class_Support_Vector_Machine_(SVM)_For_Anomaly_Detection.ipynb)
+* [Support Vector Machine (StatQuest and Summary)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Machine%20Learning/machine_learning_models/svm/Support_Vector_Machine.md)
+* [Support Vector Machine and Kernel Tricks (StatQuest)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Machine%20Learning/machine_learning_models/svm/SupportVectorMachine2.pdf)
+* [SVM - Polynomial Kernel](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Machine%20Learning/machine_learning_models/svm/SVM_Polynomial_Kernel.pdf)
+* [SVM - Radial Basis Function (RBF) Kernel](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Machine%20Learning/machine_learning_models/svm/RBF_kernel.pdf)
+* [SVM - Q & A](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Machine%20Learning/machine_learning_models/svm/SVM_QA.md)
+* [SVM Detail](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Machine%20Learning/machine_learning_models/svm/Support_Vector_Machine_Detail.md)
+* [SVM Soft Margin and Kernel Tricks (kernel function is used to measure the similarity of two input vectors, it is just the dot production of two transformed input vectors)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Machine%20Learning/machine_learning_models/svm/SVM_Soft_Margin_and_Kernel_Tricks.md)
+* [SVM for Regression](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Machine%20Learning/machine_learning_models/svm/SVR.md)
+* [SVM for Anomaly Detection - Novelty Detection (One Class SVM)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Machine%20Learning/machine_learning_models/svm/OneClassSVM.md)
+* [Python Code for one class SVM](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Machine%20Learning/machine_learning_models/svm/One_Class_Support_Vector_Machine_(SVM)_For_Anomaly_Detection.ipynb)
 
 ## 6. Decision Tree
 * [Classification and Regression Trees (CART)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/10%20-%20Classification%20and%20Regression%20Trees.md)
