@@ -70,9 +70,9 @@
 * [Python Code for one class SVM](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Machine%20Learning/machine_learning_models/svm/One_Class_Support_Vector_Machine_(SVM)_For_Anomaly_Detection.ipynb)
 
 ## 6. Decision Tree
-* [Classification and Regression Trees (CART)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/10%20-%20Classification%20and%20Regression%20Trees.md)
-* [Decision Tree Introduction](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Decision%20Tree%20Introduction.md)
-* [Tree Pruning (the Alpha is selected by Hyperparameter Tuning Techinque)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Pruning%20the%20tree%20model.md)
+* [Classification and Regression Trees (CART)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Machine%20Learning/machine_learning_models/decision_tree/Classification_and_Regression_Trees.md)
+* [Decision Tree Introduction](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Machine%20Learning/machine_learning_models/decision_tree/Decision_Tree_Introduction.md)
+* [Tree Pruning (the Alpha is selected by Hyperparameter Tuning Techinque)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Machine%20Learning/machine_learning_models/decision_tree/Pruning_the_tree_model.md)
 
 ## 7. Ensemble Learning (集成学习)
 
