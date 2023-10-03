@@ -19,4 +19,4 @@ Model building and testing:
 2. Using the optimal alpha found in cross validation process to select the best tree model with lowest tree score
 3. Using the test dataset to check the model performance
 
-https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/prunning.pdf
+For Details: https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Machine%20Learning/machine_learning_models/decision_tree/prunning.pdf

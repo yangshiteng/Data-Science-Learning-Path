@@ -8,6 +8,6 @@
 * Step 6: If we still have core points left, randomly pick a remaining core point as the second cluster, and follow above steps to create the second cluster
 * Step 7: Keep creating cluster until no core points left, the remaining non-core points are viewed as outliers
 
-[DBSCAN Detail](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/DBSCAN.pdf)
+[DBSCAN Detail](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Machine%20Learning/clustering_algorithm/DBSCAN.pdf)
 
 

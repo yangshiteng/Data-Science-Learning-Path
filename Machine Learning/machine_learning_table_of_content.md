@@ -97,15 +97,15 @@
 
 ### 7.4 Ensemble Learning - Stacking
 
-* [Stacking with Random Forest and CatBoost](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/stacking%20with%20randomforest%20and%20catboost.md)
+* [Stacking with Random Forest and CatBoost](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Machine%20Learning/machine_learning_models/Ensemble_Learning/Stacking/stacking_with_randomforest_and_catboost.md)
 
 # Clustering Algorithm (Unsupervised Learning)
 
-* [K-means Clustering](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/K-means%20Clustering.md)
+* [K-means Clustering](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Machine%20Learning/clustering_algorithm/K-means_Clustering.md)
 
-* [Hierarchical clustering](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Hierarchical%20Clustering.md)
+* [Hierarchical clustering](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Machine%20Learning/clustering_algorithm/Hierarchical_Clustering.md)
 
-* [DBSCAN](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/DBSCAN.md)
+* [DBSCAN](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Machine%20Learning/clustering_algorithm/DBSCAN.md)
 
 # Dimensionality Reduction
 
