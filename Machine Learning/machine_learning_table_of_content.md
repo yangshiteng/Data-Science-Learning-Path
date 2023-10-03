@@ -94,21 +94,10 @@
 
 * [Gradient Boost (梯度提升算法) (Residual-based boosting algorithm)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Machine%20Learning/machine_learning_models/Ensemble_Learning/Boosting/gradient_boost/table_of_content.md)
 
-#### 7.2.3 XGBoost (Implementation of Gradient Boost)
-  * [XGBoost for Regression](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/XGBoost%20for%20Regression.pdf)
-  * [XGBoost for Classification](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/XGBoost%20for%20Classification.pdf)
-  * [XGBoost Implementation Summary (Boosting Algorithm for Classification and Regression)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/XGBoost%20(Boosting%20Algorithm%20for%20Classification%20and%20Regression).md)
 
-#### 7.2.4 CatBoost (Implementation of Gradient Boost)
-  * [CatBoost - Introduction](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/catboost.md)
-  * [CatBoost - Parameters](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/CatBoost%20Parameters.md)
+### 7.4 Ensemble Learning - Stacking
 
-#### 7.2.5 LightGBM (Implementation of Gradient Boost)
-  * [LightGBM - Introduction](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/LightGBM.md)
-
-### 7.3 Ensemble Learning - Stacking
-
-  * [Stacking with Random Forest and CatBoost](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/stacking%20with%20randomforest%20and%20catboost.md)
+* [Stacking with Random Forest and CatBoost](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/stacking%20with%20randomforest%20and%20catboost.md)
 
 # Clustering Algorithm (Unsupervised Learning)
 
