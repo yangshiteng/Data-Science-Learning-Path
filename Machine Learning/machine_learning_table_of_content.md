@@ -84,15 +84,11 @@
 * [Bagging vs Boosting](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Machine%20Learning/machine_learning_models/Ensemble_Learning/Introduction/Bagging_vs_Boosting.md)
 * [Stacking 堆叠算法 (Stacked Generalization 堆叠泛化)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Machine%20Learning/machine_learning_models/Ensemble_Learning/Introduction/stacking.md)
 
-### 7.1 Ensemble Learning - Bagging
+### 7.2 Ensemble Learning - Bagging
 
-#### 7.1.1 Random Forest (随机森林)
-  * [Random Forest - Introduction](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/Random%20Forest.md)
-  * [Random Forest - Out of Bag Sample](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/outofbagsample.md)
-  * [Random Forest - How to build, evaluate and hyperparameter tuning](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/RandomForest.pdf)
-  * [Random Forest - Missing Data and Clustering (Proximity Matrix)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/TreemodelMissingdata.pdf)
+* [Random Forest (随机森林)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Machine%20Learning/machine_learning_models/Ensemble_Learning/Bagging/random_forest/table_of_content.md)
 
-### 7.2 Ensemble Learning - Boosting
+### 7.3 Ensemble Learning - Boosting
 
 #### 7.2.1 AdaBoost (Adaptive Boosting 自适应提升算法) (Weight-based boosting algorithm)
   * [AdaBoost - Introduction](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/AdaBoost%20Introduction.md)
