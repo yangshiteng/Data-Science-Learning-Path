@@ -22,7 +22,7 @@
   * [Group Concatenation (Concatenate Multiple rows in the same group into a single field)](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/SQL/Multiperow%20to%20one%20row.md)
   * [Window Function, Rank(), Dense_Rank(), Row_Number()](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/SQL/Window%20Function.md)
 ## 2. From (which table) 
-  * [Inner Join, Left Join, Right Join, Full Join](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/SQL_join.md)
+  * [Inner Join, Left Join, Right Join, Full Join](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/SQL/SQL_join.md)
   * [Self Join, Cross Join](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/SQL/self%20join.md)
 ## 3. Where (which rows)
   ### (can not be used with aggregate function)

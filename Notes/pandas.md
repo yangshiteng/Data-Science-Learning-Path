@@ -1,3 +1,0 @@
-# Pandas Basic
-
-[* Introduction]()
