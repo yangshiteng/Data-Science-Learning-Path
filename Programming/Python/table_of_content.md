@@ -1,14 +1,13 @@
 # Python Basics
 
-* [os module](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/python/os_module.md)
-* [Windows cmd Terminal Command](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/commoncommand.md)
-
+* [os module](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Programming/Python/python_basics/os_module.md)
+* [Windows cmd Terminal Command](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Programming/Python/python_basics/commoncommand.md)
 
 # Python Data Type
 
 * Python - Data Type Summary
-  * [Data Type Introduction](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/PythonCommonKnowledge.md)
-  * [List, Tuple, Set and Dictionary Summary](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/list%2Ctuple%2Cset%2Cdic.md)
+  * [Data Type Introduction](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Programming/Python/python_data_type/python_common_knowledge.md)
+  * [List, Tuple, Set and Dictionary Summary](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Programming/Python/python_data_type/list_tuple_set_dic.md)
 * Python Data Type - String
   * [Multi-line string](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/multi%20line%20string.md)
   * [String Concatenation](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/string%20contact.md)
