@@ -1,6 +1,6 @@
 # Tutorial (all code are under python 3.10)
 
-https://fastapi.tiangolo.com/
+[https://fastapi.tiangolo.com/](https://fastapi.tiangolo.com/tutorial/first-steps/)
 
 ![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/7be593d3-2758-4fcc-943a-d5977006c500)
 
