@@ -1,6 +1,6 @@
 # Tutorial (all code are under python 3.10)
 
-https://fastapi.tiangolo.com/
+[https://fastapi.tiangolo.com/](https://fastapi.tiangolo.com/tutorial/first-steps/)
 
 ![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/7be593d3-2758-4fcc-943a-d5977006c500)
 
@@ -125,7 +125,7 @@ https://fastapi.tiangolo.com/
 
 ![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/66daddc9-b3a2-4b35-abe2-320adc0f0753)
 
-## 7. Body Parameter (can also set up example request and response)
+## 7. Body Parameter (JSON format) (can also set up example request and response)
 
 ![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/e0dade89-2207-4991-a387-1f8853531cb4)
 
