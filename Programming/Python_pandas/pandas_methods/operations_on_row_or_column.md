@@ -77,3 +77,8 @@
 
 ![image](https://user-images.githubusercontent.com/60442877/232663798-2afc0e74-d32a-482a-a008-74ac1e325500.png)
 
+# filter()
+
+![image](https://user-images.githubusercontent.com/60442877/232359430-5536ee2f-fd1f-40eb-9466-3a6754e6a75b.png)
+
+![image](https://user-images.githubusercontent.com/60442877/232360255-316203ee-0781-4953-b9cf-0d90d1ded429.png)
