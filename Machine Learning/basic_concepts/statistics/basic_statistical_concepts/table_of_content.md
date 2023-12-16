@@ -1,6 +1,6 @@
 # Basics
 
-[Fundamental Concepts in Statistics](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Machine%20Learning/basic_concepts/statistics/basic_statistical_concepts/files/Fundamental_Concepts_in_Statistics.md)
+[Fundamental Concepts in Statistics - From StatQuest](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Machine%20Learning/basic_concepts/statistics/basic_statistical_concepts/files/Fundamental_Concepts_in_Statistics.md)
 
 [Histogram](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Machine%20Learning/basic_concepts/statistics/basic_statistical_concepts/files/Histogram.md)
 
