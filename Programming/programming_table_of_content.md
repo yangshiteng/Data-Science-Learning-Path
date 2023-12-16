@@ -8,8 +8,8 @@
 
 * [SQL](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Programming/SQL/SQL_table_of_content.md)
 
-* [Vistual Studio Code](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/files/vscode/vscode.md)
+* [Vistual Studio Code](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Programming/VScode/vscode.md)
 
-* [FastAPI (backend)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/files/fastapi/fastapi.md)
+* [FastAPI (backend)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Programming/FastAPI/fastapi.md)
 
-* [GitHub Pages](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/files/github/github_things.md)
+* [GitHub Pages](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Programming/Github/github_things.md)
