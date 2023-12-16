@@ -6,7 +6,7 @@
 
 [What is mathematical model - From StatQuest](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Machine%20Learning/basic_concepts/statistics/basic_statistical_concepts/files/What_is_mathematical_model.md)
 
-[Sampling from a Distribution](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Machine%20Learning/basic_concepts/statistics/basic_statistical_concepts/files/Sampling_from_a_Distribution.md)
+[Sampling from a Distribution - From StatQuest](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Machine%20Learning/basic_concepts/statistics/basic_statistical_concepts/files/Sampling_from_a_Distribution.md)
 
 [Population and Estimated Parameters](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Machine%20Learning/basic_concepts/statistics/basic_statistical_concepts/files/Population_and_Estimated_Parameters.md)
 
