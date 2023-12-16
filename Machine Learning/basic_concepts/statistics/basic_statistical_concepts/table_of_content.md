@@ -8,7 +8,7 @@
 
 [Sampling from a Distribution - From StatQuest](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Machine%20Learning/basic_concepts/statistics/basic_statistical_concepts/files/Sampling_from_a_Distribution.md)
 
-[Population and Estimated Parameters](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Machine%20Learning/basic_concepts/statistics/basic_statistical_concepts/files/Population_and_Estimated_Parameters.md)
+[Population and Estimated Parameters - From StatQuest](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Machine%20Learning/basic_concepts/statistics/basic_statistical_concepts/files/Population_and_Estimated_Parameters.md)
 
 [Confidence Interval](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Machine%20Learning/basic_concepts/statistics/basic_statistical_concepts/files/Confidence_Interval.md)
 
