@@ -6,7 +6,12 @@
 
 [Cloud Computing - AWS](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/AWS/AWS.md)
 
+# Learning Source
 
+1. [W3School](https://www.w3schools.com/)
+2. [StatQuest](https://statquest.org/)
+3. [StatQuest Youtube](https://www.youtube.com/@statquest)
+   
 
 
 
