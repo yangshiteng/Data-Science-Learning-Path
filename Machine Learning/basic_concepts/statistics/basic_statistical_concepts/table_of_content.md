@@ -48,6 +48,13 @@
 
 [The Mean, Variance and Standard Deviation (StatQuest) (sample variance vs population variance)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Machine%20Learning/basic_concepts/statistics/basic_statistical_concepts/files/Mean_Variance_Standard_Deviation.md)
 
+# About Estimator
+
+[Convergence in Probability]()
+
+[What is Consistent Estimator](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Machine%20Learning/basic_concepts/statistics/basic_statistical_concepts/files/consistent_estimator.md)
+
+
 # Statistical Theorem
 
 [Central Limit Theorem](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Machine%20Learning/basic_concepts/statistics/basic_statistical_concepts/files/Central_Limit_Theorem.md)
