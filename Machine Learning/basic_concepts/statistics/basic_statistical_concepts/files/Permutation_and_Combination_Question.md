@@ -24,16 +24,14 @@
 
 ![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/28f2a6f1-d0a5-4643-af8b-da35db88f227)
 
+# Combination-based Questions
 
-
-
-
-Question 1:
+## 1. Full Game
 
 Google: Two teams play a series of games (best of 7, whoever wins 4 games first) in which each team has a 50% chance of winning any given round (no draws allowed). What is the probability that the series goes to 7 games?
 
-For the series to go to 7 games, each team must have won exactly three times for the first 6 games, an occurrence having probability
+![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/c9902085-2782-4d03-ad28-e603ee4fb3a4)
 
-![image](https://user-images.githubusercontent.com/60442877/192422763-d2a942b7-b312-483a-a1ef-b5f728947e0b.png)
+![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/6fb68c9e-d07f-4130-a315-317b17d64fe9)
 
-where the numerator is the number of ways of splitting up 3 games won by either side, and the denominator is the total number of possible outcomes of 6 games.
+![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/c9199ea8-457b-4841-8fed-1e1d4d20f347)
