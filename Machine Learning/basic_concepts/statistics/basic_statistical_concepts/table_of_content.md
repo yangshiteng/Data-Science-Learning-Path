@@ -38,7 +38,7 @@
 
 [Extremum Estimator](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Machine%20Learning/basic_concepts/statistics/basic_statistical_concepts/files/Extremum_Estimator.md)
 
-[Continuity Correction](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Machine%20Learning/basic_concepts/statistics/basic_statistical_concepts/files/Continuity_Correction.md)
+[Continuity Correction (approximate discrete distribution with continuous distribution)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Machine%20Learning/basic_concepts/statistics/basic_statistical_concepts/files/Continuity_Correction.md)
 
 [Sampling Distribution](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Machine%20Learning/basic_concepts/statistics/basic_statistical_concepts/files/sampling_distribution.md)
 
