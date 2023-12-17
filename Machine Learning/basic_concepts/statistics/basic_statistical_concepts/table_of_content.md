@@ -16,7 +16,7 @@
 
 [Covariance and Correlation - From StatQuest](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Machine%20Learning/basic_concepts/statistics/basic_statistical_concepts/files/Covariance_and_Correlation.md)
 
-[Standard Deviation vs Standard Error](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Machine%20Learning/basic_concepts/statistics/basic_statistical_concepts/files/Standard_Deviation_vs_Standard_Error.md)
+[Standard Deviation vs Standard Error - From StatQuest](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Machine%20Learning/basic_concepts/statistics/basic_statistical_concepts/files/Standard_Deviation_vs_Standard_Error.md)
 
 [Technical, Biological Replicates and effective sample size](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Machine%20Learning/basic_concepts/statistics/basic_statistical_concepts/files/Technical_and_Biological_Replicates.md)
 
