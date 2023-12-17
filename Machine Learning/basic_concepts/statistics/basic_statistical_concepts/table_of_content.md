@@ -50,7 +50,7 @@
 
 # About Estimator
 
-[Convergence in Probability]()
+[Convergence in Probability](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Machine%20Learning/basic_concepts/statistics/basic_statistical_concepts/files/converge_in_probability.md)
 
 [What is Consistent Estimator](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Machine%20Learning/basic_concepts/statistics/basic_statistical_concepts/files/consistent_estimator.md)
 
