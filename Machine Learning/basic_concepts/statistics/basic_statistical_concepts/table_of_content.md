@@ -44,10 +44,6 @@
 
 [Maximum A Posteriori (MAP)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Machine%20Learning/basic_concepts/statistics/basic_statistical_concepts/files/MAP.md)
 
-[Statistical Plot](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Machine%20Learning/basic_concepts/statistics/basic_statistical_concepts/files/Statistical_Plot.md)
-
-[Permutation and Combination](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Machine%20Learning/basic_concepts/statistics/basic_statistical_concepts/files/Permutation_and_Combination.md)
-
 [P-value (StatQuest)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Machine%20Learning/basic_concepts/statistics/basic_statistical_concepts/files/P-value.md)
 
 [The Mean, Variance and Standard Deviation (StatQuest) (sample variance vs population variance)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Machine%20Learning/basic_concepts/statistics/basic_statistical_concepts/files/Mean_Variance_Standard_Deviation.md)
@@ -59,3 +55,11 @@
 [Bayes' Theorem](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Machine%20Learning/basic_concepts/statistics/basic_statistical_concepts/files/BayesTheorem.md)
 
 [Law of Large Number, Total Probability, Expectation, Variance and Covariance](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Machine%20Learning/basic_concepts/statistics/basic_statistical_concepts/files/Law_of_Total_Probability_Expectation_Variance_and_Covariance.md)
+
+# Statistical Plot
+
+[Statistical Plot](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Machine%20Learning/basic_concepts/statistics/basic_statistical_concepts/files/Statistical_Plot.md)
+
+# Permutation and Combination
+
+[Permutation and Combination](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Machine%20Learning/basic_concepts/statistics/basic_statistical_concepts/files/Permutation_and_Combination.md)
