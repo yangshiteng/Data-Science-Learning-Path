@@ -1,4 +1,9 @@
-# Question 1:
+# Permutation-based Questions
+
+
+
+
+Question 1:
 
 Google: Two teams play a series of games (best of 7, whoever wins 4 games first) in which each team has a 50% chance of winning any given round (no draws allowed). What is the probability that the series goes to 7 games?
 
