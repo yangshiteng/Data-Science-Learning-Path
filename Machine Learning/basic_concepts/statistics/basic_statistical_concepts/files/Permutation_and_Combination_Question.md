@@ -1,6 +1,12 @@
 # Permutation-based Questions
 
-1. Rearrangement of Letters: "How many distinct ways can you rearrange the letters in the word 'STATISTICS'?"
+## Permutation with repeated items
+
+![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/9600a979-5f3c-4cc4-ae36-2eb12e23d238)
+
+![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/7d930217-70ac-4120-98db-39f319b3b86d)
+
+![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/1dfab870-a67e-489a-973b-b5ad7e4e3b83)
 
 
 
