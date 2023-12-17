@@ -62,6 +62,6 @@
 
 # Permutation and Combination
 
-[Permutation and Combination Introduction]()
+[Permutation and Combination Introduction](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Machine%20Learning/basic_concepts/statistics/basic_statistical_concepts/files/permutation_combination.md)
 
 [Permutation and Combination Interview Questions](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Machine%20Learning/basic_concepts/statistics/basic_statistical_concepts/files/Permutation_and_Combination.md)
