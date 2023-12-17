@@ -10,7 +10,7 @@
 
 [Population and Estimated Parameters - From StatQuest](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Machine%20Learning/basic_concepts/statistics/basic_statistical_concepts/files/Population_and_Estimated_Parameters.md)
 
-[Confidence Interval](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Machine%20Learning/basic_concepts/statistics/basic_statistical_concepts/files/Confidence_Interval.md)
+[Confidence Interval - From StatQuest](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Machine%20Learning/basic_concepts/statistics/basic_statistical_concepts/files/Confidence_Interval.md)
 
 [Sample Variance - From StatQuest - Explain why divide by n-1](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Machine%20Learning/basic_concepts/statistics/basic_statistical_concepts/files/Sample_Variance.md)
 
