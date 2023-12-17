@@ -14,7 +14,7 @@
 
 [Sample Variance - From StatQuest - Explain why divide by n-1](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Machine%20Learning/basic_concepts/statistics/basic_statistical_concepts/files/Sample_Variance.md)
 
-[Covariance and Pearson's Correlation](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Machine%20Learning/basic_concepts/statistics/basic_statistical_concepts/files/Covariance_and_Correlation.md)
+[Covariance and Correlation - From StatQuest](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Machine%20Learning/basic_concepts/statistics/basic_statistical_concepts/files/Covariance_and_Correlation.md)
 
 [Standard Deviation vs Standard Error](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Machine%20Learning/basic_concepts/statistics/basic_statistical_concepts/files/Standard_Deviation_vs_Standard_Error.md)
 
