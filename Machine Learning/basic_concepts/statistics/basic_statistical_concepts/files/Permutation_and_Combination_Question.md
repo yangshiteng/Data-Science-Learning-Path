@@ -1,12 +1,18 @@
 # Permutation-based Questions
 
-## Permutation with repeated items
+## 1. Permutation with repeated items
 
 ![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/9600a979-5f3c-4cc4-ae36-2eb12e23d238)
 
 ![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/7d930217-70ac-4120-98db-39f319b3b86d)
 
 ![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/1dfab870-a67e-489a-973b-b5ad7e4e3b83)
+
+## 2. Circular Permutation - order matters but starting point does not
+
+![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/c7f4ad2f-3b0b-4889-8505-050a19bc3dc1)
+
+![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/308178b0-9999-4cee-950a-e96948db7d6b)
 
 
 
