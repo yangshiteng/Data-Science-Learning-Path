@@ -1,5 +1,6 @@
 # Permutation-based Questions
 
+1. Rearrangement of Letters: "How many distinct ways can you rearrange the letters in the word 'STATISTICS'?"
 
 
 
