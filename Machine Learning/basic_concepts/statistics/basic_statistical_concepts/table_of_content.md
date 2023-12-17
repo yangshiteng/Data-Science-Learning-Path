@@ -30,8 +30,6 @@
 
 [QuantileQuantile Plot (QQ plot)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Machine%20Learning/basic_concepts/statistics/basic_statistical_concepts/files/QQ_plot.md)
 
-[Quantile Normalization](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Machine%20Learning/basic_concepts/statistics/basic_statistical_concepts/files/Quantile_Normalization.md)
-
 [Maximum Likelihood](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Machine%20Learning/basic_concepts/statistics/basic_statistical_concepts/files/Maximum_Likelihood.md)
 
 [Extremum Estimator](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Machine%20Learning/basic_concepts/statistics/basic_statistical_concepts/files/Extremum_Estimator.md)
