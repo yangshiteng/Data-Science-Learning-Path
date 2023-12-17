@@ -10,9 +10,21 @@
 
 ## 2. Circular Permutation - order matters but starting point does not
 
+![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/fda59f55-68fb-4952-aa8f-ddc715395231)
+
 ![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/c7f4ad2f-3b0b-4889-8505-050a19bc3dc1)
 
 ![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/308178b0-9999-4cee-950a-e96948db7d6b)
+
+## 3. Permutation Without Replacement
+
+![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/5bd56508-4f7c-41bf-a6ec-986316aa2ddf)
+
+![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/0b6c051c-1114-47b1-bddf-0840cb2fab70)
+
+![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/28f2a6f1-d0a5-4643-af8b-da35db88f227)
+
+
 
 
 
