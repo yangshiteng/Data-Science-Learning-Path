@@ -30,7 +30,11 @@
 
 [QuantileQuantile Plot (QQ plot)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Machine%20Learning/basic_concepts/statistics/basic_statistical_concepts/files/QQ_plot.md)
 
-[Maximum Likelihood](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Machine%20Learning/basic_concepts/statistics/basic_statistical_concepts/files/Maximum_Likelihood.md)
+[Convergence in Probability](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Machine%20Learning/basic_concepts/statistics/basic_statistical_concepts/files/converge_in_probability.md)
+
+[What is Consistent Estimator](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Machine%20Learning/basic_concepts/statistics/basic_statistical_concepts/files/consistent_estimator.md)
+
+[Maximum Likelihood Estimation](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Machine%20Learning/basic_concepts/statistics/basic_statistical_concepts/files/Maximum_Likelihood.md)
 
 [Extremum Estimator](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Machine%20Learning/basic_concepts/statistics/basic_statistical_concepts/files/Extremum_Estimator.md)
 
@@ -47,13 +51,6 @@
 [P-value (StatQuest)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Machine%20Learning/basic_concepts/statistics/basic_statistical_concepts/files/P-value.md)
 
 [The Mean, Variance and Standard Deviation (StatQuest) (sample variance vs population variance)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Machine%20Learning/basic_concepts/statistics/basic_statistical_concepts/files/Mean_Variance_Standard_Deviation.md)
-
-# About Estimator
-
-[Convergence in Probability](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Machine%20Learning/basic_concepts/statistics/basic_statistical_concepts/files/converge_in_probability.md)
-
-[What is Consistent Estimator](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Machine%20Learning/basic_concepts/statistics/basic_statistical_concepts/files/consistent_estimator.md)
-
 
 # Statistical Theorem
 
