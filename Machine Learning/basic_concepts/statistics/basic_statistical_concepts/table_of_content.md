@@ -54,7 +54,9 @@
 
 [Bayes' Theorem](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Machine%20Learning/basic_concepts/statistics/basic_statistical_concepts/files/BayesTheorem.md)
 
-[Law of Large Number, Total Probability, Expectation, Variance and Covariance](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Machine%20Learning/basic_concepts/statistics/basic_statistical_concepts/files/Law_of_Total_Probability_Expectation_Variance_and_Covariance.md)
+[Law of Large Numbers (LLN)]()
+
+[Law of Total Probability, Expectation, Variance and Covariance](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Machine%20Learning/basic_concepts/statistics/basic_statistical_concepts/files/Law_of_Total_Probability_Expectation_Variance_and_Covariance.md)
 
 # Statistical Plot
 
