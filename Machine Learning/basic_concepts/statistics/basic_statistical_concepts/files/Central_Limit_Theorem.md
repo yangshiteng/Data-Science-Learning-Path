@@ -1,3 +1,11 @@
+![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/5b7010f7-cbda-43f6-8da4-aa13ab98a9f3)
+
+![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/66957af3-5f03-4f37-98d2-23ec3ace6991)
+
+![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/50840ebd-713f-443d-88f5-97fb0840962f)
+
+![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/35777d5a-85c9-4f94-bb56-0c99bc1f5bdd)
+
 ![image](https://user-images.githubusercontent.com/60442877/188340779-6561583f-a337-4ccc-b54b-42b60d1ae6ad.png)
 
 ![image](https://user-images.githubusercontent.com/60442877/188340829-ef21ae24-527b-4776-b0f4-8d8722758265.png)
@@ -18,4 +26,3 @@
 
 ![image](https://user-images.githubusercontent.com/60442877/188341136-0d1487d1-0b9c-45f4-b8d3-575120c54497.png)
 
-![image](https://user-images.githubusercontent.com/60442877/188341487-b93e2d72-50dc-4ffe-9b55-59cda578493e.png)
