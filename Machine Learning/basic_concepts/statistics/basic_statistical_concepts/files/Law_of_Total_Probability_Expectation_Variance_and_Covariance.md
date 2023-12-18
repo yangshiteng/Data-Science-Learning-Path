@@ -1,10 +1,3 @@
-# Law of Large Number
-
-![image](https://user-images.githubusercontent.com/60442877/192124792-9db0d72f-b938-435b-ab9a-d5ac58482e57.png)
-
-![image](https://user-images.githubusercontent.com/60442877/192124801-aac8e9b4-a3aa-419d-8053-8aebdebacff4.png)
-
-
 # Law of Total Probablity
 
 ![image](https://user-images.githubusercontent.com/60442877/189026286-6a6a937e-2fe2-4295-904f-88fc73589b48.png)
