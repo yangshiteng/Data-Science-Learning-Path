@@ -32,7 +32,7 @@
 
 [Convergence in Probability](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Machine%20Learning/basic_concepts/statistics/basic_statistical_concepts/files/converge_in_probability.md)
 
-[Convergence almost surely]()
+[Convergence almost surely](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Machine%20Learning/basic_concepts/statistics/basic_statistical_concepts/files/convergence_almost_sure.md)
 
 [What is Consistent Estimator](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Machine%20Learning/basic_concepts/statistics/basic_statistical_concepts/files/consistent_estimator.md)
 
