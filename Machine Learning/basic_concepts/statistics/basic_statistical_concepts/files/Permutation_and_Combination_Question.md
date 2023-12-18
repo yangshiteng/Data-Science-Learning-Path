@@ -36,9 +36,17 @@ Google: Two teams play a series of games (best of 7, whoever wins 4 games first)
 
 ![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/c9199ea8-457b-4841-8fed-1e1d4d20f347)
 
+## 2. Password 
+
+![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/bed9b5ab-5a8f-4fbc-b464-98691053bc41)
+
+![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/21fa3ec1-80da-42e3-ae67-e645f09ca62e)
+
+![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/e5742b43-581c-4272-90b9-e127ab249583)
+
 # Mixed Problems (Both Permutations and Combinations)
 
-## Combination First, Permutation Later
+## 1. Combination First, Permutation Later
 
 ![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/99459e13-9ef8-49be-94e5-39cec3c37381)
 
@@ -48,7 +56,7 @@ Google: Two teams play a series of games (best of 7, whoever wins 4 games first)
 
 ![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/3adcbc31-ccf3-4577-a7ef-8501b3aabb3e)
 
-## Distribution Problem
+## 2. Distribution Problem
 
 ![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/b72775e8-6491-498b-923d-a4f4024c9e8e)
 
