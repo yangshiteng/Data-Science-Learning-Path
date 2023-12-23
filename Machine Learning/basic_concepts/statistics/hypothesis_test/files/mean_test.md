@@ -1,4 +1,4 @@
-# One Sample Student's t-test (z-test if we know the population standard deviation)
+# 1. One Sample Student's t-test (z-test if we know the population standard deviation)
 
 Tests whether an unknown populaton mean is different from a specific value
 
@@ -9,7 +9,7 @@ Tests whether an unknown populaton mean is different from a specific value
 
 ![image](https://user-images.githubusercontent.com/60442877/192124843-8392a5ee-cff2-48a6-bef6-70674ff07913.png)
 
-# Two Sample Student's t-test
+# 2. Two Sample Student's t-test
 
 Tests whether the population means of two independent samples are significantly different.
 
@@ -22,11 +22,11 @@ Tests whether the population means of two independent samples are significantly 
 
 ![image](https://user-images.githubusercontent.com/60442877/190537867-0bbb42e6-8242-41fc-97fc-755f9de3bd35.png)
 
-# Paired Student's t-test
+# 3. Paired Student's t-test
 
 ![image](https://user-images.githubusercontent.com/60442877/190540371-f8fbb1d3-5a13-4ffa-bb3e-200678f04477.png)
 
-# One-Way ANOVA (Analysis of Variance)
+# 4. One-Way ANOVA (Analysis of Variance)
 
 Tests whether the population means of two or more independent samples are significantly different.
 
