@@ -13,7 +13,7 @@
 
 [Population Variance Test](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Machine%20Learning/basic_concepts/statistics/hypothesis_test/files/variance_test.md)
 
-[Proportion Test](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Machine%20Learning/basic_concepts/statistics/hypothesis_test/files/Proportion_Test.md)
+[Population Proportion Test](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Machine%20Learning/basic_concepts/statistics/hypothesis_test/files/Proportion_Test.md)
 
 [Likelihood Ratio Test](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Machine%20Learning/basic_concepts/statistics/hypothesis_test/files/likelihood_ratio_test.md)
 
