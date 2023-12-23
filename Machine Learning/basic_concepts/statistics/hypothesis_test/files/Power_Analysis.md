@@ -1,7 +1,7 @@
 # Power Analysis
 
 * We can always take more samples to improve the power of a test
-* The power is the probabiity of correctly rejecting the null hypothesis
+* The power is the probabiity of rejecting the null hypothesis given the fact that the Null hypothesis is False
 * A power analysis determines what sample size can ensure a high probability that we correctly reject the null hypothesis
 * In other words, if we use the sample size recommend by the Power Analysis, we will know that, regardless of the p-value, we used enough data to make a good decision
 
