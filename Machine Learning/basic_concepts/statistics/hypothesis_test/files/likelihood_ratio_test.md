@@ -12,4 +12,4 @@
 
 ![image](https://user-images.githubusercontent.com/60442877/188777280-60779068-6f9c-489d-bb3c-ed76a29ac6a5.png)
 
-Note: maximum can only be used for finite set of values, if the set of values is infinite, then, you may not find the maximum value. Thats why we use Supremum there.
+## Note: maximum can only be used for finite set of values, if the set of values is infinite, then, you may not find the maximum value. Thats why we use Supremum there.
