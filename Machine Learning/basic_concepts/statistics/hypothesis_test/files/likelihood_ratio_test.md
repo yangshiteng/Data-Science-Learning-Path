@@ -13,3 +13,9 @@
 ![image](https://user-images.githubusercontent.com/60442877/188777280-60779068-6f9c-489d-bb3c-ed76a29ac6a5.png)
 
 ## Note: maximum can only be used for finite set of values, if the set of values is infinite, then, you may not find the maximum value. Thats why we use Supremum there.
+
+![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/077df96b-536c-4672-9f70-3ccc62282e47)
+
+![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/91b85ca8-a431-450a-b129-99c583cb7833)
+
+![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/e50ae83d-9915-4811-9821-fa275df26cba)
