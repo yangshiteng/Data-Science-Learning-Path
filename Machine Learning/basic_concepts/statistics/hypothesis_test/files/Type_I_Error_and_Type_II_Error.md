@@ -1,5 +1,6 @@
 * Type I Error: false postive, the Null hypothesis is True, but we reject it
 * Type II Error： false negative, the Null hypothesis is False, but we accept it
+* Power: 1 - Type II Error, the Null hypothesis is False, and we reject it
 
 ![image](https://user-images.githubusercontent.com/60442877/190934190-46e719cd-1b14-481b-b514-3f02e63cc36a.png)
 
