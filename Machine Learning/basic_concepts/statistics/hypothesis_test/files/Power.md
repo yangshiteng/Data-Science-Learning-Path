@@ -1,4 +1,4 @@
-# Power: 1 - Type II error, the probabity of rejecting Null hypothesis given the fact that the Null hypothesis is wrong
+# Power: 1 - Type II error, the probabity of rejecting Null hypothesis given the fact that the Null hypothesis is False
 
 ![image](https://user-images.githubusercontent.com/60442877/191126198-8fd92ec7-db69-4c8d-bca5-c2625ad0ec3d.png)
 
