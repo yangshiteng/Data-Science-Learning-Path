@@ -9,17 +9,17 @@
 
 # Statistical Test
 
-[Likelihood Ratio Test](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Machine%20Learning/basic_concepts/statistics/hypothesis_test/files/likelihood_ratio_test.md)
-
-[Normality Test](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Machine%20Learning/basic_concepts/statistics/hypothesis_test/files/Normality_Test.md)
-
-[Linear or Monotonic Relationship Test](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Machine%20Learning/basic_concepts/statistics/hypothesis_test/files/Correlation_Test.md)
-
 [Mean Test](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Machine%20Learning/basic_concepts/statistics/hypothesis_test/files/mean_test.md)
 
 [Variance Test](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Machine%20Learning/basic_concepts/statistics/hypothesis_test/files/variance_test.md)
 
 [Proportion Test](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Machine%20Learning/basic_concepts/statistics/hypothesis_test/files/Proportion_Test.md)
+
+[Likelihood Ratio Test](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Machine%20Learning/basic_concepts/statistics/hypothesis_test/files/likelihood_ratio_test.md)
+
+[Normality Test](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Machine%20Learning/basic_concepts/statistics/hypothesis_test/files/Normality_Test.md)
+
+[Linear or Monotonic Relationship Test](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Machine%20Learning/basic_concepts/statistics/hypothesis_test/files/Correlation_Test.md)
 
 [A/B Test](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Machine%20Learning/basic_concepts/statistics/hypothesis_test/files/AB_Test.md)
 
