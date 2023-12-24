@@ -56,6 +56,14 @@
 
 ![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/0655ddaa-3134-4f59-be28-3a0c9b717fa9)
 
+# Difference
+
+![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/ece258cc-e327-4bba-9ae0-6f78270abc96)
+
+![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/828872f5-b13d-460e-9d6d-9534e9d80067)
+
+![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/859afda1-da53-4a2b-ae14-36e55f3b07d2)
+
 
 # Kendall's Rank Correlation
 
