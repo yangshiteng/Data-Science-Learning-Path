@@ -1,7 +1,3 @@
-![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/2eb0a29b-5744-4ed5-a1dc-e4d21e52f9b1)
-
-![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/c960db93-4776-49fb-a557-69b1ba2aa1f0)
-
 # 1. Shapiro-Wilk Test for Normality (small to medium dataset)
 
 ![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/5c2ce78a-b8ca-404f-9ff2-af5e542f5231)
@@ -94,4 +90,20 @@
 
 ![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/57824c7b-8f77-450f-a807-302bc0ad40f7)
 
+# 4. Q-Q (Quantile-Quantile) Plot for Normality Test (can also test for any other distribution)
 
+![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/1df3182b-a48d-46de-92c4-9c5cb88dbc14)
+
+    import numpy as np
+    import statsmodels.api as sm
+    import matplotlib.pyplot as plt
+    
+    # Generate sample data (normal distribution for illustration)
+    data = np.random.normal(loc=0, scale=1, size=100)
+    
+    # Generate a Q-Q plot
+    sm.qqplot(data, line ='45')
+    plt.title("Q-Q Plot")
+    plt.show()
+
+![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/9f0c2f58-67bc-44c7-bc71-4709f534b43e)
