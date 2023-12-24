@@ -21,6 +21,8 @@
 
 [Relationship Test For Two Continuous Variables](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Machine%20Learning/basic_concepts/statistics/hypothesis_test/files/Correlation_Test.md)
 
+[Relationship Test For Two Categorical Variables]()
+
 [A/B Test](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Machine%20Learning/basic_concepts/statistics/hypothesis_test/files/AB_Test.md)
 
 [Distribution Equality Test](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Machine%20Learning/basic_concepts/statistics/hypothesis_test/files/Distribution_Equality_Test.md)
