@@ -2,7 +2,7 @@
 
 ![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/c960db93-4776-49fb-a557-69b1ba2aa1f0)
 
-# 1. Shapiro-Wilk Test for Normality
+# 1. Shapiro-Wilk Test for Normality (small to medium dataset)
 
 ![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/5c2ce78a-b8ca-404f-9ff2-af5e542f5231)
 
@@ -26,7 +26,7 @@
 
 ![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/4acc34ec-bebf-40e1-9470-536b4b2db9ec)
 
-# 2. Kolmogorov-Smirnov Test (K-S Test) for Normality (can also test for any other distribution)
+# 2. Kolmogorov-Smirnov Test (K-S Test) for Normality (can also test for any other distribution) (larger dataset)
 
 ![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/66ac63da-adde-4812-b1b9-a550e121dac9)
 
