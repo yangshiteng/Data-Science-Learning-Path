@@ -50,6 +50,26 @@
 
 ![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/310a5b58-836c-46dc-aebe-324dc5d2a7ae)
 
+![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/4af0f950-dcbc-4390-a21c-7db5e9cc4518)
+
+    import numpy as np
+    from scipy import stats
+    
+    # Generate sample data from a normal distribution with mean=5 and standard deviation=3
+    data = np.random.normal(loc=5, scale=3, size=100)  # loc is mean, scale is standard deviation
+    
+    # Perform the Kolmogorov-Smirnov test against a normal distribution with mean=5 and std=3
+    d_statistic, p_value = stats.kstest(data, 'norm', args=(5, 3))
+    
+    # Interpret the results
+    alpha = 0.05
+    if p_value < alpha:
+        print(f"Reject the null hypothesis (p-value = {p_value:.3f}). Data does not seem to follow a normal distribution with mean 5 and std 3.")
+    else:
+        print(f"Fail to reject the null hypothesis (p-value = {p_value:.3f}). Data seems to follow a normal distribution with mean 5 and std 3.")
+
+![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/1ecff293-5bb5-4bdd-9a7f-137509a1e278)
+
 # 3. Lilliefors Test for Normality (modification of the Kolmogorov-Smirnov Test) (for unknown population mean and variance)
 
 ![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/0317d6a2-e766-41af-b134-ae77e7c0e171)
