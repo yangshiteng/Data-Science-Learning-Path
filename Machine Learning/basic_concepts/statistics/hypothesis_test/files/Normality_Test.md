@@ -50,5 +50,28 @@
 
 ![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/310a5b58-836c-46dc-aebe-324dc5d2a7ae)
 
+# 3. Lilliefors Test for Normality (modification of the Kolmogorov-Smirnov Test) (for unknown population mean and variance)
+
+![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/0317d6a2-e766-41af-b134-ae77e7c0e171)
+
+![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/47b16435-bacd-455b-943e-1237f0c8e59f)
+
+    import numpy as np
+    from statsmodels.stats.diagnostic import lilliefors
+    
+    # Sample data
+    data = np.random.normal(loc=0, scale=1, size=100)  # Generate 100 data points from a normal distribution
+    
+    # Perform Lilliefors test
+    d_statistic, p_value = lilliefors(data)
+    
+    # Interpret the results
+    alpha = 0.05
+    if p_value < alpha:
+        print(f"Reject the null hypothesis (p-value = {p_value:.3f}). Data does not seem to be normally distributed.")
+    else:
+        print(f"Fail to reject the null hypothesis (p-value = {p_value:.3f}). Data seems to be normally distributed.")
+
+![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/57824c7b-8f77-450f-a807-302bc0ad40f7)
 
 
