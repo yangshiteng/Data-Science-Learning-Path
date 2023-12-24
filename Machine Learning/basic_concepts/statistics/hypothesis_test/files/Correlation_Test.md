@@ -24,10 +24,33 @@
 
 ![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/d80f7194-5ee4-4b91-90f5-a9aa03edac63)
 
+# Spearman's Rank Correlation Coefficient
 
-# Spearman's Rank Correlation
+![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/3fba314e-dae9-404d-ac8f-e0b23263788d)
 
-![image](https://user-images.githubusercontent.com/60442877/190044284-5d843228-7d19-4bf4-8926-790f1de4d5ad.png)
+![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/2be791f2-07d0-4d74-84a0-c8d9aca60640)
+
+![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/2703b44b-084a-4f82-90ee-11aceda94a04)
+
+![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/40883023-1efa-4d52-8d06-7f8942681144)
+
+    import pandas as pd
+    from scipy.stats import spearmanr
+    
+    # Example data
+    X = [10, 20, 30, 40, 50]
+    Y = [5, 15, 25, 35, 45]
+    
+    # Calculate Spearman's rank correlation
+    rho, p_value = spearmanr(X, Y)
+    
+    print(f"Spearman's rank correlation coefficient: {rho}")
+    print(f"P-value: {p_value}")
+
+![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/0fcc858c-97bf-4bbb-806f-bdd931f98c94)
+
+![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/0655ddaa-3134-4f59-be28-3a0c9b717fa9)
+
 
 # Kendall's Rank Correlation
 
