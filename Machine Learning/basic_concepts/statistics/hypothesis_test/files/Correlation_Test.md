@@ -24,6 +24,11 @@
 
 ![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/d80f7194-5ee4-4b91-90f5-a9aa03edac63)
 
+![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/749425a4-6bdb-4280-8443-bcc8353663a0)
+
+![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/8ce1ca64-5487-47dc-a2c6-e63d8dbc00ef)
+
+
 # Spearman's Rank Correlation Coefficient
 
 ![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/3fba314e-dae9-404d-ac8f-e0b23263788d)
