@@ -48,6 +48,7 @@
     else:
         print(f"Fail to reject the null hypothesis (p-value = {p_value:.3f}). Data seems to follow a normal distribution.")
 
-![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/35b240ea-22cf-4400-b47e-88c1fb1fa553)
+![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/310a5b58-836c-46dc-aebe-324dc5d2a7ae)
+
 
 
