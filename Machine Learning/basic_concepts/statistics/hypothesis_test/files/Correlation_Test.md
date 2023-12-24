@@ -1,6 +1,29 @@
-# Pearson's Correlation Coefficient
+# Pearson Correlation Coefficient Test
 
-![image](https://user-images.githubusercontent.com/60442877/190044223-751f44a4-2665-42d1-8246-8d58b602f5d4.png)
+![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/aeace57a-53f3-4880-aa07-8a2615ec7a26)
+
+![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/93844427-c480-43f0-af79-01526b37b800)
+
+![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/0a0ee3cd-39c2-4c17-98ee-63648ca28fa7)
+
+    import numpy as np
+    import scipy.stats as stats
+    
+    # Generating two random sets of continuous data
+    np.random.seed(0) # For reproducibility
+    data1 = np.random.randn(100)  # 100 random numbers
+    data2 = np.random.randn(100)  # Another set of 100 random numbers
+    
+    # Calculating Pearson Correlation Coefficient and p-value
+    r, p_value = stats.pearsonr(data1, data2)
+    
+    print(f"Pearson Correlation Coefficient: {r}")
+    print(f"P-value: {p_value}")
+
+![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/58226417-d9fe-44aa-835d-d669474165ad)
+
+![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/d80f7194-5ee4-4b91-90f5-a9aa03edac63)
+
 
 # Spearman's Rank Correlation
 
