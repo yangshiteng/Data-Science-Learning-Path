@@ -35,3 +35,51 @@
 ![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/f5da0087-d0e8-4c89-8ec8-eec4d940ce0a)
 
 ![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/c2c1c8aa-c2a7-4ffc-9ca4-2b226628af28)
+
+# Fisher's Exact Test
+
+![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/647bdb15-9532-4558-8ba3-e1e64d9ac471)
+
+![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/522ebb97-781b-4fc0-87fe-16bb52448220)
+
+![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/147bd0b5-38ca-4610-98b7-84e4ac3396b3)
+
+![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/a9491713-e303-416a-8a01-8f2087efd86a)
+
+    from scipy.stats import fisher_exact
+    
+    # Hypothetical data in a 2x2 table
+    # Format: [[Treatment and Success, Treatment and Failure], [Control and Success, Control and Failure]]
+    data = [[8, 2], [1, 9]]
+    
+    # Performing Fisher's Exact Test
+    odds_ratio, p_value = fisher_exact(data)
+    
+    print("Odds Ratio:", odds_ratio)
+    print("P-value:", p_value)
+    
+    # Interpretation
+    alpha = 0.05
+    if p_value < alpha:
+        print("Reject the Null Hypothesis: There is a significant association between the variables.")
+    else:
+        print("Fail to Reject the Null Hypothesis: No significant association between the variables.")
+
+![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/753bafff-54f6-4cfd-8b26-f209e2729e55)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        
