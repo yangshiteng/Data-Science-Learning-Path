@@ -42,8 +42,6 @@
 
 # Fisher's Exact Test
 
-![image](https://user-images.githubusercontent.com/60442877/191397877-26544621-e70f-4d97-91fb-e26e371d0293.png)
-
 ![image](https://user-images.githubusercontent.com/60442877/192128655-d0ad68ef-91c8-416b-b98d-764616a4ab44.png)
 
 ![image](https://user-images.githubusercontent.com/60442877/192128659-7d187da0-aaa3-4a04-8879-cffb3fc3504e.png)
