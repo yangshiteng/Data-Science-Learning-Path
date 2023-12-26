@@ -42,6 +42,20 @@
 
 # Fisher's Exact Test
 
+![image](https://user-images.githubusercontent.com/60442877/191397877-26544621-e70f-4d97-91fb-e26e371d0293.png)
+
+![image](https://user-images.githubusercontent.com/60442877/192128655-d0ad68ef-91c8-416b-b98d-764616a4ab44.png)
+
+![image](https://user-images.githubusercontent.com/60442877/192128659-7d187da0-aaa3-4a04-8879-cffb3fc3504e.png)
+
+https://www.statology.org/fishers-exact-test-calculator/
+
+![image](https://user-images.githubusercontent.com/60442877/192128663-d02002c7-df1d-482a-800e-996bb5c206a1.png)
+
+![image](https://user-images.githubusercontent.com/60442877/192128680-e08f86d3-61ad-4ab7-8f35-d5aae9aeca51.png)
+
+![image](https://user-images.githubusercontent.com/60442877/192128688-f973b20c-a055-4b63-9003-981f578e2bc8.png)
+
 ![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/647bdb15-9532-4558-8ba3-e1e64d9ac471)
 
 ![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/522ebb97-781b-4fc0-87fe-16bb52448220)
