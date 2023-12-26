@@ -1,5 +1,9 @@
 # Chi-Squared Test of Independence
 
+![image](https://user-images.githubusercontent.com/60442877/192128552-fca7962f-1ef3-4282-9258-3c1d1e339f61.png)
+
+![image](https://user-images.githubusercontent.com/60442877/192128555-762caab2-a1b0-4eaf-9606-250072beff10.png)
+
 ![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/89e39318-7034-46ae-8bd1-59a54e6d6ef2)
 
 ![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/49af71d1-bee0-4ec5-b9b7-e8486b477205)
