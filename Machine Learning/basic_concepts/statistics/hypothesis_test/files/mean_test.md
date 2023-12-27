@@ -66,7 +66,7 @@
 
 # Two-Sample Population Mean Test
 
-## Two Sample Z-test
+## 1. Two Sample Z-test
 
 ![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/73083d59-e2ed-43d7-b7fa-e819fa463c00)
 
@@ -76,22 +76,12 @@
 
 ![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/9736140c-1b47-4561-bda7-b4e8bc668f01)
 
-## Two Sample Student's t-test (unpaired, equal variance)
+## Two Sample Student's t-test (unpaired)
+
+![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/138096e1-cae4-4ab5-8edd-8c2427472e23)
 
 
 
-# 2. Two Samples Student's t-test
-
-Tests whether the population means of two independent samples are significantly different.
-
-* H0: the means of the samples are equal.
-* H1: the means of the samples are unequal.
-
-![image](https://user-images.githubusercontent.com/60442877/190537511-9ed5da74-9ff6-49cf-ade1-c582125d1975.png)
-
-![image](https://user-images.githubusercontent.com/60442877/190537454-b79d9fe2-f9e5-453d-a2b5-0313f0c800a3.png)
-
-![image](https://user-images.githubusercontent.com/60442877/190537867-0bbb42e6-8242-41fc-97fc-755f9de3bd35.png)
 
 # 3. Paired Student's t-test
 
