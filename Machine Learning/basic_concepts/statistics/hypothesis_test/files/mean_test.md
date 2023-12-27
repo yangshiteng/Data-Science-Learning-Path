@@ -1,6 +1,6 @@
 # One-Sample Population Mean Test
 
-# 1. One-Sample Z-Test
+## 1. One-Sample Z-Test
 
 ![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/890a575b-a526-446d-8e47-31016fcf0db0)
 
