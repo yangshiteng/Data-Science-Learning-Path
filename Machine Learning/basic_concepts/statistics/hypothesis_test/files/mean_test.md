@@ -64,9 +64,9 @@
 
 ![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/7df3018b-f6ec-4471-aa01-08eb34cf270e)
 
-# Two-Sample Population Mean Test (unpaired data)
+# Two-Sample Population Mean Test 
 
-## 1. Two Sample Z-test
+## 1. Two Sample Z-test (unpaired data)
 
 ![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/73083d59-e2ed-43d7-b7fa-e819fa463c00)
 
@@ -76,14 +76,11 @@
 
 ![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/9736140c-1b47-4561-bda7-b4e8bc668f01)
 
-## 2. Two Sample Student's t-test
+## 2. Two Sample Student's t-test (unpaired data)
 
 ![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/138096e1-cae4-4ab5-8edd-8c2427472e23)
 
-
-
-
-# 3. Paired Student's t-test
+## 3. Two Sample Student's t-test (paired data)
 
 ![image](https://user-images.githubusercontent.com/60442877/190540371-f8fbb1d3-5a13-4ffa-bb3e-200678f04477.png)
 
