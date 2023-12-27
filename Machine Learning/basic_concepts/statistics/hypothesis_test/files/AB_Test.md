@@ -18,12 +18,35 @@
 
 ![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/85a2ac7b-e0bb-4fc4-b801-abecbf11b610)
 
-# Calculation Detail (Population is Bernolli)
+# Calculation Detail (Two Sample Proportion Z-test)
 
-![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/a6ffcfb6-f7db-4c9e-b7d3-f41e646d1c6c)
+![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/5a256d11-6fa8-4dcd-8b2c-793fff8b4891)
 
-![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/a15d8392-3756-42f2-a4f8-dd8ca73fc91c)
+![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/b87d615a-bb8b-47ff-a3d7-da73fd9b8408)
 
-![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/b8572b9f-ccd7-4116-b3c3-a0d0789a39e7)
+    import numpy as np
+    from scipy.stats import norm
+    
+    # Ad A data
+    clicks_a = 500
+    impressions_a = 10000
+    ctr_a = clicks_a / impressions_a
+    
+    # Ad B data
+    clicks_b = 600
+    impressions_b = 10000
+    ctr_b = clicks_b / impressions_b
+    
+    # Pooled CTR
+    pooled_ctr = (clicks_a + clicks_b) / (impressions_a + impressions_b)
+    
+    # Z-score calculation
+    z_score = (ctr_a - ctr_b) / np.sqrt(pooled_ctr * (1 - pooled_ctr) * (1/impressions_a + 1/impressions_b))
+    
+    # P-value
+    p_value = 2 * norm.sf(np.abs(z_score)) # Two-tailed test
+    
+    print(f"Z-score: {z_score}")
+    print(f"P-value: {p_value}")
 
-![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/ba549892-51e1-43ee-9a1d-5becf12259c5)
+![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/80813ff1-6fac-4464-8707-d56fc7b911d4)
