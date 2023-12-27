@@ -25,8 +25,6 @@
 
 [A/B Test](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Machine%20Learning/basic_concepts/statistics/hypothesis_test/files/AB_Test.md)
 
-[Distribution Equality Test](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Machine%20Learning/basic_concepts/statistics/hypothesis_test/files/Distribution_Equality_Test.md)
-
 # Multiple Testing Problem
 
 [P-hacking](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Machine%20Learning/basic_concepts/statistics/hypothesis_test/files/p-hacking.md)
