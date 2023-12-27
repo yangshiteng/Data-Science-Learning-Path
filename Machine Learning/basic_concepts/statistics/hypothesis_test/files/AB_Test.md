@@ -22,6 +22,8 @@
 
 ![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/a6ffcfb6-f7db-4c9e-b7d3-f41e646d1c6c)
 
+![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/a15d8392-3756-42f2-a4f8-dd8ca73fc91c)
+
 ![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/b8572b9f-ccd7-4116-b3c3-a0d0789a39e7)
 
 ![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/ba549892-51e1-43ee-9a1d-5becf12259c5)
