@@ -1,3 +1,32 @@
+# One-Sample Z-Test
+
+![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/890a575b-a526-446d-8e47-31016fcf0db0)
+
+![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/d09bb9fc-99be-4f8f-a923-5be5a9f6d414)
+
+![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/75d84035-4577-46b5-a94c-97436d152dce)
+
+![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/60084af4-b9ca-4987-809f-fcc1641c23db)
+
+    import math
+    
+    # Given values
+    sample_mean = 78
+    population_mean = 75
+    population_std = 10
+    sample_size = 50
+    
+    # Z-score calculation
+    z_score = (sample_mean - population_mean) / (population_std / math.sqrt(sample_size))
+    z_score
+    
+![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/22874d89-1f00-45b6-835a-c955530f05cd)
+
+
+
+
+
+
 # 1. One Sample Student's t-test (z-test if we know the population standard deviation)
 
 Tests whether an unknown populaton mean is different from a specific value
