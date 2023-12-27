@@ -25,12 +25,4 @@
 
 [A/B Test](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Machine%20Learning/basic_concepts/statistics/hypothesis_test/files/AB_Test.md)
 
-# Multiple Testing Problem
-
-[P-hacking](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Machine%20Learning/basic_concepts/statistics/hypothesis_test/files/p-hacking.md)
-
-[Familywise Error Rate (FWER) (controlled by Bonferroni Correction)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Machine%20Learning/basic_concepts/statistics/hypothesis_test/files/Familywise_Error_Rate.md)
-
-[False Discovery Rates (FDR) (controlled by Benjamini–Hochberg Method)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Machine%20Learning/basic_concepts/statistics/hypothesis_test/files/False_Discovery_Rate.md)
-
 
