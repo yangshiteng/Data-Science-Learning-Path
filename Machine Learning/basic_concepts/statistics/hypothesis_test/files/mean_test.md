@@ -64,13 +64,7 @@
 
 ![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/49308c55-3708-4f0b-b29f-f2b1290843fc)
 
-
-
-
-
-
-
-
+![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/9736140c-1b47-4561-bda7-b4e8bc668f01)
 
 
 # 2. Two Samples Student's t-test
