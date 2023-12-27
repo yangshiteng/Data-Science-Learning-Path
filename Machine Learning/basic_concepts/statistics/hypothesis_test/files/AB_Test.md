@@ -18,7 +18,7 @@
 
 ![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/85a2ac7b-e0bb-4fc4-b801-abecbf11b610)
 
-# Calculation Detail (Two Sample Proportion Z-test)
+# Calculation Detail (Two-Sample Population Proportion Test)
 
 ![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/5a256d11-6fa8-4dcd-8b2c-793fff8b4891)
 
