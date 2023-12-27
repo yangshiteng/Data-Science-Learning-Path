@@ -9,7 +9,7 @@ Tests whether an unknown populaton mean is different from a specific value
 
 ![image](https://user-images.githubusercontent.com/60442877/192124843-8392a5ee-cff2-48a6-bef6-70674ff07913.png)
 
-# 2. Two Sample Student's t-test
+# 2. Two Samples Student's t-test
 
 Tests whether the population means of two independent samples are significantly different.
 
