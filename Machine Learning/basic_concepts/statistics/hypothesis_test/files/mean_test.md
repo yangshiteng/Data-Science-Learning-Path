@@ -28,22 +28,37 @@
 
 ![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/a37a5750-b18f-4d24-bc6c-af17806ccc86)
 
+# One-Sample t-test
+
+![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/4720f8a3-0ea7-4e61-904a-d41b4aa81cfd)
+
+![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/ef25a44c-1666-41db-ab9f-947bb402e19a)
+
+![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/b1afeb15-786d-4148-b889-ce6bf1565a0b)
+
+![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/9ecf5e9d-8ba3-43e4-9765-3e4f6ebabc99)
+
+    import numpy as np
+    from scipy import stats
+    
+    # Given values
+    sample_mean = 78
+    sample_std = 10
+    sample_size = 20
+    population_mean = 75
+    
+    # Simulating sample data (assuming normal distribution)
+    np.random.seed(0)  # for reproducibility
+    sample_data = np.random.normal(loc=sample_mean, scale=sample_std, size=sample_size)
+    
+    # Calculate the t-score
+    t_score, p_value = stats.ttest_1samp(sample_data, population_mean)
+
+![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/f1f94a37-3e18-4dad-b0b1-42304d73b31d)
 
 
 
 
-
-
-# 1. One Sample Student's t-test (z-test if we know the population standard deviation)
-
-Tests whether an unknown populaton mean is different from a specific value
-
-* H0: the popluation mean is equal (or less than and equal) (or greater than and equal) to some specific value
-* H1: the population mean is not equal (or greater than) (or less than) to the specific value in H0 
-
-![image](https://user-images.githubusercontent.com/60442877/190534444-995b8638-7fe9-4706-aea3-e9f95fb88c49.png)
-
-![image](https://user-images.githubusercontent.com/60442877/192124843-8392a5ee-cff2-48a6-bef6-70674ff07913.png)
 
 # 2. Two Samples Student's t-test
 
