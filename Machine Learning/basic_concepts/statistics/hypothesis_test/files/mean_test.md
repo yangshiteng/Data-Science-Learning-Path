@@ -8,27 +8,8 @@
 
 ![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/75d84035-4577-46b5-a94c-97436d152dce)
 
-![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/60084af4-b9ca-4987-809f-fcc1641c23db)
+![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/297a7941-b4a2-4beb-8510-7733da728eb3)
 
-    import numpy as np
-    from statsmodels.stats.weightstats import ztest
-    
-    # Given data
-    sample_mean = 78
-    population_mean = 75
-    population_std = 10
-    sample_size = 50
-    
-    # Generating a sample data (assuming normal distribution for illustration)
-    np.random.seed(0)  # for reproducibility
-    sample_data = np.random.normal(loc=sample_mean, scale=population_std, size=sample_size)
-    
-    # Performing the Z-test
-    z_statistic, p_value = ztest(sample_data, value=population_mean)
-    
-    z_statistic, p_value
-
-![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/a37a5750-b18f-4d24-bc6c-af17806ccc86)
 
 ## 2. One-Sample t-test
 
