@@ -62,8 +62,7 @@
 
 ![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/ddba6637-402e-4588-b8c6-97d97c519e16)
 
-![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/3fd7cc2f-6700-4ca4-b938-c4c5ce755fb2)
-
+![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/7df3018b-f6ec-4471-aa01-08eb34cf270e)
 
 # Two Sample Z-test
 
