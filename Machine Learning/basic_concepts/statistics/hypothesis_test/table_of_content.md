@@ -27,8 +27,6 @@
 
 [Distribution Equality Test](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Machine%20Learning/basic_concepts/statistics/hypothesis_test/files/Distribution_Equality_Test.md)
 
-[F-test (Overall Significance Test of Regression Model)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Machine%20Learning/basic_concepts/statistics/hypothesis_test/files/F-test_of_Regression_Model.md)
-
 # Multiple Testing Problem
 
 [P-hacking](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Machine%20Learning/basic_concepts/statistics/hypothesis_test/files/p-hacking.md)
