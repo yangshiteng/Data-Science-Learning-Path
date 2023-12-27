@@ -53,11 +53,11 @@ Tests whether the population means of two or more independent samples are signif
 
 ![image](https://user-images.githubusercontent.com/60442877/190551605-1816f83c-7a20-43ae-a232-9b076d514ece.png)
 
-## Two-way ANOVA
+# 5. Two-way ANOVA
 
 ![image](https://user-images.githubusercontent.com/60442877/190551757-7c9d6d9e-cdfe-4a00-adc1-9bb3c6ff3b86.png)
 
-# Repeated Measures ANOVA Test
+# 6. Repeated Measures ANOVA Test
 
 Tests whether the population means of two or more paired samples are significantly different.
 
