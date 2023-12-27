@@ -6,7 +6,7 @@
 
 ![image](https://user-images.githubusercontent.com/60442877/192193237-dabb9bb3-3808-4897-86a3-23053a82b0b1.png)
 
-# Two-Sample Population Proportion Test
+# Two-Sample Population Proportion Test (for A/B Testing)
 
 ![image](https://user-images.githubusercontent.com/60442877/192194427-f95955d0-bd08-4357-a5dc-fe37bf3da076.png)
 
