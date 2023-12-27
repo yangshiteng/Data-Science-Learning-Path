@@ -18,4 +18,10 @@
 
 ![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/85a2ac7b-e0bb-4fc4-b801-abecbf11b610)
 
-# Calculatoin Detail (Population is Bernolli)
+# Calculation Detail (Population is Bernolli)
+
+![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/a6ffcfb6-f7db-4c9e-b7d3-f41e646d1c6c)
+
+![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/b8572b9f-ccd7-4116-b3c3-a0d0789a39e7)
+
+![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/ba549892-51e1-43ee-9a1d-5becf12259c5)
