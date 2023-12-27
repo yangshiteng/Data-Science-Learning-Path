@@ -8,19 +8,26 @@
 
 ![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/60084af4-b9ca-4987-809f-fcc1641c23db)
 
-    import math
+    import numpy as np
+    from statsmodels.stats.weightstats import ztest
     
-    # Given values
+    # Given data
     sample_mean = 78
     population_mean = 75
     population_std = 10
     sample_size = 50
     
-    # Z-score calculation
-    z_score = (sample_mean - population_mean) / (population_std / math.sqrt(sample_size))
-    z_score
+    # Generating a sample data (assuming normal distribution for illustration)
+    np.random.seed(0)  # for reproducibility
+    sample_data = np.random.normal(loc=sample_mean, scale=population_std, size=sample_size)
     
-![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/22874d89-1f00-45b6-835a-c955530f05cd)
+    # Performing the Z-test
+    z_statistic, p_value = ztest(sample_data, value=population_mean)
+    
+    z_statistic, p_value
+
+![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/a37a5750-b18f-4d24-bc6c-af17806ccc86)
+
 
 
 
