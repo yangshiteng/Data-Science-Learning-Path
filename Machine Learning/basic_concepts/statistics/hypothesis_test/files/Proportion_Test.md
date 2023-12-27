@@ -8,6 +8,12 @@
 
 # Two-Sample Population Proportion Test (for A/B Testing)
 
+![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/2779dabc-8153-404a-bc30-969b984b5ef3)
+
+![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/0c88c1b7-0a4a-4b53-a46b-96e1037ed124)
+
+![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/c16c3d04-79ab-45c8-bc7d-e6cd8504b9f3)
+
 ![image](https://user-images.githubusercontent.com/60442877/192194427-f95955d0-bd08-4357-a5dc-fe37bf3da076.png)
 
 ![image](https://user-images.githubusercontent.com/60442877/192194466-026c720a-0a65-4765-b82a-b95e59715d95.png)
