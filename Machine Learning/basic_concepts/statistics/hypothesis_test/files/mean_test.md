@@ -1,4 +1,6 @@
-# One-Sample Z-Test
+# One-Sample Population Mean Test
+
+# 1. One-Sample Z-Test
 
 ![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/890a575b-a526-446d-8e47-31016fcf0db0)
 
@@ -28,7 +30,7 @@
 
 ![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/a37a5750-b18f-4d24-bc6c-af17806ccc86)
 
-# One-Sample t-test
+## 2. One-Sample t-test
 
 ![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/4720f8a3-0ea7-4e61-904a-d41b4aa81cfd)
 
@@ -55,6 +57,11 @@
     t_score, p_value = stats.ttest_1samp(sample_data, population_mean)
 
 ![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/f1f94a37-3e18-4dad-b0b1-42304d73b31d)
+
+## 3. When Sample Size is Greater than 30
+
+![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/3fd7cc2f-6700-4ca4-b938-c4c5ce755fb2)
+
 
 # Two Sample Z-test
 
