@@ -14,9 +14,11 @@
 
 * [Cross Validation (StatQuest)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Machine%20Learning/basic_concepts/machine_learning/Cross_Validation.md)
 
-* [Gradient Descent, (MiniBatch) Stochastic Gradient Descent, and How to avoid local optimum (StatQuest)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Machine%20Learning/basic_concepts/machine_learning/Gradient_Descent.md)
+* [Cross Validation (From Blog)]()
 
 * [Hyperparameter Tuning (Cross Validation)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Machine%20Learning/basic_concepts/machine_learning/Hyperparameter_Tuning.md)
+
+* [Gradient Descent, (MiniBatch) Stochastic Gradient Descent, and How to avoid local optimum (StatQuest)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Machine%20Learning/basic_concepts/machine_learning/Gradient_Descent.md)
 
 * [Assessing Model Performance](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Machine%20Learning/basic_concepts/machine_learning/Assessing_Model_Performance.md)
 
