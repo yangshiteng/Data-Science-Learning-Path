@@ -14,7 +14,7 @@
 
 * [Cross Validation (StatQuest)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Machine%20Learning/basic_concepts/machine_learning/Cross_Validation.md)
 
-* [Cross Validation (From Blog)]()
+* [Cross Validation (From Blog)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Machine%20Learning/basic_concepts/machine_learning/cross_validation_blog.md)
 
 * [Hyperparameter Tuning (Cross Validation)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Machine%20Learning/basic_concepts/machine_learning/Hyperparameter_Tuning.md)
 
