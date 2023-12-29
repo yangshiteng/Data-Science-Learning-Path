@@ -20,7 +20,7 @@
 
 * [Gradient Descent, (MiniBatch) Stochastic Gradient Descent, and How to avoid local optimum (StatQuest)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Machine%20Learning/basic_concepts/machine_learning/Gradient_Descent.md)
 
-* [Assessing Model Performance](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Machine%20Learning/basic_concepts/machine_learning/Assessing_Model_Performance.md)
+* [Assessing Model Performance (StatQuest)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Machine%20Learning/basic_concepts/machine_learning/Assessing_Model_Performance.md)
 
 * [Multi-class Classification](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Machine%20Learning/basic_concepts/machine_learning/muticlass_classification.md)
 
