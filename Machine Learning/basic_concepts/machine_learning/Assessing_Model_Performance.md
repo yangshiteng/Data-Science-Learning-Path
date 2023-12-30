@@ -16,24 +16,6 @@
 
 ![image](https://user-images.githubusercontent.com/60442877/187298761-0bffcf37-10e7-4d50-b564-a83107f080e2.png)
 
-# Sensitivity (also know as Recall) (True Positive Rate)
-
-1. Evaluate the model's performance on correctly classifying the acutal positive labels
-2. Percentage of the actual positive labels that are correctly classified by the model
-
-# Specificity 
-
-1. Evaluate the model's performance on correclty classifiying the actuall negative labels
-2. Percentage of actual negative labels that are correctly classified by the model
-
-# Precision
-
-Percentage of the predicted positive labels that are actually positive
-
-# False Positive Rate (1 - Specificity)
-
-Percentage of the actual negative labels that are incorrectly classified by the model
-
 ![image](https://user-images.githubusercontent.com/60442877/187298989-8559308a-d1d9-4899-9ac8-a9bdb01b3fa1.png)
 
 ![image](https://user-images.githubusercontent.com/60442877/187302202-0a1209da-da12-433a-abc7-19296095bd38.png)
