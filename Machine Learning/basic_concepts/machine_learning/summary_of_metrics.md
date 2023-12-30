@@ -15,3 +15,12 @@
 ![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/2166f913-0ad4-4519-a137-4e8887bc610b)
 
 ![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/f5debf69-df39-44e4-abdd-f984a0ca759d)
+
+# Specificity (True Negative Rate)
+
+![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/57421d6a-74bb-430c-99c5-0fc73672edcf)
+
+![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/2340c0eb-d990-478d-a53b-796ee76e092b)
+
+![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/0bac6eb9-2c25-45e1-806d-0463a87a2036)
+
