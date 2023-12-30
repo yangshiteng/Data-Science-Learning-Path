@@ -22,6 +22,8 @@
 
 * [Assessing Model Performance (StatQuest) (Confusion Matrix, ROC curve, Recall, Precision and etc)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Machine%20Learning/basic_concepts/machine_learning/Assessing_Model_Performance.md)
 
+* [Summarization of Assessing Model Performance (StatQuest)]()
+
 * [Multi-class Classification](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Machine%20Learning/basic_concepts/machine_learning/muticlass_classification.md)
 
 * [Anomaly Detection: Outlier Detection and Novelty Detection](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Machine%20Learning/basic_concepts/machine_learning/Anomaly_Detection.md)
