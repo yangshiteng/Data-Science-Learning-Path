@@ -4,7 +4,7 @@
 
 # Sensitivity (also known as Recall or True Positive Rate)
 
-![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/62827ea6-9491-44a0-a99e-28690f3a1acc)
+![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/3bd58fb7-1164-488d-bd8a-115561f801bf)
 
 ![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/b65466f2-fbc6-4b00-953d-a3efbadefc0c)
 
