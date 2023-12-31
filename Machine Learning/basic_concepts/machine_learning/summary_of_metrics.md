@@ -24,3 +24,10 @@
 
 ![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/0bac6eb9-2c25-45e1-806d-0463a87a2036)
 
+# Precision
+
+![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/f06e806c-d63c-41e2-8fa2-775028e29a57)
+
+![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/03f934a6-4e4c-4068-8fd7-f1b0312b994d)
+
+![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/56542d9a-69d1-4201-b08a-fa8ca1dbb63e)
