@@ -6,7 +6,7 @@
 
 * The proportion of the actual positive cases that are correctly classified as positive by the model
 * It is a metric used to measure how well the model is in correctly identifying the actual positive cases
-* For example, if the sensitivity is 85%, this means that, among all the actual positive cases, 85% of them can be successfully detected by the model
+* For example, if the sensitivity is 85%, this means that, among all the actual positive cases, 85% of them can be successfully detected as positive by the model
 
 ![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/3bd58fb7-1164-488d-bd8a-115561f801bf)
 
@@ -21,6 +21,10 @@
 ![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/f5debf69-df39-44e4-abdd-f984a0ca759d)
 
 # Specificity (True Negative Rate)
+
+* The proportion of the actual negative cases that are correctly classified as negative by the model
+* It is a metric used to measure how well the model is in correctly identifying the actual negative cases
+* For example, if the specificity is 96%, this means that, among all the actual negative cases, 96% of them can be successfully detected as negative by the model
 
 ![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/57421d6a-74bb-430c-99c5-0fc73672edcf)
 
