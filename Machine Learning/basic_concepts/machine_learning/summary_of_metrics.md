@@ -70,8 +70,9 @@
 
 ![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/796a1b7f-33f7-4a92-851d-f4ebd73c3508)
 
-# F1 Score (model comparison for imbalanced dataset) (harmonic mean of precision and recall)
+# F1 Score 
 
+* Combine precision and recall into a single value by Harmonic mean
 * Harmonic mean of precision and recall
 * Model comparision for imbalanced dataset
 
