@@ -34,6 +34,10 @@
 
 # Precision
 
+* The proportion of the predicted positive cases that are actual positive
+* It is a metric used to measure how accurate the model is in making positive prediction
+* For example, if the precision is 87%, this means that, among all the predicted positive cases, 87% of them are actual positive. In another words, if a case is predicted as positive, there is 87% probability such that this predcition is correct
+
 ![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/f06e806c-d63c-41e2-8fa2-775028e29a57)
 
 ![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/03f934a6-4e4c-4068-8fd7-f1b0312b994d)
