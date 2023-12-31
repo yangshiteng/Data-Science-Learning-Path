@@ -58,6 +58,9 @@
 # Negative Predictive Value (NPV)
 
 * The proportion of the predicted negative cases that are actual negative
+* It is a metric used to measure how accurate and reliable the model is in making negative prediction
+* For example, if the NPV is 86%, this means that, among all the predictived negative cases, 86% of them are actual negative
+* In another words, if a case is predicted as negative, there is 86% probability such that this prediction is correct
 
 ![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/065d1be3-5b12-4621-a052-b75c768694a5)
 
