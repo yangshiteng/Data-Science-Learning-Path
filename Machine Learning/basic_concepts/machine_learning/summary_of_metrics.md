@@ -72,8 +72,7 @@
 
 # F1 Score 
 
-* Combine precision and recall into a single value by Harmonic mean
-* Harmonic mean of precision and recall
+* Combine the precision and the recall into a single metric by the way of Harmonic mean
 * Model comparision for imbalanced dataset
 
 ![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/bee9bfa2-20fd-4e09-ad1e-30abf95a8a75)
