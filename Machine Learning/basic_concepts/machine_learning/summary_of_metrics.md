@@ -23,9 +23,10 @@
 
 # Specificity (True Negative Rate)
 
-* The proportion of the actual negative cases that are correctly classified as negative by the model
+* The proportion of the actual negative cases that can be correctly classified as negative by the model
 * It is a metric used to measure how well the model is in correctly identifying the actual negative cases
-* For example, if the specificity is 96%, this means that, among all the actual negative cases, 96% of them can be successfully detected as negative by the model
+* For example, if the specificity is 96%, this means that, among all the actual negative cases, 96% of them can be correctly identified as negative by the model
+* In another words, if a case is actual negative, there is 96% probability such that this case will be classified as negative by the model
 
 ![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/57421d6a-74bb-430c-99c5-0fc73672edcf)
 
@@ -36,8 +37,9 @@
 # Precision
 
 * The proportion of the predicted positive cases that are actual positive
-* It is a metric used to measure how accurate the model is in making positive prediction
-* For example, if the precision is 87%, this means that, among all the predicted positive cases, 87% of them are actual positive. In another words, if a case is predicted as positive, there is 87% probability such that this predcition is correct
+* It is a metric used to measure how accurate and reliable the model is in making positive prediction
+* For example, if the precision is 87%, this means that, among all the predicted positive cases, 87% of them are actual positive
+* In another words, if a case is predicted as positive, there is 87% probability such that this predcition is correct
 
 ![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/f06e806c-d63c-41e2-8fa2-775028e29a57)
 
