@@ -31,3 +31,11 @@
 ![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/03f934a6-4e4c-4068-8fd7-f1b0312b994d)
 
 ![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/56542d9a-69d1-4201-b08a-fa8ca1dbb63e)
+
+# False Positive Rate (1 - Specificity)
+
+![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/a18a7661-fef8-47a5-a283-1f909abd8108)
+
+![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/d5047817-e13c-4e6a-a332-f66edbcc824d)
+
+![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/22a3fc81-502d-463d-af97-ea7beb345c55)
