@@ -34,6 +34,14 @@
 
 ![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/0bac6eb9-2c25-45e1-806d-0463a87a2036)
 
+# False Positive Rate (1 - Specificity)
+
+![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/a18a7661-fef8-47a5-a283-1f909abd8108)
+
+![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/d5047817-e13c-4e6a-a332-f66edbcc824d)
+
+![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/22a3fc81-502d-463d-af97-ea7beb345c55)
+
 # Precision
 
 * The proportion of the predicted positive cases that are actual positive
@@ -47,13 +55,15 @@
 
 ![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/56542d9a-69d1-4201-b08a-fa8ca1dbb63e)
 
-# False Positive Rate (1 - Specificity)
+# Negative Predictive Value (NPV)
 
-![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/a18a7661-fef8-47a5-a283-1f909abd8108)
+* The proportion of the predicted negative cases that are actual negative
 
-![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/d5047817-e13c-4e6a-a332-f66edbcc824d)
+![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/065d1be3-5b12-4621-a052-b75c768694a5)
 
-![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/22a3fc81-502d-463d-af97-ea7beb345c55)
+![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/6a1ce50e-2ccb-4cea-b1ff-27881a520cf1)
+
+![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/9ff3585f-0dd6-47cb-ab9e-5b3d365f3a02)
 
 # Receiver Operating Characteristic (ROC) Curve (for balanced dataset)
 
