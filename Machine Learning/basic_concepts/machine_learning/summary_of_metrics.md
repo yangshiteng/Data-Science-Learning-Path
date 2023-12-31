@@ -4,6 +4,10 @@
 
 # Sensitivity (also known as Recall or True Positive Rate)
 
+* The proportion of the actual positive cases that are correctly classified as positive by the model
+* It is a metric used to measure how well the model is in correctly identifying the actual positive cases
+* For example, if the sensitivity is 85%, this means that, among all the actual positive cases, 85% of them can be successfully detected by the model
+
 ![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/3bd58fb7-1164-488d-bd8a-115561f801bf)
 
 ![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/b65466f2-fbc6-4b00-953d-a3efbadefc0c)
