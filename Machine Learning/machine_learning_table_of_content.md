@@ -8,6 +8,8 @@
 
 * [Hypothesis Test](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Machine%20Learning/basic_concepts/statistics/hypothesis_test/table_of_content.md)
 
+* [Sampling Distribution with Bootstrapping](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Machine%20Learning/basic_concepts/statistics/Bootstrapping.md)
+
 ## Machine Learning
 
 * [Fundamental Concepts in Machine Learning (StatQuest)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Machine%20Learning/basic_concepts/machine_learning/Fundamental_Concepts_in_Machine_Learning.md)
@@ -27,8 +29,6 @@
 * [Multi-class Classification](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Machine%20Learning/basic_concepts/machine_learning/muticlass_classification.md)
 
 * [Anomaly Detection: Outlier Detection and Novelty Detection](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Machine%20Learning/basic_concepts/machine_learning/Anomaly_Detection.md)
-
-* [Sampling Distribution with Bootstrapping](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Machine%20Learning/basic_concepts/machine_learning/Bootstrapping.md)
 
 * [Base Model](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Machine%20Learning/basic_concepts/machine_learning/basemodel.md)
 
