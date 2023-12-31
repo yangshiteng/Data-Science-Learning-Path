@@ -28,7 +28,7 @@
 
 * [Anomaly Detection: Outlier Detection and Novelty Detection](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Machine%20Learning/basic_concepts/machine_learning/Anomaly_Detection.md)
 
-* [Bootstrapping](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Machine%20Learning/basic_concepts/machine_learning/Bootstrapping.md)
+* [Sampling Distribution with Bootstrapping](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Machine%20Learning/basic_concepts/machine_learning/Bootstrapping.md)
 
 * [Base Model](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Machine%20Learning/basic_concepts/machine_learning/basemodel.md)
 
