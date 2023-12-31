@@ -58,8 +58,13 @@
 
 ![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/796a1b7f-33f7-4a92-851d-f4ebd73c3508)
 
+# F1 Score (model comparison for imbalanced dataset) (harmonic mean of precision and recall)
 
+![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/bee9bfa2-20fd-4e09-ad1e-30abf95a8a75)
 
+![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/b26bf2c4-22be-463f-b116-cae996d03e73)
+
+![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/f5eb1453-9dc4-4744-b9d7-9497bde48455)
 
 
 
