@@ -30,6 +30,8 @@
 
 * [About Outlier Detection](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Machine%20Learning/basic_concepts/machine_learning/about_outlier_detection.md)
 
+* [About Novelty Detection](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Machine%20Learning/basic_concepts/machine_learning/about_novelty_detection.md)
+
 * [Sparse Data](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Machine%20Learning/basic_concepts/machine_learning/Sparse_Data.md)
 
 # Machine Learning Models (Classification and Regression)
