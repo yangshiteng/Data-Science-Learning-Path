@@ -16,7 +16,7 @@ Linear regression models are often fitted using the least squares approach, but 
 
 ![image](https://user-images.githubusercontent.com/60442877/147891201-066a731d-6e34-4fdc-abce-7ab0e6420572.png)
 
-## Regularization
+## Regularization (正则化)
 
 There are extensions of the training of the linear model called regularization methods. These seek to both minimize the sum of the squared error of the model on the training data (using ordinary least squares) but also to reduce the complexity of the model (like the number or absolute size of the sum of all coefficients in the model).
 
