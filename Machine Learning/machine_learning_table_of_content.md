@@ -32,7 +32,7 @@
 
 * [About Novelty Detection (新颖点检测)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Machine%20Learning/basic_concepts/machine_learning/about_novelty_detection.md)
 
-* [Sparse Data](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Machine%20Learning/basic_concepts/machine_learning/Sparse_Data.md)
+* [About Sparse Data](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Machine%20Learning/basic_concepts/machine_learning/Sparse_Data.md)
 
 # Machine Learning Models (Classification and Regression)
 
