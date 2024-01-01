@@ -18,9 +18,11 @@
 
 ![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/76767e96-cb78-4d92-a11b-76c266c40993)
 
-# Formulation
+# Matrix Formulation
 
 ![image](https://user-images.githubusercontent.com/60442877/147891201-066a731d-6e34-4fdc-abce-7ab0e6420572.png)
+
+![image](https://user-images.githubusercontent.com/60442877/188330858-ba32f176-0f3b-4b3c-9739-fb71539c7b75.png)
 
 # Regularization (正则化)
 
@@ -137,11 +139,6 @@ Multicollinearity may be tested with three central criteria:
 (3) Variance Inflation Factor (VIF) – the variance inflation factor of the linear regression is defined as VIF = 1/T. With VIF > 5 there is an indication that multicollinearity may be present; with VIF > 10 there is certainly multicollinearity among the variables
 
 
-# Analytic Solution of Linear Regression
-
-![image](https://user-images.githubusercontent.com/60442877/188330863-962fb627-ae80-46c7-bf08-764d5a2bce91.png)
-
-![image](https://user-images.githubusercontent.com/60442877/188330858-ba32f176-0f3b-4b3c-9739-fb71539c7b75.png)
 
 
 
