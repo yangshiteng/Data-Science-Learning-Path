@@ -28,9 +28,7 @@
 
 * [Multi-class Classification](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Machine%20Learning/basic_concepts/machine_learning/muticlass_classification.md)
 
-* [Anomaly Detection: Outlier Detection and Novelty Detection](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Machine%20Learning/basic_concepts/machine_learning/Anomaly_Detection.md)
-
-* [Base Model](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Machine%20Learning/basic_concepts/machine_learning/basemodel.md)
+* [About Outlier Detection](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Machine%20Learning/basic_concepts/machine_learning/about_outlier_detection.md)
 
 * [Sparse Data](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Machine%20Learning/basic_concepts/machine_learning/Sparse_Data.md)
 
