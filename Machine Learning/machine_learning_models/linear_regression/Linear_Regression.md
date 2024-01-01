@@ -1,6 +1,4 @@
-# Linear Regression
-
-## Introduction
+# Introduction
 
 ![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/340f7649-081f-419b-89bb-c093f97da59c)
 
@@ -20,11 +18,11 @@
 
 ![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/76767e96-cb78-4d92-a11b-76c266c40993)
 
-## Formulation
+# Formulation
 
 ![image](https://user-images.githubusercontent.com/60442877/147891201-066a731d-6e34-4fdc-abce-7ab0e6420572.png)
 
-## Regularization (正则化)
+# Regularization (正则化)
 
 There are extensions of the training of the linear model called regularization methods. These seek to both minimize the sum of the squared error of the model on the training data (using ordinary least squares) but also to reduce the complexity of the model (like the number or absolute size of the sum of all coefficients in the model).
 
@@ -35,11 +33,11 @@ Two popular examples of regularization procedures for linear regression are:
 
 These methods are effective to use when there is collinearity in your input values and ordinary least squares would overfit the training data.
 
-## Is the range of R-Square always between 0 to 1?
+# Is the range of R-Square always between 0 to 1?
 
 Value of R2 may end up being negative if the regression line is made to pass through a point forcefully. This will lead to forcefully making regression line to pass through the origin (no intercept) giving an error higher than the error produced by the horizontal line. This will happen if the data is far away from the origin.
 
-## Ridge and Lasso Regression: L2 and L1 Regularizationi
+# Ridge and Lasso Regression: L2 and L1 Regularizationi
 
 As I’m using the term linear, first let’s clarify that linear models are one of the simplest way to predict output using a linear function of input features.
 
@@ -51,7 +49,7 @@ In the equation above, we have shown the linear model based on the n number of f
 
 n the equation above I have assumed the data-set has M instances and p features. Once we use linear regression on a data-set divided in to training and test set, calculating the scores on training and test set can give us a rough idea about whether the model is suffering from over-fitting or under-fitting. The chosen linear model can be just right also, if you’re lucky enough! If we have very few features on a data-set and the score is poor for both training and test set then it’s a problem of under-fitting. On the other hand if we have large number of features and test score is relatively poor than the training score then it’s the problem of over-generalization or over-fitting. Ridge and Lasso regression are some of the simple techniques to reduce model complexity and prevent over-fitting which may result from simple linear regression.
 
-### Ridge Regression
+## Ridge Regression
 
 In ridge regression, the cost function is altered by adding a penalty equivalent to square of the magnitude of the coefficients.
 
@@ -63,7 +61,7 @@ This is equivalent to saying minimizing the cost function under the condition as
 
 So ridge regression puts constraint on the coefficients (w). The penalty term (lambda) regularizes the coefficients such that if the coefficients take large values the optimization function is penalized. So, ridge regression shrinks the coefficients and it helps to reduce the model complexity and multi-collinearity. When λ → 0 , the cost function becomes similar to the linear regression cost function. So lower the constraint (low λ) on the features, the model will resemble linear regression model. 
 
-### Lasso Regression 
+## Lasso Regression 
 
 The cost function for Lasso (least absolute shrinkage and selection operator) regression can be written as
 
