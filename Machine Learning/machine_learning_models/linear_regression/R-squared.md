@@ -8,6 +8,8 @@
 
 # Most Intuitive and Original Explanation of R-squared
 
+![image](https://user-images.githubusercontent.com/60442877/187057347-41be16fe-9a9e-4cce-ba02-8ceb9a5f251e.png)
+
 ![image](https://user-images.githubusercontent.com/60442877/187057584-2800ef04-568f-4e7e-9a15-c67ea4d274a4.png)
 
 ![image](https://user-images.githubusercontent.com/60442877/187057672-a9be85db-0573-4cde-96d9-f295fcace3cf.png)
