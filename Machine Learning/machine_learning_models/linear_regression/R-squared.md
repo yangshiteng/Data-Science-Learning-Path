@@ -7,3 +7,13 @@
 ![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/b2778cc0-d7d0-4784-b614-9ca86f3b1097)
 
 # Most Intuitive and Original Explanation of R-squared
+
+![image](https://user-images.githubusercontent.com/60442877/187057584-2800ef04-568f-4e7e-9a15-c67ea4d274a4.png)
+
+![image](https://user-images.githubusercontent.com/60442877/187057672-a9be85db-0573-4cde-96d9-f295fcace3cf.png)
+
+![image](https://user-images.githubusercontent.com/60442877/187057661-b22c4d19-0086-44c7-9eec-ec5c44fa7636.png)
+
+![image](https://user-images.githubusercontent.com/60442877/187057777-6f528854-cfeb-4d2c-82dd-47eb33817e4d.png)
+
+![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/13d8f76a-5f9d-4952-a7cc-a10a3c14c935)
