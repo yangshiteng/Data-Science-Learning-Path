@@ -46,7 +46,6 @@
 * [Adjusted R-squared](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Machine%20Learning/machine_learning_models/linear_regression/adjusted_R_squared.md)
 * [Hypothesis Testing in Linear Regression](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Machine%20Learning/machine_learning_models/linear_regression/hypothesis_testing_linear_model.md)
 * [Linear Regression Model Selection](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Machine%20Learning/machine_learning_models/linear_regression/Regression_Model_Selection.md)
-* [Two sample t-test and ANOVA with Linear Model Method](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Machine%20Learning/machine_learning_models/linear_regression/t-test_and_ANOVA_with_linear_model_method.pdf)
 * [Regularization (LASSO and Ridge Regression)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Machine%20Learning/machine_learning_models/linear_regression/Regularization.md)
 * [Elastic Net Regression](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Machine%20Learning/machine_learning_models/linear_regression/Elastic_Net_Regression.pdf)
 
