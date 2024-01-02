@@ -1,3 +1,7 @@
+# Interpretation of R-squared 
+
+![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/df5c0477-8b67-43bf-8d48-7f25e363eada)
+
 # Most Common Definition of R-squared
 
 ![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/a1037f30-fc5c-4611-876d-4facfa9e5299)
