@@ -18,15 +18,3 @@
 
 ![image](https://user-images.githubusercontent.com/60442877/187057777-6f528854-cfeb-4d2c-82dd-47eb33817e4d.png)
 
-# R-Squared
-
-* SSR depends on the size of dataset
-* MSE depends on the scale
-* R-squared tells us how much improvement of model's performance can be by using the model we interested in
-* R-squared tells us how much percentage of residuals can be decreased by using the model we interested in
-
-1. R-squared has its p-value, which corresponds to a hypothesis test
-2. Null Hypothesis: two models has no difference, Alternative hypothesis: the model we interested in has better performance
-3. Usually, for linear regression, this hypothesis test is for the model comparison between fitted line and average line
-4. And this hypothesis test can be used to compare any two models, and the R-squared can even be negative
-
