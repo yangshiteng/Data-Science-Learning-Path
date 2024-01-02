@@ -24,13 +24,6 @@
 
 ![image](https://user-images.githubusercontent.com/60442877/188330858-ba32f176-0f3b-4b3c-9739-fb71539c7b75.png)
 
-# About Adjust R-squared
-
-![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/3ab591bd-58f8-4ba9-bd6d-70f061bc5147)
-
-![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/aca11bde-4c83-48b7-9f7f-494cd6be257b)
-
-![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/eaeced23-67a5-42a4-91f1-35b625a2ffd5)
 
 # Regularization (正则化)
 
