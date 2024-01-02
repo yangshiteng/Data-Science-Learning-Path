@@ -39,7 +39,7 @@
 ## 1. Linear Regression
 * [Linear Regression Introduction](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Machine%20Learning/machine_learning_models/linear_regression/Linear_Regression.md)
 * [Pearson Correlation Coefficient in Linear Regression](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Machine%20Learning/machine_learning_models/linear_regression/pearson_correlation.md)
-* [Simple Linear Regression](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Machine%20Learning/machine_learning_models/linear_regression/simple_linear_regression.md)
+* [Simple Linear Regression (Detailed Calculation)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Machine%20Learning/machine_learning_models/linear_regression/simple_linear_regression.md)
 * [SSR, MSE and R-squared (From StatQuest)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Machine%20Learning/machine_learning_models/linear_regression/SSR_MSE_and_R-squared.md)
 * [SSR, MSE, R-squared, Adjusted R-squared and Pearson's Correlation Coefficient](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Machine%20Learning/machine_learning_models/linear_regression/ssr_mse_r_square_things.md)
 * [R-squared](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Machine%20Learning/machine_learning_models/linear_regression/R-squared.md)
