@@ -25,3 +25,15 @@
 ![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/f2017ce8-7860-4e26-b726-e5289df18b69)
 
 ![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/bd57b539-3d90-4ab6-8e34-6c3811486d84)
+
+# Stepwise Regression
+
+![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/53101fe2-6aae-4931-9cdc-4a545abb6633)
+
+![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/48ed97c4-7565-43fa-887a-aae720034c37)
+
+![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/d006de31-5bd4-4723-a81e-775bc73c7ca4)
+
+![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/f0733fa7-b465-4957-b245-16057029221a)
+
+![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/f02c4a24-f788-410b-b42d-efb251f11a91)
