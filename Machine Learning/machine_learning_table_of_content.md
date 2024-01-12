@@ -40,7 +40,7 @@
 * [Linear Regression Introduction](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Machine%20Learning/machine_learning_models/linear_regression/Linear_Regression.md)
 * [Simple Linear Regression (Detailed Calculation)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Machine%20Learning/machine_learning_models/linear_regression/simple_linear_regression.md)
 * [Hypothesis Testing in Linear Regression](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Machine%20Learning/machine_learning_models/linear_regression/hypothesis_testing_linear_model.md)
-* [Statistical Measures List]()
+* [Statistical Measures List](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Machine%20Learning/machine_learning_models/linear_regression/statistical_measures_list.md)
   * [Pearson Correlation Coefficient in Simple Linear Regression](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Machine%20Learning/machine_learning_models/linear_regression/pearson_correlation.md)
   * [Coefficient of Multiple Correlation in Multiple Linear Regression](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Machine%20Learning/machine_learning_models/linear_regression/coefficient_of_multiple_correlation.md)
   * [Intuitive Understanding of SSR, MSE and R-squared (From StatQuest)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Machine%20Learning/machine_learning_models/linear_regression/SSR_MSE_and_R-squared.md)
