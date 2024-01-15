@@ -1,12 +1,6 @@
+![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/5d313d76-dc30-4f6c-b21a-51662b1cb5eb)
 
 ![image](https://user-images.githubusercontent.com/60442877/187327452-a085dce9-9587-4348-bee9-b3a0e5808fd2.png)
-
-# Bias and Variance
-
-1. Bias is used to measure the model's performance in the traning dataset, lower bias, higher performance
-2. Variance is used to measure the difference of model's performance between training and testing dataset
-3. By using regularization, we can solve the overfitting problem, however, this will result in the bias increase
-4. Regularization can be used to solve overfitting problem by reducing the model's sensitivity to the training dataset
 
 ![image](https://user-images.githubusercontent.com/60442877/187328431-1d3a784c-27a4-4e9d-95d4-5bde8facdefb.png)
 
@@ -26,17 +20,9 @@
 
 ![image](https://user-images.githubusercontent.com/60442877/187333941-cc942a11-b378-4055-9143-81c68b620815.png)
 
-# Ridge Regularization (L2 Regularization) (Squared Regularization)
+![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/8b6951dc-548f-40f8-a8b2-05295be360c2)
 
-1. lambda * the sum of squared of parameters (L2 norm)
-2. can only shrink the parameters to be close to 0 (never reach 0)
-3. perform better when most of the features are useful
-
-# Lasso Regularization (L1 Regularization) (Absolute Value Regularization)
-
-1. lambda * the sum of absolute value of parameters (L1 norm)
-2. can shrink parameters to 0 
-3. perform well when we need to remove a lot of useless features (feature selection)
+![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/c5d04682-2e3c-4dc6-a4dd-789fc3fbe731)
 
 ![image](https://user-images.githubusercontent.com/60442877/187334996-eff1fb36-19df-43d2-a9c8-afcc628679d3.png)
 
