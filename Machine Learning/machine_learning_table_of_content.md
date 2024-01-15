@@ -24,7 +24,7 @@
 
 * [Assessing Model Performance (StatQuest) (Confusion Matrix, ROC curve, Recall, Precision and etc)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Machine%20Learning/basic_concepts/machine_learning/Assessing_Model_Performance.md)
 
-* [Summary of Assessing Model Performance (ChatGPT)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Machine%20Learning/basic_concepts/machine_learning/summary_of_metrics.md)
+* [Machine Learning Metrics (ChatGPT)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Machine%20Learning/basic_concepts/machine_learning/summary_of_metrics.md)
 
 * [Multi-class Classification](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Machine%20Learning/basic_concepts/machine_learning/muticlass_classification.md)
 
