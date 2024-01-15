@@ -37,3 +37,23 @@
 ![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/f0733fa7-b465-4957-b245-16057029221a)
 
 ![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/f02c4a24-f788-410b-b42d-efb251f11a91)
+
+# Best Subsets Regression
+
+![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/4b8cdfdf-564b-461b-933e-d4139b718629)
+
+![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/0f5214ce-e0ec-4883-b4cd-b6a39423bc10)
+
+![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/bf047926-7a07-4c23-adfe-242f37b8870c)
+
+![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/c884925b-75e2-4867-b005-e5aec43c4f9e)
+
+![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/4a2b8b71-1b0f-460e-90fb-97803f5dd0a3)
+
+
+
+
+
+
+
+
