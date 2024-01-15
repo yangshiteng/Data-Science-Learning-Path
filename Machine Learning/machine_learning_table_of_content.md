@@ -50,7 +50,7 @@
   * [Adjusted R-squared](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Machine%20Learning/machine_learning_models/linear_regression/adjusted_R_squared.md)
   * [Akaike Information Criterion (AIC) and Bayesian Information Criterion (BIC)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Machine%20Learning/machine_learning_models/linear_regression/AIC_and_BIC.md)
 * [Linear Regression Model Selection](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Machine%20Learning/machine_learning_models/linear_regression/Regression_Model_Selection.md)
-* [Regularization (LASSO and Ridge Regression)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Machine%20Learning/machine_learning_models/linear_regression/Regularization.md)
+* [Regularization (LASSO and Ridge Regression) (StatQuest)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Machine%20Learning/machine_learning_models/linear_regression/Regularization.md)
 * [Elastic Net Regression](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Machine%20Learning/machine_learning_models/linear_regression/Elastic_Net_Regression.pdf)
 
 ## 2. Logistic Regression
