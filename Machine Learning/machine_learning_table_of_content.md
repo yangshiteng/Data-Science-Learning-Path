@@ -34,6 +34,8 @@
 
 * [About Sparse Data](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Machine%20Learning/basic_concepts/machine_learning/Sparse_Data.md)
 
+* [Bias and Variance in Machine Learning]()
+
 # Machine Learning Models (Classification and Regression)
 
 ## 1. Linear Regression
