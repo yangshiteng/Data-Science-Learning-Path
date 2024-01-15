@@ -50,10 +50,19 @@
 
 ![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/4a2b8b71-1b0f-460e-90fb-97803f5dd0a3)
 
+# Variables Selection with LASSO
 
+![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/905cfbee-bf4d-47b4-917e-d02cebf891ba)
 
+![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/c426cf06-e729-450b-8420-4dbe5f8f3a96)
 
+![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/64984894-ab9b-4d5c-af66-9c2f469bc2da)
 
+![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/01b3333b-913f-44f4-bbae-7fc2978165c9)
+
+![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/4559acd3-d2f9-47ab-88f2-f679434c5c94)
+
+![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/41f46bfd-1801-4b2f-a859-86a13f32ea8b)
 
 
 
