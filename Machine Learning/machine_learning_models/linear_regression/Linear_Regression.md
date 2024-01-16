@@ -24,23 +24,6 @@
 
 ![image](https://user-images.githubusercontent.com/60442877/188330858-ba32f176-0f3b-4b3c-9739-fb71539c7b75.png)
 
-
-
-# [Overall Significance Test of Regression Model](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/Notes/F-test%20(Overall%20Significance%20Test%20of%20Regression%20Model).md)
-
-![image](https://user-images.githubusercontent.com/60442877/187084817-eff50189-5165-42d7-97bc-cee75fd522d0.png)
-
-![image](https://user-images.githubusercontent.com/60442877/187084965-decb9f54-a7e2-4834-90be-d5bf29c6a730.png)
-
-![image](https://user-images.githubusercontent.com/60442877/187086275-15a668d4-ccf4-4458-ae2a-1a0c8535d6e5.png)
-
-![image](https://user-images.githubusercontent.com/60442877/187086911-0645e060-1446-4142-99d4-ca469fb1e13d.png)
-
-![image](https://user-images.githubusercontent.com/60442877/187087115-f382b5a5-06be-48ee-b7ac-99f09bf3b161.png)
-
-1. R-squared: how much accurate of the prediciton
-2. P-value: how much confident of the prediction
-
 # Linear Regression 5 Assumptions
 
 ## 1. Linearity
