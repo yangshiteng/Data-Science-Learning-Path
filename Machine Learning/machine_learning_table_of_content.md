@@ -53,7 +53,7 @@
 * Regularization
   * [Regularization (LASSO and Ridge Regression) (StatQuest)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Machine%20Learning/machine_learning_models/linear_regression/Regularization.md)
   * [LASSO](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Machine%20Learning/machine_learning_models/linear_regression/LASSO.md)
-  * [Ridge Regression]()
+  * [Ridge Regression](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Machine%20Learning/machine_learning_models/linear_regression/ridge_regression.md)
   * [Elastic Net Regression](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Machine%20Learning/machine_learning_models/linear_regression/elastic_net_regression.md)
 
 ## 2. Logistic Regression
