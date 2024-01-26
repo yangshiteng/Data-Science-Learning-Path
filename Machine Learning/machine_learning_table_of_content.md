@@ -52,7 +52,7 @@
 * [Linear Regression Model Selection](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Machine%20Learning/machine_learning_models/linear_regression/Regression_Model_Selection.md)
 * [Regularization](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Machine%20Learning/machine_learning_models/linear_regression/regularization_summary.md)
   * [Regularization (LASSO and Ridge Regression) (StatQuest)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Machine%20Learning/machine_learning_models/linear_regression/Regularization.md)
-  * [LASSO](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Machine%20Learning/machine_learning_models/linear_regression/LASSO.md)
+  * [LASSO (No closed-form solution, numerical method)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Machine%20Learning/machine_learning_models/linear_regression/LASSO.md)
   * [Ridge Regression](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Machine%20Learning/machine_learning_models/linear_regression/ridge_regression.md)
   * [Elastic Net Regression](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Machine%20Learning/machine_learning_models/linear_regression/elastic_net_regression.md)
   * [LASSO vs Ridge Regression vs Elastic Net](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Machine%20Learning/machine_learning_models/linear_regression/lasso_vs_ridge_vs_elastic.md)
