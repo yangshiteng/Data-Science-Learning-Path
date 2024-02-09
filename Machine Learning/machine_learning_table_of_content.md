@@ -10,7 +10,7 @@
 
 * [Sampling Distribution with Bootstrapping](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Machine%20Learning/basic_concepts/statistics/Bootstrapping.md)
 
-* [Cross-sectional data]()
+* [Cross-sectional data](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Machine%20Learning/basic_concepts/statistics/cross_sectional_data.md)
 
 ## Machine Learning
 
