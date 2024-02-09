@@ -40,6 +40,7 @@
 
 ## 1. Linear Regression
 * [Linear Regression Introduction](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Machine%20Learning/machine_learning_models/linear_regression/Linear_Regression.md)
+* [Five Assumptions]()
 * [Simple Linear Regression (Detailed Calculation)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Machine%20Learning/machine_learning_models/linear_regression/simple_linear_regression.md)
 * [Hypothesis Testing in Linear Regression](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Machine%20Learning/machine_learning_models/linear_regression/hypothesis_testing_linear_model.md)
 * [Statistical Measures List](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Machine%20Learning/machine_learning_models/linear_regression/statistical_measures_list.md)
