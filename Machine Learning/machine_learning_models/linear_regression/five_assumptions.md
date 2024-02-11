@@ -51,3 +51,28 @@
 ![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/8306da69-c9d3-4db4-9481-5070300439b9)
 
 ![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/b1a2ad20-be22-4db8-b89a-5e3ebaf93d43)
+
+# Perfect Multicollinearity - No Closed-Form Solution 
+
+![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/9583cec3-e93e-4f8f-a841-805bcf0f707f)
+
+![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/461b842f-f8a3-440d-bebe-670f914e4176)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
