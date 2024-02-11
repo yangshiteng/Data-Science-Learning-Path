@@ -44,7 +44,7 @@
 
 ![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/7ffe1bff-fc68-401a-b800-0d45f14b83ec)
 
-# More about Multicollinearity
+# More About Multicollinearity
 
 ![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/21673384-12b1-431c-a75f-60bcad1b4a16)
 
