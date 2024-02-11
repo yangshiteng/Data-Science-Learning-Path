@@ -43,3 +43,11 @@
 ![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/dac0f427-6aee-43cc-b82e-b8ff0bb3bd7c)
 
 ![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/7ffe1bff-fc68-401a-b800-0d45f14b83ec)
+
+# More about Multicollinearity
+
+![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/21673384-12b1-431c-a75f-60bcad1b4a16)
+
+![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/8306da69-c9d3-4db4-9481-5070300439b9)
+
+![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/b1a2ad20-be22-4db8-b89a-5e3ebaf93d43)
