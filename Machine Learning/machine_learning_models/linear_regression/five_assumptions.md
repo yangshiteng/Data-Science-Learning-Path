@@ -29,3 +29,11 @@
 ![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/df24552a-d4e5-4e74-8250-75a92a67eeb6)
 
 ![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/7c97e362-e2f9-4c68-92d2-e798f219e0ef)
+
+# Normality of Residuals Checking
+
+![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/3527bb38-c4a3-4292-aec4-4d1cc58fe85c)
+
+![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/eeaf2183-0208-4084-9f47-62d9882b56cf)
+
+![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/d41fdb04-2a5a-41cf-b2ca-011026d7a88f)
