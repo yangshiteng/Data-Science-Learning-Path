@@ -37,3 +37,9 @@
 ![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/eeaf2183-0208-4084-9f47-62d9882b56cf)
 
 ![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/d41fdb04-2a5a-41cf-b2ca-011026d7a88f)
+
+# Multicollinearity Checking
+
+![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/dac0f427-6aee-43cc-b82e-b8ff0bb3bd7c)
+
+![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/7ffe1bff-fc68-401a-b800-0d45f14b83ec)
