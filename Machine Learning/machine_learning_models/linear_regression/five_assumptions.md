@@ -21,3 +21,11 @@
 ![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/93ac412e-24ad-4e79-8ad6-9df1deac59dd)
 
 ![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/48da2e4c-0e7c-4916-841c-3f6354ace675)
+
+# Homoscedasticity Checking
+
+![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/f222d100-a9a7-4faa-8c03-5d1887f760e3)
+
+![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/df24552a-d4e5-4e74-8250-75a92a67eeb6)
+
+![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/7c97e362-e2f9-4c68-92d2-e798f219e0ef)
