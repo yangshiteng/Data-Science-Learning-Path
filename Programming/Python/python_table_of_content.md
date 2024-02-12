@@ -124,10 +124,7 @@
 * [try...except...else...finally...](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Programming/Python/python_special_statements/try_except.md)
 * [with...as...](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Programming/Python/python_special_statements/with_as.md)
 
-# Python Library - Data Analysis
 
-* [numpy](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/numpy.md)
-* [pandas](https://github.com/yangshiteng/StatQuest-Study-Notes/blob/main/python/pandas.md)
 
 
 
