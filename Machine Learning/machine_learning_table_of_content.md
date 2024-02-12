@@ -64,6 +64,7 @@
   * [Elastic Net Regression](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Machine%20Learning/machine_learning_models/linear_regression/elastic_net_regression.md)
   * [LASSO vs Ridge Regression vs Elastic Net](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Machine%20Learning/machine_learning_models/linear_regression/lasso_vs_ridge_vs_elastic.md)
 * [Implement Linear Regression with Python scikit-learn (simple example)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Machine%20Learning/machine_learning_models/linear_regression/linear_regression_python.md)
+  * [Parameters in LinearRegression()]()
 
 ## 2. Logistic Regression
 * [Logistic Regression](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Machine%20Learning/machine_learning_models/logistic_regression/Logistic_Regression.md)
