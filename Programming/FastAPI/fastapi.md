@@ -32,6 +32,8 @@
     
     uvicorn main:app --reload
 
+    # go to http://127.0.0.1:8000/docs to check endpoint
+
 ![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/a96a60b5-bfa3-47d9-b853-5510c443fadc)
 
 ![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/0cbf93db-e582-4c83-aad6-2319ddcb3706)
