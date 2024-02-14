@@ -41,6 +41,9 @@
 # Machine Learning Models (Classification and Regression)
 
 ## 1. Linear Regression
+
+### Theory
+
 * [Linear Regression Introduction](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Machine%20Learning/machine_learning_models/linear_regression/Linear_Regression.md)
 * [Five Assumptions](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Machine%20Learning/machine_learning_models/linear_regression/five_assumptions.md)
 * [Simple Linear Regression (Detailed Calculation)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Machine%20Learning/machine_learning_models/linear_regression/simple_linear_regression.md)
@@ -63,8 +66,14 @@
   * [Ridge Regression (closed-form solution)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Machine%20Learning/machine_learning_models/linear_regression/ridge_regression.md)
   * [Elastic Net Regression](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Machine%20Learning/machine_learning_models/linear_regression/elastic_net_regression.md)
   * [LASSO vs Ridge Regression vs Elastic Net](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Machine%20Learning/machine_learning_models/linear_regression/lasso_vs_ridge_vs_elastic.md)
-* [Implement Linear Regression with Python scikit-learn (simple example)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Machine%20Learning/machine_learning_models/linear_regression/linear_regression_python.md)
+ 
+### Python Implementation
+
+  * [Implement Linear Regression with Python scikit-learn (simple example)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Machine%20Learning/machine_learning_models/linear_regression/linear_regression_python.md)
   * [Parameters in LinearRegression()](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Machine%20Learning/machine_learning_models/linear_regression/parameters_in_linearregression.md)
+
+### Project Application
+
 
 ## 2. Logistic Regression
 * [Logistic Regression](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/Machine%20Learning/machine_learning_models/logistic_regression/Logistic_Regression.md)
