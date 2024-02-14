@@ -11,6 +11,7 @@
 1. [W3School](https://www.w3schools.com/)
 2. [StatQuest](https://statquest.org/)
 3. [StatQuest Youtube](https://www.youtube.com/@statquest)
+4. [scikit-learn user guide](https://scikit-learn.org/stable/user_guide.html)
    
 
 
