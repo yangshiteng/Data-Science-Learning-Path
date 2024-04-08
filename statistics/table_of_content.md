@@ -2,7 +2,7 @@
 
 ## I. Introduction to Statistics
 - **1. [Definition and Scope of Statistics](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/introduction_to_statistics/definition_and_scope_of_statistics.md)**
-- **2. Importance of Statistics in Various Fields**
+- **2. [Importance of Statistics in Various Fields](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/introduction_to_statistics/importance_of_statistics_in_various_fields.md)**
 - **3. Types of Statistics**
   - Descriptive Statistics
   - Inferential Statistics
