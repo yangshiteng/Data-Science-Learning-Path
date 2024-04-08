@@ -1,0 +1,1 @@
+[Gradient Descent, (MiniBatch) Stochastic Gradient Descent, and How to avoid local optimum (StatQuest)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/about_machine_learning/gradient_descent/files/gradient_descent.md)

@@ -1,0 +1,3 @@
+[Assessing Model Performance (StatQuest) (Confusion Matrix, ROC curve, Recall, Precision and etc)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/model_selection_and_evaluation/metrics/files/assessing_model_performance.md)
+
+[Machine Learning Metrics (ChatGPT)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/model_selection_and_evaluation/metrics/files/summary_of_metrics.md)
