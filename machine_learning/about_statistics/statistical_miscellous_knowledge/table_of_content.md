@@ -1,4 +1,4 @@
-[Fundamental Concepts in Statistics - From StatQuest](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/about_statistics/statistical_miscellous_knowledge/files/fundamental_concepts_in_about_statistics.md)
+[Fundamental Concepts in Statistics - From StatQuest](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/about_statistics/statistical_miscellous_knowledge/files/fundamental_concepts_in_statistics.md)
 
 [Histogram - From StatQuest](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/about_statistics/statistical_miscellous_knowledge/files/histogram.md)
 
