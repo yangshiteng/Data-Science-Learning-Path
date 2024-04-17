@@ -7,7 +7,7 @@
   - [Descriptive Statistics](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/introduction_to_statistics/descriptive_statistics.md)
   - [Inferential Statistics](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/introduction_to_statistics/inferential_statistics.md)
 - **4. Scales of Measurement**
-  - Nominal, Ordinal, Interval, and Ratio
+  - [Nominal, Ordinal, Interval, and Ratio](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/introduction_to_statistics/nominal_ordinal_interval_ratio.md)
 
 ## II. Collecting Data
 - **1. Data Types and Sources**
