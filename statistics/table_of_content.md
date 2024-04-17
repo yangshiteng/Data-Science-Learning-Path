@@ -11,7 +11,7 @@
 
 ## II. Collecting Data
 - **1. Data Types and Sources**
-  - Primary Data vs. Secondary Data
+  - [Primary Data vs. Secondary Data](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/collecting_data/primary_vs_secondary_data.md)
 - **2. Sampling Methods**
   - Probability Sampling Techniques
     - Simple Random Sampling
