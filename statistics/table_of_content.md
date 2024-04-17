@@ -5,7 +5,7 @@
 - **2. [Importance of Statistics in Various Fields](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/introduction_to_statistics/importance_of_statistics_in_various_fields.md)**
 - **3. Types of Statistics**
   - [Descriptive Statistics](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/introduction_to_statistics/descriptive_statistics.md)
-  - Inferential Statistics
+  - [Inferential Statistics](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/introduction_to_statistics/inferential_statistics.md)
 - **4. Scales of Measurement**
   - Nominal, Ordinal, Interval, and Ratio
 
