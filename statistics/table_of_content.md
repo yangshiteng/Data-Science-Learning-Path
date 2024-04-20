@@ -21,7 +21,7 @@
 - **3. Designing Surveys and Experiments**
   - [Formulating Hypotheses](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/collecting_data/formulating_hypothesis.md)
   - [Experimental Design](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/collecting_data/experimental_design.md)
-  - Survey Questions Design
+  - [Survey Questions Design](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/collecting_data/survey_question_design.md)
 
 ## III. Descriptive Statistics
 - **1. Measures of Central Tendency**
