@@ -13,10 +13,10 @@
 - **1. Data Types and Sources**
   - [Primary Data vs. Secondary Data](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/collecting_data/primary_vs_secondary_data.md)
 - **2. Sampling Methods**
-  - Probability Sampling Techniques
-    - Simple Random Sampling
-    - Stratified Sampling
-    - Cluster Sampling
+  - [Probability Sampling Techniques](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/collecting_data/probability_sampling_techniques.md)
+    - [Simple Random Sampling (简单随机抽样)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/collecting_data/simple_random_sampling.md)
+    - [Stratified Sampling （分层抽样)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/collecting_data/stratified_sampling.md)
+    - [Cluster Sampling （整群抽样)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/collecting_data/cluster_sampling.md)
   - Non-Probability Sampling Techniques
     - Convenience Sampling
     - Judgmental Sampling
