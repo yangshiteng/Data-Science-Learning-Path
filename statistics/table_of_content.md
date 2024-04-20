@@ -18,9 +18,8 @@
     - [Stratified Sampling （分层抽样)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/collecting_data/stratified_sampling.md)
     - [Cluster Sampling （整群抽样)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/collecting_data/cluster_sampling.md)
   - [Non-Probability Sampling Techniques](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/collecting_data/non_probability_sampling.md)
-
 - **3. Designing Surveys and Experiments**
-  - Formulating Hypotheses
+  - [Formulating Hypotheses](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/collecting_data/formulating_hypothesis.md)
   - Experimental Design
   - Survey Questions Design
 
