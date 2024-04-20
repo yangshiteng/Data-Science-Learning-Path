@@ -25,7 +25,7 @@
 
 ## III. Descriptive Statistics
 - **1. Measures of Central Tendency**
-  - Mean, Median, Mode
+  - [Mean, Median, Mode](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/descriptive_statistics/mean_median_mode.md)
 - **2. Measures of Variability**
   - Range, Variance, Standard Deviation, Interquartile Range
 - **3. Data Visualization**
