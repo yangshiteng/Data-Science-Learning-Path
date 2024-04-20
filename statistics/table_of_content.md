@@ -20,7 +20,7 @@
   - [Non-Probability Sampling Techniques](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/collecting_data/non_probability_sampling.md)
 - **3. Designing Surveys and Experiments**
   - [Formulating Hypotheses](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/collecting_data/formulating_hypothesis.md)
-  - Experimental Design
+  - [Experimental Design](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/collecting_data/experimental_design.md)
   - Survey Questions Design
 
 ## III. Descriptive Statistics
