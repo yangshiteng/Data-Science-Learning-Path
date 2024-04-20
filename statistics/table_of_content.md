@@ -17,10 +17,8 @@
     - [Simple Random Sampling (简单随机抽样)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/collecting_data/simple_random_sampling.md)
     - [Stratified Sampling （分层抽样)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/collecting_data/stratified_sampling.md)
     - [Cluster Sampling （整群抽样)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/collecting_data/cluster_sampling.md)
-  - Non-Probability Sampling Techniques
-    - Convenience Sampling
-    - Judgmental Sampling
-    - Quota Sampling
+  - [Non-Probability Sampling Techniques](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/collecting_data/non_probability_sampling.md)
+
 - **3. Designing Surveys and Experiments**
   - Formulating Hypotheses
   - Experimental Design
