@@ -31,3 +31,6 @@ cross_tab = pd.crosstab(df['Gender'], df['Preference'])
 print(cross_tab)
 ```
 ![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/979d08f5-d81e-48b0-8798-131fafa01b43)
+
+# Conclusion
+Cross tabulation is a fundamental statistical tool that helps in the descriptive analysis of categorical data by displaying the frequency of each category combination. It is an essential method in exploratory data analysis, enabling quick identification of patterns and relationships between multiple categorical variables.
