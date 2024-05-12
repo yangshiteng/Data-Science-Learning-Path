@@ -1,12 +1,13 @@
 # Table of Contents
 
 ## I. Introduction to Statistics
-- **1. [Definition and Scope of Statistics](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/introduction_to_statistics/definition_and_scope_of_statistics.md)**
-- **2. [Importance of Statistics in Various Fields](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/introduction_to_statistics/importance_of_statistics_in_various_fields.md)**
-- **3. Types of Statistics**
+- **1. Introduction
+  - [Definition and Scope of Statistics](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/introduction_to_statistics/definition_and_scope_of_statistics.md)**
+  - [Importance of Statistics in Various Fields](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/introduction_to_statistics/importance_of_statistics_in_various_fields.md)**
+- **2. Types of Statistics**
   - [Descriptive Statistics](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/introduction_to_statistics/descriptive_statistics.md)
   - [Inferential Statistics](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/introduction_to_statistics/inferential_statistics.md)
-- **4. Scales of Measurement**
+- **3. Scales of Measurement**
   - [Nominal, Ordinal, Interval, and Ratio](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/introduction_to_statistics/nominal_ordinal_interval_ratio.md)
 
 ## II. Collecting Data
@@ -35,9 +36,9 @@
   - [Bar Charts](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/descriptive_statistics/bar_charts.md)
   - [Box Plots](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/descriptive_statistics/box_plots.md)
   - [Scatter Plots](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/descriptive_statistics/scatter_plots.md)
-- **4. Distribution Shapes and Types**
-  - Normal, Skewed, Bimodal Distributions
-- **5. Cross-tabulations and Contingency Tables**
+- **4. Cross-tabulations and Contingency Tables**
+  - [Cross-tabulations](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/descriptive_statistics/cross_tabulation.md)
+  - [Contingency Tables](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/descriptive_statistics/contingency_tables.md)
 
 ## IV. Probability Theory
 - **1. Basic Concepts of Probability**
