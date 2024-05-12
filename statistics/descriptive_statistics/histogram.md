@@ -14,6 +14,10 @@ A histogram is a graphical representation of the distribution of numerical data.
 - To identify central tendencies, variability, and the presence of outliers.
 - To compare distributions across different datasets.
 
+![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/9528cd5f-824e-4b70-8ca0-13791e01f3fc)
+
+![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/84438e73-879b-4ea7-9edb-516d4e4cd769)
+
 # Examples with Python Code
 
 ## Basic Histogram Example
