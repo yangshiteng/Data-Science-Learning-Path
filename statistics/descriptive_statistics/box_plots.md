@@ -32,3 +32,50 @@ plt.ylabel('Values')
 plt.show()
 ```
 ![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/e0623562-633f-453e-8456-f8c5fb75aebd)
+
+## Box Plot with Outliers
+This example illustrates how to generate a box plot with identifiable outliers using Python.
+
+```python
+import matplotlib.pyplot as plt
+import numpy as np
+
+# Data with added outliers
+data = np.append(np.random.normal(0, 1, 100), [2.5, 3, -3, -3.5])
+
+# Plotting the box plot
+plt.figure(figsize=(8, 6))
+plt.boxplot(data, vert=True, patch_artist=True, showfliers=True)  # Highlight outliers
+plt.title('Box Plot with Outliers')
+plt.ylabel('Values')
+plt.show()
+```
+![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/e609d9c7-8603-431c-b1d6-85bac3e2d2a3)
+
+## Comparative Box Plots
+This example shows how to plot multiple box plots side by side for comparative purposes, useful for visualizing distributions across different groups.
+
+```python
+import matplotlib.pyplot as plt
+import numpy as np
+
+# Generating data for three groups
+group1 = np.random.normal(0, 1, 100)
+group2 = np.random.normal(1, 1.5, 100)
+group3 = np.random.normal(-1, 0.5, 100)
+
+data = [group1, group2, group3]
+
+# Plotting comparative box plots
+plt.figure(figsize=(10, 6))
+plt.boxplot(data, vert=True, patch_artist=True)
+plt.title('Comparative Box Plots of Three Groups')
+plt.xticks([1, 2, 3], ['Group 1', 'Group 2', 'Group 3'])
+plt.ylabel('Values')
+plt.show()
+```
+![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/5d35e9b2-5df6-40a2-8f6d-e4521d604619)
+
+# Conclusion
+Box plots are a compact and informative way to visualize the distribution of data. They provide a clear view of the data's range, central tendency, and variability, making them an essential tool for exploratory data analysis.
+
