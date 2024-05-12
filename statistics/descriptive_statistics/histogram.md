@@ -9,6 +9,7 @@ A histogram is a graphical representation of the distribution of numerical data.
 - **Width of Bars**: In histograms, the width of the bars is typically the same for all bins but represents the interval of the data covered by each bin.
 
 # Uses of Histograms:
+
 - To show the shape of the data distribution (e.g., normal, skewed, bimodal).
 - To identify central tendencies, variability, and the presence of outliers.
 - To compare distributions across different datasets.
@@ -16,6 +17,7 @@ A histogram is a graphical representation of the distribution of numerical data.
 # Examples with Python Code
 
 ## Basic Histogram Example
+
 This example plots the histogram of a random dataset using Python's Matplotlib and NumPy libraries.
 
     import matplotlib.pyplot as plt
@@ -35,6 +37,7 @@ This example plots the histogram of a random dataset using Python's Matplotlib a
 This code generates 1000 random data points following a normal distribution with a mean of 50 and a standard deviation of 10. It then creates a histogram with 20 bins, showing the distribution of these data points.
 
 ## Histogram with Non-Uniform Bin Width
+
 This example demonstrates creating a histogram with varying bin widths.
     
     import matplotlib.pyplot as plt
