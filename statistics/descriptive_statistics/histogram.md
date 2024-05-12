@@ -56,6 +56,8 @@ This example demonstrates creating a histogram with varying bin widths.
     plt.ylabel('Frequency')
     plt.show()
 
+![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/7185f89b-6d67-4d79-95d7-b9f0dc5a5c32)
+
 In this example, the data is manually specified, and the bins are explicitly defined to have different widths, showcasing how certain ranges can be emphasized in a histogram.
 
 # Conclusion
