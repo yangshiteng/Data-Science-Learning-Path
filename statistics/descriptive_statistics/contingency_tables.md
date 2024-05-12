@@ -31,6 +31,7 @@ contingency_table = pd.crosstab(df['Gender'], df['Preference'])
 print(contingency_table)
 ```
 ![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/ec2aece4-6ba7-4ee2-81cd-2cf775018689)
+
 This example produces a contingency table from a dataset with 'Gender' and 'Preference' categories, showing the count of each combination.
 
 ## Contingency Table with Marginal Totals
@@ -51,6 +52,7 @@ contingency_table = pd.crosstab(df['Gender'], df['Preference'], margins=True)
 print(contingency_table)
 ```
 ![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/d0486fb5-270f-4285-8a5d-9580a3ede930)
+
 In this modification, the contingency table includes total counts along each row and column, giving a clearer picture of the overall data distribution.
 
 # Conclusion
