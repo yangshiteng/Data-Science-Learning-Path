@@ -34,6 +34,8 @@ This example plots the histogram of a random dataset using Python's Matplotlib a
     plt.ylabel('Frequency')
     plt.show()
 
+![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/e3023666-eab5-42bb-a284-85610d5f52e6)
+
 This code generates 1000 random data points following a normal distribution with a mean of 50 and a standard deviation of 10. It then creates a histogram with 20 bins, showing the distribution of these data points.
 
 ## Histogram with Non-Uniform Bin Width
