@@ -24,19 +24,21 @@ A histogram is a graphical representation of the distribution of numerical data.
 
 This example plots the histogram of a random dataset using Python's Matplotlib and NumPy libraries.
 
-    import matplotlib.pyplot as plt
-    import numpy as np
-    
-    # Generate random data from a normal distribution
-    data = np.random.normal(loc=50, scale=10, size=1000)  # mean=50, std=10, n=1000
-    
-    # Plotting the histogram
-    plt.figure(figsize=(10, 6))
-    plt.hist(data, bins=20, color='blue', edgecolor='black')
-    plt.title('Histogram of Randomly Generated Data')
-    plt.xlabel('Value')
-    plt.ylabel('Frequency')
-    plt.show()
+```python
+import matplotlib.pyplot as plt
+import numpy as np
+
+# Generate random data from a normal distribution
+data = np.random.normal(loc=50, scale=10, size=1000)  # mean=50, std=10, n=1000
+
+# Plotting the histogram
+plt.figure(figsize=(10, 6))
+plt.hist(data, bins=20, color='blue', edgecolor='black')
+plt.title('Histogram of Randomly Generated Data')
+plt.xlabel('Value')
+plt.ylabel('Frequency')
+plt.show()
+```
 
 ![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/e3023666-eab5-42bb-a284-85610d5f52e6)
 
@@ -45,22 +47,24 @@ This code generates 1000 random data points following a normal distribution with
 ## Histogram with Non-Uniform Bin Width
 
 This example demonstrates creating a histogram with varying bin widths.
-    
-    import matplotlib.pyplot as plt
-    
-    # Data to be plotted
-    data = [1, 1.5, 2, 2.5, 3, 3.5, 4, 4.5, 5, 5.5, 6, 7, 8, 9, 10]
-    
-    # Creating bins with non-uniform width
-    bins = [0, 2, 4, 6, 10]
-    
-    # Plotting the histogram
-    plt.figure(figsize=(10, 6))
-    plt.hist(data, bins=bins, color='green', edgecolor='black')
-    plt.title('Histogram with Non-Uniform Bin Width')
-    plt.xlabel('Value')
-    plt.ylabel('Frequency')
-    plt.show()
+
+```python
+import matplotlib.pyplot as plt
+
+# Data to be plotted
+data = [1, 1.5, 2, 2.5, 3, 3.5, 4, 4.5, 5, 5.5, 6, 7, 8, 9, 10]
+
+# Creating bins with non-uniform width
+bins = [0, 2, 4, 6, 10]
+
+# Plotting the histogram
+plt.figure(figsize=(10, 6))
+plt.hist(data, bins=bins, color='green', edgecolor='black')
+plt.title('Histogram with Non-Uniform Bin Width')
+plt.xlabel('Value')
+plt.ylabel('Frequency')
+plt.show()
+```
 
 ![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/7185f89b-6d67-4d79-95d7-b9f0dc5a5c32)
 
