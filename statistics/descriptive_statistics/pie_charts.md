@@ -33,3 +33,27 @@ plt.axis('equal')  # Equal aspect ratio ensures the pie chart is circular.
 plt.show()
 ```
 ![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/c271b090-162a-4aa9-99b4-d884baa406c5)
+
+## Dynamic Pie Chart from Data
+This example shows how to dynamically create a pie chart based on user input or changing data.
+
+```python
+import matplotlib.pyplot as plt
+
+# Dynamic data, can come from user input or data processing
+fruit_counts = {'Apple': 120, 'Banana': 180, 'Cherry': 90, 'Date': 30}
+labels = list(fruit_counts.keys())
+sizes = list(fruit_counts.values())
+colors = ['red', 'yellow', 'pink', 'brown']  # Assign a color to each fruit
+
+# Plotting the pie chart
+plt.figure(figsize=(8, 8))
+plt.pie(sizes, labels=labels, colors=colors, autopct='%1.1f%%', startangle=90)
+plt.title('Dynamic Pie Chart of Fruit Distribution')
+plt.axis('equal')
+plt.show()
+```
+![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/224a4500-7c1a-4673-bb3a-92f80c490d96)
+
+# Conclusion
+Pie charts are a straightforward yet powerful tool for visualizing the proportional distribution of data across different categories. They are particularly useful for presenting a clear and intuitive picture of percentages or parts of a whole.
