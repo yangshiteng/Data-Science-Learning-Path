@@ -30,7 +30,11 @@
 - **2. Measures of Variability**
   - [Range, Variance, Standard Deviation, Interquartile Range](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/descriptive_statistics/range_variance_sd_iqr.md)
 - **3. Data Visualization**
-  - Histograms, Pie Charts, Bar Charts, Box Plots, Scatter Plots
+  - [Histograms](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/descriptive_statistics/histogram.md)
+  - [Pie Charts](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/descriptive_statistics/pie_charts.md)
+  - [Bar Charts](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/descriptive_statistics/bar_charts.md)
+  - [Box Plots](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/descriptive_statistics/box_plots.md)
+  - [Scatter Plots](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/descriptive_statistics/scatter_plots.md)
 - **4. Distribution Shapes and Types**
   - Normal, Skewed, Bimodal Distributions
 - **5. Cross-tabulations and Contingency Tables**
