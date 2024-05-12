@@ -30,3 +30,6 @@ plt.title('Sales of Different Fruits')
 plt.xlabel('Fruit')
 plt.ylabel('Sales')
 plt.show()
+```
+
+![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/d703adf5-bb74-4b88-80d0-aa77b68089d2)
