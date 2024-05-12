@@ -1,7 +1,9 @@
 # What is a Histogram?
+
 A histogram is a graphical representation of the distribution of numerical data. It consists of parallel vertical bars that graphically show the frequency distribution of a variable. Each bar represents a bin or class interval, and the height of the bar indicates the frequency of data points within that range.
 
 # Key Characteristics of Histograms:
+
 - **Bins**: Intervals that data is grouped into. The choice of bin size and number can significantly affect the representation of data.
 - **Height of Bars**: Represents the frequency of data points within each bin. The higher the bar, the more data points fall within that bin's range.
 - **Width of Bars**: In histograms, the width of the bars is typically the same for all bins but represents the interval of the data covered by each bin.
