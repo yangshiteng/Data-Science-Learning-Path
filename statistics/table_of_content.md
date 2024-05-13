@@ -42,7 +42,7 @@
 
 ## IV. Probability Theory
 - **1. Basic Concepts of Probability**
-  - Experiments, Outcomes, Events, Sample Space
+  - [Experiments, Outcomes, Events, Sample Space](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/probability_theory/basic_concepts_probability.md)
 - **2. Permutation and Combination**
   - Factorial Notation
   - Calculations and Applications
