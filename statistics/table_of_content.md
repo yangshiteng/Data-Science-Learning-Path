@@ -44,6 +44,7 @@
 - **1. Basic Concepts of Probability**
   - [Experiments, Outcomes, Events, Sample Space](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/probability_theory/basic_concepts_probability.md)
 - **2. Permutation and Combination**
+  - [Introduction](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/probability_theory/permutation_combination_introduction.md)
   - Factorial Notation
   - Calculations and Applications
 - **3. Rules of Probability**
