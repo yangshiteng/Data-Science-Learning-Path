@@ -55,9 +55,9 @@
 - **5. Probability Distributions**
   - Discrete Distributions
     - [Bernoulli Distribution (the number of successes in a single trial)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/probability_theory/bernoulli.md)
-    - [Binomial Distribution (the number of successes in n trials)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/probability_theory/binomial.md)
+    - [Binomial Distribution (the number of successes in a fixed number of trials)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/probability_theory/binomial.md)
     - [Geometric Distribution (the number of trials for achieving a single success)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/probability_theory/geometric.md)
-    - [Negative Binomial Distribution (the number of trials for achieving n successes)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/probability_theory/negative_binomial.md)
+    - [Negative Binomial Distribution (the number of failures before achieving a fixed number of successes)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/probability_theory/negative_binomial.md)
     - [Hypergeometric Distribution](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/probability_theory/hypergeometric.md)
     - [Poisson Distribution](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/probability_theory/poisson.md)
     - [Discrete Uniform Distribution](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/probability_theory/discrete_uniform.md)
