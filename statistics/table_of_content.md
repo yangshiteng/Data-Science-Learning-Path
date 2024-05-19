@@ -62,8 +62,6 @@
     - [Poisson Distribution (the number of events occurring in a fixed interval of time or space)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/probability_theory/poisson.md)
     - [Discrete Uniform Distribution](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/probability_theory/discrete_uniform.md)
     - [Multinomial Distribution](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/probability_theory/multinomial.md)
-    - [Bernoulli Process](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/probability_theory/bernolli_process.md)
-    - [Zipf's Distribution](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/probability_theory/zipf_distribution.md)
   - Continuous Distributions
     - Normal
     - Exponential
