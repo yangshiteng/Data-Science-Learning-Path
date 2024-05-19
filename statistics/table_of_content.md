@@ -54,7 +54,7 @@
   - [Sequential Bayesian Updating](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/probability_theory/sequential_bayes_update.md)
 - **5. Probability Distributions**
   - Discrete Distributions
-    - [Bernoulli Distribution](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/probability_theory/bernoulli.md)
+    - [Bernoulli Distribution (Number of success in one trial)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/probability_theory/bernoulli.md)
     - [Binomial Distribution](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/probability_theory/binomial.md)
     - [Geometric Distribution](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/probability_theory/geometric.md)
     - [Negative Binomial Distribution](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/probability_theory/negative_binomial.md)
