@@ -51,6 +51,7 @@
 - **4. Conditional Probability and Bayes' Theorem**
   - [Introduction](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/probability_theory/bayes_theorem.md)
   - [Application Example](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/probability_theory/application_example_bayes.md)
+  - [Sequential Bayesian Updating](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/probability_theory/sequential_bayes_update.md)
 - **5. Probability Distributions**
   - Discrete Distributions (Binomial, Poisson)
   - Continuous Distributions (Normal, Exponential)
