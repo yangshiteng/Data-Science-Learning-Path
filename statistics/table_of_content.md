@@ -47,7 +47,7 @@
   - [Introduction](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/probability_theory/permutation_combination_introduction.md)
   - [Interview Questions](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/probability_theory/permutation_combination_QA.md)
 - **3. Rules of Probability**
-  - Addition Rule, Multiplication Rule, Complementary Probability
+  - [Addition Rule, Multiplication Rule, Complementary Probability](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/probability_theory/rules_of_probability.md)
 - **4. Conditional Probability and Bayes' Theorem**
 - **5. Probability Distributions**
   - Discrete Distributions (Binomial, Poisson)
