@@ -54,10 +54,10 @@
   - [Sequential Bayesian Updating](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/probability_theory/sequential_bayes_update.md)
 - **5. Probability Distributions**
   - Discrete Distributions
-    - [Bernoulli Distribution (Number of success in one trial)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/probability_theory/bernoulli.md)
-    - [Binomial Distribution](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/probability_theory/binomial.md)
-    - [Geometric Distribution](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/probability_theory/geometric.md)
-    - [Negative Binomial Distribution](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/probability_theory/negative_binomial.md)
+    - [Bernoulli Distribution (number of success in one trial)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/probability_theory/bernoulli.md)
+    - [Binomial Distribution (number of success in n trials)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/probability_theory/binomial.md)
+    - [Geometric Distribution (number of trial for one success)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/probability_theory/geometric.md)
+    - [Negative Binomial Distribution (number of trial for n successes)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/probability_theory/negative_binomial.md)
     - [Hypergeometric Distribution](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/probability_theory/hypergeometric.md)
     - [Poisson Distribution](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/probability_theory/poisson.md)
     - [Discrete Uniform Distribution](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/probability_theory/discrete_uniform.md)
