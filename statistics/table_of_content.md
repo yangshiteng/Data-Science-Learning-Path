@@ -54,8 +54,16 @@
   - [Sequential Bayesian Updating](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/probability_theory/sequential_bayes_update.md)
 - **5. Probability Distributions**
   - Discrete Distributions
-    - Binomial
-    - Poisson
+    - [Bernoulli Distribution](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/probability_theory/bernoulli.py)
+    - [Binomial Distribution](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/probability_theory/binomial.py)
+    - [Geometric Distribution](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/probability_theory/geometric.py)
+    - [Negative Binomial Distribution](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/probability_theory/negative_binomial.py)
+    - [Hypergeometric Distribution](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/probability_theory/hypergeometric.py)
+    - [Poisson Distribution](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/probability_theory/poisson.py)
+    - [Discrete Uniform Distribution](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/probability_theory/discrete_uniform.py)
+    - [Multinomial Distribution](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/probability_theory/multinomial.py)
+    - [Bernoulli Process](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/probability_theory/bernolli_process.py)
+    - [Zipf's Distribution](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/probability_theory/zipf_distribution.py)
   - Continuous Distributions
     - Normal
     - Exponential
