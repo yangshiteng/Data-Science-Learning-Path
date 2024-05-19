@@ -50,6 +50,7 @@
   - [Addition Rule, Multiplication Rule, Complementary Probability](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/probability_theory/rules_of_probability.md)
 - **4. Conditional Probability and Bayes' Theorem**
   - [Introduction](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/probability_theory/bayes_theorem.md)
+  - [Application Example](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/probability_theory/application_example_bayes.md)
 - **5. Probability Distributions**
   - Discrete Distributions (Binomial, Poisson)
   - Continuous Distributions (Normal, Exponential)
