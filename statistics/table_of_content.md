@@ -63,8 +63,14 @@
     - [Discrete Uniform Distribution (equal likely)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/probability_theory/discrete_uniform.md)
     - [Multinomial Distribution (generalization of binomial distribution)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/probability_theory/multinomial.md)
   - Continuous Distributions
-    - Normal
-    - Exponential
+    - [Normal Distribution](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/normal_distribution.md)
+    - [Uniform Distribution](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/uniform_distribution.md)
+    - [Exponential Distribution](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/exponential_distribution.md)
+    - [Gamma Distribution](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/gamma_distribution.md)
+    - [Beta Distribution](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/beta_distribution.md)
+    - [Chi-square Distribution](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/chisquare_distribution.md)
+    - [Student's t-Distribution](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/student_t.md)
+    - [F-Distribution](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/f_distribution.md)
 
 ## V. Inferential Statistics
 - **1. Sampling Distributions and the Central Limit Theorem**
