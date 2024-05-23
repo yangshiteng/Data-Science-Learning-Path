@@ -60,8 +60,8 @@
     - [Negative Binomial Distribution (the number of failures before achieving a fixed number of successes)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/probability_theory/negative_binomial.md)
     - [Hypergeometric Distribution (the number of successes in a sample drawn without replacement from a finite population)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/probability_theory/hypergeometric.md)
     - [Poisson Distribution (the number of events occurring in a fixed interval of time or space)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/probability_theory/poisson.md)
-    - [Discrete Uniform Distribution](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/probability_theory/discrete_uniform.md)
-    - [Multinomial Distribution](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/probability_theory/multinomial.md)
+    - [Discrete Uniform Distribution (equal likely)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/probability_theory/discrete_uniform.md)
+    - [Multinomial Distribution (generalization of binomial distribution)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/probability_theory/multinomial.md)
   - Continuous Distributions
     - Normal
     - Exponential
