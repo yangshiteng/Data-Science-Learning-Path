@@ -66,7 +66,7 @@
     - [Normal Distribution](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/probability_theory/normal_distribution.md)
     - [Uniform Distribution](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/probability_theory/uniform_distribution.md)
     - [Exponential Distribution (the time between events in a Poisson process)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/probability_theory/exponential_distribution.md)
-    - [Gamma Distribution](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/probability_theory/gamma_distribution.md)
+    - [Gamma Distribution (the time until k-th event in a Poisson process, the generalization of exponential distribution)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/probability_theory/gamma_distribution.md)
     - [Beta Distribution](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/probability_theory/beta_distribution.md)
     - [Chi-square Distribution](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/probability_theory/chisquare_distribution.md)
     - [Student's t-Distribution](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/probability_theory/student_t.md)
