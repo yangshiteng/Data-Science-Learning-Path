@@ -55,9 +55,49 @@ plt.show()
 
 ![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/482f6561-ebfc-4abc-9772-da4dce3099b7)
 
+![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/d01a5915-cd1a-4256-a12f-d98f46aca6aa)
 
+![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/fb689853-462d-493a-80e1-1b6f12006e2c)
 
+![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/d4f84c38-bcfd-461c-ab2c-469eb12a04b3)
 
+```python
+import numpy as np
+import scipy.stats as stats
+
+# Sample statistics
+sample_mean = 10
+sample_std = 2
+n = 15
+
+# Degrees of freedom
+df = n - 1
+
+# Confidence level
+confidence_level = 0.95
+
+# Calculate the critical value
+alpha = 1 - confidence_level
+t_critical = stats.t.ppf(1 - alpha/2, df)
+
+# Calculate the margin of error
+margin_of_error = t_critical * (sample_std / np.sqrt(n))
+
+# Calculate the confidence interval
+confidence_interval = (sample_mean - margin_of_error, sample_mean + margin_of_error)
+
+print(f"Sample Mean: {sample_mean}")
+print(f"Sample Standard Deviation: {sample_std}")
+print(f"Sample Size: {n}")
+print(f"Degrees of Freedom: {df}")
+print(f"Critical Value (t): {t_critical}")
+print(f"Margin of Error: {margin_of_error}")
+print(f"95% Confidence Interval: {confidence_interval}")
+
+```
+![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/b903c15a-642e-484d-aac4-e726627457c6)
+
+![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/6a52f13f-c68b-4d23-ab14-85c3de7f1c60)
 
 
 
