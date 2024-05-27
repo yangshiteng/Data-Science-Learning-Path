@@ -77,10 +77,59 @@ else:
 
 ![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/b4d87453-a1a9-412b-ba2f-7b791641f478)
 
+![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/fb09960e-9fdc-427b-94d8-b69231b21a96)
 
+![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/95ffa2f7-8a19-4d2f-8dd2-40237362ea71)
 
+![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/c2d1d803-1bf1-4e93-ab3d-39c03534a5c2)
 
+```python
+import numpy as np
+import pandas as pd
+import statsmodels.api as sm
+import scipy.stats as stats
 
+# Generate sample data: Hours studied (X) and exam scores (Y)
+np.random.seed(0)
+X = np.random.uniform(1, 10, 30)
+Y = 3 + 2 * X + np.random.normal(0, 2, 30)
+
+# Add a constant to the independent variable
+X = sm.add_constant(X)
+
+# Fit the regression model
+model = sm.OLS(Y, X).fit()
+
+# Print the summary of the regression model
+print(model.summary())
+
+# Extract the F-statistic and its p-value
+f_statistic = model.fvalue
+f_p_value = model.f_pvalue
+df_reg = model.df_model
+df_res = model.df_resid
+
+# Print the F-statistic and its p-value
+print(f"F-statistic: {f_statistic}")
+print(f"p-value: {f_p_value}")
+print(f"Degrees of freedom (regression): {df_reg}")
+print(f"Degrees of freedom (residual): {df_res}")
+
+# Determine the critical value for a 0.05 significance level
+alpha = 0.05
+f_critical = stats.f.ppf(1 - alpha, df_reg, df_res)
+print(f"Critical value (0.05 significance level): {f_critical}")
+
+# Decision
+if f_statistic > f_critical:
+    print("Reject the null hypothesis. The regression model is significant.")
+else:
+    print("Fail to reject the null hypothesis. The regression model is not significant.")
+
+```
+![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/e37d6083-8037-480e-9da4-8ddbdfe04dee)
+
+![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/bc0f1f24-ec40-4b97-b948-3fcaf4a81c09)
 
 
 
