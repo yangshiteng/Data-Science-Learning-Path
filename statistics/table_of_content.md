@@ -54,6 +54,7 @@
   - [Sequential Bayesian Updating](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/probability_theory/sequential_bayes_update.md)
 - **5. Probability Distributions**
   - Discrete Distributions
+    - [Discrete Variable - Expected Value and Variance](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/probability_theory/discrete_variable.md)
     - [Bernoulli Distribution (the number of successes in a single trial)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/probability_theory/bernoulli.md)
     - [Binomial Distribution (the number of successes in a fixed number of trials)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/probability_theory/binomial.md)
     - [Geometric Distribution (the number of trials for achieving a single success)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/probability_theory/geometric.md)
@@ -63,6 +64,7 @@
     - [Discrete Uniform Distribution (equal likely)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/probability_theory/discrete_uniform.md)
     - [Multinomial Distribution (generalization of binomial distribution)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/probability_theory/multinomial.md)
   - Continuous Distributions
+    - [Continuous Variable - Expected Value and Variance](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/probability_theory/continuous_variable.md)
     - [Normal Distribution](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/probability_theory/normal_distribution.md)
     - [Uniform Distribution](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/probability_theory/uniform_distribution.md)
     - [Exponential Distribution (the time until next event in a Poisson process)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/probability_theory/exponential_distribution.md)
