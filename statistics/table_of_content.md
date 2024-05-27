@@ -70,6 +70,7 @@
     - [Gamma Distribution vs Exponential Distribution](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/probability_theory/gamma_vs_exponential.md)
     - [Beta Distribution](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/probability_theory/beta_distribution.md)
     - [Chi-square Distribution](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/probability_theory/chisquare_distribution.md)
+    - [Chi-square Distribution Application](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/probability_theory/chi_square_application.md)
     - [Student's t-Distribution](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/probability_theory/student_t.md)
     - [F-Distribution](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/probability_theory/f_distribution.md)
 
