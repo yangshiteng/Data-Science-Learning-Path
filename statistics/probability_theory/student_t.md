@@ -99,6 +99,60 @@ print(f"95% Confidence Interval: {confidence_interval}")
 
 ![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/6a52f13f-c68b-4d23-ab14-85c3de7f1c60)
 
+![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/02e374a2-4e13-4bec-a6a3-27f3d22fb2d1)
+
+![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/ffda85c0-e489-4a5e-a7d4-1e11a67c828c)
+
+![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/221f844e-f0b0-424d-bf38-2f1da0e48d7f)
+
+```python
+import numpy as np
+import statsmodels.api as sm
+import scipy.stats as stats
+
+# Sample data: Hours studied (X) and exam scores (Y)
+X = np.array([2, 3, 5, 7, 8, 10, 12, 14, 15, 16, 18, 20, 22, 24, 26, 28, 30, 32, 34, 36])
+Y = np.array([52, 54, 57, 60, 62, 65, 67, 70, 72, 74, 76, 78, 80, 82, 84, 86, 88, 90, 92, 94])
+
+# Add a constant to the independent variable
+X = sm.add_constant(X)
+
+# Fit the regression model
+model = sm.OLS(Y, X).fit()
+
+# Get the estimated coefficients and standard errors
+coefficients = model.params
+standard_errors = model.bse
+
+# Print the results
+print(f"Intercept: {coefficients[0]}")
+print(f"Slope: {coefficients[1]}")
+print(f"Standard Error of the Slope: {standard_errors[1]}")
+
+# Perform the hypothesis test
+t_value = coefficients[1] / standard_errors[1]
+degrees_of_freedom = len(X) - 2
+critical_value = stats.t.ppf(1 - 0.025, degrees_of_freedom)
+
+print(f"t-Statistic: {t_value}")
+print(f"Degrees of Freedom: {degrees_of_freedom}")
+print(f"Critical Value (two-tailed, 0.05 significance level): {critical_value}")
+
+# Decision
+if abs(t_value) > critical_value:
+    print("Reject the null hypothesis. There is a significant relationship between hours studied and exam scores.")
+else:
+    print("Fail to reject the null hypothesis. There is no significant relationship between hours studied and exam scores.")
+
+```
+![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/ff577a32-6b08-492c-b241-86e32676fbae)
+
+![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/1fbce841-34cc-47d6-bb2b-4f56c76df951)
+
+
+
+
+
 
 
 
