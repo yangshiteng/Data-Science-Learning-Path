@@ -77,18 +77,21 @@
     - [F-Distribution](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/probability_theory/f_distribution.md)
 
 ## V. Inferential Statistics
-- **1. Sampling Distributions and the Central Limit Theorem**
-- **2. Estimation**
+- **1. Statistical Theorem**
+  - [Central Limit Theorem](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/inferential_statistics/clt.md)
+- **2. Sampling Distributions**
+- **3. Estimation**
   - Point Estimation
   - Interval Estimation (Confidence Intervals)
-- **3. Hypothesis Testing**
+  - Maximum Likelihood Estimation
+- **4. Hypothesis Testing**
   - Formulating and Testing Hypotheses
   - Significance Levels, P-value
   - Types of Errors (Type I and Type II)
-- **4. Statistical Tests**
+- **5. Statistical Tests**
   - Parametric Tests (t-tests, ANOVA)
   - Non-Parametric Tests (Chi-square tests, Mann-Whitney U test)
-- **5. Correlation and Causation**
+- **6. Correlation and Causation**
 
 ## VI. Regression Analysis
 - **1. Simple Linear Regression**
