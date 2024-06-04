@@ -84,6 +84,10 @@
   - [Confidence Interval Theorem](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/inferential_statistics/confidence_interval_theorem.md)
   - [Chebyshev's Inequality](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/inferential_statistics/chebyshev_inequality.md)
 - **2. Sampling Distributions**
+  - [Introduction](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/inferential_statistics/sampling_distribution_introduction.md)
+  - [Sample Mean](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/inferential_statistics/sample_mean.md)
+  - [Sample Variance](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/inferential_statistics/sample_variance.md)
+  - [Sample Proportion](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/inferential_statistics/sample_proportion.md)
 - **3. Estimation**
   - Point Estimation
   - Interval Estimation (Confidence Intervals)
