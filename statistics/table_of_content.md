@@ -88,6 +88,7 @@
   - [Sample Mean](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/inferential_statistics/sample_mean.md)
   - [Sample Variance](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/inferential_statistics/sample_variance.md)
   - [Sample Variance - why divided by n-1](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/inferential_statistics/sample_variance_explain.md)
+  - [Standard Error vs Standard Deviation](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/inferential_statistics/standard_error_vs_standard_deviation.md)
   - [Sample Proportion](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/inferential_statistics/sample_proportion.md)
 - **3. Estimation**
   - Point Estimation
