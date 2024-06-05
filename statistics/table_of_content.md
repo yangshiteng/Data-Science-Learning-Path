@@ -95,10 +95,10 @@
 - **3. Estimation**
   - [Point Estimation](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/inferential_statistics/point_estimation.md)
     - [Bias](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/inferential_statistics/bias.md)
-  - [Best Linear Unbiased Estimator (BLUE)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/inferential_statistics/blue.md)
+    - [Best Linear Unbiased Estimator (BLUE)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/inferential_statistics/blue.md)
+    - [Maximum Likelihood Estimation (MLE)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/inferential_statistics/mle.md)
+    - [Maximum A Posteriori Estimation (MAP)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/inferential_statistics/map.md)
   - [Interval Estimation (Confidence Intervals)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/inferential_statistics/interval_estimation.md)
-  - [Maximum Likelihood Estimation (MLE)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/inferential_statistics/mle.md)
-  - [Maximum A Posteriori Estimation (MAP)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/inferential_statistics/map.md)
 - **4. Hypothesis Testing**
   - Formulating and Testing Hypotheses
   - Significance Levels, P-value
