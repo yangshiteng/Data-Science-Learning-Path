@@ -96,6 +96,7 @@
   - Point Estimation
   - Interval Estimation (Confidence Intervals)
   - Maximum Likelihood Estimation
+  - Maximum A Posteriori Estimation
 - **4. Hypothesis Testing**
   - Formulating and Testing Hypotheses
   - Significance Levels, P-value
