@@ -100,6 +100,7 @@
     - [Maximum A Posteriori Estimation (MAP)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/inferential_statistics/map.md)
   - [Interval Estimation (Confidence Intervals)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/inferential_statistics/interval_estimation.md)
     - [Interpretation of Confidence Interval](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/inferential_statistics/interpretation_of_confidenceinterval.md)
+    - [Derivation of Confidence Interval](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/inferential_statistics/derivation_confidence_interval.md)
 - **4. Hypothesis Testing**
   - Formulating and Testing Hypotheses
   - Significance Levels, P-value
