@@ -94,6 +94,7 @@
   - [Sample Proportion](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/inferential_statistics/sample_proportion.md)
 - **3. Estimation**
   - [Point Estimation](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/inferential_statistics/point_estimation.md)
+    - [Bias]()
   - [Interval Estimation (Confidence Intervals)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/inferential_statistics/interval_estimation.md)
   - [Maximum Likelihood Estimation (MLE)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/inferential_statistics/mle.md)
   - [Maximum A Posteriori Estimation (MAP)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/inferential_statistics/map.md)
