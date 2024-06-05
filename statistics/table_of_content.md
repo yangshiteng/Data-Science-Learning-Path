@@ -95,8 +95,8 @@
 - **3. Estimation**
   - Point Estimation
   - Interval Estimation (Confidence Intervals)
-  - Maximum Likelihood Estimation
-  - Maximum A Posteriori Estimation
+  - Maximum Likelihood Estimation (MLE)
+  - Maximum A Posteriori Estimation (MAP)
 - **4. Hypothesis Testing**
   - Formulating and Testing Hypotheses
   - Significance Levels, P-value
