@@ -80,8 +80,8 @@
 - **1. Statistical Theorem**
   - [Central Limit Theorem](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/inferential_statistics/clt.md)
   - [Law of Large Numbers (LLN)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/inferential_statistics/lln.md)
-    - [Converge in Probability]()
-    - [Converge Almost Surely]()
+    - [Converge In Probability](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/inferential_statistics/converge_in_probability.md)
+    - [Converge Almost Surely](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/inferential_statistics/converge_almost_surely.md)
   - [Bayes' Theorem](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/inferential_statistics/bayes_theorem.md)
   - [Confidence Interval Theorem](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/inferential_statistics/confidence_interval_theorem.md)
   - [Chebyshev's Inequality](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/inferential_statistics/chebyshev_inequality.md)
