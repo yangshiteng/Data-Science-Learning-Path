@@ -36,6 +36,7 @@
   - [Bar Charts](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/descriptive_statistics/bar_charts.md)
   - [Box Plots](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/descriptive_statistics/box_plots.md)
   - [Scatter Plots](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/descriptive_statistics/scatter_plots.md)
+  - [QQ Plot](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/descriptive_statistics/qq_plot.md)
 - **4. Cross-tabulations and Contingency Tables**
   - [Cross-tabulations](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/descriptive_statistics/cross_tabulation.md)
   - [Contingency Tables](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/descriptive_statistics/contingency_tables.md)
