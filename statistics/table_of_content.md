@@ -108,9 +108,12 @@
     - [Interpretation of Confidence Interval](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/inferential_statistics/interpretation_of_confidenceinterval.md)
     - [Derivation of Confidence Interval](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/inferential_statistics/derivation_confidence_interval.md)
 - **4. Hypothesis Testing**
-  - Formulating and Testing Hypotheses
-  - Significance Levels, P-value
-  - Types of Errors (Type I and Type II)
+  - [Hypothesis Testing Overview](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/inferential_statistics/hypothesis_testing_overview.md)
+  - [t-test vs z-test](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/inferential_statistics/ttestvsztest.md)
+  - [p-value](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/inferential_statistics/pvalue.md)
+  - [Types of Errors (Type I and Type II)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/inferential_statistics/typeiandtypeiierrors.md)
+  - [Statistical Power](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/inferential_statistics/statistical_power.md)
+  - [Power Analysis](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/inferential_statistics/power_analysis.md)
 - **5. Statistical Tests**
   - Parametric Tests (t-tests, ANOVA)
   - Non-Parametric Tests (Chi-square tests, Mann-Whitney U test)
