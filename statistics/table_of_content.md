@@ -110,7 +110,7 @@
 - **4. Hypothesis Testing**
   - [Hypothesis Testing Overview](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/inferential_statistics/hypothesis_testing_overview.md)
   - [t-test vs z-test](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/inferential_statistics/ttestvsztest.md)
-  - [p-value](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/inferential_statistics/pvalue.md)
+  - [p-value (quantify how surprising the observed data is if the null hypothesis is true)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/inferential_statistics/pvalue.md)
   - [Types of Errors (Type I and Type II)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/inferential_statistics/typeiandtypeiierrors.md)
   - [Statistical Power](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/inferential_statistics/statistical_power.md)
   - [Power Analysis](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/inferential_statistics/power_analysis.md)
