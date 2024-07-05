@@ -114,7 +114,6 @@
   - [Types of Errors (Type I and Type II)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/inferential_statistics/typeiandtypeiierrors.md)
   - [Effect Size (Quantify the strength or difference observed in a study)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/inferential_statistics/effect_size.md)
   - [Statistical Power](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/inferential_statistics/statistical_power.md)
-  - [Power Analysis](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/inferential_statistics/power_analysis.md)
 - **5. Statistical Tests**
   - Parametric Tests (t-tests, ANOVA)
   - Non-Parametric Tests (Chi-square tests, Mann-Whitney U test)
