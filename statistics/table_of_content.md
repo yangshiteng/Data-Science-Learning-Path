@@ -116,6 +116,7 @@
   - [Statistical Power](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/inferential_statistics/statistical_power.md)
 - **5. Statistical Tests**
   - Parametric Tests (t-tests, ANOVA)
+    - t-tests
   - Non-Parametric Tests (Chi-square tests, Mann-Whitney U test)
 - **6. Correlation and Causation**
 
