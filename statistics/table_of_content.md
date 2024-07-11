@@ -116,9 +116,24 @@
   - [Statistical Power](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/inferential_statistics/statistical_power.md)
 - **5. Statistical Tests**
   - Parametric Tests (t-tests, ANOVA)
-    - t-tests
+    - Z-Test
+    - t-Tests
+    - ANOVA (Analysis of Variance)
+    - Chi-Square Test
+    - Pearson Correlation Significance Test
+    - F-Test
+    - MANOVA (Multivariate Analysis of Variance)
   - Non-Parametric Tests (Chi-square tests, Mann-Whitney U test)
-- **6. Correlation and Causation**
+    - Kolmogorov-Smirnov Test
+    - Mann-Whitney U Test (Wilcoxon Rank-Sum Test)
+    - Kruskal-Wallis H Test
+    - Wilcoxon Signed-Rank Test
+    - Friedman Test
+    - Spearman’s Rank Correlation Coefficient
+    - Kendall’s Tau
+    - Sign Test
+    - McNemar’s Test
+    - Cochran’s Q Test
 
 ## VI. Regression Analysis
 - **1. Simple Linear Regression**
@@ -146,8 +161,6 @@
 - **2. Bayesian Statistics**
   - Principles of Bayesian Inference
   - Bayesian vs. Frequentist Statistics
-- **3. Non-Parametric Methods**
-  - Overview and Applications
-- **4. Survival Analysis**
+- **3. Survival Analysis**
   - Kaplan-Meier Estimate
   - Hazard Models
