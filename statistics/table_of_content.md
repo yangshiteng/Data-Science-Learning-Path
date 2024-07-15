@@ -116,24 +116,24 @@
   - [Statistical Power](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/inferential_statistics/statistical_power.md)
 - **5. Statistical Tests**
   - Parametric Tests (t-tests, ANOVA)
-    - Z-Test
-    - t-Tests
-    - ANOVA (Analysis of Variance)
-    - Chi-Square Test
-    - Pearson Correlation Significance Test
-    - F-Test
-    - MANOVA (Multivariate Analysis of Variance)
+    - [Z-Test](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/inferential_statistics/z_test.md)
+    - [t-Tests](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/inferential_statistics/t_test.md)
+    - [ANOVA (Analysis of Variance)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/inferential_statistics/anova.md)
+    - [Chi-Square Test](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/inferential_statistics/chi_square.md)
+    - [Pearson Correlation Significance Test](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/inferential_statistics/pearson_correlation.md)
+    - [F-Test](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/inferential_statistics/f_test.md)
+    - [MANOVA (Multivariate Analysis of Variance)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/inferential_statistics/manova.md)
   - Non-Parametric Tests (Chi-square tests, Mann-Whitney U test)
-    - Kolmogorov-Smirnov Test
-    - Mann-Whitney U Test (Wilcoxon Rank-Sum Test)
-    - Kruskal-Wallis H Test
-    - Wilcoxon Signed-Rank Test
-    - Friedman Test
-    - Spearman’s Rank Correlation Coefficient
-    - Kendall’s Tau
-    - Sign Test
-    - McNemar’s Test
-    - Cochran’s Q Test
+    - [Kolmogorov-Smirnov Test](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/inferential_statistics/ks_test.md)
+    - [Mann-Whitney U Test (Wilcoxon Rank-Sum Test)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/inferential_statistics/mann_whiteney_test.md)
+    - [Kruskal-Wallis H Test](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/inferential_statistics/kwh_test.md)
+    - [Wilcoxon Signed-Rank Test](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/inferential_statistics/wsr_test.md)
+    - [Friedman Test](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/inferential_statistics/friedman_test.md)
+    - [Spearman’s Rank Correlation Coefficient](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/inferential_statistics/spearman_coefficient.md)
+    - [Kendall’s Tau](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/inferential_statistics/kendall.md)
+    - [Sign Test](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/inferential_statistics/sign_test.md)
+    - [McNemar’s Test](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/inferential_statistics/mcnemar_test.md)
+    - [Cochran’s Q Test](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/inferential_statistics/cochran_test.md)
 
 ## VI. Regression Analysis
 - **1. Simple Linear Regression**
