@@ -39,3 +39,27 @@ else:
     print("Fail to reject the null hypothesis: The sample comes from the specified normal distribution.")
 
 ```
+
+## Two-Sample K-S Test Implementation
+
+```python
+import numpy as np
+from scipy import stats
+
+# Sample data
+data1 = [1.2, 1.4, 1.6, 1.8, 2.0]
+data2 = [1.1, 1.3, 1.5, 1.7, 1.9]
+
+# Perform the K-S test
+ks_statistic, p_value = stats.ks_2samp(data1, data2)
+
+print(f'K-S Statistic: {ks_statistic}')
+print(f'P-Value: {p_value}')
+
+# Interpretation
+alpha = 0.05
+if p_value < alpha:
+    print("Reject the null hypothesis: The two samples come from different distributions.")
+else:
+    print("Fail to reject the null hypothesis: The two samples come from the same distribution.")
+```
