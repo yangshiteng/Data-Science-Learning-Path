@@ -115,15 +115,15 @@
   - [Effect Size (Quantify the strength or difference observed in a study)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/inferential_statistics/effect_size.md)
   - [Statistical Power](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/inferential_statistics/statistical_power.md)
 - **5. Statistical Tests**
-  - Parametric Tests (t-tests, ANOVA)
+  - Parametric Tests 
     - [Z-Test](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/inferential_statistics/z_test.md)
     - [t-Tests](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/inferential_statistics/t_test.md)
     - [ANOVA (Analysis of Variance)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/inferential_statistics/anova.md)
-    - [Chi-Square Test](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/inferential_statistics/chi_square.md)
     - [Pearson Correlation Significance Test](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/inferential_statistics/pearson_correlation.md)
     - [F-Test](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/inferential_statistics/f_test.md)
     - [MANOVA (Multivariate Analysis of Variance)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/inferential_statistics/manova.md)
-  - Non-Parametric Tests (Chi-square tests, Mann-Whitney U test)
+  - Non-Parametric Tests
+    - [Chi-Square Test](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/inferential_statistics/chi_square.md)
     - [Kolmogorov-Smirnov Test](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/inferential_statistics/ks_test.md)
     - [Mann-Whitney U Test (Wilcoxon Rank-Sum Test)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/inferential_statistics/mann_whiteney_test.md)
     - [Kruskal-Wallis H Test](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/inferential_statistics/kwh_test.md)
