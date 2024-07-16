@@ -131,9 +131,6 @@
     - [Friedman Test](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/inferential_statistics/friedman_test.md)
     - [Spearman’s Rank Correlation Coefficient](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/inferential_statistics/spearman_coefficient.md)
     - [Kendall’s Tau](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/inferential_statistics/kendall.md)
-    - [Sign Test](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/inferential_statistics/sign_test.md)
-    - [McNemar’s Test](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/inferential_statistics/mcnemar_test.md)
-    - [Cochran’s Q Test](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/inferential_statistics/cochran_test.md)
 
 ## VI. Regression Analysis
 - **1. Simple Linear Regression**
