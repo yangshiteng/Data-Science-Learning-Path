@@ -10,6 +10,8 @@
 
 ![image](https://github.com/user-attachments/assets/236cd1fc-d608-44a2-83fb-b64c93d96bbf)
 
+![image](https://github.com/user-attachments/assets/f0b0e921-25d0-4a46-8d4f-3cf678b4c4c2)
+
 ```python
 import numpy as np
 from scipy import stats
