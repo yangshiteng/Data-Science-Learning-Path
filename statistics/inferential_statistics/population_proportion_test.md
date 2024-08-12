@@ -18,3 +18,10 @@
 
 ![image](https://github.com/user-attachments/assets/ef60ad6b-52f1-4652-920d-457786063302)
 
+# Two-Sample Population Proportion Test (Un-Pooled)
+
+![image](https://github.com/user-attachments/assets/f12fcbcc-07f1-480b-ab87-514f2949e0b9)
+
+![image](https://github.com/user-attachments/assets/fab947d8-c627-42dd-bde8-4c9ab80925d8)
+
+![image](https://github.com/user-attachments/assets/d191df3b-8854-4109-a013-e18c3269bec9)
