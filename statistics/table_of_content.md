@@ -145,7 +145,7 @@
     - [Lilliefors Test](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/inferential_statistics/lilliefors_test.md)
     - [QQ Plot](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/inferential_statistics/qq_plot.md)
   - AB Test
-    -[A/B Testing](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/inferential_statistics/abtest.md)
+    - [A/B Testing](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/inferential_statistics/abtest.md)
 
 
 ## VI. Regression Analysis
