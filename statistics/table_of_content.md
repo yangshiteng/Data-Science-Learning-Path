@@ -77,7 +77,7 @@
     - [Student's t-Distribution](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/probability_theory/student_t.md)
     - [F-Distribution](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/probability_theory/f_distribution.md)
   - Approximate Discrete Distribution by Continuous Distribution
-    - [Continuity Correction](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/probability_theory/continuity_corretion.md)
+    - [Continuity Correction (approximate discrete distribution with continuous distribution)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/probability_theory/continuity_corretion.md)
 
 ## V. Inferential Statistics
 - **1. Statistical Theorem**
