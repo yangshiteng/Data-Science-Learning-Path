@@ -25,3 +25,11 @@
 ![image](https://github.com/user-attachments/assets/fab947d8-c627-42dd-bde8-4c9ab80925d8)
 
 ![image](https://github.com/user-attachments/assets/d191df3b-8854-4109-a013-e18c3269bec9)
+
+# Comparison of Pooled and Unpooled Two-Sample Population Proportion Tests
+
+![image](https://github.com/user-attachments/assets/aa495297-f63e-48b4-8562-8d43470ed5d2)
+
+![image](https://github.com/user-attachments/assets/8db79b99-4258-4533-b177-5b5ab1ef79d8)
+
+![image](https://github.com/user-attachments/assets/2115120c-d875-4bc0-a34b-22007087ef70)
