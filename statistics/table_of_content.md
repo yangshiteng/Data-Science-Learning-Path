@@ -115,7 +115,7 @@
   - [p-value (quantify how surprising the observed data is if the null hypothesis is true)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/inferential_statistics/pvalue.md)
   - [Types of Errors (Type I and Type II)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/inferential_statistics/typeiandtypeiierrors.md)
   - [Effect Size (Quantify the strength or difference observed in a study)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/inferential_statistics/effect_size.md)
-  - [Statistical Power](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/inferential_statistics/statistical_power.md)
+  - [Statistical Power and Power Analysis](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/inferential_statistics/statistical_power.md)
 - **5. Statistical Tests**
   - Parametric Tests 
     - [Z-Test](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/inferential_statistics/z_test.md)
