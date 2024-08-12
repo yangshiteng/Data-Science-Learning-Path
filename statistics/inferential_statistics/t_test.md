@@ -6,6 +6,8 @@
 
 ![image](https://github.com/user-attachments/assets/f602cd9e-fdb6-4f6c-8502-64a1887fce3e)
 
+![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/138096e1-cae4-4ab5-8edd-8c2427472e23)
+
 ![image](https://github.com/user-attachments/assets/3e61d330-5384-40b6-a80b-279463d66f46)
 
 ![image](https://github.com/user-attachments/assets/080ced73-60d3-40f3-b387-88e3c0f26ca6)
