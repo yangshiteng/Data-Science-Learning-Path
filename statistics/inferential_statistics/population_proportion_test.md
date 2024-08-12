@@ -8,7 +8,7 @@
 
 ![image](https://github.com/user-attachments/assets/ad59cf2f-f255-4e7e-a1c5-15048b861199)
 
-# Two-Sample Population Proportion Test
+# Two-Sample Population Proportion Test (Pooled)
 
 ![image](https://github.com/user-attachments/assets/a24f4a24-4263-4035-93f8-8372b9a060b7)
 
