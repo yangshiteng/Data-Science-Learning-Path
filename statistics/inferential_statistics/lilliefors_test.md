@@ -31,3 +31,4 @@ else:
     print("Fail to reject the null hypothesis: The data come from a normally distributed population.")
 
 ```
+![image](https://github.com/user-attachments/assets/58adb33f-1d8e-4abb-b316-af674d0e65b0)
