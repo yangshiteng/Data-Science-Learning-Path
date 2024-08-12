@@ -139,6 +139,8 @@
     - [Population Variance Test](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/inferential_statistics/variance_test.md)
   - Hypothesis Test for Population Proportion
     - [Population Proportion Test](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/inferential_statistics/population_proportion_test.md)
+  - Likelihood Ratio Test
+    - [Likelihood Ratio Test](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/inferential_statistics/likelihood_ratio_test.md)
 
 ## VI. Regression Analysis
 - **1. Simple Linear Regression**
