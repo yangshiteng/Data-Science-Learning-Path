@@ -79,7 +79,7 @@
   - Approximate Discrete Distribution by Continuous Distribution
     - [Continuity Correction (approximate discrete distribution with continuous distribution)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/probability_theory/continuity_corretion.md)
   - PMF, PDF, and CDF
-    - [Probability Mass Function vs Probability Density Function vs Cumulative Distribution Function](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/probability_theorypmf_pdf_cdf.md)
+    - [Probability Mass Function vs Probability Density Function vs Cumulative Distribution Function](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/probability_theory/pmf_pdf_cdf.md)
 
 ## V. Inferential Statistics
 - **1. Statistical Theorem**
