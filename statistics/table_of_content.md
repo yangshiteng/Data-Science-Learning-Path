@@ -36,7 +36,6 @@
   - [Bar Charts](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/descriptive_statistics/bar_charts.md)
   - [Box Plots](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/descriptive_statistics/box_plots.md)
   - [Scatter Plots](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/descriptive_statistics/scatter_plots.md)
-  - [QQ Plot](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/descriptive_statistics/qq_plot.md)
 - **4. Cross-tabulations and Contingency Tables**
   - [Cross-tabulations](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/descriptive_statistics/cross_tabulation.md)
   - [Contingency Tables](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/descriptive_statistics/contingency_tables.md)
@@ -126,7 +125,6 @@
     - [MANOVA (Multivariate Analysis of Variance)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/inferential_statistics/manova.md)
   - Non-Parametric Tests
     - [Chi-Square Test](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/inferential_statistics/chi_square.md)
-    - [Kolmogorov-Smirnov Test](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/inferential_statistics/ks_test.md)
     - [Mann-Whitney U Test (Wilcoxon Rank-Sum Test)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/inferential_statistics/mann_whiteney_test.md)
     - [Kruskal-Wallis H Test](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/inferential_statistics/kwh_test.md)
     - [Wilcoxon Signed-Rank Test](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/inferential_statistics/wsr_test.md)
@@ -143,7 +141,9 @@
     - [Likelihood Ratio Test](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/inferential_statistics/likelihood_ratio_test.md)
   - Normality Test
     - [Shapiro-Wilk Test](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/inferential_statistics/shapiro_test.md)
+    - [Kolmogorov-Smirnov Test](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/inferential_statistics/ks_test.md)
     - [Lilliefors Test](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/inferential_statistics/lilliefors_test.md)
+    - [QQ Plot](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/descriptive_statistics/qq_plot.md)
 
 ## VI. Regression Analysis
 - **1. Simple Linear Regression**
