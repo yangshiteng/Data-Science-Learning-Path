@@ -5,3 +5,8 @@
 ![image](https://github.com/user-attachments/assets/a580b084-06df-41ac-b342-ffae953dbee6)
 
 ![image](https://github.com/user-attachments/assets/cf761127-95f6-4c27-856a-c9e6e3f516d3)
+
+![image](https://github.com/user-attachments/assets/ad59cf2f-f255-4e7e-a1c5-15048b861199)
+
+# Two-Sample Population Proportion Test
+
