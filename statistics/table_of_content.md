@@ -133,6 +133,7 @@
     - [Friedman Test](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/inferential_statistics/friedman_test.md)
     - [Spearman’s Rank Correlation Coefficient and its Significance Test](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/inferential_statistics/spearman_coefficient.md)
     - [Kendall’s Tau](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/inferential_statistics/kendall.md)
+  - Pearson's Correlation Coefficient vs Spearman's Rank Correlation Coefficient
     - [Spearman's Rank Correlation Coefficient VS Pearson's Correlation Coefficient](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/inferential_statistics/spearman_vs_pearson.md)
 
 ## VI. Regression Analysis
