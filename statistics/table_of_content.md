@@ -121,7 +121,7 @@
     - [Z-Test](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/inferential_statistics/z_test.md)
     - [t-Tests](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/inferential_statistics/t_test.md)
     - [ANOVA (Analysis of Variance)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/inferential_statistics/anova.md)
-    - [Pearson Correlation Significance Test](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/inferential_statistics/pearson_correlation.md)
+    - [Pearson Correlation Coefficient and its Significance Test](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/inferential_statistics/pearson_correlation.md)
     - [F-Test](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/inferential_statistics/f_test.md)
     - [MANOVA (Multivariate Analysis of Variance)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/inferential_statistics/manova.md)
   - Non-Parametric Tests
@@ -131,7 +131,7 @@
     - [Kruskal-Wallis H Test](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/inferential_statistics/kwh_test.md)
     - [Wilcoxon Signed-Rank Test](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/inferential_statistics/wsr_test.md)
     - [Friedman Test](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/inferential_statistics/friedman_test.md)
-    - [Spearman’s Rank Correlation Coefficient](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/inferential_statistics/spearman_coefficient.md)
+    - [Spearman’s Rank Correlation Coefficient and its Significance Test](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/inferential_statistics/spearman_coefficient.md)
     - [Kendall’s Tau](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/inferential_statistics/kendall.md)
     - [Spearman's Rank Correlation Coefficient VS Pearson's Correlation Coefficient](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/inferential_statistics/spearman_vs_pearson.md)
 
