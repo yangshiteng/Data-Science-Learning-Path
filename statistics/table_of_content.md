@@ -143,6 +143,7 @@
     - [Likelihood Ratio Test](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/inferential_statistics/likelihood_ratio_test.md)
   - Normality Test
     - [Shapiro-Wilk Test](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/inferential_statistics/shapiro_test.md)
+    - [Lilliefors Test](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/inferential_statistics/lilliefors_test.md)
 
 ## VI. Regression Analysis
 - **1. Simple Linear Regression**
