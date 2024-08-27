@@ -161,6 +161,10 @@
   - Assumptions
     - [Assumptions Overview](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/regression/regression_assumptions.md)
     - [Linearity](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/regression/linearity.md)
+    - [Independence of Errors (No Autocorrelation)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/regression/independence_of_error.md)
+    - [Homoscedasticity (Constant Variance of Errors)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/regression/homoscedasticity.md)
+    - [Normality of Errors](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/regression/normality_of_errors.md)
+    - [No Multicollinearity (For Multiple Linear Regression)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/regression/multicollinearity.md)
 - **2. Logistic Regression**
 - **3. Other Regression Models**
   - Polynomial Regression
