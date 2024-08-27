@@ -156,6 +156,8 @@
   - Simple Linear Regression
     - [Simple Linear Regression Introduction](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/regression/simple_linear_regression_introduction.md)
     - [Simple Linear Regression (Detailed Calculation from WIKI)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/regression/simple_linear_regression.md)
+  - Multiple Linear Regression
+    - [Multiple Linear Regression Overview](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/regression/multiple_linear_regression_overview.md)
 - **2. Logistic Regression**
 - **3. Other Regression Models**
   - Polynomial Regression
