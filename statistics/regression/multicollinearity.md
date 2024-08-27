@@ -13,3 +13,9 @@
 ![image](https://github.com/user-attachments/assets/9cfa23e4-2342-4320-9a26-a8ec9b99d464)
 
 ![image](https://github.com/user-attachments/assets/0714fbc7-a63a-4f9a-9354-b780d6cec9f8)
+
+# Perfect Multicollinearity - No Closed-Form Solution 
+
+![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/9583cec3-e93e-4f8f-a841-805bcf0f707f)
+
+![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/461b842f-f8a3-440d-bebe-670f914e4176)
