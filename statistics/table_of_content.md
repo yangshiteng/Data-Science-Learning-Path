@@ -165,6 +165,9 @@
     - [Homoscedasticity (Constant Variance of Errors)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/regression/homoscedasticity.md)
     - [Normality of Errors](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/regression/normality_of_errors.md)
     - [No Multicollinearity (For Multiple Linear Regression)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/regression/multicollinearity.md)
+  - Hypothesis Test
+    - [Hypothesis Test for Coefficient](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/hypothesis_test_coefficient.md)
+    - [Hypothesis Test for Overall Significance](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/hypothesis_test_overall.md)
 - **2. Logistic Regression**
 - **3. Other Regression Models**
   - Polynomial Regression
