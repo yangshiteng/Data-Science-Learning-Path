@@ -160,6 +160,7 @@
     - [Multiple Linear Regression Overview](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/regression/multiple_linear_regression_overview.md)
   - Assumptions
     - [Assumptions Overview](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/regression/regression_assumptions.md)
+    - [Linearity](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/regression/linearity.md)
 - **2. Logistic Regression**
 - **3. Other Regression Models**
   - Polynomial Regression
