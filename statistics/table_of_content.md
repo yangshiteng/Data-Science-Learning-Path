@@ -14,10 +14,10 @@
 - **1. Data Types and Sources**
   - [Primary Data vs. Secondary Data](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/collecting_data/primary_vs_secondary_data.md)
 - **2. Sampling Methods**
-  - [Probability Sampling Techniques](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/collecting_data/probability_sampling_techniques.md)
-    - [Simple Random Sampling (简单随机抽样)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/collecting_data/simple_random_sampling.md)
-    - [Stratified Sampling （分层抽样)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/collecting_data/stratified_sampling.md)
-    - [Cluster Sampling （整群抽样)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/collecting_data/cluster_sampling.md)
+  - [Probability Sampling Techniques Overview](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/collecting_data/probability_sampling_techniques.md)
+  - [Simple Random Sampling (简单随机抽样)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/collecting_data/simple_random_sampling.md)
+  - [Stratified Sampling （分层抽样)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/collecting_data/stratified_sampling.md)
+  - [Cluster Sampling （整群抽样)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/collecting_data/cluster_sampling.md)
   - [Non-Probability Sampling Techniques](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/collecting_data/non_probability_sampling.md)
 - **3. Designing Surveys and Experiments**
   - [Formulating Hypotheses](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/collecting_data/formulating_hypothesis.md)
@@ -84,8 +84,8 @@
 - **1. Statistical Theorem**
   - [Central Limit Theorem](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/inferential_statistics/clt.md)
   - [Law of Large Numbers (LLN)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/inferential_statistics/lln.md)
-    - [Converge In Probability](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/inferential_statistics/converge_in_probability.md)
-    - [Converge Almost Surely](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/inferential_statistics/converge_almost_surely.md)
+  - [Converge In Probability](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/inferential_statistics/converge_in_probability.md)
+  - [Converge Almost Surely](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/inferential_statistics/converge_almost_surely.md)
   - [Bayes' Theorem](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/inferential_statistics/bayes_theorem.md)
   - [Confidence Interval Theorem](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/inferential_statistics/confidence_interval_theorem.md)
   - [Chebyshev's Inequality](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/inferential_statistics/chebyshev_inequality.md)
@@ -97,7 +97,8 @@
   - [Standard Error vs Standard Deviation](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/inferential_statistics/standard_error_vs_standard_deviation.md)
   - [Sample Proportion](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/inferential_statistics/sample_proportion.md)
 - **3. Estimation**
-  - [Point Estimation](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/inferential_statistics/point_estimation.md)
+  - Point Estimation
+    - [Point Estimation Introduction](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/inferential_statistics/point_estimation.md)
     - [Bias](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/inferential_statistics/bias.md)
     - [Probability vs Likelihood](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/inferential_statistics/probability_vs_likelihood.md)
     - [Consistent Estimator](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/inferential_statistics/consistent_estimator.md)
@@ -105,7 +106,8 @@
     - [Best Linear Unbiased Estimator (BLUE)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/inferential_statistics/blue.md)
     - [Maximum Likelihood Estimation (MLE)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/inferential_statistics/mle.md)
     - [Maximum A Posteriori Estimation (MAP)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/inferential_statistics/map.md)
-  - [Interval Estimation (Confidence Intervals)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/inferential_statistics/interval_estimation.md)
+  - Interval Estimation
+    - [Interval Estimation (Confidence Intervals)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/inferential_statistics/interval_estimation.md)
     - [Interpretation of Confidence Interval](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/inferential_statistics/interpretation_of_confidenceinterval.md)
     - [Derivation of Confidence Interval](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/inferential_statistics/derivation_confidence_interval.md)
 - **4. Hypothesis Testing**
@@ -147,15 +149,15 @@
   - AB Test
     - [A/B Testing](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/inferential_statistics/abtest.md)
 
-
 ## VI. Regression Analysis
-- **1. Simple Linear Regression**
-- **2. Multiple Linear Regression**
-  - Assumptions
-  - Interpretation of Coefficients
-  - Model Fit and Diagnostics
-- **3. Logistic Regression**
-- **4. Other Regression Models**
+- **1. Linear Regression**
+  - Introduction
+    - [Linear Regression Introduction](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/regression/linear_regression.md)
+  - Simple Linear Regression
+    - [Simple Linear Regression Introduction](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/regression/simple_linear_regression_introduction.md)
+    - [Simple Linear Regression (Detailed Calculation from WIKI)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/regression/simple_linear_regression.md)
+- **2. Logistic Regression**
+- **3. Other Regression Models**
   - Polynomial Regression
   - Cox Regression
 
