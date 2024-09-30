@@ -168,6 +168,18 @@
   - Hypothesis Test
     - [Hypothesis Test for Coefficient](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/regression/hypothesis_test_coefficient.md)
     - [Hypothesis Test for Overall Significance](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/regression/hypothesis_test_overall.md)
+  - Regression Measurement
+    - [Pearson Correlation Coefficient in Simple Linear Regression](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/regression/pearson_correlation.md)
+    - [Coefficient of Multiple Correlation in Multiple Linear Regression](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/regression/coefficient_of_multiple_correlation.md)
+    - [Intuitive Understanding of SSR, MSE and R-squared (From StatQuest)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/regression/ssr_mse_and_r_squared.md)
+    - [R-squared](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/regression/r_squared.md)
+    - [Adjusted R-squared](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/regression/adjusted_r_squared.md)
+    - [Akaike Information Criterion (AIC) and Bayesian Information Criterion (BIC)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/regression/aic_and_bic.md)
+    - [Mallows' Cp](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/regression/mallowscp.md)
+    - [Condition Number](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/regression/condition_number.md)
+    - [Variance Inflation Factor (VIF)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/regression//vif.md)
+    - [Tolerance](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/regression/tolerance.md)
+    
 - **2. Logistic Regression**
 - **3. Other Regression Models**
   - Polynomial Regression
