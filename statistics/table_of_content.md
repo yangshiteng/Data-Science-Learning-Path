@@ -166,10 +166,10 @@
     - [Normality of Errors](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/regression/normality_of_errors.md)
     - [No Multicollinearity (For Multiple Linear Regression)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/regression/multicollinearity.md)
   - Hypothesis Test
-    - [Mean Square Error (MSE) (Estimate of Error Variance)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/regression/mse_introduction.md)
     - [Hypothesis Test for Coefficient](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/regression/hypothesis_test_coefficient.md)
     - [Hypothesis Test for Overall Significance](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/regression/hypothesis_test_overall.md)
   - Regression Measurements and Metrics
+    - [Mean Square Error (MSE) (Estimate of Error Variance)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/regression/mse_introduction.md)
     - [Pearson Correlation Coefficient in Simple Linear Regression](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/regression/pearson_correlation.md)
     - [Coefficient of Multiple Correlation in Multiple Linear Regression](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/regression/coefficient_of_multiple_correlation.md)
     - [Intuitive Understanding of SSR, MSE and R-squared (From StatQuest)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/regression/ssr_mse_and_r_squared.md)
