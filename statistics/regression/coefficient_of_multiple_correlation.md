@@ -1,6 +1,6 @@
 # Introduction
 
-![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/20f0658d-dcb1-4b44-ab15-320a4449c198)
+![image](https://github.com/user-attachments/assets/4bb244ce-7c99-4e2c-9ddf-efb019f13d6e)
 
 ![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/410c33ca-1419-4ed0-af3a-e976894244ab)
 
