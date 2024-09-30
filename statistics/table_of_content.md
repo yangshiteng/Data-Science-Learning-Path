@@ -174,7 +174,7 @@
     - [Intuitive Understanding of SSR, MSE and R-squared (From StatQuest)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/regression/ssr_mse_and_r_squared.md)
     - [R-squared (Coefficient of Determination) (Goodness of Fit of Regression Model)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/regression/r_squared.md)
     - [Adjusted R-squared (introduce a penalty for the number of predictors)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/regression/adjusted_r_squared.md)
-    - [Akaike Information Criterion (AIC) and Bayesian Information Criterion (BIC)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/regression/aic_and_bic.md)
+    - [Akaike Information Criterion (AIC) and Bayesian Information Criterion (BIC) (heavier penalty, consider sample size, favor simpler model)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/regression/aic_and_bic.md)
     - [Mallows' Cp](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/regression/mallowscp.md)
     - [Condition Number](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/regression/condition_number.md)
     - [Variance Inflation Factor (VIF)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/regression//vif.md)
