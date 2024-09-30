@@ -168,7 +168,7 @@
   - Hypothesis Test
     - [Hypothesis Test for Coefficient](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/regression/hypothesis_test_coefficient.md)
     - [Hypothesis Test for Overall Significance](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/regression/hypothesis_test_overall.md)
-  - Regression Measurement
+  - Regression Measurements and Metrics
     - [Pearson Correlation Coefficient in Simple Linear Regression](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/regression/pearson_correlation.md)
     - [Coefficient of Multiple Correlation in Multiple Linear Regression](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/regression/coefficient_of_multiple_correlation.md)
     - [Intuitive Understanding of SSR, MSE and R-squared (From StatQuest)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/regression/ssr_mse_and_r_squared.md)
