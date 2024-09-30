@@ -166,6 +166,7 @@
     - [Normality of Errors](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/regression/normality_of_errors.md)
     - [No Multicollinearity (For Multiple Linear Regression)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/regression/multicollinearity.md)
   - Hypothesis Test
+    - [Mean Square Error (MSE) (Estimate of Error Variance)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/regression/mse_introduction.md)
     - [Hypothesis Test for Coefficient](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/regression/hypothesis_test_coefficient.md)
     - [Hypothesis Test for Overall Significance](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/regression/hypothesis_test_overall.md)
   - Regression Measurements and Metrics
