@@ -180,13 +180,21 @@
     - [Condition Number (Multicollinearity Diagnose)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/regression/condition_number.md)
     - [Variance Inflation Factor (VIF) (Multicollinearity Diagnose)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/regression//vif.md)
     - [Tolerance (Multicollinearity Diagnose)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/regression/tolerance.md)
+  - Regularization
+    - [Regularization](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/regression/regularization_summary.md)
+    - [Regularization (LASSO and Ridge Regression) (StatQuest)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/regression/regularization.md)
+    - [LASSO (No closed-form solution, numerical method)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/regression/lasso.md)
+    - [Ridge Regression (closed-form solution)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/regression/ridge_regression.md)
+    - [Elastic Net Regression](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/regression/elastic_net_regression.md)
+    - [LASSO vs Ridge Regression vs Elastic Net](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/regression/lasso_vs_ridge_vs_elastic.md)
   - Model Selection
     - [Forward Selection](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/regression/forward_selection.md)
     - [Backward Elimination](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/regression/backward_elimination.md)
     - [Stepwise Regression](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/regression/stepwise_regression.md)
     - [Best Subsets Regression](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/regression/best_subsets_regression.md)
     - [Elastic Net](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/regression/elastic_net.md)
-    - [Regularization Methods (LASSO)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/regression/regularization_method_LASSO.md)
+    - [Regularization Methods (LASSO and Ridge)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/regression/regularization_method_LASSO.md)
+    - [Cross Validation (CV)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/regression/cross_validation.md)
     
 - **2. Logistic Regression**
 - **3. Other Regression Models**
