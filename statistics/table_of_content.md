@@ -180,6 +180,13 @@
     - [Condition Number (Multicollinearity Diagnose)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/regression/condition_number.md)
     - [Variance Inflation Factor (VIF) (Multicollinearity Diagnose)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/regression//vif.md)
     - [Tolerance (Multicollinearity Diagnose)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/regression/tolerance.md)
+  - Model Selection
+    - [Forward Selection](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/regression/forward_selection.md)
+    - [Backward Elimination](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/regression/backward_elimination.md)
+    - [Stepwise Regression](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/regression/stepwise_regression.md)
+    - [Best Subsets Regression](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/regression/best_subsets_regression.md)
+    - [Elastic Net](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/regression/elastic_net.md)
+    - [Regularization Methods (LASSO)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/regression/regularization_method_LASSO.md)
     
 - **2. Logistic Regression**
 - **3. Other Regression Models**
