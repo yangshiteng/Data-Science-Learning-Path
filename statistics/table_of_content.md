@@ -181,7 +181,7 @@
     - [Variance Inflation Factor (VIF) (Multicollinearity Diagnose)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/regression//vif.md)
     - [Tolerance (Multicollinearity Diagnose)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/regression/tolerance.md)
   - Regularization
-    - [Regularization](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/regression/regularization_summary.md)
+    - [Regularization (LASSO, model selection) (Ridge, handle multicollinearity)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/regression/regularization_summary.md)
     - [Regularization (LASSO and Ridge Regression) (StatQuest)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/regression/regularization.md)
     - [LASSO (No closed-form solution, numerical method)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/regression/lasso.md)
     - [Ridge Regression (closed-form solution)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/regression/ridge_regression.md)
