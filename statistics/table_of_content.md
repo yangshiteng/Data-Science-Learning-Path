@@ -180,8 +180,8 @@
     - [Condition Number (Multicollinearity Diagnose)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/regression/condition_number.md)
     - [Variance Inflation Factor (VIF) (Multicollinearity Diagnose)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/regression//vif.md)
     - [Tolerance (Multicollinearity Diagnose)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/regression/tolerance.md)
-  - Regularization
-    - [Regularization (LASSO, model selection) (Ridge, handle multicollinearity) (Elastic Net, model selection and handle multicollinearity)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/regression/regularization_summary.md)
+  - Regularization (handle overfitting)
+    - [Regularization (LASSO, feature selection) (Ridge, handle multicollinearity) (Elastic Net, feature selection and handle multicollinearity)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/regression/regularization_summary.md)
     - [Regularization (LASSO and Ridge Regression) (StatQuest)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/regression/regularization.md)
     - [LASSO (L1) (No closed-form solution, numerical method)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/regression/lasso.md)
     - [Ridge Regression (L2) (closed-form solution)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/regression/ridge_regression.md)
