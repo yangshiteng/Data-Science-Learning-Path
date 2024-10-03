@@ -183,8 +183,8 @@
   - Regularization
     - [Regularization (LASSO, model selection) (Ridge, handle multicollinearity) (Elastic Net, model selection and handle multicollinearity)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/regression/regularization_summary.md)
     - [Regularization (LASSO and Ridge Regression) (StatQuest)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/regression/regularization.md)
-    - [LASSO (No closed-form solution, numerical method)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/regression/lasso.md)
-    - [Ridge Regression (closed-form solution)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/regression/ridge_regression.md)
+    - [LASSO (L1) (No closed-form solution, numerical method)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/regression/lasso.md)
+    - [Ridge Regression (L2) (closed-form solution)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/regression/ridge_regression.md)
     - [Elastic Net Regression](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/regression/elastic_net_regression.md)
     - [LASSO vs Ridge Regression vs Elastic Net](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/regression/lasso_vs_ridge_vs_elastic.md)
   - Model Selection
