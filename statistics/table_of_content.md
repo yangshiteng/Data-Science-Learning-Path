@@ -208,14 +208,3 @@
 - **4. Discriminant Analysis**
 - **5. Multivariate Regression**
 
-## VIII. Special Topics
-- **1. Time Series Analysis**
-  - Trend Analysis
-  - Seasonal Adjustment
-  - ARIMA Models
-- **2. Bayesian Statistics**
-  - Principles of Bayesian Inference
-  - Bayesian vs. Frequentist Statistics
-- **3. Survival Analysis**
-  - Kaplan-Meier Estimate
-  - Hazard Models
