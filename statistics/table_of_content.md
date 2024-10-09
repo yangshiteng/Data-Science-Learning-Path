@@ -190,7 +190,7 @@
   - Model Selection
     - [Forward Selection](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/regression/forward_selection.md)
     - [Backward Elimination](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/regression/backward_elimination.md)
-    - [Stepwise Regression](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/regression/stepwise_regression.md)
+    - [Stepwise Selection](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/regression/stepwise_regression.md)
     - [Best Subsets Regression](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/regression/best_subsets_regression.md)
     - [Elastic Net](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/regression/elastic_net.md)
     - [Regularization Methods (LASSO and Ridge)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/regression/regularization_method_LASSO.md)
