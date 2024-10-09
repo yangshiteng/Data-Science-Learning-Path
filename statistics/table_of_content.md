@@ -193,7 +193,7 @@
     - [Stepwise Selection](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/regression/stepwise_regression.md)
     - [Best Subsets Regression](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/regression/best_subsets_regression.md)
     - [Regularization Methods (LASSO, Ridge and Elastic Net)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/regression/regularization_method_LASSO.md)
-    - [Cross Validation (CV)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/regression/cross_validation.md)
+    - [Cross Validation (CV) in Model Selection](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/regression/cross_validation.md)
     
 - **2. Logistic Regression**
 - **3. Other Regression Models**
