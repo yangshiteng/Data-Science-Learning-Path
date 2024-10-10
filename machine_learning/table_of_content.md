@@ -23,7 +23,6 @@
 * [Linear Regression](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/supervised_learning/linear_regression/table_of_content.md)
 
 
-
 ## 2. Logistic Regression
 * [Logistic Regression](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/machine_learning_models/logistic_regression/Logistic_Regression.md)
 * [Logistic Regression StatQuest Video 1](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/machine_learning_models/logistic_regression/logistic_regression_statquest.pdf)

@@ -195,16 +195,8 @@
     - [Regularization Methods (LASSO, Ridge and Elastic Net)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/regression/regularization_method.md)
     - [Cross Validation (CV) in Model Selection](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/regression/cross_validation.md)
     - [Principal Component Regression (PCR)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/regression/pca.md)
-    
-- **2. Logistic Regression**
-- **3. Other Regression Models**
-  - Polynomial Regression
-  - Cox Regression
+  - **2. Other Regression**
+    - [Polynomial Regression](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/regression/polynomial_regression.md)
+    - [Cox Regression](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/regression/cox_regression.md)
 
-## VII. Multivariate Statistics
-- **1. Factor Analysis**
-- **2. Principal Component Analysis (PCA)**
-- **3. Cluster Analysis**
-- **4. Discriminant Analysis**
-- **5. Multivariate Regression**
 
