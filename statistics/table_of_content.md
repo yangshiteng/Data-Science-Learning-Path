@@ -1,4 +1,4 @@
-# Table of Contents
+# Table of Contents for Statistics Learning Path
 
 ## I. Introduction to Statistics
 - **1. Introduction**

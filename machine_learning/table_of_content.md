@@ -1,16 +1,9 @@
-# About Statistics
+# Table of Contents for Machine Learning Learning Path
 
-* [Statistical Miscellous Knowledge](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/about_statistics/statistical_miscellous_knowledge/table_of_content.md)
-
-* [Probability Distribution](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/about_statistics/probability_distribution/table_of_content.md)
-
-* [Hypothesis Test](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/about_statistics/hypothesis_test/table_of_content.md)
-
-* [Statistical Theorem](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/about_statistics/statistical_theorem/table_of_content.md)
-
-* [Permutation and Combination](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/about_statistics/permutation_and_combination/table_of_content.md)
-
-* [Statistical Plot](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/about_statistics/statistical_plot/table_of_content.md)
+## I. Introduction to Machine Learning
+- **1. Introduction**
+    - [What is Machine Learning?]()
+    - [Machine Learning Intuition (StatQuest)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/introduction_to_machine_learning/fundamental_concepts_in_machine_learning.md)
 
 # About Machine Learning
 
