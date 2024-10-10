@@ -197,6 +197,5 @@
     - [Principal Component Regression (PCR)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/regression/pca.md)
   - **2. Other Regression**
     - [Polynomial Regression](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/regression/polynomial_regression.md)
-    - [Cox Regression](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/regression/cox_regression.md)
 
 
