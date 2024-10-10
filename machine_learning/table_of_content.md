@@ -2,7 +2,7 @@
 
 ## I. Introduction to Machine Learning
 - **1. Introduction**
-    - [What is Machine Learning?]()
+    - [What is Machine Learning?](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/introduction_to_machine_learning/what_is_machine_learning.md)
     - [Machine Learning Intuition (StatQuest)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/introduction_to_machine_learning/fundamental_concepts_in_machine_learning.md)
 
 # About Machine Learning
