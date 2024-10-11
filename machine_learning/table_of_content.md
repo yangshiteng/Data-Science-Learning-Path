@@ -1,109 +1,98 @@
-# Table of Contents for Machine Learning Learning Path
+# Table of Contents for Machine Learning Study Path
 
-## I. Introduction to Machine Learning
-- **1. Introduction**
-    - [What is Machine Learning?](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/introduction_to_machine_learning/what_is_machine_learning.md)
-    - [Machine Learning Intuition (StatQuest)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/introduction_to_machine_learning/fundamental_concepts_in_machine_learning.md)
-    - [Key Components of Machine Learning](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/introduction_to_machine_learning/key_components_ML.md)
-- **2. Types of Machine Learning**
-    - [Supervised Learning](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/introduction_to_machine_learning/supervised_learning.md)
-    - [Unsupervised Learning](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/introduction_to_machine_learning/unsupervised_learning.md)
-    - [Semi-supervised Learning](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/introduction_to_machine_learning/semi_supervised_learning.md)
-    - [Reinforcement Learning](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/introduction_to_machine_learning/reinforcement_learning.md)
+## Introduction to Machine Learning
+### 1. Overview of Machine Learning
+- Definitions and scope
+- Types of machine learning: Supervised, Unsupervised, Semi-supervised, Reinforcement Learning
 
-# About Machine Learning
+### 2. Fundamental Concepts
+- Data types and datasets
+- Feature selection and feature engineering
+- Model evaluation metrics (accuracy, precision, recall, F1-Score, ROC, AUC)
+- Bias-Variance tradeoff
+- Overfitting and underfitting
 
-* [Machine Learning Miscellous Knowledge](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/about_machine_learning/machine_learning_miscellous_knowledge/table_of_content.md)
+### 3. Tools and Software
+- Python for Machine Learning
+- Introduction to NumPy, Pandas, Matplotlib, and Scikit-Learn
+- TensorFlow and PyTorch basics
 
-* [Gradient Descent in Machine Learning](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/about_machine_learning/gradient_descent/table_of_content.md)
+## Supervised Learning
+### 4. Regression
+- Linear Regression
+- Polynomial Regression
+- Ridge and Lasso Regression
 
-# Supervised Learning (Classification and Regression)
+### 5. Classification
+- Logistic Regression
+- Decision Trees and Random Forests
+- Support Vector Machines (SVM)
+- Naive Bayes classifiers
+- K-Nearest Neighbors (KNN)
+- Neural Networks basics
 
-* [Linear Regression](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/supervised_learning/linear_regression/table_of_content.md)
+### 6. Model Improvement and Tuning
+- Cross-validation techniques
+- Hyperparameter tuning with GridSearchCV and RandomizedSearchCV
+- Ensemble methods: Bagging, Boosting, and Stacking
 
+## Unsupervised Learning
+### 7. Clustering
+- K-Means Clustering
+- Hierarchical Clustering
+- DBSCAN
 
-## 2. Logistic Regression
-* [Logistic Regression](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/machine_learning_models/logistic_regression/Logistic_Regression.md)
-* [Logistic Regression StatQuest Video 1](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/machine_learning_models/logistic_regression/logistic_regression_statquest.pdf)
-* [Logistic Regression: Likelihood-based R-squared and P-value](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/machine_learning_models/logistic_regression/Logistic_Regression_Lilkelihood_based_Rsquared_and_Pvalue.pdf)
-* [Logistic Regression: Saturated Model, Null Deviance and Residual Deviance](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/machine_learning_models/logistic_regression/Saturated_Model.pdf)
-* [Introduction to Logistic Regression](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/machine_learning_models/logistic_regression/Introduction_to_logistic_regression.md)
+### 8. Dimensionality Reduction
+- Principal Component Analysis (PCA)
+- t-Distributed Stochastic Neighbor Embedding (t-SNE)
+- Autoencoders
 
-## 3. Naive Bayes
-* [Naive Bayes](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/machine_learning_models/naive_bayes/Naive_Bayes_statquest.md)
-* [Naive Bayes Introduction](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/machine_learning_models/naive_bayes/Naive_Bayes_Introduction.md)
+### 9. Association Rule Learning
+- Apriori algorithm
+- Eclat algorithm
 
-## 4. KNN
-* [KNN (K-nearest Neighbors)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/machine_learning_models/knn/KNN.md)
+## Advanced Machine Learning Techniques
+### 10. Deep Learning
+- Deep Neural Networks
+- Convolutional Neural Networks (CNNs)
+- Recurrent Neural Networks (RNNs)
+- Long Short-Term Memory Networks (LSTMs)
+- Generative Adversarial Networks (GANs)
 
-## 5. Support Vector Machine
-* [Support Vector Machine (StatQuest and Summary)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/machine_learning_models/svm/Support_Vector_Machine.md)
-* [Support Vector Machine and Kernel Tricks (StatQuest)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/machine_learning_models/svm/SupportVectorMachine2.pdf)
-* [SVM - Polynomial Kernel](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/machine_learning_models/svm/SVM_Polynomial_Kernel.pdf)
-* [SVM - Radial Basis Function (RBF) Kernel](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/machine_learning_models/svm/RBF_kernel.pdf)
-* [SVM - Q & A](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/machine_learning_models/svm/SVM_QA.md)
-* [SVM Detail](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/machine_learning_models/svm/Support_Vector_Machine_Detail.md)
-* [SVM Soft Margin and Kernel Tricks (kernel function is used to measure the similarity of two input vectors, it is just the dot production of two transformed input vectors)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/machine_learning_models/svm/SVM_Soft_Margin_and_Kernel_Tricks.md)
-* [SVM for Regression](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/machine_learning_models/svm/SVR.md)
-* [SVM for Anomaly Detection - Novelty Detection (One Class SVM)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/machine_learning_models/svm/OneClassSVM.md)
-* [Python Code for one class SVM](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/machine_learning_models/svm/One_Class_Support_Vector_Machine_(SVM)_For_Anomaly_Detection.ipynb)
+### 11. Reinforcement Learning
+- Understanding the environment, actions, and rewards
+- Q-learning
+- Policy Gradient methods
+- Deep Reinforcement Learning
 
-## 6. Decision Tree
-* [Classification and Regression Trees (CART)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/machine_learning_models/decision_tree/Classification_and_Regression_Trees.md)
-* [Decision Tree Introduction](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/machine_learning_models/decision_tree/Decision_Tree_Introduction.md)
-* [Tree Pruning (the Alpha is selected by Hyperparameter Tuning Techinque)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/machine_learning_models/decision_tree/Pruning_the_tree_model.md)
+### 12. Natural Language Processing (NLP)
+- Text preprocessing and feature extraction
+- Sentiment analysis
+- Machine translation
+- Sequence-to-sequence models
 
-## 7. Ensemble Learning (集成学习)
+### 13. Computer Vision
+- Image processing basics
+- Object detection and recognition
+- Face recognition and automated tagging technologies
 
-### 7.1 Introduction
+## Special Topics
+### 14. Ethics in Machine Learning
+- Bias and fairness
+- Privacy and security in ML models
+- AI and society
 
-* [Ensemble Learning (集成学习)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/machine_learning_models/Ensemble_Learning/Introduction/Ensemble_Learning.md)
-* [Bagging 装袋算法 (Bootstrap Aggregatting 引导聚集算法)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/machine_learning_models/Ensemble_Learning/Introduction/Bagging.md)
-* [Boosting 提升算法](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/machine_learning_models/Ensemble_Learning/Introduction/Boosting.md)
-* [Bagging vs Boosting](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/machine_learning_models/Ensemble_Learning/Introduction/Bagging_vs_Boosting.md)
-* [Stacking 堆叠算法 (Stacked Generalization 堆叠泛化)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/machine_learning_models/Ensemble_Learning/Introduction/stacking.md)
+### 15. Industry Applications of Machine Learning
+- Healthcare
+- Finance
+- Autonomous vehicles
+- Recommendation systems
 
-### 7.2 Ensemble Learning - Bagging
+## Capstone Projects and Practical Implementations
+### 16. Project Ideas
+- Outline potential projects to consolidate learning
+- Discussion on how to approach solving real-world problems using machine learning
 
-* [Random Forest (随机森林)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/machine_learning_models/Ensemble_Learning/Bagging/random_forest/table_of_content.md)
-
-### 7.3 Ensemble Learning - Boosting
-
-* [AdaBoost (Adaptive Boosting 自适应提升算法) (Weight-based boosting algorithm)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/machine_learning_models/Ensemble_Learning/Boosting/adaboost/table_of_content.md)
-
-* [Gradient Boost (梯度提升算法) (Residual-based boosting algorithm)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/machine_learning_models/Ensemble_Learning/Boosting/gradient_boost/table_of_content.md)
-
-
-### 7.4 Ensemble Learning - Stacking
-
-* [Stacking with Random Forest and CatBoost](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/machine_learning_models/Ensemble_Learning/Stacking/stacking_with_randomforest_and_catboost.md)
-
-# Unsupervised Learning
-
-* [Clustering](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/unsupervised_learning/clustering/table_of_content.md)
-
-* [Novelty and Outlier Detection](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/unsupervised_learning/novelty_and_outlier_detection/table_of_content.md)
-
-# Model Selection and Evaluation  
-
-* [Metrics in Machine Learning](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/model_selection_and_evaluation/metrics/table_of_content.md)
-
-* [Cross Validation](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/model_selection_and_evaluation/cross_validation/table_of_content.md)
-
-* [Hyper-parameters Tuning](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/model_selection_and_evaluation/hypterparameter_tuning/table_of_content.md)
-
-## Plotting
-
-
-# Dimensionality Reduction
-
-## Principal Component Analysis (PCA)
-* [Principal Component Analysis (PCA) (Singular Value Decomposition SVD)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/dimension_reduction/statquest_pca_study_guide_v2.pdf)
-* [Principal Component Analysis (PCA) (Eigen Decomposition of Covariance Matrix)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/dimension_reduction/PCA_BLOG.md)
-* [PCA summary](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/dimension_reduction/PCA_summary.md)
-
-
-
-
-
-
+### 17. Resources for Continued Learning
+- Books, online courses, and research papers
+- Communities and conferences
