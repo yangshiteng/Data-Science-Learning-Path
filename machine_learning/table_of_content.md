@@ -4,6 +4,12 @@
 - **1. Introduction**
     - [What is Machine Learning?](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/introduction_to_machine_learning/what_is_machine_learning.md)
     - [Machine Learning Intuition (StatQuest)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/introduction_to_machine_learning/fundamental_concepts_in_machine_learning.md)
+    - [Key Components of Machine Learning](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/introduction_to_machine_learning/key_components_ML.md)
+- **2. Types of Machine Learning**
+    - [Supervised Learning](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/introduction_to_machine_learning/supervised_learning.md)
+    - [Unsupervised Learning](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/introduction_to_machine_learning/unsupervised_learning.md)
+    - [Semi-supervised Learning](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/introduction_to_machine_learning/semi_supervised_learning.md)
+    - [Reinforcement Learning](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/introduction_to_machine_learning/reinforcement_learning.md)
 
 # About Machine Learning
 
