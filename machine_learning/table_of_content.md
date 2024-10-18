@@ -15,14 +15,19 @@
   - [Future Directions in Machine Learning](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/introduction_to_machine_learning/future_direction.md)
   
 ## II. Fundamental of Machine Learning
-- Key Terminologies and Concepts in Machine Learning
-- Types of Data Used in Machine Learning
-- Bias, Variance, and Model Complexity
-- Bias-Variance tradeoff
-- Overfitting and underfitting
-- Training, Validation, and Testing
-- Common Tools and Platforms in Machine Learning
-- Machine Learning Workflow
+- Introduction to Key Concepts
+  - [Key Terminologies and Concepts in Machine Learning](introduction_to_key_concepts.md)
+- Understanding Data in Machine Learning
+  - [Types of Data Used in Machine Learning](ml_data_type.md)  
+- Model Development Process
+  - [Machine Learning Workflow](ml_workflow.md)
+  - [Training, Validation, and Testing](training_validation_testing.md)
+- Model Complexity and Fit
+  - [Bias, Variance, and Model Complexity](bias_variance_model_complex.md)
+  - [Bias-Variance Tradeoff](bias_variance_tradeoff.md)
+  - [Overfitting and Underfitting](over_fitting_under_fitting.md)
+- Tools and Platforms
+  - [Common Tools and Platforms in Machine Learning](common_tools_ml.md)
 
 ## III. Data Preprocessing and Feature Engineering
 - Introduction to Data Preprocessing
@@ -56,6 +61,7 @@
 - Naive Bayes classifiers
 - K-Nearest Neighbors (KNN)
 - Neural Networks
+- Multiclass Classification
 
 ## VI. Ensemble Learning
 - Bagging, Boosting, and Stacking
