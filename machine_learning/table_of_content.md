@@ -16,18 +16,18 @@
   
 ## II. Fundamental of Machine Learning
 - Introduction to Key Concepts
-  - [Key Terminologies and Concepts in Machine Learning](introduction_to_key_concepts.md)
+  - [Key Terminologies and Concepts in Machine Learning](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/fundamental_of_machine_learning/introduction_to_key_concepts.md)
 - Understanding Data in Machine Learning
-  - [Types of Data Used in Machine Learning](ml_data_type.md)  
+  - [Types of Data Used in Machine Learning](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/fundamental_of_machine_learning/ml_data_type.md)  
 - Model Development Process
-  - [Machine Learning Workflow](ml_workflow.md)
-  - [Training, Validation, and Testing](training_validation_testing.md)
+  - [Machine Learning Workflow](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/fundamental_of_machine_learning/ml_workflow.md)
+  - [Training, Validation, and Testing](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/fundamental_of_machine_learning/training_validation_testing.md)
 - Model Complexity and Fit
-  - [Bias, Variance, and Model Complexity](bias_variance_model_complex.md)
-  - [Bias-Variance Tradeoff](bias_variance_tradeoff.md)
-  - [Overfitting and Underfitting](over_fitting_under_fitting.md)
+  - [Bias, Variance, and Model Complexity](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/fundamental_of_machine_learning/bias_variance_model_complex.md)
+  - [Bias-Variance Tradeoff](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/fundamental_of_machine_learning/bias_variance_tradeoff.md)
+  - [Overfitting and Underfitting](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/fundamental_of_machine_learning/over_fitting_under_fitting.md)
 - Tools and Platforms
-  - [Common Tools and Platforms in Machine Learning](common_tools_ml.md)
+  - [Common Tools and Platforms in Machine Learning](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/fundamental_of_machine_learning/common_tools_ml.md)
 
 ## III. Data Preprocessing and Feature Engineering
 - Introduction to Data Preprocessing
