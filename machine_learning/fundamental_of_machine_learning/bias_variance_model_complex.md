@@ -1,4 +1,6 @@
-# Bias (measure the model's performance in the training dataset)
+# Bias
+
+![image](https://github.com/user-attachments/assets/4d10b94e-c9b4-418b-baf1-3cb7db38a29c)
 
 ![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/7b98e109-bd89-452f-99a1-26def576e0ce)
 
@@ -6,7 +8,9 @@
 
 ![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/24c060f9-116e-426a-83f4-7a9803972431)
 
-# Variance (measure the model performance difference in the training and testing dataset)
+# Variance
+
+![image](https://github.com/user-attachments/assets/20c5e672-4ae3-4cf1-a81f-f664e4d79880)
 
 ![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/64421da0-19c0-445d-ac42-5eeacfb8cb4b)
 
