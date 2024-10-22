@@ -53,7 +53,7 @@
   - [Application Example](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/probability_theory/application_example_bayes.md)
   - [Sequential Bayesian Updating](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/probability_theory/sequential_bayes_update.md)
 - **5. Probability Distributions**
-  - Discrete Distributions
+  - **Discrete Distributions**
     - [Discrete Variable - Expected Value and Variance](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/probability_theory/discrete_variable.md)
     - [Bernoulli Distribution (the number of successes in a single trial)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/probability_theory/bernoulli.md)
     - [Binomial Distribution (the number of successes in a fixed number of trials)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/probability_theory/binomial.md)
@@ -63,7 +63,7 @@
     - [Poisson Distribution (the number of events occurring in a fixed interval of time or space)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/probability_theory/poisson.md)
     - [Discrete Uniform Distribution (equal likely)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/probability_theory/discrete_uniform.md)
     - [Multinomial Distribution (generalization of binomial distribution)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/probability_theory/multinomial.md)
-  - Continuous Distributions
+  - **Continuous Distributions**
     - [Continuous Variable - Expected Value and Variance](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/probability_theory/continuous_variable.md)
     - [Normal Distribution](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/probability_theory/normal_distribution.md)
     - [Uniform Distribution](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/probability_theory/uniform_distribution.md)
@@ -75,7 +75,7 @@
     - [Chi-square Distribution Application](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/probability_theory/chi_square_application.md)
     - [Student's t-Distribution](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/probability_theory/student_t.md)
     - [F-Distribution](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/probability_theory/f_distribution.md)
-  - Approximate Discrete Distribution by Continuous Distribution
+  - **Approximate Discrete Distribution by Continuous Distribution**
     - [Continuity Correction (approximate discrete distribution with continuous distribution)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/probability_theory/continuity_corretion.md)
   - PMF, PDF, and CDF
     - [Probability Mass Function vs Probability Density Function vs Cumulative Distribution Function](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/probability_theory/pmf_pdf_cdf.md)
@@ -97,7 +97,7 @@
   - [Standard Error vs Standard Deviation](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/inferential_statistics/standard_error_vs_standard_deviation.md)
   - [Sample Proportion](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/inferential_statistics/sample_proportion.md)
 - **3. Estimation**
-  - Point Estimation
+  - **Point Estimation**
     - [Point Estimation Introduction](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/inferential_statistics/point_estimation.md)
     - [Bias](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/inferential_statistics/bias.md)
     - [Probability vs Likelihood](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/inferential_statistics/probability_vs_likelihood.md)
@@ -106,7 +106,7 @@
     - [Best Linear Unbiased Estimator (BLUE)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/inferential_statistics/blue.md)
     - [Maximum Likelihood Estimation (MLE)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/inferential_statistics/mle.md)
     - [Maximum A Posteriori Estimation (MAP)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/inferential_statistics/map.md)
-  - Interval Estimation
+  - **Interval Estimation**
     - [Interval Estimation (Confidence Intervals)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/inferential_statistics/interval_estimation.md)
     - [Interpretation of Confidence Interval](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/inferential_statistics/interpretation_of_confidenceinterval.md)
     - [Derivation of Confidence Interval](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/inferential_statistics/derivation_confidence_interval.md)
@@ -118,14 +118,14 @@
   - [Effect Size (Quantify the strength or difference observed in a study)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/inferential_statistics/effect_size.md)
   - [Statistical Power and Power Analysis](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/inferential_statistics/statistical_power.md)
 - **5. Statistical Tests**
-  - Parametric Tests 
+  - **Parametric Tests** 
     - [Z-Test](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/inferential_statistics/z_test.md)
     - [t-Tests](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/inferential_statistics/t_test.md)
     - [ANOVA (Analysis of Variance)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/inferential_statistics/anova.md)
     - [Pearson Correlation Coefficient and its Significance Test](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/inferential_statistics/pearson_correlation.md)
     - [F-Test](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/inferential_statistics/f_test.md)
     - [MANOVA (Multivariate Analysis of Variance)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/inferential_statistics/manova.md)
-  - Non-Parametric Tests
+  - **Non-Parametric Tests**
     - [Chi-Square Test](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/inferential_statistics/chi_square.md)
     - [Mann-Whitney U Test (Wilcoxon Rank-Sum Test)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/inferential_statistics/mann_whiteney_test.md)
     - [Kruskal-Wallis H Test](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/inferential_statistics/kwh_test.md)
@@ -133,42 +133,42 @@
     - [Friedman Test](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/inferential_statistics/friedman_test.md)
     - [Spearman’s Rank Correlation Coefficient and its Significance Test](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/inferential_statistics/spearman_coefficient.md)
     - [Kendall’s Tau](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/inferential_statistics/kendall.md)
-  - Pearson's Correlation Coefficient vs Spearman's Rank Correlation Coefficient
+  - **Pearson's Correlation Coefficient vs Spearman's Rank Correlation Coefficient**
     - [Spearman's Rank Correlation Coefficient VS Pearson's Correlation Coefficient](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/inferential_statistics/spearman_vs_pearson.md)
-  - Hypothesis Test for Population Variance
+  - **Hypothesis Test for Population Variance**
     - [Population Variance Test](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/inferential_statistics/variance_test.md)
-  - Hypothesis Test for Population Proportion
+  - **Hypothesis Test for Population Proportion**
     - [Population Proportion Test](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/inferential_statistics/population_proportion_test.md)
-  - Likelihood Ratio Test
+  - **Likelihood Ratio Test**
     - [Likelihood Ratio Test](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/inferential_statistics/likelihood_ratio_test.md)
-  - Normality Test
+  - **Normality Test**
     - [Shapiro-Wilk Test](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/inferential_statistics/shapiro_test.md)
     - [Kolmogorov-Smirnov Test](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/inferential_statistics/ks_test.md)
     - [Lilliefors Test](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/inferential_statistics/lilliefors_test.md)
     - [QQ Plot](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/inferential_statistics/qq_plot.md)
-  - AB Test
+  - **AB Test**
     - [A/B Testing](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/inferential_statistics/abtest.md)
 
 ## VI. Regression Analysis
 - **1. Linear Regression**
-  - Introduction
+  - **Introduction**
     - [Linear Regression Introduction](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/regression/linear_regression.md)
-  - Simple Linear Regression
+  - **Simple Linear Regression**
     - [Simple Linear Regression Introduction](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/regression/simple_linear_regression_introduction.md)
     - [Simple Linear Regression (Detailed Calculation from WIKI)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/regression/simple_linear_regression.md)
-  - Multiple Linear Regression
+  - **Multiple Linear Regression**
     - [Multiple Linear Regression Overview](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/regression/multiple_linear_regression_overview.md)
-  - Assumptions
+  - **Assumptions**
     - [Assumptions Overview](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/regression/regression_assumptions.md)
     - [Linearity](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/regression/linearity.md)
     - [Independence of Errors (No Autocorrelation)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/regression/independence_of_error.md)
     - [Homoscedasticity (Constant Variance of Errors)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/regression/homoscedasticity.md)
     - [Normality of Errors](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/regression/normality_of_errors.md)
     - [No Multicollinearity (For Multiple Linear Regression)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/regression/multicollinearity.md)
-  - Hypothesis Test
+  - **Hypothesis Test**
     - [Hypothesis Test for Coefficient](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/regression/hypothesis_test_coefficient.md)
     - [Hypothesis Test for Overall Significance](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/regression/hypothesis_test_overall.md)
-  - Regression Measurements and Metrics
+  - **Regression Measurements and Metrics**
     - [Mean Square Error (MSE) (Estimate of Error Variance)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/regression/mse_introduction.md)
     - [Pearson Correlation Coefficient in Simple Linear Regression](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/regression/pearson_correlation.md)
     - [Coefficient of Multiple Correlation in Multiple Linear Regression](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/regression/coefficient_of_multiple_correlation.md)
@@ -180,14 +180,14 @@
     - [Condition Number (Multicollinearity Diagnose)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/regression/condition_number.md)
     - [Variance Inflation Factor (VIF) (Multicollinearity Diagnose)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/regression//vif.md)
     - [Tolerance (Multicollinearity Diagnose)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/regression/tolerance.md)
-  - Regularization (handle overfitting)
+  - **Regularization (handle overfitting)**
     - [Regularization (LASSO,Ridge and Elastic Net)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/regression/regularization_summary.md)
     - [Regularization (LASSO and Ridge Regression) (StatQuest)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/regression/regularization.md)
     - [LASSO (L1) (No closed-form solution, numerical method) (feature selection)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/regression/lasso.md)
     - [Ridge Regression (L2) (closed-form solution) (handle multicollinearity and improve model stability)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/regression/ridge_regression.md)
     - [Elastic Net Regression (combine L1 and L2) (feature selection, handle multicollinearity and improve model stability)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/regression/elastic_net_regression.md)
     - [LASSO vs Ridge Regression vs Elastic Net](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/regression/lasso_vs_ridge_vs_elastic.md)
-  - Model Selection
+  - **Model Selection**
     - [Forward Selection](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/regression/forward_selection.md)
     - [Backward Elimination](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/regression/backward_elimination.md)
     - [Stepwise Selection](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/regression/stepwise_regression.md)
