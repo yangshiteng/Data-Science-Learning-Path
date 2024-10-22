@@ -38,6 +38,7 @@
 - Feature Engineering
   - [Feature Scaling](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/data_preprocessing_feature_engineering/feature_scaling.md)
   - [Encoding Categorical Variables](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/data_preprocessing_feature_engineering/encoding_categorical_variable.md)
+  - [Feature Discretization]()
   - [Feature Selection Techniques](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/data_preprocessing_feature_engineering/feature_selection_technique.md)
   - [Feature Engineering](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/data_preprocessing_feature_engineering/feature_engineering.md)
 - Dimensionality Reduction
