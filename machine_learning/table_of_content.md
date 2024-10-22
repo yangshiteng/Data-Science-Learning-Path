@@ -30,18 +30,20 @@
   - [Common Tools and Platforms in Machine Learning](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/fundamental_of_machine_learning/common_tools_ml.md)
 
 ## III. Data Preprocessing and Feature Engineering
-- Introduction to Data Preprocessing
-- Data Cleaning
-- Handling Missing Data
-- Data Normalization and Standardization
-- Feature Scaling
-- Encoding Categorical Variables
-- Feature Selection Techniques
+- Data Handling
+  - [Introduction to Data Preprocessing](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/data_preprocessing_feature_engineering/data_preprocessing_introduction.md)
+  - [Data Cleaning](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/data_preprocessing_feature_engineering/data_clean.md)
+  - [Handling Missing Data](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/data_preprocessing_feature_engineering/missing_data_handle.md)
+  - [Data Normalization and Standardization](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/data_preprocessing_feature_engineering/data_normalization_standardization.md)
 - Feature Engineering
+  - [Feature Scaling](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/data_preprocessing_feature_engineering/feature_scaling.md)
+  - [Encoding Categorical Variables](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/data_preprocessing_feature_engineering/encoding_categorical_variable.md)
+  - [Feature Selection Techniques](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/data_preprocessing_feature_engineering/feature_selection_technique.md)
+  - [Feature Engineering](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/data_preprocessing_feature_engineering/feature_engineering.md)
 - Dimensionality Reduction
-  - Principal Component Analysis (PCA)
-  - t-Distributed Stochastic Neighbor Embedding (t-SNE)
-  - Autoencoders
+  - [Principal Component Analysis (PCA)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/data_preprocessing_feature_engineering/PCA.md)
+  - [t-Distributed Stochastic Neighbor Embedding (t-SNE)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/data_preprocessing_feature_engineering/tSNE.md)
+  - [Autoencoders](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/data_preprocessing_feature_engineering/autoencoder.md)
 
 ## IV. Optimization Algorithms
 - Gradient Descent
