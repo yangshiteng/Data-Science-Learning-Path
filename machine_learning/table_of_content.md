@@ -34,7 +34,7 @@
   - [Introduction to Data Preprocessing](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/data_preprocessing_feature_engineering/data_preprocessing_introduction.md)
   - [Data Cleaning](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/data_preprocessing_feature_engineering/data_clean.md)
   - [Handling Missing Data](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/data_preprocessing_feature_engineering/missing_data_handle.md)
-  - [Data Normalization and Standardization](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/data_preprocessing_feature_engineering/data_normalization_standardization.md)
+  - [Data Transformation (Normalization and Standardization)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/data_preprocessing_feature_engineering/data_normalization_standardization.md)
 - Feature Engineering
   - [Feature Scaling](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/data_preprocessing_feature_engineering/feature_scaling.md)
   - [Encoding Categorical Variables](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/data_preprocessing_feature_engineering/encoding_categorical_variable.md)
