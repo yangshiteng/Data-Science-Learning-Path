@@ -33,7 +33,7 @@
 - **Introduction to Data Preprocessing**
   - [Definition and Importance of Data Preprocessing in Machine Learning](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/data_preprocessing/Definition%20and%20Importance%20of%20Data%20Preprocessing%20in%20Machine%20Learning.md)
   - [Overview of the Data Preprocessing Workflow](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/data_preprocessing/Overview%20of%20the%20Data%20Preprocessing%20Workflow.md)
-  - [The Role of Data Quality in Machine Learning Success]()
+  - [The Role of Data Quality in Machine Learning Success](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/data_preprocessing/The%20Role%20of%20Data%20Quality%20in%20Machine%20Learning%20Success.md)
 - **Data Wrangling**
   - **Overview of Data Wrangling**
     - [Purpose and Goals of Data Wrangling]()
