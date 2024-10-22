@@ -1,3 +1,10 @@
+* Pinciple Component Analysis is a dimensionality reduction method
+* Each Principle Component is a linear combination of all the variables in a dataset
+* Pinciple Components are independent with each other
+* PCA Procedure:
+
+![image](https://user-images.githubusercontent.com/60442877/193083709-939df7d8-43f2-4bd3-905b-dedd06451717.png)
+
 ![image](https://user-images.githubusercontent.com/60442877/188251602-1dd2eee2-bc73-4f1a-b980-45ab8265141b.png)
 
 ![image](https://user-images.githubusercontent.com/60442877/188251607-4024ee2f-cead-49e4-bc99-08a76d9cb152.png)
