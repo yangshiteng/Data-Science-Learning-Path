@@ -39,7 +39,7 @@
     - [Purpose and Goals of Data Wrangling](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/data_preprocessing/Purpose%20and%20Goals%20of%20Data%20Wrangling.md)
     - [Common Challenges in Data Wrangling](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/data_preprocessing/Common%20Challenges%20in%20Data%20Wrangling.md)
   - **Data Cleaning**
-    - [Identifying and Removing Duplicate Records]()
+    - [Identifying and Removing Duplicate Records](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/data_preprocessing/Identifying%20and%20Removing%20Duplicate%20Records.md)
     - [Handling Missing Data: Techniques and Best Practices]()
     - [Filtering and Removing Outliers]()
     - [Correcting Data Errors and Anomalies]()
