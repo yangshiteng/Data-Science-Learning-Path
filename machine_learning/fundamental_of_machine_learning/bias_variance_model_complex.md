@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/6fbcc46a-1892-434b-af7e-796962d16b5f)
+
 # Bias
 
 ![image](https://github.com/user-attachments/assets/4d10b94e-c9b4-418b-baf1-3cb7db38a29c)
