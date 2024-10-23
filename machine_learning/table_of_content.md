@@ -36,7 +36,7 @@
   - [The Role of Data Quality in Machine Learning Success](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/data_preprocessing/The%20Role%20of%20Data%20Quality%20in%20Machine%20Learning%20Success.md)
 - **Data Wrangling**
   - **Overview of Data Wrangling**
-    - [Purpose and Goals of Data Wrangling]()
+    - [Purpose and Goals of Data Wrangling](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/data_preprocessing/Purpose%20and%20Goals%20of%20Data%20Wrangling.md)
     - [Common Challenges in Data Wrangling]()
   - **Data Cleaning**
     - [Identifying and Removing Duplicate Records]()
