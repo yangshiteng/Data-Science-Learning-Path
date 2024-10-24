@@ -86,11 +86,46 @@ df.drop(columns=['Feature3_Predicted'], inplace=True)
 print(df)
 ```
 
+# Multiple Imputation
 
+![image](https://github.com/user-attachments/assets/c56c82e7-7a96-4fec-b377-069abc58b676)
 
+![image](https://github.com/user-attachments/assets/1c7b7a48-1484-446f-b2f4-5bd520d18a38)
 
+```python
+import numpy as np
+import pandas as pd
+from sklearn.experimental import enable_iterative_imputer
+from sklearn.impute import IterativeImputer
+from sklearn.linear_model import BayesianRidge  # Example regressor
 
+# Sample data
+data = {
+    'Feature1': [1, 2, np.nan, 4, 5],
+    'Feature2': [2, np.nan, 3, 4, 5],
+    'Feature3': [np.nan, 5, 6, 7, 8]
+}
 
+df = pd.DataFrame(data)
+
+print("Original Data:")
+print(df)
+
+# Create an imputer with a BayesianRidge estimator
+imputer = IterativeImputer(estimator=BayesianRidge(), n_iter=10, random_state=0)
+
+# Perform multiple imputation
+imputed_data = imputer.fit_transform(df)
+
+# Convert imputed data back to a DataFrame
+imputed_df = pd.DataFrame(imputed_data, columns=['Feature1', 'Feature2', 'Feature3'])
+
+print("\nImputed Data:")
+print(imputed_df)
+
+```
+
+![image](https://github.com/user-attachments/assets/006e5299-da54-4039-87e7-1937d37a946b)
 
 
 
