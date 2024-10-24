@@ -127,8 +127,13 @@ print(imputed_df)
 
 ![image](https://github.com/user-attachments/assets/006e5299-da54-4039-87e7-1937d37a946b)
 
+# MCAR VS MAR VS MNAR
 
+![image](https://github.com/user-attachments/assets/6fa08352-ff84-4dbf-b3c8-0cbdaaf2d31d)
 
+![image](https://github.com/user-attachments/assets/337a2b38-7554-457d-a2aa-f0a61d69afbf)
+
+![image](https://github.com/user-attachments/assets/3a6275fc-e1e0-4c5e-a21d-0ca7b56046b5)
 
 
 
