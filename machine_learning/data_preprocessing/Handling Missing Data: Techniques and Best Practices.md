@@ -45,6 +45,48 @@ print(imputed_df)
 
 ```
 
+# Regression Imputation
+
+![image](https://github.com/user-attachments/assets/f0193b17-f6ed-46cd-a09d-664d0da7aebe)
+
+![image](https://github.com/user-attachments/assets/1fd34320-2c25-4b12-a95a-5b13069b0f3a)
+
+```python
+import numpy as np
+import pandas as pd
+from sklearn.linear_model import LinearRegression
+from sklearn.impute import SimpleImputer
+
+# Sample data with missing values
+data = {
+    'Feature1': [1, 2, 3, 4, np.nan],
+    'Feature2': [2, 4, np.nan, 8, 10],
+    'Feature3': [5, np.nan, 15, 20, 25]
+}
+
+df = pd.DataFrame(data)
+
+# Assume 'Feature3' is the target/response variable, and we will use 'Feature1' and 'Feature2' as predictors
+# Preparing training data (dropping rows where the target is NaN)
+train_df = df.dropna(subset=['Feature3'])
+
+# Build regression model
+model = LinearRegression()
+model.fit(train_df[['Feature1', 'Feature2']], train_df['Feature3'])
+
+# Predict missing values in 'Feature3'
+df['Feature3_Predicted'] = model.predict(df[['Feature1', 'Feature2']])
+
+# Fill in missing 'Feature3' values using the predictions
+df['Feature3'].fillna(df['Feature3_Predicted'], inplace=True)
+
+# Clean up if desired
+df.drop(columns=['Feature3_Predicted'], inplace=True)
+
+print(df)
+```
+
+
 
 
 
