@@ -45,44 +45,6 @@ print(imputed_df)
 
 ```
 
-![image](https://github.com/user-attachments/assets/32c4c9e6-75dc-4d84-9ea3-16bca0436461)
-
-![image](https://github.com/user-attachments/assets/7c9c768e-ab70-4d5c-8877-3e08a1727100)
-
-```python
-import numpy as np
-import pandas as pd
-from sklearn.experimental import enable_iterative_imputer
-from sklearn.impute import IterativeImputer
-
-# Sample data with missing values in neighbors
-data = np.array([
-    [1, 2, np.nan],  # The third feature is missing in the first sample
-    [4, np.nan, 5],  # The second feature is missing in the second sample
-    [7, np.nan, 9],  # The second feature is missing in the third sample
-    [10, 5, 7]
-])
-
-# Convert the array to a DataFrame for better visualization
-df = pd.DataFrame(data, columns=['Feature1', 'Feature2', 'Feature3'])
-
-print("Original Data:")
-print(df)
-
-# Create an iterative imputer instance
-imputer = IterativeImputer(max_iter=10, random_state=0)
-
-# Perform the imputation
-imputed_data = imputer.fit_transform(data)
-
-# Convert imputed data back to a DataFrame
-imputed_df = pd.DataFrame(imputed_data, columns=['Feature1', 'Feature2', 'Feature3'])
-
-print("\nImputed Data:")
-print(imputed_df)
-
-```
-
 
 
 
