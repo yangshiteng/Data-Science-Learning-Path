@@ -135,6 +135,34 @@ print(imputed_df)
 
 ![image](https://github.com/user-attachments/assets/3a6275fc-e1e0-4c5e-a21d-0ca7b56046b5)
 
+# Pairwise Deletion
 
+![image](https://github.com/user-attachments/assets/c96b491c-bd0f-4cd5-863a-e77b25bd900b)
 
+![image](https://github.com/user-attachments/assets/e3cbb4c2-c6e9-4236-980e-ed33b8140b5d)
+
+```python
+import pandas as pd
+import numpy as np
+
+# Create a DataFrame
+data = {
+    'Student ID': [1, 2, 3, 4, 5],
+    'Hours Studied': [10, np.nan, 7, 8, np.nan],
+    'Test Score': [92, 85, np.nan, 88, 90]
+}
+
+df = pd.DataFrame(data)
+
+# Display original data
+print("Original Data:")
+print(df)
+
+# Calculating correlation using pairwise deletion
+correlation = df['Hours Studied'].corr(df['Test Score'], method='pearson')
+
+print("\nCorrelation between 'Hours Studied' and 'Test Score' (Pairwise Deletion):")
+print(correlation)
+
+```
 
