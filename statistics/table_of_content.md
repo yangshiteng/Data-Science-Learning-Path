@@ -82,6 +82,7 @@
 
 ## V. Inferential Statistics
 - **1. Statistical Theorem**
+  - [Empirical Rule (three-sigmal rule) (68-95-99.7 rule)]()
   - [Central Limit Theorem](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/inferential_statistics/clt.md)
   - [Law of Large Numbers (LLN)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/inferential_statistics/lln.md)
   - [Converge In Probability](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/inferential_statistics/converge_in_probability.md)
