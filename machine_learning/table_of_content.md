@@ -19,7 +19,6 @@
   - [Key Terminologies and Concepts in Machine Learning](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/fundamental_of_machine_learning/introduction_to_key_concepts.md)
 - **Understanding Data in Machine Learning**
   - [Types of Data Used in Machine Learning](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/fundamental_of_machine_learning/ml_data_type.md)
-  - [Outlier vs Anomaly vs Novelty](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/fundamental_of_machine_learning/outlier_vs_anomaly_vs_novelty.md)
 - **Model Development Process**
   - [Machine Learning Workflow](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/fundamental_of_machine_learning/ml_workflow.md)
   - [Training, Validation, and Testing](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/fundamental_of_machine_learning/training_validation_testing.md)
@@ -44,6 +43,7 @@
     - [Handling Missing Data: Techniques and Best Practices](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/data_preprocessing/HandlingMissingDataTechniquesandBestPractices.md)
     - [Filtering and Removing Outliers](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/data_preprocessing/Filtering%20and%20Removing%20Outliers.md)
     - [Correcting Data Errors and Anomalies](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/data_preprocessing/Correcting%20Data%20Errors%20and%20Anomalies.md)
+    - [Outlier vs Anomaly vs Novelty](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/data_preprocessing/outlier_vs_anomaly_vs_novelty.md)
   - **Data Transformation**
     - [Feature Scaling: Normalization(正规化) (Min-Max Scaling) (assume fixed range) and Standardization(标准化) (assume normal distributed)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/data_preprocessing/normalization_standardization.md)
     - [Data Type Conversions](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/data_preprocessing/data_type_conversions.md)
