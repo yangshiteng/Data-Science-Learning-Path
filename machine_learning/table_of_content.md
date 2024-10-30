@@ -41,7 +41,7 @@
   - **Data Cleaning**
     - [Identifying and Removing Duplicate Records](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/data_preprocessing/Identifying%20and%20Removing%20Duplicate%20Records.md)
     - [Handling Missing Data: Techniques and Best Practices](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/data_preprocessing/HandlingMissingDataTechniquesandBestPractices.md)
-    - [Filtering and Removing Outliers]()
+    - [Filtering and Removing Outliers](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/data_preprocessing/Filtering%20and%20Removing%20Outliers.md)
     - [Correcting Data Errors and Anomalies]()
   - **Data Transformation**
     - [Normalization and Standardization Techniques]()
