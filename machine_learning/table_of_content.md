@@ -47,11 +47,7 @@
   - **Data Transformation**
     - [Feature Scaling: Normalization(正规化) (Min-Max Scaling) (assume fixed range) and Standardization(标准化) (assume normal distributed)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/data_preprocessing/normalization_standardization.md)
     - [Data Type Conversions](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/data_preprocessing/data_type_conversions.md)
-    - [Conditional Transformations]()
-  - **Data Integration**
-    - [Combining Data from Multiple Sources]()
-    - [Resolving Data Conflicts and Schema Integration]()
-    - [Data Enrichment: Adding Value through External Data]()
+    - [Conditional Transformations](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/data_preprocessing/conditional_transformation.md)
   - **Data Reduction**
     - [Strategies for Reducing Data Complexity]()
     - [Aggregation and Sampling Methods]()
