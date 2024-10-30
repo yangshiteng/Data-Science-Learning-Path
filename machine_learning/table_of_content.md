@@ -19,7 +19,7 @@
   - [Key Terminologies and Concepts in Machine Learning](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/fundamental_of_machine_learning/introduction_to_key_concepts.md)
 - **Understanding Data in Machine Learning**
   - [Types of Data Used in Machine Learning](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/fundamental_of_machine_learning/ml_data_type.md)
-  - [Outlier vs Anomaly vs Novelty]()
+  - [Outlier vs Anomaly vs Novelty](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/fundamental_of_machine_learning/outlier_vs_anomaly_vs_novelty.md)
 - **Model Development Process**
   - [Machine Learning Workflow](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/fundamental_of_machine_learning/ml_workflow.md)
   - [Training, Validation, and Testing](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/fundamental_of_machine_learning/training_validation_testing.md)
