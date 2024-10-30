@@ -46,7 +46,7 @@
     - [Correcting Data Errors and Anomalies](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/data_preprocessing/Correcting%20Data%20Errors%20and%20Anomalies.md)
   - **Data Transformation**
     - [Feature Scaling: Normalization(正规化) (Min-Max Scaling) (assume fixed range) and Standardization(标准化) (assume normal distributed)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/data_preprocessing/normalization_standardization.md)
-    - [Data Type Conversions]()
+    - [Data Type Conversions](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/data_preprocessing/data_type_conversions.md)
     - [Conditional Transformations]()
   - **Data Integration**
     - [Combining Data from Multiple Sources]()
