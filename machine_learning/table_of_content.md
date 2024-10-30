@@ -45,7 +45,7 @@
     - [Filtering and Removing Outliers](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/data_preprocessing/Filtering%20and%20Removing%20Outliers.md)
     - [Correcting Data Errors and Anomalies](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/data_preprocessing/Correcting%20Data%20Errors%20and%20Anomalies.md)
   - **Data Transformation**
-    - [Normalization and Standardization Techniques](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/data_preprocessing/normalization_standardization.md)
+    - [Feature Scaling: Normalization(正规化) and Standardization(标准化) Techniques](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/data_preprocessing/normalization_standardization.md)
     - [Data Type Conversions]()
     - [Conditional Transformations]()
   - **Data Integration**
