@@ -54,7 +54,7 @@
   - **Introduction to Feature Engineering**
     - [Definition and Significance of Feature Engineering](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/data_preprocessing/Definition%20and%20Significance%20of%20Feature%20Engineering.md)
   - **Feature Engineering Techniques**
-    - [Feature Creation: Deriving New Features from Existing Data]()
+    - [Feature Creation: Deriving New Features from Existing Data](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/data_preprocessing/Feature%20Creation.md)
     - [Feature Transformation: Scaling, Binning, and Normalization]()
     - [Encoding Categorical Variables: One-Hot, Label Encoding, etc.]()
     - [Interaction Features: Creating Features from Model Residuals]()
