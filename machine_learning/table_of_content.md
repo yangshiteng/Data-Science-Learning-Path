@@ -54,11 +54,10 @@
   - **Introduction to Feature Engineering**
     - [Definition and Significance of Feature Engineering]()
     - [The Relationship Between Features and Model Performance]()
-  - **Basic Feature Engineering Techniques**
+  - **Feature Engineering Techniques**
     - [Feature Creation: Deriving New Features from Existing Data]()
     - [Feature Transformation: Scaling, Binning, and Normalization]()
     - [Encoding Categorical Variables: One-Hot, Label Encoding, etc.]()
-  - **Advanced Feature Engineering Techniques**
     - [Interaction Features: Creating Features from Model Residuals]()
     - [Polynomial Features and Non-linear Transformations]()
     - [Automated Feature Engineering: Tools and Techniques]()
