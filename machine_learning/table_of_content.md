@@ -15,7 +15,7 @@
   - [Future Directions in Machine Learning](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/introduction_to_machine_learning/future_direction.md)
   
 ## II. Fundamental of Machine Learning
-- **Introduction to Key Concepts**
+- **Key Concepts**
   - [Key Terminologies and Concepts in Machine Learning](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/fundamental_of_machine_learning/introduction_to_key_concepts.md)
 - **Understanding Data in Machine Learning**
   - [Types of Data Used in Machine Learning](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/fundamental_of_machine_learning/ml_data_type.md)
