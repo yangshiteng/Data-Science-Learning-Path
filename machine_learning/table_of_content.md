@@ -49,7 +49,7 @@
     - [Data Type Conversions](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/data_preprocessing/data_type_conversions.md)
     - [Conditional Transformations (Customization of Data Adjustment)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/data_preprocessing/conditional_transformation.md)
   - **Data Reduction (simplifying the data without significantly losing information)**
-    - [Strategies for Reducing Data Complexity]()
+    - [Strategies for Reducing Data Complexity](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/data_preprocessing/Strategies%20for%20Reducing%20Data%20Complexity.md)
     - [Aggregation and Sampling Methods]()
     - [Dimensionality Reduction Techniques (Brief Overview)]()
 - **Feature Engineering**
