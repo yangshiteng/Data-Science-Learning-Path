@@ -52,7 +52,7 @@
     - [Strategies for Reducing Data Complexity](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/data_preprocessing/Strategies%20for%20Reducing%20Data%20Complexity.md)
 - **Feature Engineering**
   - **Introduction to Feature Engineering**
-    - [Definition and Significance of Feature Engineering]()
+    - [Definition and Significance of Feature Engineering](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/data_preprocessing/Definition%20and%20Significance%20of%20Feature%20Engineering.md)
     - [The Relationship Between Features and Model Performance]()
   - **Feature Engineering Techniques**
     - [Feature Creation: Deriving New Features from Existing Data]()
