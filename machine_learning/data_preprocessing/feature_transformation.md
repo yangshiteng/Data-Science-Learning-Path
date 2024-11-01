@@ -1,5 +1,3 @@
-# Introduction
-
 ![image](https://github.com/user-attachments/assets/8c423c39-7701-4c48-892a-e9934b05ab3c)
 
 ![image](https://github.com/user-attachments/assets/5aa6c5c3-0f7d-4f61-b7bf-c9289fff198f)
@@ -51,10 +49,6 @@ print(df_transformed)
 ```
 ![image](https://github.com/user-attachments/assets/87ad041c-9f07-4931-9790-8f8d9fa9d8cd)
 
-# How Normalization and Standardization Help in Convergence
 
-![image](https://github.com/user-attachments/assets/505d91cc-a231-4376-8250-4704d9d09f78)
-
-![image](https://github.com/user-attachments/assets/8e6f9248-ba7a-4f9c-8879-310d17b58875)
 
 
