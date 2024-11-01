@@ -6,4 +6,20 @@
 
 ![image](https://github.com/user-attachments/assets/61e11417-dc2c-4e16-afd4-098d97575b33)
 
-![image](https://github.com/user-attachments/assets/de61c3d5-70fa-4029-b50d-4d75f3f35f9e)
+```python
+import pandas as pd
+
+# Sample data
+data = {
+    'age': [25, 30, 35, 40],
+    'salary': [50000, 60000, 70000, 80000]
+}
+
+df = pd.DataFrame(data)
+
+# Creating an interaction feature
+df['age_salary_interaction'] = df['age'] * df['salary']
+
+print(df)
+```
+![image](https://github.com/user-attachments/assets/ab15a7e4-ee07-43e9-8f93-f045ef81d9e4)
