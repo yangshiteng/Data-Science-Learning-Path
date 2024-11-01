@@ -1,32 +1,17 @@
 # Introduction
 
-![image](https://github.com/user-attachments/assets/4d0f3363-7011-4207-af3f-4a9ad39071e2)
+![image](https://github.com/user-attachments/assets/8c423c39-7701-4c48-892a-e9934b05ab3c)
 
-![image](https://github.com/user-attachments/assets/7c7af7e7-da76-4f05-8d43-1655b4f63d43)
-
-![image](https://github.com/user-attachments/assets/c1b78196-a9da-4f24-8e46-16ac216925c2)
+![image](https://github.com/user-attachments/assets/5aa6c5c3-0f7d-4f61-b7bf-c9289fff198f)
 
 ```python
-from sklearn.preprocessing import MinMaxScaler, StandardScaler
-import numpy as np
-
-# Sample data
-data = np.array([[10, 2.7, 3.6],
-                 [15, 3.6, 14.0],
-                 [16, 2.3, 15.2]]).astype(np.float64)
-
-# Normalize data
-scaler = MinMaxScaler()
-normalized_data = scaler.fit_transform(data)
-print("Normalized Data:")
-print(normalized_data)
-
-# Standardize data
-scaler = StandardScaler()
-standardized_data = scaler.fit_transform(data)
-print("\nStandardized Data:")
-print(standardized_data)
+import pandas as pd
+age_data = pd.DataFrame({'age': [22, 25, 37, 59, 45, 18, 33]})
+age_data['age_binned'] = pd.cut(age_data['age'], bins=[0, 20, 40, 60], labels=["0-20", "21-40", "41-60"])
+print(age_data)
 ```
+![image](https://github.com/user-attachments/assets/fce2352e-fd70-423c-8f93-20c5e4844dfd)
+
 # How Normalization and Standardization Help in Convergence
 
 ![image](https://github.com/user-attachments/assets/505d91cc-a231-4376-8250-4704d9d09f78)
