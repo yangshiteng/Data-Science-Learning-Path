@@ -45,7 +45,6 @@
     - [Correcting Data Errors and Anomalies](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/data_preprocessing/Correcting%20Data%20Errors%20and%20Anomalies.md)
     - [Outlier vs Anomaly vs Novelty](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/data_preprocessing/outlier_vs_anomaly_vs_novelty.md)
   - **Data Transformation**
-    - [Feature Scaling: Normalization (Min-Max Scaling) (assume fixed range) and Standardization (Z-Score Normalization) (assume normal distributed)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/data_preprocessing/normalization_standardization.md)
     - [Data Type Conversions](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/data_preprocessing/data_type_conversions.md)
     - [Conditional Transformations (Customization of Data Adjustment)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/data_preprocessing/conditional_transformation.md)
   - **Data Reduction (simplifying the data without significantly losing information)**
@@ -55,7 +54,7 @@
     - [Definition and Significance of Feature Engineering](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/data_preprocessing/Definition%20and%20Significance%20of%20Feature%20Engineering.md)
   - **Feature Engineering Techniques**
     - [Feature Creation: Deriving New Features from Existing Data](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/data_preprocessing/Feature%20Creation.md)
-    - [Feature Transformation: Scaling, Binning, and Normalization]()
+    - [Feature Transformation](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/data_preprocessing/normalization_standardization.md)
     - [Encoding Categorical Variables: One-Hot, Label Encoding, etc.]()
     - [Interaction Features: Creating Features from Model Residuals]()
     - [Polynomial Features and Non-linear Transformations]()
