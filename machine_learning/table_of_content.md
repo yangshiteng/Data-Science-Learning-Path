@@ -58,9 +58,9 @@
     - [Feature Transformation](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/data_preprocessing/feature_transformation.md)
     - [Encoding Categorical Variables](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/data_preprocessing/categorical_encoding.md)
   - **Feature Selection**
-    - [Filter Methods: Statistical Thresholds]()
-    - [Wrapper Methods: Recursive Feature Elimination]()
-    - [Embedded Methods: Feature Importance from Models]()
+    - [Filter Methods]()
+    - [Wrapper Methods]()
+    - [Embedded Methods]()
   - **Dimensionality Reduction**
     - [Principal Component Analysis (PCA)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/data_preprocessing/PCA.md)
     - [t-Distributed Stochastic Neighbor Embedding (t-SNE)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/data_preprocessing/tSNE.md)
