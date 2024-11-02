@@ -58,7 +58,7 @@
     - [Feature Transformation](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/data_preprocessing/feature_transformation.md)
     - [Encoding Categorical Variables](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/data_preprocessing/categorical_encoding.md)
   - **Feature Selection**
-    - [Filter Methods](https://github.com/yangshiteng/Data-Science-Learning-Path/edit/main/machine_learning/data_preprocessing/filter_method.md)
+    - [Filter Methods: Correlation Coefficient, Mutual Information, Chi-squared Test, ANOVA F-test](https://github.com/yangshiteng/Data-Science-Learning-Path/edit/main/machine_learning/data_preprocessing/filter_method.md)
     - [Wrapper Methods]()
     - [Embedded Methods]()
   - **Dimensionality Reduction**
