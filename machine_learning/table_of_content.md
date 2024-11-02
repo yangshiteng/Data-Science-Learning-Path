@@ -57,7 +57,6 @@
     - [Feature Creation](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/data_preprocessing/Feature%20Creation.md)
     - [Feature Transformation](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/data_preprocessing/feature_transformation.md)
     - [Encoding Categorical Variables](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/data_preprocessing/categorical_encoding.md)
-    - [Automated Feature Engineering: Tools and Techniques]()
   - **Feature Selection**
     - [Filter Methods: Statistical Thresholds]()
     - [Wrapper Methods: Recursive Feature Elimination]()
