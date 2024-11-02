@@ -74,8 +74,49 @@ print("Expected Frequencies:\n", expected)
 ```
 ![image](https://github.com/user-attachments/assets/c5ccfac4-a848-4e4e-80bc-34c3b4fc25d4)
 
+# Mutual Information
 
+![image](https://github.com/user-attachments/assets/aacd1c6a-8abd-4aad-b217-ca43b9f99acb)
 
+![image](https://github.com/user-attachments/assets/996503b4-4dce-4cd6-ac64-711ae76bded2)
+
+```python
+import numpy as np
+import pandas as pd
+from sklearn.feature_selection import mutual_info_classif, SelectKBest
+
+# Sample Data
+data = {
+    'Feature1': np.random.rand(100),
+    'Feature2': np.random.rand(100) * 5,
+    'Feature3': np.random.randint(1, 5, 100),
+    'Target': np.random.randint(0, 2, 100)
+}
+df = pd.DataFrame(data)
+
+# Features and Target
+X = df.drop('Target', axis=1)
+y = df['Target']
+
+# Calculate Mutual Information
+mi = mutual_info_classif(X, y)
+
+# Create a DataFrame for better visualization
+mi_df = pd.DataFrame(mi, index=X.columns, columns=['MI Score'])
+mi_df.sort_values(by='MI Score', ascending=False, inplace=True)
+
+print(mi_df)
+
+# Optionally, use SelectKBest to select features based on mutual information
+selector = SelectKBest(mutual_info_classif, k=2)
+X_selected = selector.fit_transform(X, y)
+print("\nSelected Features:")
+print(X.columns[selector.get_support()])
+
+```
+![image](https://github.com/user-attachments/assets/73b1015c-4616-45f7-a965-357c96f643cd)
+
+![image](https://github.com/user-attachments/assets/809878cb-d968-4462-b48c-8cd89258088e)
 
 
 
