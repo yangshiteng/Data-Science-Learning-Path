@@ -60,7 +60,7 @@
   - **Feature Selection**
     - [Filter Methods: Correlation Coefficient, Mutual Information, Chi-squared Test, ANOVA F-test](https://github.com/yangshiteng/Data-Science-Learning-Path/edit/main/machine_learning/data_preprocessing/filter_method.md)
     - [Wrapper Methods: Forward Selection, Backward Elimination, Recursive Feature Elimination (RFE)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/data_preprocessing/wrapper_method.md)
-    - [Embedded Methods]()
+    - [Embedded Methods: feature selection techniques integrated directly into the model training process]()
   - **Dimensionality Reduction**
     - [Principal Component Analysis (PCA)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/data_preprocessing/PCA.md)
     - [t-Distributed Stochastic Neighbor Embedding (t-SNE)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/data_preprocessing/tSNE.md)
