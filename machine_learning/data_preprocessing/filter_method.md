@@ -41,3 +41,48 @@ featureScores.columns = ['Feature', 'Score']  # Naming the dataframe columns
 print(featureScores)
 ```
 ![image](https://github.com/user-attachments/assets/981aaa7d-30c3-4bb1-820b-37f69c2d4e3f)
+
+# Chi-squared Test
+
+![image](https://github.com/user-attachments/assets/1df80080-b9d8-415d-ae2f-e06e69c69252)
+
+![image](https://github.com/user-attachments/assets/6247e7c2-365f-41f3-b534-12a7031a88d2)
+
+```python
+import numpy as np
+import pandas as pd
+from scipy.stats import chi2_contingency
+
+# Sample data
+data = {'Feature': ['Red', 'Red', 'Green', 'Green', 'Blue', 'Blue'],
+        'Target': ['Yes', 'No', 'Yes', 'No', 'Yes', 'No'],
+        'Count': [10, 30, 20, 20, 30, 10]}
+
+df = pd.DataFrame(data)
+
+# Creating a contingency table
+contingency_table = pd.pivot_table(df, values='Count', index='Feature', columns='Target', aggfunc=np.sum)
+
+# Calculate the Chi-squared test statistic, p-value, degrees of freedom, and expected frequencies
+chi2, p, dof, expected = chi2_contingency(contingency_table)
+
+# Print results
+print("Chi-squared Statistic:", chi2)
+print("P-value:", p)
+print("Degrees of Freedom:", dof)
+print("Expected Frequencies:\n", expected)
+```
+![image](https://github.com/user-attachments/assets/c5ccfac4-a848-4e4e-80bc-34c3b4fc25d4)
+
+
+
+
+
+
+
+
+
+
+
+
+
