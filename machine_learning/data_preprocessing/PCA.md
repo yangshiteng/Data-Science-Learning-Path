@@ -22,6 +22,6 @@
 
 ![image](https://user-images.githubusercontent.com/60442877/188252114-df58941a-d0ee-48f3-a5ed-096c6d5062a9.png)
 
-![image](https://user-images.githubusercontent.com/60442877/188252124-f8dd43fe-cf88-40af-8522-76f612ed08e5.png)
+![image](https://github.com/user-attachments/assets/78e201b9-560a-42af-8959-4222310efff0)
 
-# Above Equation can also be FinalDataSet = StandardizedOriginalDataset * FeatureVector
+![image](https://github.com/user-attachments/assets/77fa90c4-b0d5-4790-ad81-3f15b44a2b58)
