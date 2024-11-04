@@ -30,6 +30,7 @@
   - [Comparing Mean, Median, and Mode](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/descriptive_statistics/mean_median_mode_comparison.md)
 - **2. Measures of Variability**
   - [Range, Variance, Standard Deviation, Interquartile Range](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/descriptive_statistics/range_variance_sd_iqr.md)
+  - [Covariance and Correlation Coefficient]()
 - **3. Data Visualization**
   - [Histograms](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/descriptive_statistics/histogram.md)
   - [Pie Charts](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/descriptive_statistics/pie_charts.md)
