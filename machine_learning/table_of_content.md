@@ -63,8 +63,7 @@
     - [Embedded Methods: feature selection techniques integrated directly into the model training process](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/data_preprocessing/embedded_method.md)
   - **Dimensionality Reduction**
     - [Principal Component Analysis (PCA)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/data_preprocessing/PCA.md)
-    - [t-Distributed Stochastic Neighbor Embedding (t-SNE)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/data_preprocessing/tSNE.md)
-    - [Feature Selection as a Dimensionality Reduction Technique](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/data_preprocessing/autoencoder.md)
+    - [t-Distributed Stochastic Neighbor Embedding (t-SNE): visualizing high-dimensional data by reducing it to lower-dimensional spaces (typically 2D or 3D)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/data_preprocessing/tSNE.md)
 - **Automating Data Preprocessing**
   - [Developing and Implementing Data Preprocessing Pipelines]()
   - [Tools and Frameworks for Automation]()
