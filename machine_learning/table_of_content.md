@@ -69,6 +69,8 @@
 
 ## IV. Optimization Algorithms
 - Gradient Descent
+  - Basic Concept
+  - Overview of Gradient Descent
   - Batch Gradient Descent
   - Stochastic Gradient Descent
   - Mini-batch Gradient Descent
