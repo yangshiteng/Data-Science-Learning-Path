@@ -65,8 +65,11 @@
     - [Principal Component Analysis (PCA)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/data_preprocessing/PCA.md)
     - [t-Distributed Stochastic Neighbor Embedding (t-SNE): visualizing high-dimensional data by reducing it to lower-dimensional spaces (typically 2D or 3D)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/data_preprocessing/tSNE.md)
 - **Handling Imbalanced Data**
-  - [Oversampling and Undersampling]()
-  - [SMOTE]()
+  - [Overview of Imbalance Data Handling]()
+  - [Resampling Technique: Oversampling, Undersampling, SMOTE]()
+  - [Algorithmic Ensemble Techniques: Boosting and Bagging]()
+  - [Modify Class Weights]()
+  - [Anomaly Detectioni Techniques]()
 - **Automating Data Preprocessing**
   - [Developing and Implementing Data Preprocessing Pipelines](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/data_preprocessing/data_preprocessing_pipeline.md)
 
