@@ -67,7 +67,7 @@
 - **Handling Imbalanced Data**
   - [Overview of Imbalance Data Handling](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/data_preprocessing/overview_imbalanced_data.md)
   - [Resampling Technique: Oversampling, Undersampling, SMOTE](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/data_preprocessing/Resampling%20Techniques.md)
-  - [Algorithmic Ensemble Techniques: Boosting and Bagging]()
+  - [Algorithmic Ensemble Techniques: Boosting and Bagging](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/data_preprocessing/ensemble_method_imbalanced_data.md)
   - [Modify Class Weights]()
   - [Anomaly Detection Techniques]()
 - **Automating Data Preprocessing**
