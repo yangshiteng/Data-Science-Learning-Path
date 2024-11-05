@@ -2,6 +2,8 @@
 
 ![image](https://github.com/user-attachments/assets/928eae11-d06d-4998-ab05-391d64e5e0b6)
 
+![image](https://github.com/user-attachments/assets/12aa1533-491e-4eff-bd51-a264ce3ccc16)
+
 ```python
 import numpy as np
 import matplotlib.pyplot as plt
@@ -42,3 +44,6 @@ print("Class distribution before SMOTE:", np.bincount(y))
 print("Class distribution after SMOTE:", np.bincount(y_res))
 ```
 ![image](https://github.com/user-attachments/assets/6114ac5c-9c88-4e5c-9209-cf8ce632ffa4)
+
+![image](https://github.com/user-attachments/assets/7be859cd-cac2-4e1e-b881-bc5d54cb10c9)
+
