@@ -41,6 +41,8 @@ print(classification_report(y_test, y_pred))
 ```
 ![image](https://github.com/user-attachments/assets/b28a1e6b-a2a3-4957-91e4-7b66c85a8c1d)
 
+![image](https://github.com/user-attachments/assets/182a8b9a-c841-4e55-b842-4986a955b260)
+
 
 
 
