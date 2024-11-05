@@ -69,7 +69,7 @@
   - [Resampling Technique: Oversampling, Undersampling, SMOTE](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/data_preprocessing/Resampling%20Techniques.md)
   - [Algorithmic Ensemble Techniques: Boosting and Bagging]()
   - [Modify Class Weights]()
-  - [Anomaly Detectioni Techniques]()
+  - [Anomaly Detection Techniques]()
 - **Automating Data Preprocessing**
   - [Developing and Implementing Data Preprocessing Pipelines](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/data_preprocessing/data_preprocessing_pipeline.md)
 
