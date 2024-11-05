@@ -91,7 +91,7 @@
 - K-Nearest Neighbors (KNN)
 - Neural Networks
 - Multiclass Classification
-- One Class Classification
+- One-Class Classification
 
 ## VI. Ensemble Learning
 - Bagging, Boosting, and Stacking
