@@ -43,7 +43,7 @@
     - [Handling Missing Data: Techniques and Best Practices](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/data_preprocessing/HandlingMissingDataTechniquesandBestPractices.md)
     - [Filtering and Removing Outliers](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/data_preprocessing/Filtering%20and%20Removing%20Outliers.md)
     - [Correcting Data Errors and Anomalies](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/data_preprocessing/Correcting%20Data%20Errors%20and%20Anomalies.md)
-    - [Outlier vs Anomaly vs Novelty](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/data_preprocessing/outlier_vs_anomaly_vs_novelty.md)
+    - [Outlier(离群点) vs Anomaly(异常点) vs Novelty(新奇点)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/data_preprocessing/outlier_vs_anomaly_vs_novelty.md)
   - **Data Transformation**
     - [Normalization and Standardization](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/data_preprocessing/normalization_and_standardization.md)
     - [Data Type Conversions](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/data_preprocessing/data_type_conversions.md)
