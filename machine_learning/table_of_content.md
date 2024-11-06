@@ -26,8 +26,13 @@
   - [Bias, Variance, and Model Complexity](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/fundamental_of_machine_learning/bias_variance_model_complex.md)
   - [Bias-Variance Tradeoff](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/fundamental_of_machine_learning/bias_variance_tradeoff.md)
   - [Overfitting and Underfitting](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/fundamental_of_machine_learning/over_fitting_under_fitting.md)
+- **Outlier(离群点) vs Anomaly(异常点) vs Novelty(新奇点)**
+   - [Overview of Outlier, Anomaly, Novelty](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/data_preprocessing/outlier_vs_anomaly_vs_novelty.md)
 - **Tools and Platforms**
   - [Common Tools and Platforms in Machine Learning](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/fundamental_of_machine_learning/common_tools_ml.md)
+  - [Outlier Detection]()
+  - [Anomaly Detection]()
+  - [Novelty Detection]()
 
 ## III. Data Preprocessing 
 - **Introduction to Data Preprocessing**
@@ -43,7 +48,6 @@
     - [Handling Missing Data: Techniques and Best Practices](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/data_preprocessing/HandlingMissingDataTechniquesandBestPractices.md)
     - [Filtering and Removing Outliers](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/data_preprocessing/Filtering%20and%20Removing%20Outliers.md)
     - [Correcting Data Errors and Anomalies](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/data_preprocessing/Correcting%20Data%20Errors%20and%20Anomalies.md)
-    - [Outlier(离群点) vs Anomaly(异常点) vs Novelty(新奇点)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/data_preprocessing/outlier_vs_anomaly_vs_novelty.md)
   - **Data Transformation**
     - [Normalization and Standardization](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/data_preprocessing/normalization_and_standardization.md)
     - [Data Type Conversions](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/data_preprocessing/data_type_conversions.md)
