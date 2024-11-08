@@ -1,39 +1,46 @@
-![image](https://github.com/user-attachments/assets/aa3123bd-4e5d-4050-be9d-d164dd2e2881)
+![image](https://github.com/user-attachments/assets/ae3e2650-3e1a-4aa4-96cb-ae428197466e)
 
-![image](https://github.com/user-attachments/assets/62a6479c-aca2-4f95-925b-3894fc3771f5)
+![image](https://github.com/user-attachments/assets/600dac9d-743b-4c98-8e24-1c64caa0786e)
+
+![image](https://github.com/user-attachments/assets/74b93092-324a-4a5d-ac96-3ba041f51b65)
+
+# Python Example - Outlier Detection with IQR
 
 ```python
 import numpy as np
-import matplotlib.pyplot as plt
-from sklearn.neighbors import LocalOutlierFactor
+
+data = np.random.randn(100) * 20 + 20  # Normal data
+data = np.append(data, [200, -100])  # Add some clear outliers
+
+Q1, Q3 = np.percentile(data, [25, 75])
+IQR = Q3 - Q1
+
+outliers = data[(data < Q1 - 1.5 * IQR) | (data > Q3 + 1.5 * IQR)]
+```
+# Python Example - Anomaly Detection with Isolation Forest
+
+```
+from sklearn.ensemble import IsolationForest
 from sklearn.datasets import make_blobs
 
-# Generate synthetic data with clusters
-X, _ = make_blobs(n_samples=300, centers=3, cluster_std=1.0, random_state=42)
+data, _ = make_blobs(n_samples=300, centers=1, cluster_std=1.5, random_state=42)
+data = np.r_[data, np.random.uniform(low=-10, high=10, size=(20, 2))]  # Add potential anomalies
 
-# Add some random noise as outliers
-X = np.r_[X, np.random.uniform(low=-10, high=10, size=(20, 2))]
-
-# Fit the LOF model
-clf = LocalOutlierFactor(n_neighbors=20, contamination=0.1)
-y_pred = clf.fit_predict(X)
-X_scores = clf.negative_outlier_factor_
-
-# Plot the level of outlier-ness
-plt.title("Local Outlier Factor (LOF)")
-plt.scatter(X[:, 0], X[:, 1], color='k', s=3., label='Data points')
-# Circle out potential outliers
-radius = (X_scores.max() - X_scores) / (X_scores.max() - X_scores.min())
-outlier_scores = plt.scatter(X[:, 0], X[:, 1], s=1000 * radius, edgecolors='r',
-                             facecolors='none', label='Outlier scores')
-plt.axis('tight')
-plt.xlim((-10, 10))
-plt.ylim((-10, 10))
-plt.xlabel("Prediction errors: %d" % (y_pred != 1).sum())
-plt.legend([outlier_scores], ['Outlier scores'], loc='upper left')
-plt.show()
+clf = IsolationForest(contamination=0.1)
+preds = clf.fit_predict(data)
 ```
+# Python Example - Novelty Detection with One Class SVM
 
-![image](https://github.com/user-attachments/assets/86684539-2415-486a-b838-f6f86c7d6586)
+```python
+import numpy as np
+from sklearn.svm import OneClassSVM
 
-![image](https://github.com/user-attachments/assets/fcb2b0f6-4dee-47b4-83f6-41a5790a106e)
+X_train = 0.3 * np.random.randn(100, 2)
+X_train = np.r_[X_train + 2, X_train - 2]
+
+clf = OneClassSVM(nu=0.1)
+clf.fit(X_train)
+
+X_test = np.random.uniform(low=-4, high=4, size=(20, 2))
+test_preds = clf.predict(X_test)
+```
