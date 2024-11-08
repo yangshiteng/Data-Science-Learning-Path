@@ -78,13 +78,19 @@
   - [Developing and Implementing Data Preprocessing Pipelines](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/data_preprocessing/data_preprocessing_pipeline.md)
 
 ## IV. Optimization Algorithms
-- Gradient Descent
-  - Basic Concept
-  - Overview of Gradient Descent
-  - Batch Gradient Descent
-  - Stochastic Gradient Descent
-  - Mini-batch Gradient Descent
-- Advanced Optimization Techniques
+- **Introduction**
+  - Numerical Method vs Closed-Form Solution
+- **Gradient Descent**
+  - **Key Concepts**
+    - Cost Function
+    - Learning Rate
+    - Convergence
+    - How Gradient Descent Works
+  - **Types of Gradient Descent**
+    - Batch Gradient Descent
+    - Stochastic Gradient Descent
+    - Mini-batch Gradient Descent
+- **Advanced Optimization Techniques**
   - Momentum
   - Adaptive Learning Rate Methods (AdaGrad, RMSprop, Adam)
 
