@@ -28,7 +28,7 @@
   - [Overfitting and Underfitting](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/fundamental_of_machine_learning/over_fitting_under_fitting.md)
 - **Outlier(离群点) vs Anomaly(异常点) vs Novelty(新奇点)**
    - [Overview of Outlier, Anomaly, Novelty](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/fundamental_of_machine_learning/outlier_vs_anomaly_vs_novelty.md)
-   - [Outlier Detection]()
+   - [Outlier Detection](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/fundamental_of_machine_learning/outlier_detection.md)
    - [Anomaly Detection]()
    - [Novelty Detection]()
 - **Tools and Platforms**
