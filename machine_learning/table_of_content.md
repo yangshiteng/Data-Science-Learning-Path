@@ -79,7 +79,7 @@
 
 ## IV. Optimization Algorithms
 - **Introduction**
-  - Numerical Method vs Closed-Form Solution
+  - [Numerical Method vs Closed-Form Solution]()
 - **Gradient Descent**
   - **Key Concepts**
     - Cost Function
