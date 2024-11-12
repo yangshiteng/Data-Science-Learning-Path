@@ -79,7 +79,7 @@
 
 ## IV. Optimization Algorithms
 - **Introduction**
-  - [Numerical Method vs Closed-Form Solution]()
+  - [Numerical Method vs Closed-Form Solution](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/optimization_algorithm/numerical_vs_closed_form.md)
 - **Gradient Descent**
   - **Key Concepts**
     - Cost Function
