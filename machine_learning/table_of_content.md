@@ -81,15 +81,8 @@
 - **Introduction**
   - [Numerical Method vs Closed-Form Solution](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/optimization_algorithm/numerical_vs_closed_form.md)
 - **Gradient Descent**
-  - **Key Concepts**
-    - Cost Function
-    - Learning Rate
-    - Convergence
-    - How Gradient Descent Works
-  - **Types of Gradient Descent**
-    - Batch Gradient Descent
-    - Stochastic Gradient Descent
-    - Mini-batch Gradient Descent
+  - [Key Concepts]()
+  - [Types of Gradient Descent]()
 - **Advanced Optimization Techniques**
   - Momentum
   - Adaptive Learning Rate Methods (AdaGrad, RMSprop, Adam)
