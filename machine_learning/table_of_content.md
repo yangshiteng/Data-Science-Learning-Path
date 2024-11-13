@@ -83,7 +83,7 @@
   - [Numerical Method Overview](https://github.com/yangshiteng/Data-Science-Learning-Path/edit/main/machine_learning/optimization_algorithm/numerical_method_overview.md)
 - **Gradient Descent**
   - [Key Concepts]()
-  - [Types of Gradient Descent]()
+  - [Types of Gradient Descent](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/optimization_algorithm/types_gradient_descent.md)
 - **Advanced Optimization Techniques**
   - Momentum
   - Adaptive Learning Rate Methods (AdaGrad, RMSprop, Adam)
