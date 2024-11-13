@@ -80,6 +80,7 @@
 ## IV. Optimization Algorithms
 - **Introduction**
   - [Numerical Method (Numerical Solution) vs Closed-Form Solution (Analytical Method)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/optimization_algorithm/numerical_vs_closed_form.md)
+  - [Numerical Method Overview]()
 - **Gradient Descent**
   - [Key Concepts]()
   - [Types of Gradient Descent]()
