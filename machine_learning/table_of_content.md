@@ -84,8 +84,8 @@
 - **Gradient Descent**
   - [Key Concepts]()
   - [Types of Gradient Descent](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/optimization_algorithm/types_gradient_descent.md)
-- **Advanced Optimization Techniques**
-  - Momentum
+- **Other Optimization Techniques**
+  - [Newton's Method]()
   - Adaptive Learning Rate Methods (AdaGrad, RMSprop, Adam)
 
 ## V. Supervised Learning
