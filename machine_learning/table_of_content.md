@@ -90,7 +90,7 @@
 
 ## V. Supervised Learning
 - **Linear Regression**
-  - [Linear Regression Table of Content](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/table_of_content.mdvi-regression-analysis)
+  - [Linear Regression Table of Content](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/table_of_content.md#vi-regression-analysis)
 - **Logistic Regression**
 - **Decision Trees**
 - **Support Vector Machines (SVM)**
