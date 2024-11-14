@@ -4,6 +4,7 @@
 
 ![image](https://github.com/user-attachments/assets/25005f3f-f2ff-45a0-b1e9-96bfb7fa0646)
 
+![image](https://github.com/user-attachments/assets/22044d1d-62a0-42bc-8e8c-f90fd3594d2d)
 
 # RMSProp (Root Mean Square Propagation)
 
