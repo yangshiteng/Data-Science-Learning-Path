@@ -1,6 +1,16 @@
-![image](https://github.com/user-attachments/assets/626a2e4a-048e-4355-9000-316baadd34d1)
+![image](https://github.com/user-attachments/assets/be101e22-38ea-4415-adf5-090bf59fa9d3)
 
-![image](https://github.com/user-attachments/assets/ed841af0-fe1b-4d7c-8210-cd813e17f185)
+![image](https://github.com/user-attachments/assets/4ec544b0-b976-4cb1-b458-309fab14ffa0)
+
+![image](https://github.com/user-attachments/assets/8abd408b-a175-45d1-a78f-6dc9bd9fc07e)
+
+![image](https://github.com/user-attachments/assets/42746dea-2743-471b-9970-d1ca0077ca04)
+
+![image](https://github.com/user-attachments/assets/9935b563-7582-4395-8101-f195518d46f2)
+
+![image](https://github.com/user-attachments/assets/d938786b-d340-4808-9e86-f96a673b7d64)
+
+![image](https://github.com/user-attachments/assets/f58e0a2a-d205-4963-9a13-5053d77d2486)
 
 ```python
 import numpy as np
@@ -28,8 +38,4 @@ y_pred = model.predict(X_test)
 accuracy = accuracy_score(y_test, y_pred)
 print(f"Accuracy: {accuracy * 100:.2f}%")
 ```
-![image](https://github.com/user-attachments/assets/6f6b8277-8aab-436d-a3ca-57ff5a09fffc)
-
-![image](https://github.com/user-attachments/assets/0a9be750-648f-47b5-b046-97cfafeef23b)
-
-![image](https://github.com/user-attachments/assets/9c1d7234-4b51-4fa5-a687-f28db71fb94e)
+![image](https://github.com/user-attachments/assets/9cd6dc36-83d5-49ea-821f-f0a65cb45a1b)
