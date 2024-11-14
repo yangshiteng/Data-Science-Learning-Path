@@ -94,7 +94,7 @@
   - [Linear Regression Table of Content](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/table_of_content.md#vi-regression-analysis)
 - **Logistic Regression**
   - [Introduction (From StatQuest)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/supervised_learning/Logistic_Regression_statquest.md)
-  - [Overview (From Chatgpt)]()
+  - [Overview (From Chatgpt)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/supervised_learning/logistic_regression_overview.md)
 - **Decision Trees**
 - **Support Vector Machines (SVM)**
 - **Naive Bayes classifiers**
