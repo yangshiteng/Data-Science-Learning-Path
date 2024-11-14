@@ -29,3 +29,7 @@ accuracy = accuracy_score(y_test, y_pred)
 print(f"Accuracy: {accuracy * 100:.2f}%")
 ```
 ![image](https://github.com/user-attachments/assets/6f6b8277-8aab-436d-a3ca-57ff5a09fffc)
+
+![image](https://github.com/user-attachments/assets/0a9be750-648f-47b5-b046-97cfafeef23b)
+
+![image](https://github.com/user-attachments/assets/9c1d7234-4b51-4fa5-a687-f28db71fb94e)
