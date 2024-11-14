@@ -95,6 +95,7 @@
 - **Logistic Regression**
   - [Introduction (From StatQuest)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/supervised_learning/Logistic_Regression_statquest.md)
   - [Overview (From Chatgpt)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/supervised_learning/logistic_regression_overview.md)
+  - [Types of Logistic Regression]()
 - **Decision Trees**
 - **Support Vector Machines (SVM)**
 - **Naive Bayes classifiers**
