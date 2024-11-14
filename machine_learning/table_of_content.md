@@ -89,16 +89,16 @@
   - [Adaptive Learning Rate Methods (AdaGrad, RMSprop, Adam)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/optimization_algorithm/adaptive_learning_rate_method.md)
 
 ## V. Supervised Learning
-- Linear Regression
-- Logistic Regression
-- Decision Trees
-- Random Forests
-- Support Vector Machines (SVM)
-- Naive Bayes classifiers
-- K-Nearest Neighbors (KNN)
-- Neural Networks
-- Multiclass Classification
-- One-Class Classification
+- **Linear Regression**
+  - [Linear Regression Table of Content](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/table_of_content.md)
+- **Logistic Regression**
+- **Decision Trees**
+- **Support Vector Machines (SVM)**
+- **Naive Bayes classifiers**
+- **K-Nearest Neighbors (KNN)**
+- **Neural Networks**
+- **Multiclass Classification**
+- **One-Class Classification**
 
 ## VI. Ensemble Learning
 - Bagging, Boosting, and Stacking
