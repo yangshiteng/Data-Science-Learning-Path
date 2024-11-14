@@ -15,3 +15,9 @@
 ![image](https://github.com/user-attachments/assets/5238924c-bc82-42c9-87d9-8064b805e0c9)
 
 # Adam
+
+![image](https://github.com/user-attachments/assets/a9336442-55cf-4fcd-993d-ef584f88feb3)
+
+![image](https://github.com/user-attachments/assets/e87075fd-599f-49f2-b578-3ead4153aea3)
+
+![image](https://github.com/user-attachments/assets/6f30f2f7-8e80-427a-bd4b-c6956c62a617)
