@@ -2,20 +2,6 @@
 
 ![image](https://user-images.githubusercontent.com/60442877/187343547-40d13061-20c9-4610-97df-95481f94fa3a.png)
 
-# Tree Structure
-
-1. Root
-2. Branch
-3. Node
-4. Leaf
-
-# Tree Build Procedure Summary
-
-1. Find the threshold with the lowest impurity score as the root node
-2. Determine if it is valid to continue the splitting (like maximum depth of tree, minimum number of observations in each leaf, very low impurity and etc)
-3. If it is valid to continue the splitting, just find the threshold with the lowest impurity score as the node
-4. If it is not valid to continue the splitting, this is the leaf and we should generate the output of this leaf by either average or voting
-
 ![image](https://user-images.githubusercontent.com/60442877/187343648-58a4cc18-091b-4267-b1b9-02ce4b5ce82a.png)
 
 ![image](https://user-images.githubusercontent.com/60442877/187345887-033c4c0a-4596-43d2-b1a2-067ca06dc065.png)
@@ -25,12 +11,6 @@
 ![image](https://user-images.githubusercontent.com/60442877/187346186-2f5590d5-0638-42b6-afbc-cde7c8dc94e0.png)
 
 ![image](https://user-images.githubusercontent.com/60442877/187346518-06b40ef0-9e2d-4c48-9d5b-c83b1f9e7b31.png)
-
-# Quantify the Impurity of Leaf
-
-1. Gini Index (most popular)
-2. Entropy
-3. Information Gain
 
 ![image](https://user-images.githubusercontent.com/60442877/187346787-4f1055f2-c91a-441e-938b-e60fdb4336e4.png)
 
