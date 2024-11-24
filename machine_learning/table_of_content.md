@@ -100,7 +100,7 @@
   - [Intuition of Decision Tree for Classification](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/supervised_learning/Classification_Trees.md)
   - [Intuition of Decision Tree for Regression](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/supervised_learning/regression_tree.md)
   - [Overview of Decision Trees](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/supervised_learning/overview_decision_tree.md)
-  - [Classification Tree with Gini Index: Step by Step Guide]()
+  - [Classification Tree with Gini Index: Step by Step Guide](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/supervised_learning/classification_tree_gini_index.md)
   - [Classification Tree with Entropy: Step by Step Guide]()
   - [Regression Tree with MSE: Step by Step Guide]()
   - [Feature Importance in Decision Tree](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/supervised_learning/feature_importance_decisiontree.md)
