@@ -97,8 +97,8 @@
   - [Logistic Regression in Details](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/supervised_learning/logistic_regression_overview.md)
   - [Types of Logistic Regression (Binomial, Mutinomial, Ordinal)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/supervised_learning/logistic_regression_types.md)
 - **Decision Trees**
-  - [Intuition of Decision Tree for Classification](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/supervised_learning/Classification_and_Regression_Trees.md)
-  - [Intuition of Decision Tree for Regression]()
+  - [Intuition of Decision Tree for Classification](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/supervised_learning/Classification_Trees.md)
+  - [Intuition of Decision Tree for Regression](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/supervised_learning/regression_tree.md)
 - **Support Vector Machines (SVM)**
 - **Naive Bayes classifiers**
 - **K-Nearest Neighbors (KNN)**
