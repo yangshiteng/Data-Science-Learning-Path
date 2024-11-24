@@ -1,6 +1,13 @@
-![image](https://github.com/user-attachments/assets/d767fb33-d0c7-4e10-b52c-a5ddf96f2bd3)
+![image](https://github.com/user-attachments/assets/1e3c4ebc-2331-42d4-a4af-64be90552452)
 
-![image](https://github.com/user-attachments/assets/c7666f75-2b5e-430a-8060-c179d20a6798)
+![image](https://github.com/user-attachments/assets/6e6f69e2-86d4-4847-a87e-eafc87e4fb71)
+
+![image](https://github.com/user-attachments/assets/594ce76e-47e2-49e3-af83-5e5f991321e6)
+
+![image](https://github.com/user-attachments/assets/25d4cb8b-3aac-4f50-b4aa-78f340474383)
+
+![image](https://github.com/user-attachments/assets/78bca390-4c08-4033-99f6-42936bd0fd1a)
+
 
 # Python Example for Classification Tree
 
