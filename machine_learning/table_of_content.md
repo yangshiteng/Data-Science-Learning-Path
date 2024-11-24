@@ -100,7 +100,7 @@
   - [Intuition of Decision Tree for Classification](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/supervised_learning/Classification_Trees.md)
   - [Intuition of Decision Tree for Regression](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/supervised_learning/regression_tree.md)
   - [Overview of Decision Trees](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/supervised_learning/overview_decision_tree.md)
-  - [Feature Importance in Decision Tree]()
+  - [Feature Importance in Decision Tree](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/supervised_learning/feature_importance_decisiontree.md)
 - **Support Vector Machines (SVM)**
 - **Naive Bayes classifiers**
 - **K-Nearest Neighbors (KNN)**
