@@ -111,6 +111,7 @@
   - [About Multi-Way Splits](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/supervised_learning/multi_way_split.md)
   - [CART vs ID3 vs C4.5](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/supervised_learning/cart_id3_c45.md)
 - **Support Vector Machines (SVM)**
+  - [Overview of Support Vector Machine (SVM)]()
 - **Naive Bayes classifiers**
 - **K-Nearest Neighbors (KNN)**
 - **Neural Networks**
