@@ -103,7 +103,7 @@
   - [Gini Index (Gini Impurity) and Gini Gain](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/supervised_learning/gini_index_gini_gain.md)
   - [Entropy and Information Gain](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/supervised_learning/entropy_information_gain.md)
   - [Classification Tree with Gini Index (Gini Impurity): Step by Step Guide](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/supervised_learning/classification_tree_gini_index.md)
-  - [Classification Tree with Gini Gain (same with Gini Index): Step by Step Guide]()
+  - [Classification Tree with Gini Gain (same with Gini Index): Step by Step Guide](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/supervised_learning/classification_tree_gini_gain.md)
   - [Classification Tree with Entropy: Step by Step Guide](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/supervised_learning/classification_tree_entropy.md)
   - [Classification Tree with Information Gain (same with Entropy): Step by Step Guide](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/supervised_learning/classification_tree_information_gain.md)
   - [Regression Tree with MSE: Step by Step Guide](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/supervised_learning/regression_tree_mse.md)
