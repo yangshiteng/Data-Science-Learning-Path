@@ -112,6 +112,7 @@
   - [CART vs ID3 vs C4.5](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/supervised_learning/cart_id3_c45.md)
 - **Support Vector Machines (SVM)**
   - [Overview of Support Vector Machine (SVM)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/supervised_learning/svm_overview.md)
+  - [Intuition of Support Vector Machine (SVM)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/supervised_learning/Support_Vector_Machine_intuition.md)
 - **Naive Bayes classifiers**
 - **K-Nearest Neighbors (KNN)**
 - **Neural Networks**
