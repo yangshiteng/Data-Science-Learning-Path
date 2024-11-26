@@ -108,7 +108,7 @@
   - [Classification Tree with Information Gain (same with Entropy): Step by Step Guide](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/supervised_learning/classification_tree_information_gain.md)
   - [Regression Tree with MSE: Step by Step Guide](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/supervised_learning/regression_tree_mse.md)
   - [Feature Importance in Decision Tree](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/supervised_learning/feature_importance_decisiontree.md)
-  - [About Multi-Way Splits]()
+  - [About Multi-Way Splits](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/supervised_learning/multi_way_split.md)
 - **Support Vector Machines (SVM)**
 - **Naive Bayes classifiers**
 - **K-Nearest Neighbors (KNN)**
