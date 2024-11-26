@@ -101,7 +101,7 @@
   - [Intuition of Decision Tree for Regression](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/supervised_learning/regression_tree.md)
   - [Overview of Decision Trees](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/supervised_learning/overview_decision_tree.md)
   - [Gini Index (Gini Impurity) and Gini Gain](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/supervised_learning/gini_index_gini_gain.md)
-  - [Entropy and Information Gain]()
+  - [Entropy and Information Gain](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/supervised_learning/entropy_information_gain.md)
   - [Classification Tree with Gini Index (Gini Impurity): Step by Step Guide](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/supervised_learning/classification_tree_gini_index.md)
   - [Classification Tree with Gini Gain (same with Gini Index): Step by Step Guide]()
   - [Classification Tree with Entropy: Step by Step Guide](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/supervised_learning/classification_tree_entropy.md)
