@@ -109,7 +109,7 @@
   - [Regression Tree with MSE: Step by Step Guide](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/supervised_learning/regression_tree_mse.md)
   - [Feature Importance in Decision Tree](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/supervised_learning/feature_importance_decisiontree.md)
   - [About Multi-Way Splits](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/supervised_learning/multi_way_split.md)
-  - [CART vs ID3 vs C4.5]()
+  - [CART vs ID3 vs C4.5](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/supervised_learning/cart_id3_c45.md)
 - **Support Vector Machines (SVM)**
 - **Naive Bayes classifiers**
 - **K-Nearest Neighbors (KNN)**
