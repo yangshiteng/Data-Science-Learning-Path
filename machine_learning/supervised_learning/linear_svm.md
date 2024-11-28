@@ -77,3 +77,6 @@ plot_decision_boundary(X_test, y_test, soft_margin_svm, "Soft Margin SVM")
 ![image](https://github.com/user-attachments/assets/857ee11b-6006-473c-a0ed-6972e918a77e)
 
 ![image](https://github.com/user-attachments/assets/3db0b264-410a-4632-a056-746158f21d37)
+
+![image](https://github.com/user-attachments/assets/7688615d-11ca-4e1f-818f-096edadf8076)
+
