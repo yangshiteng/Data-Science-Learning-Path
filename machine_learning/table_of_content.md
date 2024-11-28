@@ -113,6 +113,7 @@
 - **Support Vector Machines (SVM)**
   - [Overview of Support Vector Machine (SVM)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/supervised_learning/svm_overview.md)
   - [Intuition of Support Vector Machine (SVM)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/supervised_learning/Support_Vector_Machine_intuition.md)
+  - [Linear SVM]()
 - **Naive Bayes classifiers**
 - **K-Nearest Neighbors (KNN)**
 - **Neural Networks**
