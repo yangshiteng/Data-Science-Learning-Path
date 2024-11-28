@@ -116,7 +116,7 @@
   - [Linear SVM](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/supervised_learning/linear_svm.md)
   - [Optimization Problem in Linear SVM](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/supervised_learning/svm_optimization.md)
   - [Non-Linear SVM](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/supervised_learning/nonlinear_svm.md)
-  - [Optimization Problem in Non-linear SVM]()
+  - [Optimization Problem in Non-linear SVM](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/supervised_learning/non_linear_svm_optimization.md)
 - **Naive Bayes classifiers**
 - **K-Nearest Neighbors (KNN)**
 - **Neural Networks**
