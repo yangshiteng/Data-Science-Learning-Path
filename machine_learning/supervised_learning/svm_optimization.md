@@ -1,4 +1,4 @@
-# Optimization for Hard Margin SVM
+# Optimization for Hard Margin Linear SVM
 
 ![image](https://github.com/user-attachments/assets/304271d9-9af7-4a2b-942e-e5a3baeb9a68)
 
