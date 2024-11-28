@@ -113,8 +113,8 @@
 - **Support Vector Machines (SVM)**
   - [Intuition of Support Vector Machine (SVM)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/supervised_learning/Support_Vector_Machine_intuition.md)
   - [Overview of Support Vector Machine (SVM)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/supervised_learning/svm_overview.md)
-  - [Optimization Problem in SVM](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/supervised_learning/svm_optimization.md)
   - [Linear SVM](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/supervised_learning/linear_svm.md)
+  - [Optimization Problem in Linear SVM](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/supervised_learning/svm_optimization.md)
   - [Non-Linear SVM](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/supervised_learning/nonlinear_svm.md)
 - **Naive Bayes classifiers**
 - **K-Nearest Neighbors (KNN)**
