@@ -45,8 +45,14 @@ y_pred = model.predict(X_test)
 # Evaluation
 print(classification_report(y_test, y_pred))
 
+# Visualize
+plt.scatter(X[:, 0], X[:, 1], c=y, cmap='coolwarm')
+plt.title("Non-linear SVM with RBF Kernel")
+plt.show()
+
 ```
-![image](https://github.com/user-attachments/assets/ad34633b-ed27-4724-803c-940153c62ae0)
+![image](https://github.com/user-attachments/assets/0de6c118-7edd-444a-ae84-b0972ed4240c)
+
 
 ## Example 2: Non-linear SVM with RBF Kernel
 
@@ -54,13 +60,24 @@ print(classification_report(y_test, y_pred))
 from sklearn.datasets import make_circles
 from sklearn.svm import SVC
 import matplotlib.pyplot as plt
+from sklearn.model_selection import train_test_split
+from sklearn.metrics import classification_report
 
 # Create dataset
 X, y = make_circles(n_samples=100, noise=0.1, factor=0.5, random_state=42)
 
-# Train SVM with RBF kernel
+# Split data
+X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.3, random_state=42)
+
+# Train SVM model
 model = SVC(kernel='rbf', C=1, gamma=0.5)
-model.fit(X, y)
+model.fit(X_train, y_train)
+
+# Predict
+y_pred = model.predict(X_test)
+
+# Evaluation
+print(classification_report(y_test, y_pred))
 
 # Visualize
 plt.scatter(X[:, 0], X[:, 1], c=y, cmap='coolwarm')
@@ -68,6 +85,8 @@ plt.title("Non-linear SVM with RBF Kernel")
 plt.show()
 
 ```
+
+![image](https://github.com/user-attachments/assets/b69a91d9-c87c-4189-acad-613c4c6cfc01)
 
 ![image](https://github.com/user-attachments/assets/0672fc82-3f33-4176-b28a-10857baff4af)
 
