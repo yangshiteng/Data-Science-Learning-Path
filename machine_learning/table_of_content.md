@@ -119,7 +119,7 @@
   - [Optimization Problem in Non-linear SVM](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/supervised_learning/non_linear_svm_optimization.md)
   - [Kernel Functions](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/supervised_learning/kernel_functions.md)
   - [Support Vector Regression (SVR)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/supervised_learning/SVR.md)
-  - [One-Class SVM]()
+  - [One-Class SVM](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/supervised_learning/one_class_SVM.md)
 - **Naive Bayes classifiers**
 - **K-Nearest Neighbors (KNN)**
 - **Neural Networks**
