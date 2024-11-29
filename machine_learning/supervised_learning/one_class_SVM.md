@@ -129,8 +129,11 @@ plt.show()
 ```
 ![image](https://github.com/user-attachments/assets/d398bd1b-100e-4832-9e85-e40466ff0393)
 
+![image](https://github.com/user-attachments/assets/650fce9d-5520-4962-a1f5-809bcc01a94f)
 
+![image](https://github.com/user-attachments/assets/61af3fc3-82fb-4f56-ba93-639c550430dc)
 
+![image](https://github.com/user-attachments/assets/0cc36720-ddbf-44f0-bde9-70779a041079)
 
 
 
