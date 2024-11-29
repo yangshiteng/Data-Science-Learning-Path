@@ -59,10 +59,75 @@ plt.show()
 
 ![image](https://github.com/user-attachments/assets/1ebedd65-ca8d-403b-b717-233511ddce94)
 
+```python
+import numpy as np
+from sklearn.svm import OneClassSVM
+from sklearn.model_selection import GridSearchCV
 
+# Generate synthetic training data
+np.random.seed(42)
+X_train = 0.3 * np.random.randn(100, 2)
 
+# Generate synthetic test data (for evaluation after grid search)
+X_test_inliers = 0.3 * np.random.randn(20, 2)  # Inliers
+X_test_outliers = np.random.uniform(low=-4, high=4, size=(20, 2))  # Outliers
+X_test = np.vstack((X_test_inliers, X_test_outliers))
 
+# Create synthetic labels for evaluation (not used in GridSearchCV)
+y_test = np.array([1] * 20 + [-1] * 20)  # 1 for inliers, -1 for outliers
 
+# Custom scoring function
+def one_class_svm_score(estimator, X):
+    """
+    Custom scoring function for One-Class SVM:
+    Measures the fraction of training points predicted as inliers (+1).
+    """
+    y_pred = estimator.predict(X)
+    return np.mean(y_pred == 1)
+
+# Define parameter grid for Grid Search
+param_grid = {
+    'nu': [0.01, 0.05, 0.1],  # Controls the fraction of outliers
+    'gamma': [0.01, 0.1, 1, 10]  # RBF kernel parameter
+}
+
+# Initialize One-Class SVM
+ocsvm = OneClassSVM(kernel='rbf')
+
+# Perform Grid Search
+grid_search = GridSearchCV(
+    estimator=ocsvm,
+    param_grid=param_grid,
+    scoring=one_class_svm_score,
+    refit=True,
+    cv=3  # Cross-validation on training data
+)
+grid_search.fit(X_train)
+
+# Output the best parameters and best score
+print("Best parameters found:")
+print(grid_search.best_params_)
+print("Best score on training data:", grid_search.best_score_)
+
+# Use the best model for predictions on test data
+best_model = grid_search.best_estimator_
+y_pred_test = best_model.predict(X_test)
+
+# Separate inliers and outliers
+X_test_inliers_pred = X_test[y_pred_test == 1]
+X_test_outliers_pred = X_test[y_pred_test == -1]
+
+# Visualize the results
+import matplotlib.pyplot as plt
+plt.scatter(X_train[:, 0], X_train[:, 1], color='blue', label='Training Data')
+plt.scatter(X_test_inliers_pred[:, 0], X_test_inliers_pred[:, 1], color='green', label='Predicted Inliers')
+plt.scatter(X_test_outliers_pred[:, 0], X_test_outliers_pred[:, 1], color='red', label='Predicted Outliers')
+plt.legend()
+plt.title("One-Class SVM with Grid Search Results")
+plt.show()
+
+```
+![image](https://github.com/user-attachments/assets/d398bd1b-100e-4832-9e85-e40466ff0393)
 
 
 
