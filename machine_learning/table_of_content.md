@@ -121,6 +121,8 @@
   - [Support Vector Regression (SVR)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/supervised_learning/SVR.md)
   - [One-Class SVM](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/supervised_learning/one_class_SVM.md)
 - **Naive Bayes classifiers**
+  - [Intuition of Naive Bayes](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/supervised_learning/Naive_Bayes_statquest.md)
+  - [Overview of Naive Bayes]() 
 - **K-Nearest Neighbors (KNN)**
 - **Neural Networks**
 - **Multiclass Classification**
