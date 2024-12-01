@@ -118,7 +118,9 @@ print("Classification Report:\n", classification_report(y_test, y_pred))
 
 ![image](https://github.com/user-attachments/assets/6f9178cb-9c73-4d93-b72a-c176bce348f9)
 
+# Nomalized Probability
 
+![image](https://github.com/user-attachments/assets/27a0a1e6-5ef5-40e2-9874-b588363f0d14)
 
 
 
