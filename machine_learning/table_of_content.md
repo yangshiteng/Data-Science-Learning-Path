@@ -125,7 +125,7 @@
   - [Overview of Naive Bayes](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/supervised_learning/overview_naive_bayes.md)
   - [Gaussian Naive Bayes](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/supervised_learning/GNB.md)
   - [Multinomial Naive Bayes](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/supervised_learning/multinomial_nb.md)
-  - [Bernoulli Naive Bayes]()
+  - [Bernoulli Naive Bayes](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/supervised_learning/bernoulli_nb.md)
 - **K-Nearest Neighbors (KNN)**
 - **Neural Networks**
 - **Multiclass Classification**
