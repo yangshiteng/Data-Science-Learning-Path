@@ -127,6 +127,7 @@
   - [Multinomial Naive Bayes](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/supervised_learning/multinomial_nb.md)
   - [Bernoulli Naive Bayes](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/supervised_learning/bernoulli_nb.md)
 - **K-Nearest Neighbors (KNN)**
+  - [Overview of K-Nearest Neighbors]()
 - **Neural Networks**
 - **Multiclass Classification**
 - **One-Class Classification**
