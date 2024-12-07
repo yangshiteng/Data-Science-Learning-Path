@@ -61,5 +61,10 @@ print(f"Test Accuracy: {accuracy:.2f}")
 
 ![image](https://github.com/user-attachments/assets/6e44ff42-6171-4287-b278-056598fa4169)
 
+![image](https://github.com/user-attachments/assets/f861934c-7d96-4884-aa8e-600cb3a6b567)
+
+![image](https://github.com/user-attachments/assets/e97e335c-e086-404b-b2b4-f631b8896980)
+
+![image](https://github.com/user-attachments/assets/63b3ad1b-7ccf-4f73-a04c-4e10a71d9fd2)
 
 ![image](https://github.com/user-attachments/assets/1199f0e4-83a6-482c-b300-2d718d99bb82)
