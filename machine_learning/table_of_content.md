@@ -134,7 +134,7 @@
   - Forward Propagation
     - [Forward Propagation for Binary Classification](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/supervised_learning/forward_propagation_binary_classification.md)
     - [Forward Propagation for Muti-class Classification](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/supervised_learning/forward_propagation_multiclass_classification.md)
-    - [Forward Propagation for Regression]()
+    - [Forward Propagation for Regression](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/supervised_learning/forward_propagation_regression.md)
 - **Multiclass Classification**
 - **One-Class Classification**
 
