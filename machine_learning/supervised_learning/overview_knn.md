@@ -50,3 +50,76 @@ from sklearn.metrics import accuracy_score
 accuracy = accuracy_score(y_test, y_pred)
 print("Accuracy:", accuracy)
 ```
+![image](https://github.com/user-attachments/assets/6a7e15bb-a655-4432-adae-047892e58117)
+
+```python
+import matplotlib.pyplot as plt
+from sklearn.model_selection import cross_val_score
+from sklearn.neighbors import KNeighborsClassifier
+from sklearn.model_selection import train_test_split
+from sklearn.datasets import load_iris
+from sklearn.preprocessing import StandardScaler
+
+data = load_iris()
+X, y = data.data, data.target
+
+scaler = StandardScaler()
+X = scaler.fit_transform(X)
+
+k_values = range(1, 21)
+accuracy_scores = []
+
+X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42)
+
+for k in k_values:
+    knn = KNeighborsClassifier(n_neighbors=k)
+    scores = cross_val_score(knn, X_train, y_train, cv=5)
+    accuracy_scores.append(scores.mean())
+
+plt.plot(k_values, accuracy_scores)
+plt.xlabel("Number of Neighbors (K)")
+plt.ylabel("Cross-Validated Accuracy")
+plt.title("Choosing Optimal K")
+plt.show()
+```
+![image](https://github.com/user-attachments/assets/bcb63394-0f5f-4a85-9b42-43a49b528800)
+
+![image](https://github.com/user-attachments/assets/6b1419ba-b958-4299-b485-5bc1337d7507)
+
+![image](https://github.com/user-attachments/assets/9feef79c-b9d5-471a-a4ea-9a6f0e8901d8)
+
+```python
+from sklearn.datasets import load_iris
+from sklearn.model_selection import train_test_split
+from sklearn.preprocessing import StandardScaler
+from sklearn.neighbors import KNeighborsClassifier
+from sklearn.metrics import accuracy_score, classification_report
+
+# Load Dataset
+data = load_iris()
+X, y = data.data, data.target
+
+# Preprocess Data
+scaler = StandardScaler()
+X = scaler.fit_transform(X)
+
+# Train-Test Split
+X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42)
+
+# KNN Model
+knn = KNeighborsClassifier(n_neighbors=5)
+knn.fit(X_train, y_train)
+
+# Predictions
+y_pred = knn.predict(X_test)
+
+# Evaluation
+print("Accuracy:", accuracy_score(y_test, y_pred))
+print("Classification Report:\n", classification_report(y_test, y_pred))
+```
+![image](https://github.com/user-attachments/assets/627831e2-4c14-4375-b4f5-9443bd5127c1)
+
+
+
+
+
