@@ -59,4 +59,7 @@ loss, accuracy = model.evaluate(X_test, y_test)
 print(f"Test Accuracy: {accuracy:.2f}")
 ```
 
+![image](https://github.com/user-attachments/assets/6e44ff42-6171-4287-b278-056598fa4169)
+
+
 ![image](https://github.com/user-attachments/assets/1199f0e4-83a6-482c-b300-2d718d99bb82)
