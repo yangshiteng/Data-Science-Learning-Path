@@ -87,7 +87,7 @@
   - [Types of Gradient Descent](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/optimization_algorithm/types_gradient_descent.md)
 - **Other Optimization Techniques**
   - [Newton's Method](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/optimization_algorithm/newton_method.md)
-  - [Momentum]()
+  - [Momentum](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/optimization_algorithm/momentum.md)
   - [Adaptive Learning Rate Methods (AdaGrad, RMSprop, Adam)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/optimization_algorithm/adaptive_learning_rate_method.md)
   - [Comparison of All Optimization Methods]()
 - **Challenges in Optimization**
