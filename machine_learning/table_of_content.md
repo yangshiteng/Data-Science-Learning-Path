@@ -89,13 +89,13 @@
   - [Newton's Method](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/optimization_algorithm/newton_method.md)
   - [Adaptive Learning Rate Methods (AdaGrad, RMSprop, Momentum, Adam)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/optimization_algorithm/adaptive_learning_rate_method.md)
 - **Challenges in Optimization**
-  - [Convex vs Non-Convex Problem](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/supervised_learning/convex_vs_non_convex.md)
-  - [Stationary vs Non-stationary Problem]()
-  - [Oscillations]()
-  - [Local Minima, Saddle Points and Flat Regions (Plateaus)]()
-  - [Vanishing and Exploding Gradients]()
-  - [Overfitting]()
-  - [Choosing Hyperparameters]()
+  - [Convex vs Non-Convex Problem](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/optimization_algorithm/convex_vs_non_convex.md)
+  - [Stationary vs Non-stationary Problem](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/optimization_algorithm/stationary_vs_nonstationary.md)
+  - [Oscillations](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/optimization_algorithm/oscillation.md)
+  - [Local Minima, Saddle Points and Flat Regions (Plateaus)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/optimization_algorithm/local_minima_saddle_point.md)
+  - [Vanishing and Exploding Gradients](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/optimization_algorithm/vanishing_exploding_gradients.md)
+  - [Overfitting](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/optimization_algorithm/overfitting_optimization.md)
+  - [Choosing Hyperparameters](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/optimization_algorithm/hyperparameter_choose.md)
 
 ## V. Supervised Learning
 - **Linear Regression**
