@@ -89,6 +89,7 @@
   - [Newton's Method](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/optimization_algorithm/newton_method.md)
   - [Adaptive Learning Rate Methods (AdaGrad, RMSprop, Adam)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/optimization_algorithm/adaptive_learning_rate_method.md)
 - **Challenges in Optimization**
+  - [Oscillations]()
   - [Local Minima and Saddle Points]()
   - [Vanishing and Exploding Gradients]()
   - [Overfitting]()
