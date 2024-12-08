@@ -89,7 +89,6 @@
   - [Newton's Method](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/optimization_algorithm/newton_method.md)
   - [Momentum](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/optimization_algorithm/momentum.md)
   - [Adaptive Learning Rate Methods (AdaGrad, RMSprop, Adam)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/optimization_algorithm/adaptive_learning_rate_method.md)
-  - [Comparison of All Optimization Methods]()
 - **Challenges in Optimization**
   - [Convex vs Non-Convex Problem](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/optimization_algorithm/convex_vs_non_convex.md)
   - [Stationary vs Non-stationary Problem](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/optimization_algorithm/stationary_vs_nonstationary.md)
