@@ -276,8 +276,7 @@ print(f"Optimized Parameters: {params_history[-1]}")
 
 ![image](https://github.com/user-attachments/assets/58d05a2c-9f23-422f-8b03-7bee63ad78f6)
 
-
-
+# Comparison of AdaGrad, RMSProp, Momentum, and Adam
 
 
 
