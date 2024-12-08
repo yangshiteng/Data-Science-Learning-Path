@@ -136,7 +136,7 @@
     - [Forward Propagation for Muti-class Classification](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/supervised_learning/forward_propagation_multiclass_classification.md)
     - [Forward Propagation for Regression](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/supervised_learning/forward_propagation_regression.md)
   - Backward Propagation
-    - [Overview of Neural Network Optimization]()
+    - [Overview of Neural Network Optimization](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/supervised_learning/overview_nn_optimization.md)
 - **Multiclass Classification**
 - **One-Class Classification**
 
