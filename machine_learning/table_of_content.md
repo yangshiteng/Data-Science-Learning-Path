@@ -88,6 +88,11 @@
 - **Other Optimization Techniques**
   - [Newton's Method](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/optimization_algorithm/newton_method.md)
   - [Adaptive Learning Rate Methods (AdaGrad, RMSprop, Adam)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/optimization_algorithm/adaptive_learning_rate_method.md)
+- **Challenges in Optimization**
+  - [Local Minima and Saddle Points]()
+  - [Vanishing and Exploding Gradients]()
+  - [Overfitting]()
+  - [Choosing Hyperparameters]()
 
 ## V. Supervised Learning
 - **Linear Regression**
@@ -132,6 +137,7 @@
   - Introduction
     - [Intuition of Neural Networks (Statquest)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/supervised_learning/Neural_Networks_statquest.md)
     - [Overview of Neural Networks](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/supervised_learning/overview_neural_networks.md)
+    - [Simplest Neural Networks - Logistic Regression]()
   - Forward Propagation
     - [Forward Propagation for Binary Classification](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/supervised_learning/forward_propagation_binary_classification.md)
     - [Forward Propagation for Muti-class Classification](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/supervised_learning/forward_propagation_multiclass_classification.md)
