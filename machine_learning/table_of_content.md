@@ -130,6 +130,7 @@
   - [Overview of K-Nearest Neighbors](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/supervised_learning/overview_knn.md)
 - **Neural Networks**
   - Introduction
+    - [Intuition of Neural Networks (Statquest)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/supervised_learning/Neural_Networks_statquest.md)
     - [Overview of Neural Networks](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/supervised_learning/overview_neural_networks.md)
   - Forward Propagation
     - [Forward Propagation for Binary Classification](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/supervised_learning/forward_propagation_binary_classification.md)
