@@ -208,3 +208,14 @@ print(f"Optimized Parameters: {params_history[-1]}")
 
 # AdaGrad vs RMSProp vs Adam
 
+![image](https://github.com/user-attachments/assets/c3a9abfe-cccc-4115-b7dd-746fee280bba)
+
+![image](https://github.com/user-attachments/assets/6bb3d41f-b21e-4979-a54c-2740b92f105d)
+
+![image](https://github.com/user-attachments/assets/2bef910d-7de9-4d1c-9242-1bdb870dba8e)
+
+
+
+
+
+
