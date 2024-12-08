@@ -1,10 +1,68 @@
 # AdaGrad (Adaptive Gradient Algorithm)
 
-![image](https://github.com/user-attachments/assets/19599a11-4e2b-423c-ab83-dd0dee2d23d1)
+![image](https://github.com/user-attachments/assets/f98a9f75-6a82-43b5-8265-4b6292dacf3b)
 
-![image](https://github.com/user-attachments/assets/25005f3f-f2ff-45a0-b1e9-96bfb7fa0646)
+![image](https://github.com/user-attachments/assets/5c6f1f04-5f26-4229-8053-dd2cb0872777)
 
-![image](https://github.com/user-attachments/assets/22044d1d-62a0-42bc-8e8c-f90fd3594d2d)
+![image](https://github.com/user-attachments/assets/cf68baa7-4805-4092-b260-b1cbb8a10714)
+
+![image](https://github.com/user-attachments/assets/976d95a3-4de5-497a-a33c-65d35dea4246)
+
+![image](https://github.com/user-attachments/assets/ba34a002-7a44-4769-b080-0b93b2c15e8c)
+
+```python
+import numpy as np
+
+def adagrad(gradient_func, initial_params, learning_rate=0.1, epsilon=1e-8, iterations=10):
+    """
+    Implements the AdaGrad optimization algorithm.
+    
+    Args:
+    - gradient_func: Function to compute gradients.
+    - initial_params: Initial parameter values.
+    - learning_rate: Initial learning rate.
+    - epsilon: Small constant to prevent division by zero.
+    - iterations: Number of iterations.
+    
+    Returns:
+    - params_history: List of parameter values over iterations.
+    """
+    params = np.array(initial_params, dtype=np.float64)
+    G = np.zeros_like(params)  # Accumulated squared gradients
+    params_history = [params.copy()]
+    
+    for i in range(iterations):
+        # Compute gradients
+        gradients = gradient_func(params)
+        # Accumulate squared gradients
+        G += gradients**2
+        # Update parameters
+        params -= (learning_rate / (np.sqrt(G) + epsilon)) * gradients
+        params_history.append(params.copy())
+        
+        print(f"Iteration {i + 1}: Params = {params}, Gradients = {gradients}, G = {G}")
+    
+    return params_history
+
+# Example: Minimize L(θ) = θ1^2 + 2θ2^2
+def gradients(params):
+    return np.array([2 * params[0], 4 * params[1]])
+
+# Initial parameters
+initial_params = [1.0, 2.0]
+
+# Run AdaGrad
+params_history = adagrad(gradient_func=gradients, initial_params=initial_params, iterations=5)
+
+# Final optimized parameters
+print(f"Optimized Parameters: {params_history[-1]}")
+
+```
+
+![image](https://github.com/user-attachments/assets/b1591238-52d3-4888-a888-2deba002e8cc)
+
+![image](https://github.com/user-attachments/assets/99f750b2-6e03-4189-8e30-ca6c26df4644)
+
 
 # RMSProp (Root Mean Square Propagation)
 
