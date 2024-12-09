@@ -84,7 +84,7 @@
   - [Loss Function, Cost Function and Objective Function](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/optimization_algorithm/cost_function.md)
 - **Gradient Descent**
   - [Key Concepts](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/optimization_algorithm/key_concepts.md)
-  - [Types of Gradient Descent](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/optimization_algorithm/types_gradient_descent.md)
+  - [Types of Gradient Descent (Batch, Stochastic, Mini-Batch)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/optimization_algorithm/types_gradient_descent.md)
 - **Other Optimization Techniques**
   - [Newton's Method](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/optimization_algorithm/newton_method.md)
   - [Momentum](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/optimization_algorithm/momentum.md)
