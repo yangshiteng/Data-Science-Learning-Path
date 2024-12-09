@@ -88,7 +88,7 @@
 - **Other Optimization Techniques**
   - [Newton's Method](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/optimization_algorithm/newton_method.md)
   - [Momentum](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/optimization_algorithm/momentum.md)
-  - [Gradient Clipping](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/optimization_algorithm/gradient_clipping.md)
+  - [Gradient Clipping (Handle Exploding Gradient Problem)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/optimization_algorithm/gradient_clipping.md)
   - [Batch Normalization]()
   - [Weight Initialization]()
   - [Adaptive Learning Rate Methods (AdaGrad, RMSprop, Adam)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/optimization_algorithm/adaptive_learning_rate_method.md)
