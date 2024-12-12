@@ -97,7 +97,7 @@
   - [Stationary vs Non-stationary Problem](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/optimization_algorithm/stationary_vs_nonstationary.md)
   - [Oscillations](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/optimization_algorithm/oscillation.md)
   - [Local Minima, Saddle Points and Flat Regions (Plateaus)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/optimization_algorithm/local_minima_saddle_point.md)
-  - [Vanishing and Exploding Gradients](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/optimization_algorithm/vanishing_exploding_gradients.md)
+  - [Vanishing (handled by ReLU) and Exploding Gradients (handled by Gradient Clipping)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/optimization_algorithm/vanishing_exploding_gradients.md)
   - [Overfitting](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/optimization_algorithm/overfitting_optimization.md)
   - [Choosing Hyperparameters](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/optimization_algorithm/hyperparameter_choose.md)
 
