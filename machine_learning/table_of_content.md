@@ -77,7 +77,7 @@
 - **Automating Data Preprocessing**
   - [Developing and Implementing Data Preprocessing Pipelines](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/data_preprocessing/data_preprocessing_pipeline.md)
 
-## IV. Optimization Algorithms
+## IV. Optimization Algorithms and Model Selection
 - **Introduction**
   - [Numerical Method (Numerical Solution) vs Closed-Form Solution (Analytical Method)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/optimization_algorithm/numerical_vs_closed_form.md)
   - [Numerical Method Overview](https://github.com/yangshiteng/Data-Science-Learning-Path/edit/main/machine_learning/optimization_algorithm/numerical_method_overview.md)
@@ -88,18 +88,23 @@
 - **Other Optimization Techniques**
   - [Newton's Method](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/optimization_algorithm/newton_method.md)
   - [Momentum](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/optimization_algorithm/momentum.md)
+  - [Adaptive Learning Rate Methods (AdaGrad, RMSprop, Adam)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/optimization_algorithm/adaptive_learning_rate_method.md)
   - [Gradient Clipping (Handle Exploding Gradient Problem)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/optimization_algorithm/gradient_clipping.md)
   - [Batch Normalization]()
   - [Weight Initialization]()
-  - [Adaptive Learning Rate Methods (AdaGrad, RMSprop, Adam)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/optimization_algorithm/adaptive_learning_rate_method.md)
+  - [Early Stopping]()
+  - [Drop Out]()
 - **Challenges in Optimization**
   - [Convex vs Non-Convex Problem](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/optimization_algorithm/convex_vs_non_convex.md)
   - [Stationary vs Non-stationary Problem](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/optimization_algorithm/stationary_vs_nonstationary.md)
   - [Oscillations](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/optimization_algorithm/oscillation.md)
   - [Local Minima, Saddle Points and Flat Regions (Plateaus)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/optimization_algorithm/local_minima_saddle_point.md)
   - [Vanishing (handled by ReLU) and Exploding Gradients (handled by Gradient Clipping)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/optimization_algorithm/vanishing_exploding_gradients.md)
-  - [Overfitting](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/optimization_algorithm/overfitting_optimization.md)
-  - [Choosing Hyperparameters](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/optimization_algorithm/hyperparameter_choose.md)
+- **Model Selection**
+  - [Cross Validation]()
+  - [Overfitting (Regularization Techniques)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/optimization_algorithm/overfitting_optimization.md)
+  - [Hyperparameters Tuning (Grid Search and Random Search)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/optimization_algorithm/hyperparameter_choose.md)
+    
 
 ## V. Supervised Learning
 - **Linear Regression**
@@ -141,20 +146,21 @@
 - **K-Nearest Neighbors (KNN)**
   - [Overview of K-Nearest Neighbors](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/supervised_learning/overview_knn.md)
 - **Neural Networks**
-  - Introduction
+  - **Introduction**
     - [Intuition of Neural Networks (Statquest)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/supervised_learning/Neural_Networks_statquest.md)
     - [Overview of Neural Networks](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/supervised_learning/overview_neural_networks.md)
     - [Simplest Neural Networks - Logistic Regression]()
-  - Forward Propagation
+  - **Activation Functions**
+    - [Saturating Activation Functions](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/supervised_learning/saturating_activation_function.md)
+  - **Forward Propagation**
     - [Forward Propagation for Binary Classification](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/supervised_learning/forward_propagation_binary_classification.md)
     - [Forward Propagation for Muti-class Classification](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/supervised_learning/forward_propagation_multiclass_classification.md)
     - [Forward Propagation for Regression](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/supervised_learning/forward_propagation_regression.md)
-  - Backward Propagation
+  - **Backward Propagation**
     - [Overview of Neural Network Optimization](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/supervised_learning/overview_nn_optimization.md)
-  - Optimization
-    - [Saturating Activation Functions](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/supervised_learning/saturating_activation_function.md)
 - **Multiclass Classification**
-- **One-Class Classification**
+  - [One vs All]()
+  - [One vs One]()
 
 ## VI. Ensemble Learning
 - Bagging, Boosting, and Stacking
@@ -175,10 +181,4 @@
 - Confusion Matrix
 - ROC and AUC
 
-## IX. Model Selection and Optimization
-- Cross-validation techniques
-- Hyperparameter Tuning
-  - Grid Search
-  - Random Search
-- Regularization Techniques
-- Early Stopping
+
