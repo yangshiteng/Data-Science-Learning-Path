@@ -90,7 +90,7 @@
   - [Momentum](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/optimization_algorithm/momentum.md)
   - [Adaptive Learning Rate Methods (AdaGrad, RMSprop, Adam)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/optimization_algorithm/adaptive_learning_rate_method.md)
   - [Gradient Clipping (Handle Exploding Gradient Problem)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/optimization_algorithm/gradient_clipping.md)
-  - [Batch Normalization]()
+  - [Batch Normalization](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/optimization_algorithm/batch_normalization.md)
   - [Weight Initialization]()
   - [Early Stopping]()
   - [Drop Out]()
