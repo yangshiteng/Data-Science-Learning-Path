@@ -151,6 +151,8 @@
     - [Forward Propagation for Regression](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/supervised_learning/forward_propagation_regression.md)
   - Backward Propagation
     - [Overview of Neural Network Optimization](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/supervised_learning/overview_nn_optimization.md)
+  - Optimization
+    - [Saturating Activation Functions]()
 - **Multiclass Classification**
 - **One-Class Classification**
 
