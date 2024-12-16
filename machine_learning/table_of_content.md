@@ -152,7 +152,7 @@
   - Backward Propagation
     - [Overview of Neural Network Optimization](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/supervised_learning/overview_nn_optimization.md)
   - Optimization
-    - [Saturating Activation Functions]()
+    - [Saturating Activation Functions](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/supervised_learning/saturating_activation_function.md)
 - **Multiclass Classification**
 - **One-Class Classification**
 
