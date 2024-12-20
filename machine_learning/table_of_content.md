@@ -92,7 +92,7 @@
   - [Gradient Clipping (Handle Exploding Gradient Problem)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/optimization_algorithm/gradient_clipping.md)
   - [Batch Normalization (Reduce Internal Covariate Shift, Faster Convergence)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/optimization_algorithm/batch_normalization.md)
   - [Weight Initialization (Neural Networks)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/optimization_algorithm/weight_initial.md)
-  - [Early Stopping]()
+  - [Early Stopping](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/optimization_algorithm/early_stopping.md)
   - [Drop Out]()
 - **Challenges in Optimization**
   - [Convex vs Non-Convex Problem](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/optimization_algorithm/convex_vs_non_convex.md)
