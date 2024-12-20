@@ -92,8 +92,8 @@
   - [Gradient Clipping (Handle Exploding Gradient Problem)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/optimization_algorithm/gradient_clipping.md)
   - [Batch Normalization (Reduce Internal Covariate Shift, Faster Convergence)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/optimization_algorithm/batch_normalization.md)
   - [Weight Initialization (Neural Networks, speed up convergence, prevent vanishing and exploding gradients)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/optimization_algorithm/weight_initial.md)
-  - [Early Stopping (Prevent Overfitting)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/optimization_algorithm/early_stopping.md)
-  - [Dropout (Neural Networks)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/optimization_algorithm/dropout.md)
+  - [Early Stopping (Regularization, prevent overfitting)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/optimization_algorithm/early_stopping.md)
+  - [Dropout (Neural Networks, Regularization, prevent overfitting)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/optimization_algorithm/dropout.md)
 - **Challenges in Optimization**
   - [Convex vs Non-Convex Problem](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/optimization_algorithm/convex_vs_non_convex.md)
   - [Stationary vs Non-stationary Problem](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/optimization_algorithm/stationary_vs_nonstationary.md)
