@@ -101,7 +101,8 @@
   - [Local Minima, Saddle Points and Flat Regions (Plateaus)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/optimization_algorithm/local_minima_saddle_point.md)
   - [Vanishing (handled by ReLU) and Exploding Gradients (handled by Gradient Clipping)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/optimization_algorithm/vanishing_exploding_gradients.md)
   - [Internal Covariate Shift (Neural Network)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/optimization_algorithm/internal_covariate_shift.md)
-- **Model Selection**
+- **Hyperparameters Tuning**
+  - [Overview of Hyperparameters Tuning]()
   - [Cross Validation]()
   - [Overfitting (Regularization Techniques)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/optimization_algorithm/overfitting_optimization.md)
   - [Hyperparameters Tuning (Grid Search and Random Search)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/optimization_algorithm/hyperparameter_choose.md)
