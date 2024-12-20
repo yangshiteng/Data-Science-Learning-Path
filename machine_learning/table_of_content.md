@@ -77,7 +77,7 @@
 - **Automating Data Preprocessing**
   - [Developing and Implementing Data Preprocessing Pipelines](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/data_preprocessing/data_preprocessing_pipeline.md)
 
-## IV. Optimization in Machine Learning
+## IV. Optimization Algorithm
 - **Introduction**
   - [Numerical Method (Numerical Solution) vs Closed-Form Solution (Analytical Method)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/optimization_algorithm/numerical_vs_closed_form.md)
   - [Numerical Method Overview](https://github.com/yangshiteng/Data-Science-Learning-Path/edit/main/machine_learning/optimization_algorithm/numerical_method_overview.md)
@@ -93,7 +93,7 @@
   - [Batch Normalization (Reduce Internal Covariate Shift, Faster Convergence)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/optimization_algorithm/batch_normalization.md)
   - [Weight Initialization (Neural Networks, speed up convergence, prevent vanishing and exploding gradients)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/optimization_algorithm/weight_initial.md)
   - [Early Stopping (Prevent Overfitting)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/optimization_algorithm/early_stopping.md)
-  - [Drop Out]()
+  - [Dropout (Neural Networks)]()
 - **Challenges in Optimization**
   - [Convex vs Non-Convex Problem](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/optimization_algorithm/convex_vs_non_convex.md)
   - [Stationary vs Non-stationary Problem](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/optimization_algorithm/stationary_vs_nonstationary.md)
