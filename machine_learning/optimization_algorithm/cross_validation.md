@@ -36,11 +36,4 @@
 
 ![image](https://github.com/user-attachments/assets/c5214fab-9778-4576-b523-58d5b582ae37)
 
-# afdaf
-
-![image](https://github.com/user-attachments/assets/b1c98fa7-4fd5-469b-be63-e6fb8cc8b1f1)
-
-![image](https://github.com/user-attachments/assets/bb089841-e701-4c3d-82b5-2ab9917f2f1c)
-
-![image](https://github.com/user-attachments/assets/eef6916a-098c-4ac0-90e7-e36efdbfe3c1)
 
