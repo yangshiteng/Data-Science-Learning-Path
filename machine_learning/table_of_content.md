@@ -102,7 +102,7 @@
   - [Vanishing (handled by ReLU) and Exploding Gradients (handled by Gradient Clipping)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/optimization_algorithm/vanishing_exploding_gradients.md)
   - [Internal Covariate Shift (Neural Network)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/optimization_algorithm/internal_covariate_shift.md)
 - **Hyperparameters Tuning**
-  - [Overview of Hyperparameters Tuning]()
+  - [Overview of Hyperparameters Tuning](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/optimization_algorithm/overview_hyperparameter.md)
   - [Cross Validation]()
   - [Overfitting (Regularization Techniques)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/optimization_algorithm/overfitting_optimization.md)
   - [Hyperparameters Tuning (Grid Search and Random Search)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/optimization_algorithm/hyperparameter_choose.md)
