@@ -106,7 +106,6 @@
   - [Cross Validation (Robust Model Evaluation)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/optimization_algorithm/cross_validation.md)
   - [Model Selection and Hyperparameter Tuning with Cross Validation](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/optimization_algorithm/cross_validation_hyper_tuning.md)
   - [Overfitting (Regularization Techniques)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/optimization_algorithm/overfitting_optimization.md)
-  - [Hyperparameters Tuning (Grid Search and Random Search)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/optimization_algorithm/hyperparameter_choose.md)
     
 
 ## V. Supervised Learning
