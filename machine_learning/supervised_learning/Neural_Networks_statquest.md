@@ -8,12 +8,6 @@
 
 ![image](https://user-images.githubusercontent.com/60442877/187584600-0967d604-bbb0-4d17-9797-b8b5c5040389.png)
 
-# Activation Function
-
-1. ReLU (Rectified Linear Unit)
-2. SoftPlus
-3. Sigmoid 
-
 ![image](https://user-images.githubusercontent.com/60442877/187590908-ae08c4f3-a2dc-4e13-8515-5661e64c7a52.png)
 
 ![image](https://user-images.githubusercontent.com/60442877/187598547-0f05a3ba-925b-42f8-9bfc-8b2ed81bf9bf.png)
