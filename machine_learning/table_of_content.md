@@ -151,7 +151,7 @@
   - **Introduction**
     - [Intuition of Neural Networks (Statquest)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/supervised_learning/Neural_Networks_statquest.md)
     - [Overview of Neural Networks](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/supervised_learning/overview_neural_networks.md)
-    - [Simplest Neural Networks - Logistic Regression]()
+    - [Simplest Neural Networks - Logistic Regression](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/supervised_learning/logistic_regression_as_neural_network.md)
   - **Activation Functions**
     - [Saturating Activation Functions](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/supervised_learning/saturating_activation_function.md)
   - **Forward Propagation**
