@@ -153,7 +153,7 @@
     - [Overview of Neural Networks](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/supervised_learning/overview_neural_networks.md)
     - [Simplest Neural Networks - Logistic Regression](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/supervised_learning/logistic_regression_as_neural_network.md)
   - **Activation Functions**
-    - [Overview of Activation Functions]()
+    - [Overview of Activation Functions](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/supervised_learning/overview_activation_functions.md)
     - [Saturating Activation Functions](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/supervised_learning/saturating_activation_function.md)
   - **Forward Propagation**
     - [Forward Propagation for Binary Classification](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/supervised_learning/forward_propagation_binary_classification.md)
