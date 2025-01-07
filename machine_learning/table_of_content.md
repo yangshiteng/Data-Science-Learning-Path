@@ -165,7 +165,7 @@
     - [Backward Propagation Details](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/supervised_learning/backward_prop_details.md)
 - **Multiclass Classification**
   - [One vs All]()
-  - [One vs One]()
+  - [One vs One](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/supervised_learning/one_vs_one.md)
 
 ## VI. Ensemble Learning
 - Bagging, Boosting, and Stacking
