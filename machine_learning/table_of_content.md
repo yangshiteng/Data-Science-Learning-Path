@@ -178,7 +178,7 @@
   - Hierarchical Clustering
   - DBSCAN
 - Anomaly Detection
-  - One-Clas SVM
+  - One-Class SVM
 - Association Rules
 
 ## VIII. Model Evaluation
