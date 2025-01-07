@@ -162,7 +162,7 @@
   - **Backward Propagation**
     - [Intuition of Backward Propagation](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/supervised_learning/neural_network_backpropagation_statquest.md)
     - [Overview of Neural Network Optimization](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/supervised_learning/overview_nn_optimization.md)
-    - [Backward Propagation Details]()
+    - [Backward Propagation Details](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/supervised_learning/backward_prop_details.md)
 - **Multiclass Classification**
   - [One vs All]()
   - [One vs One]()
