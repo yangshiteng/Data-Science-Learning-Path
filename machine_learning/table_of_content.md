@@ -164,8 +164,8 @@
     - [Overview of Neural Network Optimization](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/supervised_learning/overview_nn_optimization.md)
     - [Backward Propagation Details](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/supervised_learning/backward_prop_details.md)
 - **Multiclass Classification**
-  - [One vs All](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/supervised_learning/one_vs_all.md)
-  - [One vs One](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/supervised_learning/one_vs_one.md)
+  - [One vs All (OvA)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/supervised_learning/one_vs_all.md)
+  - [One vs One (OvO)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/supervised_learning/one_vs_one.md)
 
 ## VI. Ensemble Learning
 - Bagging, Boosting, and Stacking
