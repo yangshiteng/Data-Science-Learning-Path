@@ -168,9 +168,9 @@
   - [One vs One (OvO)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/supervised_learning/one_vs_one.md)
 
 ## VI. Ensemble Learning
-- Bagging, Boosting, and Stacking
-- Gradient Boosting
-- XGBoost, LightGBM, CatBoost
+- **Introduction**
+  - [Overview of Ensemble Learning]()
+
 
 ## VII. Unsupervised Learning
 - Clustering Algorithm
