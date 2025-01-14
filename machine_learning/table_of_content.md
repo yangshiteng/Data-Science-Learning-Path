@@ -170,6 +170,10 @@
 ## VI. Ensemble Learning
 - **Introduction**
   - [Overview of Ensemble Learning](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/ensemble_learning/overview_ensemble_learning.md)
+  - [Bagging]()
+  - [Boosting]()
+  - [Stacking]()
+  - [Voting]()
 
 
 ## VII. Unsupervised Learning
