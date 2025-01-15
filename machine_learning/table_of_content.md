@@ -174,7 +174,14 @@
   - [Boosting](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/ensemble_learning/boosting.md)
   - [Stacking](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/ensemble_learning/stacking.md)
   - [Voting](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/ensemble_learning/voting.md)
-
+- **Bagging**
+  - [Random Forest]()
+- **Boosting**
+  - [AdaBoost]()
+  - [Gradient Boost]()
+  - [XGBoost, CatBoost, LightBoost]()
+- **Stacking**
+    
 
 ## VII. Unsupervised Learning
 - Clustering Algorithm
