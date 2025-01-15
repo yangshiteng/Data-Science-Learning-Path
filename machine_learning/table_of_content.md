@@ -172,7 +172,7 @@
   - [Overview of Ensemble Learning](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/ensemble_learning/overview_ensemble_learning.md)
   - [Bagging (Bootstrap Aggregating)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/ensemble_learning/bagging_overview.md)
   - [Boosting](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/ensemble_learning/boosting.md)
-  - [Stacking]()
+  - [Stacking](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/ensemble_learning/stacking.md)
   - [Voting]()
 
 
