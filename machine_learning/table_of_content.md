@@ -173,7 +173,7 @@
   - [Bagging (Bootstrap Aggregating)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/ensemble_learning/bagging_overview.md)
   - [Boosting](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/ensemble_learning/boosting.md)
   - [Stacking](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/ensemble_learning/stacking.md)
-  - [Voting]()
+  - [Voting](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/ensemble_learning/voting.md)
 
 
 ## VII. Unsupervised Learning
