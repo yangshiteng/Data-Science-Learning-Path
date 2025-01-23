@@ -21,7 +21,7 @@
 ![image](https://github.com/user-attachments/assets/629085e7-cf2a-4d96-9591-52049b6a72b4)
 
 
-# Coefficient of Multiple Correltion vs R-squared
+# Coefficient of Multiple Correlation vs R-squared
 
 ![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/f0920ae7-3a47-4935-94ec-25789a47f92f)
 
