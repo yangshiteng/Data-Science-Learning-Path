@@ -1,5 +1,7 @@
 ![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/3c4f5690-5e71-46e6-9f14-4660f3f15ef4)
 
+![image](https://github.com/user-attachments/assets/8a546e5b-e90b-435e-821d-b3af9e0e82a1)
+
 ![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/82d86fa2-c114-4306-ad90-2d87e5419a49)
 
 ![image](https://github.com/yangshiteng/Data-Science-Learning-Path/assets/60442877/b5845509-4c10-4773-bc26-a59d29fc9011)
