@@ -14,12 +14,11 @@
 
 # About Calculation
 
-![image](https://github.com/user-attachments/assets/4c6c580f-2db8-4696-8327-80fe0a48e933)
+![image](https://github.com/user-attachments/assets/f558c528-e8bf-4222-b8a0-8af3f815f0d3)
 
-![image](https://github.com/user-attachments/assets/874e67a4-817a-401d-9a6f-55ff1a974d4a)
+![image](https://github.com/user-attachments/assets/06291542-fa4a-418b-93d3-568485422a22)
 
-![image](https://github.com/user-attachments/assets/629085e7-cf2a-4d96-9591-52049b6a72b4)
-
+![image](https://github.com/user-attachments/assets/2499d419-8f1a-48e3-b627-198eba2a5d0c)
 
 # Coefficient of Multiple Correlation vs R-squared
 
