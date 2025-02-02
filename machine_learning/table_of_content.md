@@ -177,7 +177,7 @@
 - **Bagging**
   - [Random Forest](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/ensemble_learning/random_forest.md)
 - **Boosting**
-  - [AdaBoost](Adaptive Boosting)
+  - [AdaBoost (Adaptive Boosting)]()
   - [Gradient Boost]()
   - [XGBoost, CatBoost, LightBoost]()
 - **Stacking**
