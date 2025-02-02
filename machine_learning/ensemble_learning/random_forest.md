@@ -8,6 +8,12 @@
 
 ![image](https://github.com/user-attachments/assets/3d31ba76-dead-4ac8-88f1-0caa77a71a5e)
 
+![image](https://github.com/user-attachments/assets/f2b17209-6bd8-46a3-be47-c1cd086bb4ad)
+
+![image](https://github.com/user-attachments/assets/173579e2-bbca-4e45-82dc-f68c3536a612)
+
+![image](https://github.com/user-attachments/assets/bf7d54b1-e28c-4c02-b0f3-e8b16741d6b0)
+
 ![image](https://github.com/user-attachments/assets/d9e63d7d-a483-4add-a11f-162125be44c5)
 
 ```python
