@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/cfbc68f7-0b66-463c-9c7b-0134946f8115)
+
 ![image](https://github.com/user-attachments/assets/2e7fdd56-7de3-44c0-86e7-aa2f4a8d1c9b)
 
 # AdaBoost for Binary Classification
