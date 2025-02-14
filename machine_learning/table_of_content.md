@@ -177,8 +177,8 @@
 - **Bagging**
   - [Random Forest](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/ensemble_learning/random_forest.md)
 - **Boosting**
-  - [AdaBoost (Adaptive Boosting)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/ensemble_learning/adaboost.md)
-  - [Gradient Boost](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/ensemble_learning/gradient_boosting.md)
+  - [AdaBoost (Adaptive Boosting) (Assign Higher Weights to Misclassified Labels)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/ensemble_learning/adaboost.md)
+  - [Gradient Boost (Optimize a Loss Function with Gradient (Residual) Descent (Reduction))](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/ensemble_learning/gradient_boosting.md)
   - [XGBoost, CatBoost, LightBoost]()
 - **Stacking**
     
