@@ -2,6 +2,22 @@
 
 ![image](https://github.com/user-attachments/assets/1a428e01-66ae-48a5-b423-32be9c40f2cc)
 
+![image](https://github.com/user-attachments/assets/84d321cc-bae3-41ae-bb25-a13267d3fa17)
+
+![image](https://github.com/user-attachments/assets/33b0c026-af0e-4e4c-818b-feed51a88c0e)
+
+![image](https://github.com/user-attachments/assets/fb70b5a5-18fb-44db-bcf5-5b30f325e1e5)
+
+![image](https://github.com/user-attachments/assets/bb8f2ad0-7439-452d-b87c-307dddcab2ea)
+
+![image](https://github.com/user-attachments/assets/80417d80-a748-4990-bd9d-29439bd3ec55)
+
+![image](https://github.com/user-attachments/assets/7237dd58-90ef-43e9-b3de-0892f9b81326)
+
+![image](https://github.com/user-attachments/assets/d4698296-2239-4153-87eb-dc9a8804a480)
+
+![image](https://github.com/user-attachments/assets/941bf735-c3e6-445f-984b-a59fa48231e7)
+
 # Gradient Boosting for Binary Classification
 
 ![image](https://github.com/user-attachments/assets/2f8427a7-630c-4da0-9d57-d52024b5845a)
