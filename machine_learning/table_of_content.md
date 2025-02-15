@@ -186,7 +186,7 @@
   - [Stacking Tutorial](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/ensemble_learning/stacking_tutorial.md)
 - **Comparison**
   - [Bagging vs Boosting vs Stacking](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/ensemble_learning/bagging_vs_boosting_vs_stacking.md)
-  - [AdaBoost vs Gradient Boost]()
+  - [AdaBoost vs Gradient Boost](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/ensemble_learning/adaboost_vs_gradientboost.md)
 
 ## VII. Unsupervised Learning
 - Clustering Algorithm
