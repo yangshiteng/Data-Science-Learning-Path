@@ -181,7 +181,7 @@
   - [Gradient Boost (Optimize a Loss Function with Gradient (Residual) Descent (Reduction))](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/ensemble_learning/gradient_boosting.md)
   - [XGBoost](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/ensemble_learning/xgboost.md)
   - [CatBoost](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/ensemble_learning/catboost.md)
-  - [LightBoost]()
+  - [LightBoost](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/ensemble_learning/lightboost.md)
 - **Stacking**
     
 
