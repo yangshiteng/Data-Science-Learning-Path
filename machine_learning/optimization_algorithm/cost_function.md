@@ -1,3 +1,5 @@
+# Common Types of Loss Functions in Machine Learning
+
 ![image](https://github.com/user-attachments/assets/3b47d6ac-9052-46b4-afad-118aa006a257)
 
 ![image](https://github.com/user-attachments/assets/4762607c-87bb-4191-9ecc-2374ab823b48)
