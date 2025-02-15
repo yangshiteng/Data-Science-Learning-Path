@@ -192,7 +192,8 @@
 - K-Means Clustering
 - Hierarchical Clustering
 - DBSCAN
-
+- Gaussian Mixture Models (GMM)
+- Mean-Shift Clustering
 ## VIII. Model Evaluation
 - Accuracy, Precision, Recall, F1 Score
 - Confusion Matrix
