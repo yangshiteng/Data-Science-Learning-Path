@@ -1,25 +1,31 @@
-# Loss Function
+![image](https://github.com/user-attachments/assets/3b47d6ac-9052-46b4-afad-118aa006a257)
 
-![image](https://github.com/user-attachments/assets/d5dd6afb-3422-41b3-83fe-d4d5ee6878f8)
+![image](https://github.com/user-attachments/assets/4762607c-87bb-4191-9ecc-2374ab823b48)
 
-![image](https://github.com/user-attachments/assets/411f451f-4da7-47a9-872c-33d750297661)
+![image](https://github.com/user-attachments/assets/6e066950-fc06-4fb6-84c5-7ad07436498c)
 
-![image](https://github.com/user-attachments/assets/d6ba5611-aacd-4bb9-b37d-17c7a631d9e1)
+![image](https://github.com/user-attachments/assets/e1a066e4-6aed-4e59-86e8-355c58772b2b)
 
-# Cost Function
+![image](https://github.com/user-attachments/assets/7be84e93-69d1-4e93-8099-eeaf21a279e8)
 
-![image](https://github.com/user-attachments/assets/8ed66ef9-2b86-47b6-a8e2-eafe747b6b5f)
+![image](https://github.com/user-attachments/assets/11372de4-a041-4a83-a934-9cd01a6a24ff)
 
-![image](https://github.com/user-attachments/assets/65893c03-0478-4da1-93f4-2a8e72b09b9e)
+![image](https://github.com/user-attachments/assets/04a30e34-1fa3-48e7-9a65-bb90d8b6d51a)
 
-![image](https://github.com/user-attachments/assets/718a30fc-e118-4349-a27f-b5f6e1ab5a03)
+![image](https://github.com/user-attachments/assets/a9ede725-60fc-417b-ac07-3ff91d1600d1)
 
-# Objective Function
+![image](https://github.com/user-attachments/assets/9a53138b-4aa2-49fa-a949-b85325a56717)
 
-![image](https://github.com/user-attachments/assets/efa2cd87-7b08-41d4-a839-73f92e59f918)
+![image](https://github.com/user-attachments/assets/e1c17168-f342-4989-90e7-d9acaaab9730)
 
-![image](https://github.com/user-attachments/assets/869a76e9-a529-48a5-b88f-0edc35fe4c48)
+# Cost vs Loss Function
 
-![image](https://github.com/user-attachments/assets/c7c8775e-43b2-43f7-a9e0-741b266c85b4)
+![image](https://github.com/user-attachments/assets/5b7a7cbb-8f92-4766-a190-14144f0a65f8)
 
-![image](https://github.com/user-attachments/assets/fe05a8d8-1ad2-4906-9e51-9454c6ed711b)
+![image](https://github.com/user-attachments/assets/344f803f-cc9b-4279-b9ef-7813908df189)
+
+![image](https://github.com/user-attachments/assets/ab2c7bb8-2cbc-46ef-9adc-8018ecb36a03)
+
+![image](https://github.com/user-attachments/assets/ea41bd1a-f384-487a-b705-09e964e878be)
+
+![image](https://github.com/user-attachments/assets/7b277cc4-c8db-470a-bbc0-336bf16d1a8f)
