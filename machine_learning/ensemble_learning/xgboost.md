@@ -1,8 +1,6 @@
 ![image](https://github.com/user-attachments/assets/809933a7-4a6b-42c6-b453-221ff2aa0b24)
 
-# How XGBoost Achieves Parallel Computing
-
-![image](https://github.com/user-attachments/assets/4b7b43c2-b9d3-4fe4-93d1-e8b075ecbddc)
+![image](https://github.com/user-attachments/assets/58993510-afe2-499a-9fbf-aeacea4b7f17)
 
 ![image](https://github.com/user-attachments/assets/86eff47c-cb8e-4090-ae6f-08a6b9fa79e5)
 
