@@ -64,11 +64,7 @@ ada_clf.fit(X_train, y_train)
 5. Repeat for \( T \) iterations.
 6. The final model is:
 
-\[
-F_T(x) = F_0(x) + \sum_{t=1}^{T} \nu h_t(x)
-\]
-
-where \( \nu \) is the **learning rate**.
+![image](https://github.com/user-attachments/assets/f4ecefa1-6c04-42d6-b124-a4747a3c7720)
 
 🔹 **Example: GradientBoostingClassifier**
 ```python
