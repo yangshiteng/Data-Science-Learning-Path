@@ -110,7 +110,7 @@
 
 ## V. Regression and Classificaiton Basics
 - **Linear Regression**
-  - [Linear Regression Table of Content](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/table_of_content.md#vi-regression-analysis)
+  - [Linear Regression Table of Content](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/table_of_content.md#vi-regression)
 - **Logistic Regression**
   - [Introduction (From StatQuest)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/regression_and_classification_basics/logistic_regression_statquest.md)
   - [Logistic Regression in Details](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/regression_and_classification_basics/logistic_regression_overview.md)
