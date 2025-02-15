@@ -1,7 +1,3 @@
-Sure! Below is your **GitHub Markdown (MD) formatted tutorial** for **LightGBM (Light Gradient Boosting Machine)**. You can copy-paste this into your GitHub repository as a `.md` file.
-
----
-
 # 📌 **LightGBM Tutorial: A Step-by-Step Guide**
 > 🚀 **A comprehensive guide to using LightGBM for classification and regression in Python.**
 
@@ -228,10 +224,3 @@ print(f"Best Parameters: {grid_search.best_params_}")
 Would you like a **real-world dataset example (Titanic, House Prices)?** 🚀
 
 ---
-
-### 📌 **⭐ If you found this useful, consider giving this repo a star!**  
-🔗 **[Follow me for more ML content!](https://github.com/your-github)**  
-
----
-
-Now you can **copy-paste** this into your GitHub repository! Let me know if you need any modifications. 🚀😊
