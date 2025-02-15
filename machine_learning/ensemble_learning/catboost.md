@@ -189,12 +189,7 @@ print(f"Best Parameters: {grid_search.best_params_}")
 ✔ **Faster training with ordered boosting.**  
 ✔ **Works efficiently on both CPU and GPU.**  
 
-Would you like a **real-world dataset example (Titanic, House Prices)?** 🚀
 
----
-
-### 📌 **⭐ If you found this useful, consider giving this repo a star!**  
-🔗 **[Follow me for more ML content!](https://github.com/your-github)**  
 
 ---
 
