@@ -1,3 +1,0 @@
-[About Outlier Detection](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/unsupervised_learning/novelty_and_outlier_detection/files/about_outlier_detection.md)
-
-[About Novelty Detection (新颖点检测)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/unsupervised_learning/novelty_and_outlier_detection/files/about_novelty_detection.md)

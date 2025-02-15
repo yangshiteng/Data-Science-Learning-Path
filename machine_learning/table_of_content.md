@@ -108,64 +108,64 @@
   - [Overfitting (Regularization Techniques)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/optimization_algorithm/overfitting_optimization.md)
     
 
-## V. Supervised Learning
+## V. Regression and Classificaiton Basics
 - **Linear Regression**
   - [Linear Regression Table of Content](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/table_of_content.md#vi-regression-analysis)
 - **Logistic Regression**
-  - [Introduction (From StatQuest)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/supervised_learning/Logistic_Regression_statquest.md)
-  - [Logistic Regression in Details](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/supervised_learning/logistic_regression_overview.md)
-  - [Types of Logistic Regression (Binomial, Mutinomial, Ordinal)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/supervised_learning/logistic_regression_types.md)
+  - [Introduction (From StatQuest)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/regression_and_classification_basics/logistic_regression_statquest.md)
+  - [Logistic Regression in Details](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/regression_and_classification_basics/logistic_regression_overview.md)
+  - [Types of Logistic Regression (Binomial, Mutinomial, Ordinal)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/regression_and_classification_basics/logistic_regression_types.md)
 - **Decision Trees**
-  - [Intuition of Decision Tree for Classification](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/supervised_learning/Classification_Trees.md)
-  - [Intuition of Decision Tree for Regression](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/supervised_learning/regression_tree.md)
-  - [Overview of Decision Trees](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/supervised_learning/overview_decision_tree.md)
-  - [Gini Index (Gini Impurity) and Gini Gain](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/supervised_learning/gini_index_gini_gain.md)
-  - [Entropy and Information Gain](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/supervised_learning/entropy_information_gain.md)
-  - [Classification Tree with Gini Index (Gini Impurity): Step by Step Guide](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/supervised_learning/classification_tree_gini_index.md)
-  - [Classification Tree with Gini Gain (same with Gini Index): Step by Step Guide](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/supervised_learning/classification_tree_gini_gain.md)
-  - [Classification Tree with Entropy: Step by Step Guide](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/supervised_learning/classification_tree_entropy.md)
-  - [Classification Tree with Information Gain (same with Entropy): Step by Step Guide](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/supervised_learning/classification_tree_information_gain.md)
-  - [Regression Tree with MSE: Step by Step Guide](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/supervised_learning/regression_tree_mse.md)
-  - [Feature Importance in Decision Tree](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/supervised_learning/feature_importance_decisiontree.md)
-  - [About Multi-Way Splits](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/supervised_learning/multi_way_split.md)
-  - [CART vs ID3 vs C4.5](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/supervised_learning/cart_id3_c45.md)
+  - [Intuition of Decision Tree for Classification](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/regression_and_classification_basics/classification_trees.md)
+  - [Intuition of Decision Tree for Regression](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/regression_and_classification_basics/regression_tree.md)
+  - [Overview of Decision Trees](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/regression_and_classification_basics/overview_decision_tree.md)
+  - [Gini Index (Gini Impurity) and Gini Gain](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/regression_and_classification_basics/gini_index_gini_gain.md)
+  - [Entropy and Information Gain](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/regression_and_classification_basics/entropy_information_gain.md)
+  - [Classification Tree with Gini Index (Gini Impurity): Step by Step Guide](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/regression_and_classification_basics/classification_tree_gini_index.md)
+  - [Classification Tree with Gini Gain (same with Gini Index): Step by Step Guide](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/regression_and_classification_basics/classification_tree_gini_gain.md)
+  - [Classification Tree with Entropy: Step by Step Guide](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/regression_and_classification_basics/classification_tree_entropy.md)
+  - [Classification Tree with Information Gain (same with Entropy): Step by Step Guide](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/regression_and_classification_basics/classification_tree_information_gain.md)
+  - [Regression Tree with MSE: Step by Step Guide](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/regression_and_classification_basics/regression_tree_mse.md)
+  - [Feature Importance in Decision Tree](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/regression_and_classification_basics/feature_importance_decisiontree.md)
+  - [About Multi-Way Splits](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/regression_and_classification_basics/multi_way_split.md)
+  - [CART vs ID3 vs C4.5](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/regression_and_classification_basics/cart_id3_c45.md)
 - **Support Vector Machines (SVM)**
-  - [Intuition of Support Vector Machine (SVM)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/supervised_learning/Support_Vector_Machine_intuition.md)
-  - [Overview of Support Vector Machine (SVM)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/supervised_learning/svm_overview.md)
-  - [Linear SVM](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/supervised_learning/linear_svm.md)
-  - [Optimization Problem in Linear SVM](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/supervised_learning/svm_optimization.md)
-  - [Non-Linear SVM](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/supervised_learning/nonlinear_svm.md)
-  - [Optimization Problem in Non-linear SVM](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/supervised_learning/non_linear_svm_optimization.md)
-  - [Kernel Functions](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/supervised_learning/kernel_functions.md)
-  - [Support Vector Regression (SVR)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/supervised_learning/SVR.md)
-  - [One-Class SVM](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/supervised_learning/one_class_SVM.md)
+  - [Intuition of Support Vector Machine (SVM)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/regression_and_classification_basics/support_vector_machine_intuition.md)
+  - [Overview of Support Vector Machine (SVM)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/regression_and_classification_basics/svm_overview.md)
+  - [Linear SVM](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/regression_and_classification_basics/linear_svm.md)
+  - [Optimization Problem in Linear SVM](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/regression_and_classification_basics/svm_optimization.md)
+  - [Non-Linear SVM](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/regression_and_classification_basics/nonlinear_svm.md)
+  - [Optimization Problem in Non-linear SVM](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/regression_and_classification_basics/non_linear_svm_optimization.md)
+  - [Kernel Functions](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/regression_and_classification_basics/kernel_functions.md)
+  - [Support Vector Regression (SVR)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/regression_and_classification_basics/svr.md)
+  - [One-Class SVM](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/regression_and_classification_basics/one_class_svm.md)
 - **Naive Bayes classifiers**
-  - [Intuition of Naive Bayes](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/supervised_learning/Naive_Bayes_statquest.md)
-  - [Overview of Naive Bayes](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/supervised_learning/overview_naive_bayes.md)
-  - [Gaussian Naive Bayes](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/supervised_learning/GNB.md)
-  - [Multinomial Naive Bayes](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/supervised_learning/multinomial_nb.md)
-  - [Bernoulli Naive Bayes](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/supervised_learning/bernoulli_nb.md)
+  - [Intuition of Naive Bayes](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/regression_and_classification_basics/naive_bayes_statquest.md)
+  - [Overview of Naive Bayes](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/regression_and_classification_basics/overview_naive_bayes.md)
+  - [Gaussian Naive Bayes](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/regression_and_classification_basics/gnb.md)
+  - [Multinomial Naive Bayes](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/regression_and_classification_basics/multinomial_nb.md)
+  - [Bernoulli Naive Bayes](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/regression_and_classification_basics/bernoulli_nb.md)
 - **K-Nearest Neighbors (KNN)**
-  - [Overview of K-Nearest Neighbors](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/supervised_learning/overview_knn.md)
+  - [Overview of K-Nearest Neighbors](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/regression_and_classification_basics/overview_knn.md)
 - **Neural Networks**
   - **Introduction**
-    - [Intuition of Neural Networks (Statquest)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/supervised_learning/Neural_Networks_statquest.md)
-    - [Overview of Neural Networks](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/supervised_learning/overview_neural_networks.md)
-    - [Simplest Neural Networks - Logistic Regression](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/supervised_learning/logistic_regression_as_neural_network.md)
+    - [Intuition of Neural Networks (Statquest)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/regression_and_classification_basics/neural_networks_statquest.md)
+    - [Overview of Neural Networks](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/regression_and_classification_basics/overview_neural_networks.md)
+    - [Simplest Neural Networks - Logistic Regression](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/regression_and_classification_basics/logistic_regression_as_neural_network.md)
   - **Activation Functions**
-    - [Overview of Activation Functions](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/supervised_learning/overview_activation_functions.md)
-    - [Saturating Activation Functions](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/supervised_learning/saturating_activation_function.md)
+    - [Overview of Activation Functions](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/regression_and_classification_basics/overview_activation_functions.md)
+    - [Saturating Activation Functions](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/regression_and_classification_basics/saturating_activation_function.md)
   - **Forward Propagation**
-    - [Forward Propagation for Binary Classification](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/supervised_learning/forward_propagation_binary_classification.md)
-    - [Forward Propagation for Muti-class Classification](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/supervised_learning/forward_propagation_multiclass_classification.md)
-    - [Forward Propagation for Regression](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/supervised_learning/forward_propagation_regression.md)
+    - [Forward Propagation for Binary Classification](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/regression_and_classification_basics/forward_propagation_binary_classification.md)
+    - [Forward Propagation for Muti-class Classification](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/regression_and_classification_basics/forward_propagation_multiclass_classification.md)
+    - [Forward Propagation for Regression](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/regression_and_classification_basics/forward_propagation_regression.md)
   - **Backward Propagation**
-    - [Intuition of Backward Propagation](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/supervised_learning/neural_network_backpropagation_statquest.md)
-    - [Overview of Neural Network Optimization](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/supervised_learning/overview_nn_optimization.md)
-    - [Backward Propagation Details](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/supervised_learning/backward_prop_details.md)
+    - [Intuition of Backward Propagation](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/regression_and_classification_basics/neural_network_backpropagation_statquest.md)
+    - [Overview of Neural Network Optimization](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/regression_and_classification_basics/overview_nn_optimization.md)
+    - [Backward Propagation Details](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/regression_and_classification_basics/backward_prop_details.md)
 - **Multiclass Classification**
-  - [One vs All (OvA)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/supervised_learning/one_vs_all.md)
-  - [One vs One (OvO)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/supervised_learning/one_vs_one.md)
+  - [One vs All (OvA)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/regression_and_classification_basics/one_vs_all.md)
+  - [One vs One (OvO)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/regression_and_classification_basics/one_vs_one.md)
 
 ## VI. Ensemble Learning
 - **Introduction**
@@ -188,14 +188,10 @@
   - [Bagging vs Boosting vs Stacking](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/ensemble_learning/bagging_vs_boosting_vs_stacking.md)
   - [AdaBoost vs Gradient Boost](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/ensemble_learning/adaboost_vs_gradientboost.md)
 
-## VII. Unsupervised Learning
-- Clustering Algorithm
-  - K-Means Clustering
-  - Hierarchical Clustering
-  - DBSCAN
-- Anomaly Detection
-  - One-Class SVM
-- Association Rules
+## VII. Clustering Algorithm
+- K-Means Clustering
+- Hierarchical Clustering
+- DBSCAN
 
 ## VIII. Model Evaluation
 - Accuracy, Precision, Recall, F1 Score
