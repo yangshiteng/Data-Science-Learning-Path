@@ -151,7 +151,7 @@
   - **AB Test**
     - [A/B Testing](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/inferential_statistics/abtest.md)
 
-## VI. Regression Analysis
+## VI. Regression
 - **1. Linear Regression**
   - **Introduction**
     - [Linear Regression Introduction](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/regression/linear_regression.md)
