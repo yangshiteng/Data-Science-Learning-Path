@@ -1,4 +1,23 @@
+# Introduction
+
 ![image](https://github.com/user-attachments/assets/809933a7-4a6b-42c6-b453-221ff2aa0b24)
+
+# How XGBoost Achieves Parallel Computing
+
+![image](https://github.com/user-attachments/assets/4b7b43c2-b9d3-4fe4-93d1-e8b075ecbddc)
+
+![image](https://github.com/user-attachments/assets/86eff47c-cb8e-4090-ae6f-08a6b9fa79e5)
+
+![image](https://github.com/user-attachments/assets/e334216a-72f5-49cd-bd37-14728e1d3498)
+
+![image](https://github.com/user-attachments/assets/0e17e6ed-1da8-4138-8bb8-dcaa0dbae031)
+
+![image](https://github.com/user-attachments/assets/c76efd5e-9267-45d4-a4f9-393f1f28bb73)
+
+![image](https://github.com/user-attachments/assets/726a301d-098f-494d-8ca5-391bb9c08609)
+
+![image](https://github.com/user-attachments/assets/c3d9ab06-56a2-43f1-be3c-c3fa8884fccf)
+
 
 # Import Dependencies
 
