@@ -220,7 +220,4 @@ print(f"Best Parameters: {grid_search.best_params_}")
 ✔ **Uses histogram-based split finding for efficiency.**  
 ✔ **Works natively with categorical features.**  
 ✔ **Supports GPU acceleration for high-speed training.**  
-
-Would you like a **real-world dataset example (Titanic, House Prices)?** 🚀
-
 ---
