@@ -31,29 +31,29 @@
 
 ## III. Data Preprocessing 
 - **Introduction to Data Preprocessing**
-  - [Definition and Importance of Data Preprocessing in Machine Learning](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/data_preprocessing/Definition%20and%20Importance%20of%20Data%20Preprocessing%20in%20Machine%20Learning.md)
-  - [Overview of the Data Preprocessing Workflow](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/data_preprocessing/Overview%20of%20the%20Data%20Preprocessing%20Workflow.md)
-  - [The Role of Data Quality in Machine Learning Success](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/data_preprocessing/The%20Role%20of%20Data%20Quality%20in%20Machine%20Learning%20Success.md)
+  - [Definition and Importance of Data Preprocessing in Machine Learning](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/data_preprocessing/definition_and_importance_of_data_preprocessing_in_machine_learning.md)
+  - [Overview of the Data Preprocessing Workflow](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/data_preprocessing/overview_of_the_data_preprocessing_workflow.md)
+  - [The Role of Data Quality in Machine Learning Success](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/data_preprocessing/the_role_of_data_quality_in_machine_learning_success.md)
 - **Data Wrangling**
   - **Overview of Data Wrangling**
-    - [Purpose and Goals of Data Wrangling](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/data_preprocessing/Purpose%20and%20Goals%20of%20Data%20Wrangling.md)
-    - [Common Challenges in Data Wrangling](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/data_preprocessing/Common%20Challenges%20in%20Data%20Wrangling.md)
+    - [Purpose and Goals of Data Wrangling](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/data_preprocessing/purpose_and_goals_of_data_wrangling.md)
+    - [Common Challenges in Data Wrangling](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/data_preprocessing/common_challenges_in_data_wrangling.md)
   - **Data Cleaning**
-    - [Identifying and Removing Duplicate Records](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/data_preprocessing/Identifying%20and%20Removing%20Duplicate%20Records.md)
-    - [Handling Missing Data: Techniques and Best Practices](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/data_preprocessing/HandlingMissingDataTechniquesandBestPractices.md)
-    - [Filtering and Removing Outliers](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/data_preprocessing/Filtering%20and%20Removing%20Outliers.md)
-    - [Correcting Data Errors and Anomalies](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/data_preprocessing/Correcting%20Data%20Errors%20and%20Anomalies.md)
+    - [Identifying and Removing Duplicate Records](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/data_preprocessing/identifying_and_removing_duplicate_records.md)
+    - [Handling Missing Data: Techniques and Best Practices](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/data_preprocessing/handlingmissingdatatechniquesandbestpractices.md)
+    - [Filtering and Removing Outliers](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/data_preprocessing/filtering_and_removing_outliers.md)
+    - [Correcting Data Errors and Anomalies](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/data_preprocessing/correcting_data_errors_and_anomalies.md)
   - **Data Transformation**
     - [Normalization and Standardization](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/data_preprocessing/normalization_and_standardization.md)
     - [Data Type Conversions](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/data_preprocessing/data_type_conversions.md)
     - [Conditional Transformations (Customization of Data Adjustment)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/data_preprocessing/conditional_transformation.md)
   - **Data Reduction (simplifying the data without significantly losing information)**
-    - [Strategies for Reducing Data Complexity](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/data_preprocessing/Strategies%20for%20Reducing%20Data%20Complexity.md)
+    - [Strategies for Reducing Data Complexity](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/data_preprocessing/strategies_for_reducing_data_complexity.md)
 - **Feature Engineering**
   - **Introduction to Feature Engineering**
     - [Definition and Significance of Feature Engineering](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/data_preprocessing/Definition%20and%20Significance%20of%20Feature%20Engineering.md)
   - **Feature Engineering Techniques**
-    - [Feature Creation](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/data_preprocessing/Feature%20Creation.md)
+    - [Feature Creation](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/data_preprocessing/feature_creation.md)
     - [Feature Transformation](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/data_preprocessing/feature_transformation.md)
     - [Encoding Categorical Variables](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/data_preprocessing/categorical_encoding.md)
   - **Feature Selection**
@@ -61,11 +61,11 @@
     - [Wrapper Methods: Forward Selection, Backward Elimination, Recursive Feature Elimination (RFE)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/data_preprocessing/wrapper_method.md)
     - [Embedded Methods: feature selection techniques integrated directly into the model training process](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/data_preprocessing/embedded_method.md)
   - **Dimensionality Reduction**
-    - [Principal Component Analysis (PCA)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/data_preprocessing/PCA.md)
-    - [t-Distributed Stochastic Neighbor Embedding (t-SNE): visualizing high-dimensional data by reducing it to lower-dimensional spaces (typically 2D or 3D)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/data_preprocessing/tSNE.md)
+    - [Principal Component Analysis (PCA)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/data_preprocessing/pca.md)
+    - [t-Distributed Stochastic Neighbor Embedding (t-SNE): visualizing high-dimensional data by reducing it to lower-dimensional spaces (typically 2D or 3D)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/data_preprocessing/tsne.md)
 - **Handling Imbalanced Data**
   - [Overview of Imbalance Data Handling](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/data_preprocessing/overview_imbalanced_data.md)
-  - [Resampling Technique: Oversampling, Undersampling, SMOTE](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/data_preprocessing/Resampling%20Techniques.md)
+  - [Resampling Technique: Oversampling, Undersampling, SMOTE](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/data_preprocessing/resampling_techniques.md)
   - [Algorithmic Ensemble Techniques: Boosting and Bagging](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/data_preprocessing/ensemble_method_imbalanced_data.md)
   - [Modify Class Weights](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/data_preprocessing/class_weight_modify.md)
   - [Anomaly Detection Techniques](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/data_preprocessing/anomaly_detection.md)
@@ -74,8 +74,9 @@
     - [Overview of Outlier, Anomaly, Novelty](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/fundamental_of_machine_learning/outlier_vs_anomaly_vs_novelty.md)
   - **Detection Method**
     - [Detection Methods of Outlier, Anomaly, Novelty](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/fundamental_of_machine_learning/outlier_detection.md)
-    - [Local Outlier Factor (LOF)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/data_preprocessing/LOF.md)
+    - [Local Outlier Factor (LOF)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/data_preprocessing/lof.md)
     - [Isolation Forest](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/data_preprocessing/isolation_forest.md)
+    - [Autoencoders (Neural Networks)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/data_preprocessing/autoencoder.md)
 - **Automating Data Preprocessing**
   - [Developing and Implementing Data Preprocessing Pipelines](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/data_preprocessing/data_preprocessing_pipeline.md)
 
