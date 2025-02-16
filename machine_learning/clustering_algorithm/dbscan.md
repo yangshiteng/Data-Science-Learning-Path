@@ -1,6 +1,6 @@
 # **DBSCAN (Density-Based Spatial Clustering of Applications with Noise) - A Detailed Tutorial**
 
-## **1. Introduction to DBSCAN**
+## **Introduction to DBSCAN**
 DBSCAN is a **density-based clustering algorithm** that groups points **based on their density** rather than their distance from centroids (like K-Means). It is particularly effective in identifying clusters of **arbitrary shape** and **detecting outliers (noise).**
 
 ### **How DBSCAN Works**
@@ -23,7 +23,7 @@ DBSCAN is a **density-based clustering algorithm** that groups points **based on
 
 ---
 
-## **Step 1: Define a Small Dataset**
+#### **Step 1: Define a Small Dataset**
 We will use a **2D dataset with 8 points**, structured so that **DBSCAN can detect clusters**.
 
 | Point | X  | Y  |
@@ -43,7 +43,7 @@ We will use **DBSCAN parameters:**
 
 ---
 
-## **Step 2: Compute Distance Between Points**
+#### **Step 2: Compute Distance Between Points**
 Using the **Euclidean distance formula**:
 
 \[
@@ -65,7 +65,7 @@ Let's compute the **distance matrix**:
 
 ---
 
-## **Step 3: Identify Core, Border, and Noise Points**
+#### **Step 3: Identify Core, Border, and Noise Points**
 Using `eps = 2.0` and `min_samples = 3`:
 
 | Point | Neighbors within `eps=2.0` | Classification |
@@ -79,7 +79,7 @@ Using `eps = 2.0` and `min_samples = 3`:
 | **P7** | P8 | Noise |
 | **P8** | P7 | Noise |
 
-### **Observations:**
+#### **Observations:**
 1. **Core Points (Meet `min_samples` Condition)**:
    - **P2** (Cluster 1)
    - **P5** (Cluster 2)
@@ -93,7 +93,7 @@ Using `eps = 2.0` and `min_samples = 3`:
 
 ---
 
-## **Step 4: Form Clusters**
+#### **Step 4: Form Clusters**
 - **Cluster 1** (P1, P2, P3)
 - **Cluster 2** (P4, P5, P6)
 - **P7 and P8 remain as noise (-1)**
