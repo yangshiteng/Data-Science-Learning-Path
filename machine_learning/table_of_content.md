@@ -72,11 +72,19 @@
 - **Outlier(离群点) vs Anomaly(异常点) vs Novelty(新奇点)**
   - **Introduction**
     - [Overview of Outlier, Anomaly, Novelty](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/fundamental_of_machine_learning/outlier_vs_anomaly_vs_novelty.md)
-  - **Detection Method**
-    - [Detection Methods of Outlier, Anomaly, Novelty](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/fundamental_of_machine_learning/outlier_detection.md)
-    - [Local Outlier Factor (LOF)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/data_preprocessing/lof.md)
+  - **Statistical Methods**
+    - [Z-Score (Standard Score)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/fundamental_of_machine_learning/z_score.md)
+    - [Interquartile Range (IQR)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/fundamental_of_machine_learning/interquartile_range.md)
+  - **Machine Learning-Based Methods**
     - [Isolation Forest](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/data_preprocessing/isolation_forest.md)
+    - [One-Class SVM](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/data_preprocessing/one_class_svm.md)
     - [Autoencoders (Neural Networks)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/data_preprocessing/autoencoder.md)
+  - **Distance-Based Methods**
+    - [Local Outlier Factor (LOF)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/data_preprocessing/lof.md)
+    - [k-Nearest Neighbors (k-NN)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/data_preprocessing/knn_outlier.md)
+  - **Clustering-Based Methods**
+    - [DBSCAN (Density-Based Spatial Clustering)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/data_preprocessing/dbscan_outlier.md)
+    - [K-Means Based Detection](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/data_preprocessing/kmeans_outlier.md)
 - **Automating Data Preprocessing**
   - [Developing and Implementing Data Preprocessing Pipelines](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/data_preprocessing/data_preprocessing_pipeline.md)
 
@@ -141,7 +149,6 @@
   - [Optimization Problem in Non-linear SVM](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/regression_and_classification_basics/non_linear_svm_optimization.md)
   - [Kernel Functions](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/regression_and_classification_basics/kernel_functions.md)
   - [Support Vector Regression (SVR)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/regression_and_classification_basics/svr.md)
-  - [One-Class SVM](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/regression_and_classification_basics/one_class_svm.md)
 - **Naive Bayes classifiers**
   - [Intuition of Naive Bayes](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/regression_and_classification_basics/naive_bayes_statquest.md)
   - [Overview of Naive Bayes](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/regression_and_classification_basics/overview_naive_bayes.md)
