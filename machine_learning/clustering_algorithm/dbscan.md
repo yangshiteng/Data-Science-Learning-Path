@@ -19,6 +19,44 @@ DBSCAN is a **density-based clustering algorithm** that groups points **based on
 
 ---
 
+### **How DBSCAN Expands Clusters**
+DBSCAN forms clusters by **expanding from core points** and merging **neighboring core and border points** into the same cluster.
+---
+#### **Step 1: Identify Core Points**
+A **point is a core point** if it has **at least `min_samples` neighbors within `eps` distance**. These points will serve as the **starting points** for clusters.
+
+---
+
+#### **Step 2: Expand the Cluster from Core Points**
+1. **Pick an unvisited core point** and assign it to a new cluster.
+2. **Find all points within `eps` of this core point** (these are its **directly reachable neighbors**).
+3. **For each neighbor**:
+   - If it is a **core point**, it brings **more neighbors** into the cluster.
+   - If it is a **border point**, it **joins the cluster but does not expand it further**.
+4. **Repeat the process** for newly added core points, expanding the cluster **until no more core points can be reached**.
+
+---
+
+#### **Step 3: Merge Neighboring Core Points**
+- If **two core points are within `eps` of each other**, they **belong to the same cluster**.
+- The cluster **continues expanding** as long as new **core points are found**.
+- If a **border point** is within `eps` of multiple core points, it can be assigned to **only one cluster** (usually the first one encountered).
+
+---
+
+#### **Step 4: Handle Noise Points**
+- Points that **do not belong to any cluster** are marked as **noise (`-1`)**.
+- **Noise points remain unclustered** and do not contribute to cluster formation.
+
+---
+
+#### **Key Takeaways**
+✅ **Core points** start clusters and expand them by adding **reachable core and border points**.  
+✅ **Border points join clusters but do not expand them**.  
+✅ **Clusters merge when core points are close to each other (`eps` distance)**.  
+✅ **Noise points stay unclustered**.  
+
+
 ### **DBSCAN (Density-Based Spatial Clustering) - A Step-by-Step Calculation Example**
 
 ---
