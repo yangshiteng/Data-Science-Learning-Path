@@ -19,6 +19,101 @@ DBSCAN is a **density-based clustering algorithm** that groups points **based on
 
 ---
 
+### **DBSCAN (Density-Based Spatial Clustering) - A Step-by-Step Calculation Example**
+
+---
+
+## **Step 1: Define a Small Dataset**
+We will use a **2D dataset with 8 points**, structured so that **DBSCAN can detect clusters**.
+
+| Point | X  | Y  |
+|--------|----|----|
+| **P1** | 1  | 2  |
+| **P2** | 2  | 2  |
+| **P3** | 2  | 3  |
+| **P4** | 8  | 8  |
+| **P5** | 8  | 9  |
+| **P6** | 7  | 8  |
+| **P7** | 25 | 80 |
+| **P8** | 26 | 81 |
+
+We will use **DBSCAN parameters:**
+- `eps = 2.0` (Maximum distance between two points to be considered neighbors)
+- `min_samples = 3` (A core point must have at least 3 neighbors, including itself)
+
+---
+
+## **Step 2: Compute Distance Between Points**
+Using the **Euclidean distance formula**:
+
+\[
+d(A, B) = \sqrt{(x_2 - x_1)^2 + (y_2 - y_1)^2}
+\]
+
+Let's compute the **distance matrix**:
+
+| From → To  | P1  | P2  | P3  | P4  | P5  | P6  | P7  | P8  |
+|------------|-----|-----|-----|-----|-----|-----|-----|-----|
+| **P1 (1,2)** | 0   | 1.0  | 1.41 | 9.22 | 10.00 | 9.21 | 78.41 | 79.84 |
+| **P2 (2,2)** | 1.0 | 0   | 1.0  | 8.49 | 9.22  | 8.49 | 77.67 | 79.11 |
+| **P3 (2,3)** | 1.41 | 1.0  | 0   | 7.81 | 8.49  | 7.81 | 77.09 | 78.54 |
+| **P4 (8,8)** | 9.22 | 8.49 | 7.81 | 0   | 1.0   | 1.0  | 72.69 | 74.16 |
+| **P5 (8,9)** | 10.00 | 9.22 | 8.49 | 1.0   | 0   | 1.41 | 72.00 | 73.41 |
+| **P6 (7,8)** | 9.21 | 8.49 | 7.81 | 1.0   | 1.41  | 0   | 72.69 | 74.16 |
+| **P7 (25,80)** | 78.41 | 77.67 | 77.09 | 72.69 | 72.00 | 72.69 | 0   | 1.41 |
+| **P8 (26,81)** | 79.84 | 79.11 | 78.54 | 74.16 | 73.41 | 74.16 | 1.41 | 0 |
+
+---
+
+## **Step 3: Identify Core, Border, and Noise Points**
+Using `eps = 2.0` and `min_samples = 3`:
+
+| Point | Neighbors within `eps=2.0` | Classification |
+|--------|----------------------------|---------------|
+| **P1** | P2, P3 | Border Point |
+| **P2** | P1, P3 | **Core Point** |
+| **P3** | P1, P2 | Border Point |
+| **P4** | P5, P6 | Border Point |
+| **P5** | P4, P6 | **Core Point** |
+| **P6** | P4, P5 | Border Point |
+| **P7** | P8 | Noise |
+| **P8** | P7 | Noise |
+
+### **Observations:**
+1. **Core Points (Meet `min_samples` Condition)**:
+   - **P2** (Cluster 1)
+   - **P5** (Cluster 2)
+
+2. **Border Points** (Connected to core points but do not meet `min_samples` on their own):
+   - **P1, P3 → Linked to Core P2 (Cluster 1)**
+   - **P4, P6 → Linked to Core P5 (Cluster 2)**
+
+3. **Noise Points**:
+   - **P7 and P8 are outliers** (no sufficient neighbors)
+
+---
+
+## **Step 4: Form Clusters**
+- **Cluster 1** (P1, P2, P3)
+- **Cluster 2** (P4, P5, P6)
+- **P7 and P8 remain as noise (-1)**
+
+Final Clustering:
+
+| Point | Cluster |
+|--------|---------|
+| **P1** | 1 |
+| **P2** | 1 (Core) |
+| **P3** | 1 |
+| **P4** | 2 |
+| **P5** | 2 (Core) |
+| **P6** | 2 |
+| **P7** | **-1 (Noise)** |
+| **P8** | **-1 (Noise)** |
+
+---
+
+
 ## **2. Advantages & Disadvantages of DBSCAN**
 | Feature | Advantages | Disadvantages |
 |---------|------------|-------------|
