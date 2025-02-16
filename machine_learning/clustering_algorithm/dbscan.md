@@ -140,6 +140,8 @@ plt.show()
 - Look for an "elbow point" in the plot where distance **suddenly increases**.
 - Use this **eps** value in DBSCAN.
 
+![image](https://github.com/user-attachments/assets/ba5ad7d3-9a2c-444f-bf15-5cdc5ff184ab)
+
 ---
 
 ### **🔹 Step 6: Adjust and Re-run DBSCAN**
