@@ -56,7 +56,7 @@ X_scaled = scaler.fit_transform(X)
 # Convert to DataFrame
 df = pd.DataFrame(X_scaled, columns=["Feature1", "Feature2"])
 ```
-
+![image](https://github.com/user-attachments/assets/b28c6942-73fe-468f-a5cc-753058a5f98a)
 ---
 
 ### **🔹 Step 3: Apply DBSCAN Algorithm**
@@ -73,6 +73,8 @@ print("Clusters found:", df["Cluster"].nunique())
 - The **Cluster column** will contain:
   - **-1** → Noise points (outliers)
   - **0, 1, 2...** → Cluster labels
+
+![image](https://github.com/user-attachments/assets/02c93a60-135e-4a34-9a08-3e639d1781f3)
 
 ---
 
@@ -97,6 +99,8 @@ plt.show()
 🔹 **Interpretation**:  
 - **Clusters are identified in different colors.**  
 - **Noise points are black (unclustered).**
+
+![image](https://github.com/user-attachments/assets/341a8896-be7c-4690-8e32-d75ca5ff8f89)
 
 ---
 
