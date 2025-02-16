@@ -1,8 +1,4 @@
-Sure! Below is the **Markdown (.md) formatted file** content that you can copy and paste into your GitHub notes.
 
----
-
-```markdown
 # **Autoencoders for Outlier Detection**
 
 ## **1. What is an Autoencoder?**
