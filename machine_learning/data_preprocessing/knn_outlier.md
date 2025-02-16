@@ -155,23 +155,3 @@ plt.show()
 
 ---
 
-## **8. Comparison with Other Outlier Detection Methods**
-| **Method** | **Best for** | **Pros** | **Cons** |
-|------------|-------------|----------|----------|
-| **Z-Score** | Normally distributed data | Fast, simple | Fails for non-Gaussian data |
-| **IQR** | Skewed distributions | Robust to extreme outliers | Limited in high-dimensional data |
-| **Isolation Forest** | Large datasets | Scalable, effective | Hyperparameter tuning needed |
-| **Autoencoders** | High-dimensional, complex data | Learns deep patterns | Requires large training data |
-| **LOF (Local Outlier Factor)** | Local density anomalies | Handles non-Gaussian data | Computationally expensive |
-| **k-NN** | Distance-based anomalies | Simple & interpretable | Not scalable for large datasets |
-
----
-
-## **9. Summary**
-- **k-NN is a simple, effective method for outlier detection** based on **nearest neighbor distances**.
-- Works well for **small to medium datasets** but **computationally expensive** for large datasets.
-- **Key Parameter**:
-  - `n_neighbors`: Defines the number of neighbors for comparison.
-- **Best suited for applications where anomalies are far from normal clusters**.
-
-Would you like an example of k-NN outlier detection on **real-world data** like **fraud detection**? 🚀
