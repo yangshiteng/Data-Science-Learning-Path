@@ -46,9 +46,7 @@ We will use **DBSCAN parameters:**
 #### **Step 2: Compute Distance Between Points**
 Using the **Euclidean distance formula**:
 
-\[
-d(A, B) = \sqrt{(x_2 - x_1)^2 + (y_2 - y_1)^2}
-\]
+![image](https://github.com/user-attachments/assets/3021ee5e-1940-4159-af1d-faf7a6301fcb)
 
 Let's compute the **distance matrix**:
 
@@ -79,7 +77,7 @@ Using `eps = 2.0` and `min_samples = 3`:
 | **P7** | P8 | Noise |
 | **P8** | P7 | Noise |
 
-#### **Observations:**
+##### **Observations:**
 1. **Core Points (Meet `min_samples` Condition)**:
    - **P2** (Cluster 1)
    - **P5** (Cluster 2)
@@ -113,8 +111,7 @@ Final Clustering:
 
 ---
 
-
-## **2. Advantages & Disadvantages of DBSCAN**
+## **Advantages & Disadvantages of DBSCAN**
 | Feature | Advantages | Disadvantages |
 |---------|------------|-------------|
 | **No Need to Specify K** | Unlike K-Means, DBSCAN finds the number of clusters automatically | Struggles with varying densities |
@@ -123,7 +120,7 @@ Final Clustering:
 
 ---
 
-## **3. Implementing DBSCAN in Python**
+## **Implementing DBSCAN in Python**
 ### **🔹 Step 1: Import Libraries**
 ```python
 import numpy as np
@@ -266,7 +263,7 @@ plt.show()
 
 ---
 
-## **5. Summary**
+## **Summary**
 - **DBSCAN is a density-based clustering algorithm** that finds clusters **without needing K**.
 - It **identifies outliers** as **noise points (-1)**.
 - **Best suited for non-linearly separable data** (e.g., moon-shaped clusters).
