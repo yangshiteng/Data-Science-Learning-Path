@@ -50,8 +50,6 @@ from sklearn.preprocessing import MinMaxScaler
 from sklearn.model_selection import train_test_split
 ```
 
----
-
 ### **🔹 Step 2: Generate or Load Dataset**
 We will create a **synthetic dataset** with some outliers.
 
