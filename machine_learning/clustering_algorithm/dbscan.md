@@ -3,6 +3,8 @@
 ## **Introduction to DBSCAN**
 DBSCAN is a **density-based clustering algorithm** that groups points **based on their density** rather than their distance from centroids (like K-Means). It is particularly effective in identifying clusters of **arbitrary shape** and **detecting outliers (noise).**
 
+---
+
 ### **How DBSCAN Works**
 1. **Choose two parameters**:
    - `eps` (ε): Maximum distance between two points to be considered neighbors.
