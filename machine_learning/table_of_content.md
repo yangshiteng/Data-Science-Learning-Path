@@ -71,10 +71,10 @@
   - [Anomaly Detection Techniques](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/data_preprocessing/anomaly_detection.md)
 - **Outlier(离群点) vs Anomaly(异常点) vs Novelty(新奇点)**
   - **Introduction**
-    - [Overview of Outlier, Anomaly, Novelty](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/fundamental_of_machine_learning/outlier_vs_anomaly_vs_novelty.md)
+    - [Overview of Outlier, Anomaly, Novelty](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/data_preprocessing/outlier_vs_anomaly_vs_novelty.md)
   - **Statistical Methods**
-    - [Z-Score (Standard Score)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/fundamental_of_machine_learning/z_score.md)
-    - [Interquartile Range (IQR)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/fundamental_of_machine_learning/interquartile_range.md)
+    - [Z-Score (Standard Score)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/data_preprocessing/z_score.md)
+    - [Interquartile Range (IQR)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/data_preprocessing/interquartile_range.md)
   - **Machine Learning-Based Methods**
     - [Isolation Forest](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/data_preprocessing/isolation_forest.md)
     - [One-Class SVM](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/data_preprocessing/one_class_svm.md)
