@@ -137,7 +137,7 @@ plt.show()
 
 ![image](https://github.com/user-attachments/assets/0cc36720-ddbf-44f0-bde9-70779a041079)
 
-# [Additional Code](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/supervised_learning/one_class_support_vector_machine_for_anomaly_detection.ipynb)
+# [Additional Code](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/data_preprocessing/one_class_support_vector_machine_for_anomaly_detection.ipynb)
 
 
 
