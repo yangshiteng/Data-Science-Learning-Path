@@ -34,6 +34,9 @@ plt.title('Local Outlier Factor Detecting Isolated Houses')
 plt.legend()
 plt.show()
 ```
+
+![image](https://github.com/user-attachments/assets/15cea611-f8bc-4c4c-a3be-4adc1fd2994f)
+
 ![image](https://github.com/user-attachments/assets/33367be1-7ec6-4967-a464-4c66c23ed2cc)
 
 ![image](https://github.com/user-attachments/assets/eda7b82f-fda3-4f01-a124-00de8ba580fe)
