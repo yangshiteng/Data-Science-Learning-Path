@@ -200,7 +200,7 @@
 
 ## VII. Clustering Algorithm
 - [K-Means Clustering](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/clustering_algorithm/k_means_clustering.md)
-- [DBSCAN]()
+- [DBSCAN](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/clustering_algorithm/dbscan.md)
 - Hierarchical Clustering
 - Gaussian Mixture Models (GMM)
 - Mean-Shift Clustering
