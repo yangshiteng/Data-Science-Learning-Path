@@ -29,8 +29,6 @@ DBSCAN forms clusters by **expanding from core points** and merging **neighborin
 #### **Step 1: Identify Core Points**
 A **point is a core point** if it has **at least `min_samples` neighbors within `eps` distance**. These points will serve as the **starting points** for clusters.
 
----
-
 #### **Step 2: Expand the Cluster from Core Points**
 1. **Pick an unvisited core point** and assign it to a new cluster.
 2. **Find all points within `eps` of this core point** (these are its **directly reachable neighbors**).
@@ -39,20 +37,14 @@ A **point is a core point** if it has **at least `min_samples` neighbors within 
    - If it is a **border point**, it **joins the cluster but does not expand it further**.
 4. **Repeat the process** for newly added core points, expanding the cluster **until no more core points can be reached**.
 
----
-
 #### **Step 3: Merge Neighboring Core Points**
 - If **two core points are within `eps` of each other**, they **belong to the same cluster**.
 - The cluster **continues expanding** as long as new **core points are found**.
 - If a **border point** is within `eps` of multiple core points, it can be assigned to **only one cluster** (usually the first one encountered).
 
----
-
 #### **Step 4: Handle Noise Points**
 - Points that **do not belong to any cluster** are marked as **noise (`-1`)**.
 - **Noise points remain unclustered** and do not contribute to cluster formation.
-
----
 
 #### **Key Takeaways**
 ✅ **Core points** start clusters and expand them by adding **reachable core and border points**.  
@@ -60,10 +52,9 @@ A **point is a core point** if it has **at least `min_samples` neighbors within 
 ✅ **Clusters merge when core points are close to each other (`eps` distance)**.  
 ✅ **Noise points stay unclustered**.  
 
+---
 
 ### **DBSCAN (Density-Based Spatial Clustering) - A Step-by-Step Calculation Example**
-
----
 
 #### **Step 1: Define a Small Dataset**
 We will use a **2D dataset with 8 points**, structured so that **DBSCAN can detect clusters**.
@@ -83,8 +74,6 @@ We will use **DBSCAN parameters:**
 - `eps = 2.0` (Maximum distance between two points to be considered neighbors)
 - `min_samples = 3` (A core point must have at least 3 neighbors, including itself)
 
----
-
 #### **Step 2: Compute Distance Between Points**
 Using the **Euclidean distance formula**:
 
@@ -102,8 +91,6 @@ Let's compute the **distance matrix**:
 | **P6 (7,8)** | 9.21 | 8.49 | 7.81 | 1.0   | 1.41  | 0   | 72.69 | 74.16 |
 | **P7 (25,80)** | 78.41 | 77.67 | 77.09 | 72.69 | 72.00 | 72.69 | 0   | 1.41 |
 | **P8 (26,81)** | 79.84 | 79.11 | 78.54 | 74.16 | 73.41 | 74.16 | 1.41 | 0 |
-
----
 
 #### **Step 3: Identify Core, Border, and Noise Points**
 Using `eps = 2.0` and `min_samples = 3`:
@@ -130,8 +117,6 @@ Using `eps = 2.0` and `min_samples = 3`:
 
 3. **Noise Points**:
    - **P7 and P8 are outliers** (no sufficient neighbors)
-
----
 
 #### **Step 4: Form Clusters**
 - **Cluster 1** (P1, P2, P3)
@@ -173,8 +158,6 @@ from sklearn.datasets import make_moons
 from sklearn.preprocessing import StandardScaler
 ```
 
----
-
 ### **🔹 Step 2: Generate Sample Data**
 We create a **non-linearly separable dataset** (moons dataset) to show DBSCAN's advantage over K-Means.
 
@@ -191,7 +174,6 @@ X_scaled = scaler.fit_transform(X)
 df = pd.DataFrame(X_scaled, columns=["Feature1", "Feature2"])
 ```
 ![image](https://github.com/user-attachments/assets/b28c6942-73fe-468f-a5cc-753058a5f98a)
----
 
 ### **🔹 Step 3: Apply DBSCAN Algorithm**
 ```python
@@ -209,8 +191,6 @@ print("Clusters found:", df["Cluster"].nunique())
   - **0, 1, 2...** → Cluster labels
 
 ![image](https://github.com/user-attachments/assets/02c93a60-135e-4a34-9a08-3e639d1781f3)
-
----
 
 ### **🔹 Step 4: Visualize Clusters**
 ```python
@@ -236,16 +216,12 @@ plt.show()
 
 ![image](https://github.com/user-attachments/assets/341a8896-be7c-4690-8e32-d75ca5ff8f89)
 
----
-
 ## **4. Choosing the Right DBSCAN Parameters**
 | Parameter | Description | Recommended Values |
 |-----------|-------------|------------------|
 | `eps` | Maximum distance between neighbors | 0.1 - 1.0 (depends on dataset scale) |
 | `min_samples` | Minimum points needed to form a cluster | 3-10 |
 | `metric` | Distance metric used | 'euclidean' (default), 'manhattan' |
-
----
 
 ### **🔹 Step 5: Find Optimal `eps` Value**
 The **k-distance graph** helps determine the right `eps` value.
@@ -275,8 +251,6 @@ plt.show()
 - Use this **eps** value in DBSCAN.
 
 ![image](https://github.com/user-attachments/assets/ba5ad7d3-9a2c-444f-bf15-5cdc5ff184ab)
-
----
 
 ### **🔹 Step 6: Adjust and Re-run DBSCAN**
 After choosing the best `eps`, re-run DBSCAN:
