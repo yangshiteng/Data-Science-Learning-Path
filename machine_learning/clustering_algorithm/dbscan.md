@@ -167,6 +167,8 @@ plt.legend()
 plt.show()
 ```
 
+![image](https://github.com/user-attachments/assets/f322038e-ff03-46ed-ab7a-9676e6d79c64)
+
 ---
 
 ## **5. Summary**
