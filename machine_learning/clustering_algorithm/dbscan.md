@@ -20,10 +20,8 @@ DBSCAN is a **density-based clustering algorithm** that groups points **based on
 ---
 
 ### **How DBSCAN Expands Clusters**
-
----
 DBSCAN forms clusters by **expanding from core points** and merging **neighboring core and border points** into the same cluster.
----
+
 #### **Step 1: Identify Core Points**
 A **point is a core point** if it has **at least `min_samples` neighbors within `eps` distance**. These points will serve as the **starting points** for clusters.
 
