@@ -199,9 +199,9 @@
   - [AdaBoost vs Gradient Boost](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/ensemble_learning/adaboost_vs_gradientboost.md)
 
 ## VII. Clustering Algorithm
-- [K-Means Clustering]()
+- [K-Means Clustering](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/clustering_algorithm/k_means_clustering.md)
+- [DBSCAN]()
 - Hierarchical Clustering
-- DBSCAN
 - Gaussian Mixture Models (GMM)
 - Mean-Shift Clustering
   
