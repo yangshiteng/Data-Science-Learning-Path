@@ -216,7 +216,7 @@ plt.show()
 
 ![image](https://github.com/user-attachments/assets/341a8896-be7c-4690-8e32-d75ca5ff8f89)
 
-## **4. Choosing the Right DBSCAN Parameters**
+### **Choosing the Right DBSCAN Parameters**
 | Parameter | Description | Recommended Values |
 |-----------|-------------|------------------|
 | `eps` | Maximum distance between neighbors | 0.1 - 1.0 (depends on dataset scale) |
