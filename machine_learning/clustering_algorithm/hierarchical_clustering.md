@@ -106,18 +106,8 @@ We update the distance matrix using **single linkage** (minimum distance):
 ✅ The closest pair is **(ABC, DE)**. **Final merge** results in a **single cluster**.
 
 ### **Final Clustering Representation**
-The hierarchical tree structure:
 
-```
-          ABCDE
-         /     \
-       ABC     DE
-      /   \    /  \
-     A    BC  D    E
-         /   \
-        B     C
-
-```
+![image](https://github.com/user-attachments/assets/de0f23d1-baf7-4dcd-9484-a1aa4d448adc)
 
 ---
 
