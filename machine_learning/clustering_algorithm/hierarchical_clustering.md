@@ -1,131 +1,151 @@
-# Hierarchical Clustering
+# **Hierarchical Clustering: A Comprehensive Guide with Correct Distance Similarity Levels**  
 
-Hierarchical Clustering is a **tree-based clustering algorithm** that groups data into a **hierarchical structure** using a **dendrogram**.
-
----
-
-## **1. Types of Hierarchical Clustering**
-There are two types:
-1. **Agglomerative Hierarchical Clustering (AHC) (Bottom-Up)** → **Start with each point as its own cluster and merge until one big cluster remains.**
-2. **Divisive Hierarchical Clustering (Top-Down)** → **Start with one big cluster and split into smaller clusters recursively.**
-
-### **Agglomerative Hierarchical Clustering (AHC) is more commonly used.**
+## **1. Introduction to Hierarchical Clustering**  
+Hierarchical clustering is a **tree-based clustering algorithm** that groups data into a **nested hierarchy of clusters**. Unlike K-Means, it does **not require specifying the number of clusters (K) in advance**. Instead, a **dendrogram** is generated to help determine the optimal number of clusters.
 
 ---
 
-## **2. Steps of Agglomerative Hierarchical Clustering**
-Given a dataset with `N` data points, AHC follows these steps:
+## **2. Types of Hierarchical Clustering**
+1. **Agglomerative Hierarchical Clustering (AHC) (Bottom-Up Approach)**  
+   - **Each data point starts as its own cluster.**  
+   - **Clusters are iteratively merged** based on distance similarity until one final cluster remains.  
+   - **Most commonly used method** in hierarchical clustering.
 
-### **Step 1: Compute Distance Matrix**
-- Calculate the **Euclidean distance** between every pair of points.
+2. **Divisive Hierarchical Clustering (Top-Down Approach)**  
+   - **All data points start in one large cluster.**  
+   - **Clusters are recursively split** until each point forms its own cluster.  
+   - **Less commonly used due to high computational cost**.
 
-### **Step 2: Merge the Closest Clusters**
-- Find the **two closest clusters** based on a **linkage criterion**.
-- Merge them into a **new cluster**.
-
-### **Step 3: Update the Distance Matrix**
-- Compute the distance between the **new cluster** and the remaining clusters.
-- Repeat Steps **2 & 3** until **only one cluster remains**.
-
-### **Step 4: Create the Dendrogram**
-- The **merging process is recorded** in a tree-like diagram called a **dendrogram**.
-- **Cutting the dendrogram at a certain height** determines the number of clusters.
+We will focus on **Agglomerative Hierarchical Clustering (AHC)**.
 
 ---
 
-## **3. Step-by-Step Example with Mathematical Calculation**
-We will perform **Agglomerative Hierarchical Clustering** step-by-step.
+## **3. Steps of Agglomerative Hierarchical Clustering**
+Given 5 points:
 
-### **Given 5 Data Points**
 | Point | X  | Y  |
 |--------|----|----|
 | **A** | 1  | 2  |
-| **B** | 2  | 3  |
-| **C** | 3  | 3  |
+| **B** | 2  | 2  |
+| **C** | 2  | 3  |
 | **D** | 5  | 7  |
 | **E** | 6  | 8  |
 
-### **Step 1: Compute Pairwise Euclidean Distance**
-The **Euclidean distance formula**:
+---
 
-![image](https://github.com/user-attachments/assets/4f631d45-546f-4c92-b1a2-24c536082290)
+### **Step 1: Compute Pairwise Distance Matrix**
+Using the **Euclidean distance formula**:
 
-Let's compute all pairwise distances:
+![image](https://github.com/user-attachments/assets/13dd1c26-0f01-495c-8830-3f72df551dba)
 
 | From → To  | A  | B  | C  | D  | E  |
 |------------|----|----|----|----|----|
-| **A (1,2)** | 0  | 1.41 | 2.24 | 7.21 | 8.49 |
-| **B (2,3)** | 1.41 | 0  | 1.00 | 5.83 | 7.07 |
-| **C (3,3)** | 2.24 | 1.00 | 0  | 5.00 | 6.40 |
+| **A (1,2)** | 0  | 1.00 | 1.41 | 7.21 | 8.49 |
+| **B (2,2)** | 1.00 | 0  | 1.00 | 5.83 | 7.07 |
+| **C (2,3)** | 1.41 | 1.00 | 0  | 5.00 | 6.40 |
 | **D (5,7)** | 7.21 | 5.83 | 5.00 | 0  | 1.41 |
 | **E (6,8)** | 8.49 | 7.07 | 6.40 | 1.41 | 0  |
 
-✅ The closest pair is **(B, C) with distance 1.00**.
+---
 
-### **Step 2: Merge the Closest Clusters**
-We **merge B and C** into a new cluster **BC**.
+### **Step 2: Merge the Closest Pair (B, C → BC)**
+- **Distance(B, C) = 1.00** (Smallest in the matrix)
+- Merge **B and C** into **BC**.
 
-New cluster positions:
-![image](https://github.com/user-attachments/assets/195151a9-c0db-4515-8a10-445036236416)
-
-### **Step 3: Update the Distance Matrix**
-We update the distance matrix using **single linkage** (minimum distance):
-
-| From → To  | A  | BC | D  | E  |
-|------------|----|----|----|----|
-| **A (1,2)** | 0  | 1.58 | 7.21 | 8.49 |
-| **BC (2.5,3)** | 1.58 | 0  | 5.39 | 6.82 |
-| **D (5,7)** | 7.21 | 5.39 | 0  | 1.41 |
-| **E (6,8)** | 8.49 | 6.82 | 1.41 | 0  |
-
-✅ The closest pair is **(D, E) with distance 1.41**.
-
-### **Step 4: Merge the Next Closest Clusters**
-- **Merge D and E** into a new cluster **DE**.
-![image](https://github.com/user-attachments/assets/4911df93-520f-44fd-ba3f-90d4a5a1e7f1)
-
-### **Step 5: Update the Distance Matrix**
-| From → To  | A  | BC | DE  |
-|------------|----|----|----|
-| **A (1,2)** | 0  | 1.58 | 7.86 |
-| **BC (2.5,3)** | 1.58 | 0  | 5.70 |
-| **DE (5.5,7.5)** | 7.86 | 5.70 | 0  |
-
-✅ The closest pair is **(A, BC) with distance 1.58**.
-
-### **Step 6: Merge A and BC**
-- **Merge A and BC into ABC**.
-![image](https://github.com/user-attachments/assets/ca9ff515-0220-4b58-824a-2dae0142c31a)
-
-### **Step 7: Final Merge**
-| From → To  | ABC | DE |
-|------------|----|----|
-| **ABC (1.75,2.5)** | 0  | 6.78 |
-| **DE (5.5,7.5)** | 6.78 | 0  |
-
-✅ The closest pair is **(ABC, DE)**. **Final merge** results in a **single cluster**.
-
-### **Final Clustering Representation**
-
-![image](https://github.com/user-attachments/assets/de0f23d1-baf7-4dcd-9484-a1aa4d448adc)
+Updated Clusters:
+```
+Level 1: {A, BC, D, E}
+```
 
 ---
 
-## **4. Types of Linkage Criteria**
-The way distances between clusters are updated affects the final clustering.
+### **Step 3: Merge the Next Closest Pair (D, E → DE)**
+- **Distance(D, E) = 1.41**
+- Merge **D and E** into **DE**.
 
-| Linkage Type | How Distance is Measured | Effect |
-|-------------|------------------------|--------|
-| **Single Linkage** | Distance between the closest points in clusters | Tends to form long chains |
-| **Complete Linkage** | Distance between the farthest points | Produces compact clusters |
-| **Average Linkage** | Average distance between all points | Balanced clustering |
-| **Centroid Linkage** | Distance between cluster centroids | Sensitive to outliers |
+Updated Clusters:
+```
+Level 2: {A, BC, DE}
+```
 
 ---
 
-## **5. Key Takeaways**
-✅ **Hierarchical Clustering creates a dendrogram**, showing the **merging process**.  
-✅ **No need to predefine `K`** (the number of clusters).  
-✅ **Different linkage methods** affect results.  
-✅ **Computationally expensive for large datasets** (\(O(n^3)\) complexity).  
+### **Step 4: Merge the Next Closest Pair (A, BC → ABC)**
+- **Distance(A, BC) = 1.58**
+- Merge **A and BC** into **ABC**.
 
+Updated Clusters:
+```
+Level 3: {ABC, DE}
+```
+
+---
+
+### **Step 5: Merge the Final Clusters (ABC, DE → ABCDE)**
+- **Distance(ABC, DE) = 6.78**
+- Merge **ABC and DE** into the final **ABCDE cluster**.
+
+Updated Clusters:
+```
+Level 4: {ABCDE}
+```
+
+---
+
+## **4. Correct Hierarchical Levels with Distance Similarity**
+| **Level** | **Clusters at This Level** | **Merging Criteria** |
+|-----------|----------------------------|------------------------|
+| **Level 0** | {A, B, C, D, E} | Each data point is a separate cluster. |
+| **Level 1** | {A, BC, D, E} | **B and C merge (d=1.00)**. |
+| **Level 2** | {ABC, DE} | **D and E merge (d=1.41)**, **A merges with BC (d=1.58)**. |
+| **Level 3** | {ABCDE} | **ABC and DE merge (d=6.78)** (final cluster). |
+
+---
+
+## **5. Determining Distance Similarity**
+We now determine whether **BC and DE are at the same hierarchical level** by considering all relevant distances.
+
+### **Key Distances:**
+- \( d(B, C) = 1.00 \)
+- \( d(D, E) = 1.41 \)
+- \( d(A, BC) = 1.58 \)
+- \( d(ABC, DE) = 6.78 \)
+
+### **Step 1: Compute Relative Differences**
+![image](https://github.com/user-attachments/assets/779e9991-b996-4fe2-ba0e-4408c09d4a6c)
+
+### **Step 2: Compare with Threshold**
+- **Distance(B, C) and Distance(D, E) are NOT very similar (29% difference).**
+- **Distance(D, E) and Distance(A, BC) are similar (11% difference, within a 15% threshold).**
+
+### **Final Similarity Conclusion**
+- **BC merges first (B, C merge at distance = 1.00).**
+- **DE and ABC are at the same level** because their merging distances (1.41 and 1.58) are similar.
+- **The final merge (ABC, DE) happens at a much higher distance (6.78), so it is a separate level.**
+
+---
+
+## **6. Final Hierarchical Clustering Dendrogram**
+```
+          ABCDE        <-- Level 3 (Final Merge)
+         /     \
+       ABC     DE      <-- Level 2 (Merging at similar distances)
+      /   \    /  \
+     A    BC  D    E  <-- Level 1 (First merges)
+
+```
+
+✅ **Corrected Levels:**
+1. **Level 0:** {A, B, C, D, E} (All individual clusters)
+2. **Level 1:** {A, BC, D, E} (B, C merged)
+3. **Level 2:** {ABC, DE} (A merges with BC; D merges with E)
+4. **Level 3:** {ABCDE} (Final merge)
+
+---
+
+## **7. Key Takeaways**
+✅ **Hierarchical clustering groups data step-by-step based on distance similarity.**  
+✅ **Clusters merge at the same level when they merge at similar distances.**  
+✅ **BC is a separate level from DE because their merging distances are different.**  
+✅ **ABC and DE are at the same level because their distances (1.41 and 1.58) are similar.**  
+✅ **The dendrogram visually represents the hierarchical clustering process.**  
