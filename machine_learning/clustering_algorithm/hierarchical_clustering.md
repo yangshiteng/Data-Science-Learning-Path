@@ -2,6 +2,8 @@
 
 Hierarchical Clustering is a **tree-based clustering algorithm** that groups data into a **hierarchical structure** using a **dendrogram**.
 
+---
+
 ## **1. Types of Hierarchical Clustering**
 There are two types:
 1. **Agglomerative Hierarchical Clustering (AHC) (Bottom-Up)** → **Start with each point as its own cluster and merge until one big cluster remains.**
@@ -43,14 +45,10 @@ We will perform **Agglomerative Hierarchical Clustering** step-by-step.
 | **D** | 5  | 7  |
 | **E** | 6  | 8  |
 
----
-
 ### **Step 1: Compute Pairwise Euclidean Distance**
 The **Euclidean distance formula**:
 
-\[
-d(A, B) = \sqrt{(x_2 - x_1)^2 + (y_2 - y_1)^2}
-\]
+![image](https://github.com/user-attachments/assets/4f631d45-546f-4c92-b1a2-24c536082290)
 
 Let's compute all pairwise distances:
 
@@ -64,15 +62,11 @@ Let's compute all pairwise distances:
 
 ✅ The closest pair is **(B, C) with distance 1.00**.
 
----
-
 ### **Step 2: Merge the Closest Clusters**
 We **merge B and C** into a new cluster **BC**.
 
 New cluster positions:
 - **BC = Mean(B, C)** → \(\left(\frac{2+3}{2}, \frac{3+3}{2}\right) = (2.5, 3)\)
-
----
 
 ### **Step 3: Update the Distance Matrix**
 We update the distance matrix using **single linkage** (minimum distance):
@@ -86,13 +80,9 @@ We update the distance matrix using **single linkage** (minimum distance):
 
 ✅ The closest pair is **(D, E) with distance 1.41**.
 
----
-
 ### **Step 4: Merge the Next Closest Clusters**
 - **Merge D and E** into a new cluster **DE**.
 - **DE = Mean(D, E)** → \(\left(\frac{5+6}{2}, \frac{7+8}{2}\right) = (5.5, 7.5)\)
-
----
 
 ### **Step 5: Update the Distance Matrix**
 | From → To  | A  | BC | DE  |
@@ -103,13 +93,9 @@ We update the distance matrix using **single linkage** (minimum distance):
 
 ✅ The closest pair is **(A, BC) with distance 1.58**.
 
----
-
 ### **Step 6: Merge A and BC**
 - **Merge A and BC into ABC**.
 - **ABC = Mean(A, BC)** → \(\left(\frac{1+2.5}{2}, \frac{2+3}{2}\right) = (1.75, 2.5)\)
-
----
 
 ### **Step 7: Final Merge**
 | From → To  | ABC | DE |
@@ -118,8 +104,6 @@ We update the distance matrix using **single linkage** (minimum distance):
 | **DE (5.5,7.5)** | 6.78 | 0  |
 
 ✅ The closest pair is **(ABC, DE)**. **Final merge** results in a **single cluster**.
-
----
 
 ### **Final Clustering Representation**
 The hierarchical tree structure:
