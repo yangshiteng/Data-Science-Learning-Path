@@ -106,6 +106,7 @@ plt.show()
 
 ![image](https://github.com/user-attachments/assets/977cf883-4935-4858-a945-809a07548719)
 
+![image](https://github.com/user-attachments/assets/26528245-ef30-4d63-9017-731f928e754f)
 
 ### Summary of Steps:
 1. Start with each data point as a single cluster.
