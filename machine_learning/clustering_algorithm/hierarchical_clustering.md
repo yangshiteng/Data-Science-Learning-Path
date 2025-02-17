@@ -20,11 +20,7 @@ Let’s assume we have the following dataset with 5 data points in 2D space:
 #### Step 2: Compute the Distance Matrix
 The first step is to compute the pairwise distance between all data points. We will use the **Euclidean distance** as the distance metric.
 
-The Euclidean distance between two points \( (x_1, y_1) \) and \( (x_2, y_2) \) is:
-
-\[
-\text{Distance} = \sqrt{(x_2 - x_1)^2 + (y_2 - y_1)^2}
-\]
+![image](https://github.com/user-attachments/assets/810f8345-ac5b-4582-aa1f-3ece17e5f6ce)
 
 The distance matrix for the dataset is:
 
