@@ -82,7 +82,7 @@ We update the distance matrix using **single linkage** (minimum distance):
 
 ### **Step 4: Merge the Next Closest Clusters**
 - **Merge D and E** into a new cluster **DE**.
-- **DE = Mean(D, E)** → \(\left(\frac{5+6}{2}, \frac{7+8}{2}\right) = (5.5, 7.5)\)
+![image](https://github.com/user-attachments/assets/4911df93-520f-44fd-ba3f-90d4a5a1e7f1)
 
 ### **Step 5: Update the Distance Matrix**
 | From → To  | A  | BC | DE  |
@@ -95,7 +95,7 @@ We update the distance matrix using **single linkage** (minimum distance):
 
 ### **Step 6: Merge A and BC**
 - **Merge A and BC into ABC**.
-- **ABC = Mean(A, BC)** → \(\left(\frac{1+2.5}{2}, \frac{2+3}{2}\right) = (1.75, 2.5)\)
+![image](https://github.com/user-attachments/assets/ca9ff515-0220-4b58-824a-2dae0142c31a)
 
 ### **Step 7: Final Merge**
 | From → To  | ABC | DE |
