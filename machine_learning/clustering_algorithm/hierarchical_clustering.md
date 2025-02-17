@@ -76,20 +76,36 @@ The final step is to merge **AB** and **CDE** into a single cluster **ABCDE**.
 #### Step 10: Visualize the Dendrogram
 The hierarchical clustering process can be visualized using a **dendrogram**, which shows the order and distances of the merges.
 
+```python
+import numpy as np
+import matplotlib.pyplot as plt
+from scipy.cluster.hierarchy import dendrogram, linkage
+
+# Step 1: Define the dataset
+data = np.array([
+    [1.0, 1.0],  # A
+    [1.5, 1.5],  # B
+    [5.0, 5.0],  # C
+    [5.5, 5.5],  # D
+    [3.0, 4.0]   # E
+])
+
+# Step 2: Perform hierarchical clustering using single linkage
+# The 'linkage' function computes the hierarchical clustering
+# 'method="single"' specifies single linkage
+Z = linkage(data, method='single')
+
+# Step 3: Plot the dendrogram
+plt.figure(figsize=(8, 5))
+plt.title("Dendrogram for Agglomerative Hierarchical Clustering")
+plt.xlabel("Data Points")
+plt.ylabel("Distance")
+dendrogram(Z, labels=['A', 'B', 'C', 'D', 'E'])
+plt.show()
 ```
-Distance
-|
-|        AB
-|       / \
-|      /   \
-|     /     \
-|    /       \
-|   /         \
-|  /           \
-| /             \
-|/_______________\
-  A   B   C   D   E
-```
+
+![image](https://github.com/user-attachments/assets/977cf883-4935-4858-a945-809a07548719)
+
 
 ### Summary of Steps:
 1. Start with each data point as a single cluster.
@@ -108,4 +124,3 @@ Distance
 - **Social Network Analysis**: Community detection.
 - **Image Processing**: Image segmentation.
 
-This step-by-step example demonstrates how hierarchical clustering works in practice.
