@@ -18,6 +18,8 @@ Hierarchical clustering is a **tree-based clustering algorithm** that groups dat
 
 We will focus on **Agglomerative Hierarchical Clustering (AHC)**.
 
+![image](https://github.com/user-attachments/assets/d31b1986-6371-4540-9902-3081f98e40c7)
+
 ---
 
 ## **3. Steps of Agglomerative Hierarchical Clustering**
