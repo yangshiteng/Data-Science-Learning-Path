@@ -66,7 +66,7 @@ Let's compute all pairwise distances:
 We **merge B and C** into a new cluster **BC**.
 
 New cluster positions:
-- **BC = Mean(B, C)** → \(\left(\frac{2+3}{2}, \frac{3+3}{2}\right) = (2.5, 3)\)
+![image](https://github.com/user-attachments/assets/195151a9-c0db-4515-8a10-445036236416)
 
 ### **Step 3: Update the Distance Matrix**
 We update the distance matrix using **single linkage** (minimum distance):
