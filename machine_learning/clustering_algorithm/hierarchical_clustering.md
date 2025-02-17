@@ -1,4 +1,4 @@
-# **Hierarchical Clustering: A Step-by-Step Mathematical Explanation**
+# **Hierarchical Clustering
 
 Hierarchical Clustering is a **tree-based clustering algorithm** that groups data into a **hierarchical structure** using a **dendrogram**.
 
