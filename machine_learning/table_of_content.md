@@ -202,7 +202,7 @@
 - [K-Means Clustering](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/clustering_algorithm/k_means_clustering.md)
 - [DBSCAN](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/clustering_algorithm/dbscan.md)
 - [Hierarchical Clustering](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/clustering_algorithm/hierarchical_clustering.md)
-- [Gaussian Mixture Models (GMM)]()
+- [Gaussian Mixture Models (GMM)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/clustering_algorithm/gmm.md)
 - [Mean-Shift Clustering]()
   
 ## VIII. Model Evaluation
