@@ -103,6 +103,7 @@ plt.title("Mean-Shift Clustering Results")
 plt.legend()
 plt.show()
 ```
+![image](https://github.com/user-attachments/assets/8dd0a59a-5c0a-4b23-b07e-908a666bc96b)
 
 ---
 
