@@ -9,21 +9,7 @@ Mean-Shift is a **density-based clustering algorithm** that iteratively shifts d
 #### **2.1. Kernel Density Estimation (KDE)**
 Mean-Shift relies on **Kernel Density Estimation (KDE)** to estimate the probability density function (PDF) of the dataset. The density function at a point \( x \) is given by:
 
-\[
-f(x) = \frac{1}{n} \sum_{i=1}^{n} K(x - x_i)
-\]
-
-where:
-- \( K(x - x_i) \) is a **kernel function** (commonly a Gaussian kernel),
-- \( n \) is the number of data points.
-
-A **Gaussian Kernel** is commonly used:
-
-\[
-K(x - x_i) = e^{-\frac{\|x - x_i\|^2}{2h^2}}
-\]
-
-where \( h \) is the **bandwidth** (window size).
+![image](https://github.com/user-attachments/assets/e105f682-a499-41e6-94d2-9b29f4fd4f8b)
 
 ---
 
