@@ -51,6 +51,7 @@ plt.scatter(X[:, 0], X[:, 1], c='gray', marker='o', alpha=0.5)
 plt.title("Generated Data for Clustering")
 plt.show()
 ```
+![image](https://github.com/user-attachments/assets/594485f8-9b79-4a2c-9d6d-e2e7bd9804c3)
 
 ---
 
@@ -94,6 +95,7 @@ plt.title("Mean-Shift Clustering Results")
 plt.legend()
 plt.show()
 ```
+![image](https://github.com/user-attachments/assets/e00c5e47-26d5-45a7-a535-574c13bf8b9e)
 
 ---
 
@@ -125,6 +127,8 @@ plt.legend()
 plt.show()
 
 ```
+
+![image](https://github.com/user-attachments/assets/7b563af4-0c8c-4f8c-95d5-0935b604eb11)
 
 
 
