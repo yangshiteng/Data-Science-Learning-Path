@@ -14,24 +14,9 @@ Mean-Shift relies on **Kernel Density Estimation (KDE)** to estimate the probabi
 ---
 
 #### **2.2. Mean Shift Vector Calculation**
-The core idea is to update each data point \( x \) iteratively using the following formula:
 
-\[
-m(x) = \frac{\sum_{i=1}^{n} x_i K(x - x_i)}{\sum_{i=1}^{n} K(x - x_i)}
-\]
+![image](https://github.com/user-attachments/assets/59b220cb-4944-4f79-af0b-964080b92a5d)
 
-where:
-- \( m(x) \) is the **mean shift vector**.
-- The numerator computes a **weighted mean** of all points inside the window.
-- The denominator normalizes the weights.
-
-Each data point is shifted towards higher-density regions by updating:
-
-\[
-x \leftarrow m(x)
-\]
-
-This process is repeated until convergence, meaning when the shift is very small.
 
 ---
 
