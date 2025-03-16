@@ -47,6 +47,7 @@ plt.scatter(X[:, 0], X[:, 1], alpha=0.5)
 plt.title("Generated Data")
 plt.show()
 ```
+![image](https://github.com/user-attachments/assets/17aba49e-f8c8-49a6-a3e5-5f0a4fb6276e)
 
 #### **Step 3: Define Gaussian Kernel Function**
 ```python
