@@ -203,7 +203,7 @@
 - [DBSCAN](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/clustering_algorithm/dbscan.md)
 - [Hierarchical Clustering](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/clustering_algorithm/hierarchical_clustering.md)
 - [Gaussian Mixture Models (GMM)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/clustering_algorithm/gmm.md)
-- [Mean-Shift Clustering]()
+- [Mean-Shift Clustering](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/clustering_algorithm/mean_shift_clustering.md)
   
 ## VIII. Model Evaluation
 - Accuracy, Precision, Recall, F1 Score
