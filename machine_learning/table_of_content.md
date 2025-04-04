@@ -88,7 +88,7 @@
 - **Automating Data Preprocessing**
   - [Developing and Implementing Data Preprocessing Pipelines](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/data_preprocessing/data_preprocessing_pipeline.md)
 
-## IV. Optimization Algorithm (Parameter Estimation and Hyperparameter Tuning)
+## IV. Optimization Algorithm (Parameter Estimation)
 - **Introduction**
   - [Numerical Method (Numerical Solution) vs Closed-Form Solution (Analytical Method)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/optimization_algorithm/numerical_vs_closed_form.md)
   - [Numerical Method Overview](https://github.com/yangshiteng/Data-Science-Learning-Path/edit/main/machine_learning/optimization_algorithm/numerical_method_overview.md)
@@ -112,13 +112,7 @@
   - [Local Minima, Saddle Points and Flat Regions (Plateaus)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/optimization_algorithm/local_minima_saddle_point.md)
   - [Vanishing (handled by ReLU) and Exploding Gradients (handled by Gradient Clipping)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/optimization_algorithm/vanishing_exploding_gradients.md)
   - [Internal Covariate Shift (Neural Network)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/optimization_algorithm/internal_covariate_shift.md)
-- **Hyperparameters Tuning**
-  - [Overview of Hyperparameters Tuning](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/optimization_algorithm/overview_hyperparameter.md)
-  - [Cross Validation (Robust Model Evaluation)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/optimization_algorithm/cross_validation.md)
-  - [Model Selection and Hyperparameter Tuning with Cross Validation](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/optimization_algorithm/cross_validation_hyper_tuning.md)
-  - [Overfitting (Regularization Techniques)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/optimization_algorithm/overfitting_optimization.md)
     
-
 ## V. Regression and Classificaiton Basics
 - **Linear Regression**
   - [Linear Regression Table of Content](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/statistics/table_of_content.md#vi-regression)
@@ -205,9 +199,13 @@
 - [Gaussian Mixture Models (GMM)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/clustering_algorithm/gmm.md)
 - [Mean-Shift Clustering](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/clustering_algorithm/mean_shift_clustering.md)
   
-## VIII. Model Evaluation
-- Accuracy, Precision, Recall, F1 Score
-- Confusion Matrix
-- ROC and AUC
-
+## VIII. Model Evaluation and Hyperparameter Tuning
+- **Model Evaluation**
+  - [Assessing Model Performance (from StatQuest)]()
+  - [Evaluation Metrics]()
+- **Hyperparameters Tuning**
+  - [Overview of Hyperparameters Tuning](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/model_selection_and_evaluation/overview_hyperparameter.md)
+  - [Cross Validation (Robust Model Evaluation)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/model_selection_and_evaluation/cross_validation.md)
+  - [Model Selection and Hyperparameter Tuning with Cross Validation](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/model_selection_and_evaluation/cross_validation_hyper_tuning.md)
+  - [Overfitting (Regularization Techniques)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/model_selection_and_evaluation/overfitting_optimization.md)
 
