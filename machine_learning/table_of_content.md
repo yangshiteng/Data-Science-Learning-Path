@@ -26,6 +26,7 @@
   - [Bias, Variance, and Model Complexity](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/fundamental_of_machine_learning/bias_variance_model_complex.md)
   - [Bias-Variance Tradeoff](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/fundamental_of_machine_learning/bias_variance_tradeoff.md)
   - [Overfitting and Underfitting](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/fundamental_of_machine_learning/over_fitting_under_fitting.md)
+  - [Overfitting (Regularization Techniques)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/fundamental_of_machine_learning/overfitting_optimization.md)
 - **Tools and Platforms**
   - [Common Tools and Platforms in Machine Learning](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/fundamental_of_machine_learning/common_tools_ml.md)
 
@@ -203,9 +204,7 @@
 - **Model Evaluation**
   - [Assessing Model Performance (from StatQuest)]()
   - [Evaluation Metrics]()
+  - [Cross Validation (Robust Model Evaluation)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/model_selection_and_evaluation/cross_validation.md)
 - **Hyperparameters Tuning**
   - [Overview of Hyperparameters Tuning](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/model_selection_and_evaluation/overview_hyperparameter.md)
-  - [Cross Validation (Robust Model Evaluation)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/model_selection_and_evaluation/cross_validation.md)
   - [Model Selection and Hyperparameter Tuning with Cross Validation](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/model_selection_and_evaluation/cross_validation_hyper_tuning.md)
-  - [Overfitting (Regularization Techniques)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/model_selection_and_evaluation/overfitting_optimization.md)
-
