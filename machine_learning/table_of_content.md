@@ -202,7 +202,7 @@
   
 ## VIII. Model Evaluation and Hyperparameter Tuning
 - **Model Evaluation**
-  - [Assessing Model Performance (from StatQuest)]()
+  - [Assessing Model Performance (from StatQuest)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/model_selection_and_evaluation/assessing_model_performance.md)
   - [Evaluation Metrics]()
   - [Cross Validation (Robust Model Evaluation)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/model_selection_and_evaluation/cross_validation.md)
 - **Hyperparameters Tuning**
