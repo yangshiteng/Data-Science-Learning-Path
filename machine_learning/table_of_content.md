@@ -200,11 +200,13 @@
 - [Gaussian Mixture Models (GMM)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/clustering_algorithm/gmm.md)
 - [Mean-Shift Clustering](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/clustering_algorithm/mean_shift_clustering.md)
   
-## VIII. Model Evaluation and Hyperparameter Tuning
+## VIII. Model Selection and Evaluation
 - **Model Evaluation**
   - [Assessing Model Performance (from StatQuest)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/model_selection_and_evaluation/assessing_model_performance.md)
   - [Evaluation Metrics](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/model_selection_and_evaluation/summary_of_metrics.md)
+- **Cross Validation and Hyperparameter Tuning**
   - [Cross Validation (Robust Model Evaluation)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/model_selection_and_evaluation/cross_validation.md)
-- **Hyperparameters Tuning**
   - [Overview of Hyperparameters Tuning](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/model_selection_and_evaluation/overview_hyperparameter.md)
   - [Model Selection and Hyperparameter Tuning with Cross Validation](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/model_selection_and_evaluation/cross_validation_hyper_tuning.md)
+  - [Cross Validation (Blog)]()
+  - [Hyperparameter Tuning (Blog)]
