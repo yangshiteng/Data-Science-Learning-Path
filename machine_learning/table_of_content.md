@@ -209,4 +209,4 @@
   - [Overview of Hyperparameters Tuning](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/model_selection_and_evaluation/overview_hyperparameter.md)
   - [Model Selection and Hyperparameter Tuning with Cross Validation](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/model_selection_and_evaluation/cross_validation_hyper_tuning.md)
   - [Cross Validation (Blog)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/model_selection_and_evaluation/cross_validation_blog.md)
-  - [Hyperparameter Tuning (Blog)]()
+  - [Hyperparameter Tuning (Blog)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/model_selection_and_evaluation/hyperparameter_tuning.md)
