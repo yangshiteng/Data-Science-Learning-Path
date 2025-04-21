@@ -1,12 +1,12 @@
 # Table of Contents for Deep Learning
+
+## Introduction to Deep Learning
 - [What is Deep Learning?]()
 - [Historical Context and Evolution]()
 - [Difference between AI, Machine Learning, and Deep Learning]()
 - [Applications and Real-world Use Cases]()
 - [Challenges and Limitations]()
-
-## Introduction to Deep Learning
-
+  
 ## Convolutional Neural Networks (CNNs)
 
 ## Recurrent Neural Networks (RNNs) and Sequence Models
