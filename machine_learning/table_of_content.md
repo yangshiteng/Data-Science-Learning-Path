@@ -102,7 +102,7 @@
   - [Momentum](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/optimization_algorithm/momentum.md)
   - [Adaptive Learning Rate Methods (AdaGrad, RMSprop, Adam)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/optimization_algorithm/adaptive_learning_rate_method.md)
   - [Gradient Clipping (Handle Exploding Gradient Problem)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/optimization_algorithm/gradient_clipping.md)
-  - [Batch Normalization (Neural Networks, Speeds Up Training and Improves Generalization)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/optimization_algorithm/batch_normalization.md)
+  - [Batch Normalization (Neural Networks, Stabilizes and Speeds Up Training)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/optimization_algorithm/batch_normalization.md)
   - [Layer Normalization (Neural Networks, Stabilizes and Speeds Up Training)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/optimization_algorithm/layer_normalization.md)
   - [Weight Initialization (Neural Networks, speed up convergence, prevent vanishing and exploding gradients)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/optimization_algorithm/weight_initial.md)
   - [Early Stopping (Regularization, prevent overfitting)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/machine_learning/optimization_algorithm/early_stopping.md)
