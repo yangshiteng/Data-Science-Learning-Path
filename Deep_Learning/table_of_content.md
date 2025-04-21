@@ -1,4 +1,46 @@
-# Neural Networks
+# Table of Contents for Deep Learning
 
-* [Neural Networks (StatQuest)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main//deep_learning/neural_networks/neural_networks_statquest.md)
-* [Activation Function](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main//deep_learning/neural_networks/activation_function.md)
+## Introduction to Deep Learning
+
+## Convolutional Neural Networks (CNNs)
+
+## Recurrent Neural Networks (RNNs) and Sequence Models
+
+## Advanced Architectures and Techniques
+- **Attention Mechanisms**
+- **Transformers**
+- **Self-Attention and Multi-Head Attention**
+- **Encoder-Decoder Architectures**
+- **Transfer Learning and Fine-Tuning**
+- **Residual Networks and Skip Connections**
+- **Autoencoders and Variational Autoencoders (VAEs)**
+- **Graph Neural Networks (GNNs)**
+- **Capsule Networks**
+- **Neural Architecture Search (NAS)**
+- **Unsupervised and Self-Supervised Learning**
+
+## Generative Models
+
+## Reinforcement Learning
+
+## Natural Language Processing (NLP)
+
+## Practical Applications and Case Studies
+
+## Deep Learning Frameworks and Tools
+
+## Model Deployment and Production
+
+## Ethics and Responsible AI
+
+## Future Trends and Research Directions
+
+
+
+
+
+
+
+
+
+
