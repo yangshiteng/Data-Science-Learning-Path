@@ -1,4 +1,4 @@
-# Convolutional Layer**
+# **Convolutional Layer**
 
 ## **What It Does**
 
