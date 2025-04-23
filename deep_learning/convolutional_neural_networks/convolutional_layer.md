@@ -32,7 +32,17 @@ Then:
   ((H - f + 2P)/S + 1) × ((W - f + 2P)/S + 1) × K
   ```
 
-![image](https://github.com/user-attachments/assets/f3e85232-083d-4e24-b069-81807d921707)
+![image](https://github.com/user-attachments/assets/424c24db-a9e9-4b33-9f99-80156ade0196)
+
+![image](https://github.com/user-attachments/assets/f58ba924-4ff0-455f-a51e-f8b36a55e565)
+
+![image](https://github.com/user-attachments/assets/6f77c45e-cadf-4fa1-929f-63cefe01c12e)
+
+![image](https://github.com/user-attachments/assets/959be97f-4c03-4e27-8470-8a7ffd92c638)
+
+![image](https://github.com/user-attachments/assets/cb22e54c-f6ea-49b8-a276-64f0404397c0)
+
+![image](https://github.com/user-attachments/assets/850cb0ad-786e-42c3-b62a-48846ea774f8)
 
 ---
 
