@@ -8,6 +8,17 @@
 - [Challenges and Limitations](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/introduction_to_deep_learning/challenges_and_limitations.md)
   
 ## Convolutional Neural Networks (CNNs)
+- [Introduction to CNNs](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/convolutional_neural_networks/introduction_to_cnns.md)
+- [Core Concepts](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/convolutional_neural_networks/core_concepts.md)
+- [CNN Architecture Components](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/convolutional_neural_networks/cnn_architecture_components.md)
+- [Building and Training CNNs](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/convolutional_neural_networks/building_and_training_cnns.md)
+- [Popular CNN Architectures](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/convolutional_neural_networks/popular_cnn_architectures.md)
+- [Transfer Learning](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/convolutional_neural_networks/transfer_learning.md)
+- [Fine-Tuning and Feature Extraction](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/convolutional_neural_networks/fine_tuning_feature_extraction.md)
+- [Data Augmentation](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/convolutional_neural_networks/data_augmentation.md)
+- [Implementation Tools](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/convolutional_neural_networks/implementation_tools.md)
+- [Challenges and Considerations](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/convolutional_neural_networks/challenges_and_considerations.md)
+- [Use Cases and Case Studies](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/convolutional_neural_networks/use_cases_and_case_studies.md)
 
 ## Recurrent Neural Networks (RNNs) and Sequence Models
 
