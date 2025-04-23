@@ -40,3 +40,5 @@ In CNNs, a **bias** is a trainable scalar value added to the output of a convolu
 | Purpose          | Shifts the activation, increases flexibility |
 | Learnable?       | Yes                                       |
 | Benefit          | Helps with training stability and accuracy|
+
+![image](https://github.com/user-attachments/assets/79a467bc-b5c1-486f-841c-dded09b8fb2a)
