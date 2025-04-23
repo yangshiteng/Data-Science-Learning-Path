@@ -1,19 +1,16 @@
 # Table of Contents for Deep Learning
 
-## Introduction to Deep Learning
+## I. Introduction to Deep Learning
 - [What is Deep Learning?](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/introduction_to_deep_learning/what_is_deep_learning.md)
 - [Historical Context and Evolution](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/introduction_to_deep_learning/historical_context_and_evolution.md)
 - [Difference between AI, Machine Learning, and Deep Learning](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/introduction_to_deep_learning/difference_ai_ml_dl.md)
 - [Applications and Real-world Use Cases](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/introduction_to_deep_learning/applications_and_realworld_use_cases.md)
 - [Challenges and Limitations](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/introduction_to_deep_learning/challenges_and_limitations.md)
   
-## Convolutional Neural Networks (CNNs)
+## II. Convolutional Neural Networks (CNNs)
 - **Introduction**
   - [Introduction to CNNs](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/convolutional_neural_networks/introduction_to_cnns.md)
 - **CNN Architecture**
-
-
-
 
 ## Recurrent Neural Networks (RNNs) and Sequence Models
 
