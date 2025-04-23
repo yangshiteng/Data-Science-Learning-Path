@@ -9,6 +9,8 @@ CNNs consist of layers such as:
 - **Pooling layers** – for dimensionality reduction
 - **Fully connected layers** – for final classification or output
 
+![image](https://github.com/user-attachments/assets/0faa5a4b-269b-4bec-99bc-c2763a4ec552)
+
 This architecture makes CNNs especially powerful in visual data processing.
 
 ---
