@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/ce3de0e3-21bf-40f3-8a86-77239e94ecfa)
+
 ### 🤖 **Artificial Intelligence (AI)** – *The Broadest Concept*
 
 > **Definition**: AI is the science of making machines "smart" — able to mimic human intelligence to perform tasks.
