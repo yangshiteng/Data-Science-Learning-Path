@@ -65,6 +65,7 @@ That means: 5 different versions of the input, each highlighting a different lea
 - Bright spots = Strong response to the filter (i.e., feature is present)
 - Dark spots = Weak or no response (feature is absent)
 
+![image](https://github.com/user-attachments/assets/a8cae963-5f4b-49c6-8bcd-7aa3db4af2a3)
+
 ---
 
-Would you like a visual or code example of generating a feature map from an image using a simple filter? Or should we continue to the **Activation Function (ReLU)** next?
