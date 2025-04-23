@@ -1,5 +1,3 @@
-### **1. Input Image in CNNs**
-
 The **input image** is the raw data that a CNN receives at the very beginning of the network. It typically represents a visual scene, such as a handwritten digit, a face, a cat, or a street view. CNNs are designed to extract and learn patterns from this image automatically.
 
 #### **Structure of an Input Image**
