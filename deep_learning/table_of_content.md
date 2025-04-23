@@ -13,7 +13,7 @@
 - **CNN Architecture**
   - [Input Image](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/convolutional_neural_networks/input_image.md)
   - [Convolutional Layer](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/convolutional_neural_networks/convolutional_layer.md)
-  - [Filters (Kernels)]()
+  - [Filters (Kernels)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/convolutional_neural_networks/filters.md)
   
 
 ## Recurrent Neural Networks (RNNs) and Sequence Models
