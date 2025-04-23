@@ -75,3 +75,62 @@ These exist across different layers of the network:
 - **Padding**
 - **Filter size**
 - **Pooling operations** (max/avg) — these are fixed algorithms, not learnable
+
+These are **manually set** and control how the network processes data:
+
+## 1. **Filter Size** (e.g., 3×3, 5×5)
+- Common default: **3×3**
+- Larger filters (e.g., 5×5 or 7×7) can capture more context but increase computation.
+- Smaller filters stacked in multiple layers can achieve similar results with fewer parameters.
+
+> ✅ Usually chosen based on architecture design or experimentation.
+
+---
+
+## 2. **Stride** (e.g., 1 or 2)
+- Stride = 1 → preserves more spatial detail.
+- Stride = 2 → downsamples the feature map, reducing size and computation.
+- Used in convolution and pooling layers.
+
+> ✅ Tuned to balance **speed vs. accuracy**.
+
+---
+
+## 3. **Padding** (`valid` or `same`)
+- **"Same" padding**: keeps output size equal to input (if stride = 1).
+- **"Valid" padding**: no padding, output shrinks.
+  
+> ✅ Choice depends on whether preserving spatial size is important.
+
+---
+
+## 4. **Pooling Type and Size**
+- **Max pooling** (most common): picks the max value in a region.
+- **Average pooling**: takes the average.
+- Pool size (e.g., 2×2), stride usually = pool size.
+
+> ✅ Typically fixed across layers (e.g., 2×2 max pooling), but can be tuned.
+
+---
+
+## 🎯 How Do We Choose These?
+
+### ✅ **Hyperparameter Tuning**
+You can choose values through:
+- **Trial-and-error** (common in early experimentation)
+- **Grid search / Random search**
+- **Bayesian optimization / AutoML tools**
+- **Validation performance** (using a held-out dataset)
+
+---
+
+### ✅ Example Tuning Setup
+
+| **Hyperparameter** | **Common Choices**        |
+|--------------------|---------------------------|
+| Filter Size        | 3×3, 5×5                  |
+| Stride             | 1, 2                      |
+| Padding            | "same", "valid"           |
+| Pooling Type       | Max, Average              |
+| Pooling Size       | 2×2, 3×3                  |
+| Activation Func    | ReLU, Leaky ReLU          |
