@@ -32,6 +32,8 @@ Then:
   ((H - f + 2P)/S + 1) × ((W - f + 2P)/S + 1) × K
   ```
 
+![image](https://github.com/user-attachments/assets/f3e85232-083d-4e24-b069-81807d921707)
+
 ---
 
 ## **Why It Matters**
