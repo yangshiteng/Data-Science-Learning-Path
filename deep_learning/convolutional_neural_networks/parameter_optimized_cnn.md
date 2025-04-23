@@ -20,6 +20,17 @@ These exist across different layers of the network:
   - Allows flexibility in feature detection even with zero input.
   - For 32 filters → 32 bias terms.
 
+- ✅ **Convolutional Layers Do not Share Parameters**
+  - Each convolutional layer in a CNN has its own unique set of filters (weights and biases). The filters in one layer are completely independent of the filters in other layers.
+  - For example, if you have three Convolutional Layers,
+    - Layer 1 filters learn low-level features (edges, gradients, corners)
+    - Layer 2 filters combine these into mid-level features (textures, shapes)
+    - Layer 3 filters detect high-level features (eyes, wheels, faces)
+      
+- ✅ **What is Shared Then?**
+  - Within the same layer, a filter’s weights are shared across spatial locations.
+  - This is called parameter sharing: A filter slides across the input and uses the same weights at every position in that layer.
+
 ---
 
 ## **2. Fully Connected Layer Parameters**
@@ -47,7 +58,7 @@ These exist across different layers of the network:
 
 ---
 
-## ✅ **Summary Table**
+# ✅ **Summary Table**
 
 | **Layer Type**            | **Optimized Parameters**                            |
 |---------------------------|-----------------------------------------------------|
@@ -58,7 +69,7 @@ These exist across different layers of the network:
 
 ---
 
-## 📌 What’s *Not* Learned (Fixed)
+# 📌 What’s *Not* Learned (Fixed)
 
 - **Stride**
 - **Padding**
