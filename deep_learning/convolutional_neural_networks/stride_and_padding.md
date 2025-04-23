@@ -21,6 +21,8 @@ If you have a `5×5` input and use a `3×3` filter:
 - **Stride 1** → Output size = `3×3`
 - **Stride 2** → Output size = `2×2`
 
+![image](https://github.com/user-attachments/assets/fe3f70c4-e019-4488-8d92-4d444de1cc7c)
+
 ---
 
 ## 🧱 **Padding**
@@ -47,6 +49,8 @@ If you have a `5×5` input and use a `3×3` filter:
 
 - Without padding, images shrink with every convolution layer — you’d quickly lose useful information.
 - With padding, you can control and maintain feature map size deeper into the network.
+
+![image](https://github.com/user-attachments/assets/fc85ecae-86b8-4ca6-ac94-6527b0fe9a71)
 
 ---
 
