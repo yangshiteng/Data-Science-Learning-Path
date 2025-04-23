@@ -27,7 +27,7 @@ Once the spatial feature maps have been reduced to a compact representation (oft
 
 ---
 
-### **Common Activations Used**
+## **Common Activations Used**
 
 - **ReLU**: For hidden layers
 - **Softmax**: For the final output layer in classification (converts logits to probabilities)
@@ -35,7 +35,7 @@ Once the spatial feature maps have been reduced to a compact representation (oft
 
 ---
 
-### **Example in Image Classification**
+## **Example in Image Classification**
 
 For a digit classification task (e.g., MNIST, 10 digits), the final FC layer might look like:
 - Input size: `1 × 1024` (flattened from previous layers)
@@ -45,7 +45,7 @@ For a digit classification task (e.g., MNIST, 10 digits), the final FC layer mig
 
 ---
 
-### **Key Roles of Fully Connected Layers**
+## **Key Roles of Fully Connected Layers**
 
 | **Role**                       | **Explanation**                                       |
 |-------------------------------|--------------------------------------------------------|
@@ -55,7 +55,7 @@ For a digit classification task (e.g., MNIST, 10 digits), the final FC layer mig
 
 ---
 
-### ✅ Summary
+# ✅ Summary
 
 - **Fully Connected Layers** interpret and classify the features extracted earlier.
 - They are **standard dense neural network layers** placed after the convolutional base.
