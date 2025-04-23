@@ -15,7 +15,7 @@
   - [Convolutional Layer](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/convolutional_neural_networks/convolutional_layer.md)
     - [Filters (Kernels)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/convolutional_neural_networks/filters.md)
     - [Stride and Padding](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/convolutional_neural_networks/stride_and_padding.md)
-    - [Feature Map]()
+    - [Feature Map](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/convolutional_neural_networks/feature_map.md)
   
 
 ## Recurrent Neural Networks (RNNs) and Sequence Models
