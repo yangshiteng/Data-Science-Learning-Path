@@ -14,6 +14,8 @@ An image is represented as a multi-dimensional array (tensor) of pixel values.
   - Shape: `Height × Width × 3`  
   - Each pixel has **three values** corresponding to Red, Green, and Blue channels.
 
+![image](https://github.com/user-attachments/assets/eb1d93cb-abeb-4c54-8dbd-fcf63f6c9178)
+
 > 📌 Example:  
 A 28×28 grayscale image of a digit from the MNIST dataset will have shape:  
 `28 × 28 × 1`  
