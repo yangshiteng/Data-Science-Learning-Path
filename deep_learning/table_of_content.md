@@ -19,6 +19,7 @@
     - [Add Bias](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/convolutional_neural_networks/add_bias.md)
     - [Activation Function](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/convolutional_neural_networks/activation_function.md)
   - [Pooling Layer](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/convolutional_neural_networks/pooling_layer.md)
+  - [Fully Connected Layer (Dense Layer)]()
 
 ## Recurrent Neural Networks (RNNs) and Sequence Models
 
