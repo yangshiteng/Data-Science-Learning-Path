@@ -23,6 +23,7 @@
 - **Building and Training CNNs**
   - [Overview of CNNs Training](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/convolutional_neural_networks/overview_of_cnn_training.md)
   - [Parameter Optimized During CNN Training](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/convolutional_neural_networks/parameter_optimized_cnn.md)
+  - [Data Augmentation]()
 - **Popular CNN Architectures**
 
 ## Recurrent Neural Networks (RNNs) and Sequence Models
