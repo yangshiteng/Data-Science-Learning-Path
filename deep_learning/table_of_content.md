@@ -21,6 +21,7 @@
   - [Pooling Layer](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/convolutional_neural_networks/pooling_layer.md)
   - [Fully Connected Layer (Dense Layer)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/convolutional_neural_networks/fully_connected_layer.md)
 - **Building and Training CNNs**
+  - [Overview of CNNs Training]()
 - **Popular CNN Architectures**
 
 ## Recurrent Neural Networks (RNNs) and Sequence Models
