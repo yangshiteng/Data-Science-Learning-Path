@@ -11,6 +11,8 @@
 - **Introduction**
   - [Introduction to CNNs](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/convolutional_neural_networks/introduction_to_cnns.md)
 - **CNN Architecture**
+  - [Input Image]()
+  
 
 ## Recurrent Neural Networks (RNNs) and Sequence Models
 
