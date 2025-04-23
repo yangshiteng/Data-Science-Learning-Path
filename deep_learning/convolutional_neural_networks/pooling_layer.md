@@ -36,6 +36,8 @@
 3. Apply the pooling operation (max or average) in each region.
 4. Output a **smaller feature map**.
 
+![image](https://github.com/user-attachments/assets/b16a41ff-60a2-49ff-ac43-296551aa9363)
+
 ---
 
 ## 🧠 Example
