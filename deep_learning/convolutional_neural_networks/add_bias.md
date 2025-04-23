@@ -6,27 +6,7 @@ In CNNs, a **bias** is a trainable scalar value added to the output of a convolu
 
 ---
 
-## **Mathematical Formulation**
-
-For a given filter \( \mathbf{W} \) and input region \( \mathbf{X} \), the convolution operation at one position produces:
-
-\[
-z = \sum_{i,j,k} (W_{i,j,k} \cdot X_{i,j,k}) + b
-\]
-
-Where:
-- \( \mathbf{W} \): The filter (kernel) weights
-- \( \mathbf{X} \): The patch of input data
-- \( b \): The **bias term** (a scalar)
-- \( z \): The raw output (before activation)
-
-The **activation function** is then applied:
-
-\[
-a = f(z) = f\left( \sum (W \cdot X) + b \right)
-\]
-
-Where \( f \) is typically a nonlinear function like ReLU.
+![image](https://github.com/user-attachments/assets/00c83a63-5982-49f3-bd6f-00553bb70240)
 
 ---
 
