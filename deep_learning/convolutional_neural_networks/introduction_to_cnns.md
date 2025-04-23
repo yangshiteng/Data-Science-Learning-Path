@@ -11,6 +11,8 @@ CNNs consist of layers such as:
 
 ![image](https://github.com/user-attachments/assets/0faa5a4b-269b-4bec-99bc-c2763a4ec552)
 
+![image](https://github.com/user-attachments/assets/10d56da3-e529-4594-abc8-95a4c2b028b7)
+
 This architecture makes CNNs especially powerful in visual data processing.
 
 ---
