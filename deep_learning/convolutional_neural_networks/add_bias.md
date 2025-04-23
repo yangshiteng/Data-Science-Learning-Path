@@ -27,15 +27,7 @@ In CNNs, a **bias** is a trainable scalar value added to the output of a convolu
 
 ---
 
-## **Example**
-
-Suppose a convolution operation results in a value of `-0.5` at some location. If the bias is `+1.0`, the final value becomes `0.5`. When ReLU is applied:
-
-\[
-a = \text{ReLU}(-0.5 + 1.0) = \text{ReLU}(0.5) = 0.5
-\]
-
-Without the bias, ReLU would return `0`. The bias **enabled activation** where there would have been none.
+![image](https://github.com/user-attachments/assets/29ecbee8-fc83-4529-8354-c784d96fd665)
 
 ---
 
