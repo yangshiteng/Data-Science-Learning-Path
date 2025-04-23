@@ -35,7 +35,6 @@ Then:
 ![image](https://github.com/user-attachments/assets/424c24db-a9e9-4b33-9f99-80156ade0196)
 
 ![image](https://github.com/user-attachments/assets/f58ba924-4ff0-455f-a51e-f8b36a55e565)
-
 ![image](https://github.com/user-attachments/assets/6f77c45e-cadf-4fa1-929f-63cefe01c12e)
 
 ![image](https://github.com/user-attachments/assets/959be97f-4c03-4e27-8470-8a7ffd92c638)
