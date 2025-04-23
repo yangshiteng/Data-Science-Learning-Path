@@ -13,9 +13,9 @@
 - **CNN Architecture**
   - [Input Image](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/convolutional_neural_networks/input_image.md)
   - [Convolutional Layer](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/convolutional_neural_networks/convolutional_layer.md)
-    - [Filters (Kernels)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/convolutional_neural_networks/filters.md)
+    - [Filters (also called Kernels)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/convolutional_neural_networks/filters.md)
     - [Stride and Padding](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/convolutional_neural_networks/stride_and_padding.md)
-    - [Feature Map](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/convolutional_neural_networks/feature_map.md)
+    - [Feature Map (also called Activation Map)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/convolutional_neural_networks/feature_map.md)
     - [Add Bias](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/convolutional_neural_networks/add_bias.md)
     - [Activation Function](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/convolutional_neural_networks/activation_function.md)
   - [Pooling Layer](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/convolutional_neural_networks/pooling_layer.md)
