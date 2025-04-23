@@ -58,6 +58,3 @@ Then your output becomes:
 | **Avg Pooling**| Mean   | Smooths out data                   |
 
 ---
----
-
-Would you like to move on to the **Fully Connected Layers** next, or see a side-by-side example of how pooling reduces feature maps?
