@@ -1,7 +1,3 @@
-Totally! While deep learning and AI are super powerful, they’re not magic — there are **some big challenges and limitations** that researchers, developers, and society are grappling with. Here’s a breakdown:
-
----
-
 ### ⚙️ **1. Data Dependence**
 - **Deep learning needs massive amounts of labeled data** to perform well.
 - In fields like medicine or law, data can be scarce, private, or expensive to label.
@@ -71,7 +67,3 @@ Totally! While deep learning and AI are super powerful, they’re not magic — 
 | Fragile to Inputs | Vulnerable to adversarial attacks |
 | Poor Reasoning | Lacks human-like common sense |
 | Transfer Issues | Doesn’t generalize well across tasks |
-
----
-
-Want to explore solutions or current research working on these problems? Or maybe see how some big companies are addressing them?
