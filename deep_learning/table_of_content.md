@@ -17,7 +17,7 @@
     - [Stride and Padding](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/convolutional_neural_networks/stride_and_padding.md)
     - [Feature Map](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/convolutional_neural_networks/feature_map.md)
     - [Activation Function](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/convolutional_neural_networks/activation_function.md)
-  
+  - [Pooling Layer]()
 
 ## Recurrent Neural Networks (RNNs) and Sequence Models
 
