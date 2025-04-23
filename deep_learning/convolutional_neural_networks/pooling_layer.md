@@ -1,5 +1,3 @@
----
-
 # **Pooling Layer**
 
 ## 🔹 **What is Pooling?**
