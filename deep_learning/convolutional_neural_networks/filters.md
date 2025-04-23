@@ -25,7 +25,9 @@ Here’s what happens step-by-step:
 3. It **sums up** the results into a single value.
 4. This value becomes one pixel in the **output feature map**.
 
-This operation is called **convolution**.
+This operation is called **convolution operation**.
+
+![image](https://github.com/user-attachments/assets/4e7ab9c2-ff41-4692-b786-dd76346056cd)
 
 ---
 
