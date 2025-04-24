@@ -25,7 +25,29 @@
   - [Parameter Optimized During CNN Training](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/convolutional_neural_networks/parameter_optimized_cnn.md)
   - [Data Augmentation](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/convolutional_neural_networks/data_augmentation.md)
 - **Popular CNN Architectures**
-
+  - **1st Generation: Classic CNNs**
+    - [LeNet-5]()
+  - **2nd Generation: Deep and Deeper Networks**
+    - [AlexNet]()
+    - [ZFNet]()
+    - [VGGNet]()
+  - **3rd Generation: Optimization and Modular Design**
+    - [GoogLeNet (Inception v1)]()
+    - [Inception v3/v4]()
+    - [ResNet (Residual Network)]()
+  - **4th Generation: Efficiency and Speed**
+    - [MobileNet]()
+    - [ShuffleNet]()
+    - [SqueezeNet]()
+  - **5th Generation: Powerful & Hybrid Models**
+    - [EfficientNet]()
+    - [RegNet]()
+    - [ConvNeXt]()
+  - **Specialized/Hybrid Architectures**
+    - [U-Net]()
+    - [Mask R-CNN]()
+    - [YOLO / SSD]()
+  
 ## Recurrent Neural Networks (RNNs) and Sequence Models
 
 ## Advanced Architectures and Techniques
