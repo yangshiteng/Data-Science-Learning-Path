@@ -34,7 +34,7 @@
   - **3rd Generation: Optimization and Modular Design**
     - [GoogLeNet (also known as Inception v1)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/convolutional_neural_networks/googlenet.md)
     - [Inception v3(improvement of GoogLeNet)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/convolutional_neural_networks/inception_v3.md)
-    - [Inception v4]
+    - [Inception v4]()
     - [ResNet (Residual Network)]()
   - **4th Generation: Efficiency and Speed**
     - [MobileNet]()
