@@ -33,7 +33,7 @@
     - [VGGNet (VGG11, VGG13, VGG16, VGG19)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/convolutional_neural_networks/vgg.md)
   - **3rd Generation: Optimization and Modular Design**
     - [GoogLeNet (also known as Inception v1)]()
-    - [Inception v3/v4]()
+    - [Inception v3/v4 (improvement of GoogLeNet)]()
     - [ResNet (Residual Network)]()
   - **4th Generation: Efficiency and Speed**
     - [MobileNet]()
