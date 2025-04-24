@@ -24,8 +24,8 @@ Here's the breakdown:
 | Conv2     | Convolutional          | 256 filters of size `5×5×96`, stride 1, padding 2            |
 | MaxPool2  | Pooling                | `3×3` window, stride 2 → Output: `13×13×256`                 |
 | Conv3     | Convolutional          | 384 filters of size `3×3×256`, stride 1, padding 1           |
-| Conv4     | Convolutional          | 384 filters of size `3×3×192`, stride 1, padding 1           |
-| Conv5     | Convolutional          | 256 filters of size `3×3×192`, stride 1, padding 1           |
+| Conv4     | Convolutional          | 384 filters of size `3×3×384`, stride 1, padding 1           |
+| Conv5     | Convolutional          | 256 filters of size `3×3×384`, stride 1, padding 1           |
 | MaxPool3  | Pooling                | `3×3` window, stride 2 → Output: `6×6×256`                   |
 | Flatten   | Flatten                | Converts `6×6×256` → `9216`                                  |
 | FC6       | Fully Connected        | 4096 neurons + ReLU                                          |
@@ -33,6 +33,8 @@ Here's the breakdown:
 | FC8       | Fully Connected        | 1000 neurons (for 1000 ImageNet classes) + softmax           |
 
 ---
+
+![image](https://github.com/user-attachments/assets/338d4188-c69d-47c1-8b88-924f78ca23ee)
 
 ## 🚀 **Key Innovations**
 
