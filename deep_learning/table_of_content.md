@@ -29,7 +29,7 @@
     - [LeNet-5](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/convolutional_neural_networks/lenet5.md)
   - **2nd Generation: Deep and Deeper Networks**
     - [AlexNet](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/convolutional_neural_networks/alexnet.md)
-    - [ZFNet]()
+    - [ZFNet](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/convolutional_neural_networks/zfnet.md)
     - [VGGNet (VGG11, VGG13, VGG16, VGG19)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/convolutional_neural_networks/vgg.md)
   - **3rd Generation: Optimization and Modular Design**
     - [GoogLeNet (also known as Inception v1)]()
