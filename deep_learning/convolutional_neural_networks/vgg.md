@@ -28,24 +28,33 @@
 
 ### VGG16 Example (most famous variant):
 
-| **Layer Type**     | **Configuration**                                 |
-|--------------------|---------------------------------------------------|
-| Input              | 224×224×3 RGB image                               |
-| Conv1              | 2 × (3×3 conv, 64 filters)                         |
-| MaxPool            | 2×2, stride 2                                     |
-| Conv2              | 2 × (3×3 conv, 128 filters)                        |
-| MaxPool            | 2×2, stride 2                                     |
-| Conv3              | 3 × (3×3 conv, 256 filters)                        |
-| MaxPool            | 2×2, stride 2                                     |
-| Conv4              | 3 × (3×3 conv, 512 filters)                        |
-| MaxPool            | 2×2, stride 2                                     |
-| Conv5              | 3 × (3×3 conv, 512 filters)                        |
-| MaxPool            | 2×2, stride 2                                     |
-| Flatten            | Converts to 1D                                     |
-| FC6                | Fully connected, 4096 neurons                      |
-| FC7                | Fully connected, 4096 neurons                      |
-| FC8                | Fully connected, 1000 neurons (ImageNet classes)  |
-| Output             | Softmax                                           |
+| **Stage**     | **Layer Type**          | **Filters / Params**       | **Output Shape**         |
+|---------------|--------------------------|-----------------------------|---------------------------|
+| Input         | –                        | –                           | 224×224×3                |
+| Conv1_1       | Conv (3×3)               | 64 filters                  | 224×224×64               |
+| Conv1_2       | Conv (3×3)               | 64 filters                  | 224×224×64               |
+| MaxPool1      | Max Pool (2×2, stride 2) | –                           | 112×112×64               |
+| Conv2_1       | Conv (3×3)               | 128 filters                 | 112×112×128              |
+| Conv2_2       | Conv (3×3)               | 128 filters                 | 112×112×128              |
+| MaxPool2      | Max Pool (2×2, stride 2) | –                           | 56×56×128                |
+| Conv3_1       | Conv (3×3)               | 256 filters                 | 56×56×256                |
+| Conv3_2       | Conv (3×3)               | 256 filters                 | 56×56×256                |
+| Conv3_3       | Conv (3×3)               | 256 filters                 | 56×56×256                |
+| MaxPool3      | Max Pool (2×2, stride 2) | –                           | 28×28×256                |
+| Conv4_1       | Conv (3×3)               | 512 filters                 | 28×28×512                |
+| Conv4_2       | Conv (3×3)               | 512 filters                 | 28×28×512                |
+| Conv4_3       | Conv (3×3)               | 512 filters                 | 28×28×512                |
+| MaxPool4      | Max Pool (2×2, stride 2) | –                           | 14×14×512                |
+| Conv5_1       | Conv (3×3)               | 512 filters                 | 14×14×512                |
+| Conv5_2       | Conv (3×3)               | 512 filters                 | 14×14×512                |
+| Conv5_3       | Conv (3×3)               | 512 filters                 | 14×14×512                |
+| MaxPool5      | Max Pool (2×2, stride 2) | –                           | 7×7×512                  |
+| Flatten       | Flatten                  | –                           | 25,088 (7×7×512)         |
+| FC1           | Fully Connected          | 4096 units                  | 4096                     |
+| FC2           | Fully Connected          | 4096 units                  | 4096                     |
+| FC3 (Output)  | Fully Connected + Softmax| 1000 units (ImageNet)       | 1000                     |
+
+---
 
 ![image](https://github.com/user-attachments/assets/205d6326-ff71-46dc-a1f0-4c99eb1b9763)
 
