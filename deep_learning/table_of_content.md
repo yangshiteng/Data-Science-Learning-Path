@@ -28,7 +28,7 @@
   - **1st Generation: Classic CNNs**
     - [LeNet-5](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/convolutional_neural_networks/lenet5.md)
   - **2nd Generation: Deep and Deeper Networks**
-    - [AlexNet]()
+    - [AlexNet](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/convolutional_neural_networks/alexnet.md)
     - [ZFNet]()
     - [VGGNet]()
   - **3rd Generation: Optimization and Modular Design**
