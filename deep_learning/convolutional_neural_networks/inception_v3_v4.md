@@ -52,6 +52,22 @@
 | Global Avg Pooling| 8×8 to 1×1                            |
 | Dropout + FC      | Dropout then fully connected + softmax|
 
+![image](https://github.com/user-attachments/assets/69020704-007b-4d95-9a1f-541f39802a63)
+
+![image](https://github.com/user-attachments/assets/1715674c-0d35-48ac-a787-6afbb907e4c4)
+
+![image](https://github.com/user-attachments/assets/a5b0281c-d599-4619-8529-39aeefb2ec06)
+
+![image](https://github.com/user-attachments/assets/48c2eadb-0826-4fb8-a681-a0704f8ec8b3)
+
+![image](https://github.com/user-attachments/assets/e2260407-084d-48d9-8ed6-6cd474e45962)
+
+![image](https://github.com/user-attachments/assets/406ff19d-7a91-4aa3-8069-2de68b82a503)
+
+![image](https://github.com/user-attachments/assets/48bdec02-afc7-4847-bf67-350e5020d1ba)
+
+![image](https://github.com/user-attachments/assets/f117c472-330d-4269-a4c7-ff1e483645c0)
+
 ---
 
 ## 🧠 **Inception v4: Key Features**
