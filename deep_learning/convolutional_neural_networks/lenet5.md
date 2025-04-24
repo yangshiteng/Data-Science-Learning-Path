@@ -25,6 +25,9 @@ LeNet-5 consists of **7 layers** (excluding input), including convolutional, poo
 
 ---
 
+![image](https://github.com/user-attachments/assets/ba01ec62-dbce-48b1-b55b-5fd2af488f6a)
+
+
 # 🧠 **Key Features and Innovations**
 
 - **Convolution + Subsampling**: Pioneered the idea of using convolutional layers followed by pooling to extract features hierarchically.
