@@ -26,7 +26,7 @@
   - [Data Augmentation](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/convolutional_neural_networks/data_augmentation.md)
 - **Popular CNN Architectures**
   - **1st Generation: Classic CNNs**
-    - [LeNet-5]()
+    - [LeNet-5](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/convolutional_neural_networks/lenet5.md)
   - **2nd Generation: Deep and Deeper Networks**
     - [AlexNet]()
     - [ZFNet]()
