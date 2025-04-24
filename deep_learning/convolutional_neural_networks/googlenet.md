@@ -48,6 +48,8 @@ This allows the model to:
 - Learn both **fine** and **coarse** features
 - Be **deep and wide**, but **efficient**
 
+![image](https://github.com/user-attachments/assets/002655a0-f63b-4ee1-a0e8-96ea8b29d06a)
+
 ---
 
 ## 🧱 **High-Level GoogLeNet Architecture (Layer-by-Layer)**
