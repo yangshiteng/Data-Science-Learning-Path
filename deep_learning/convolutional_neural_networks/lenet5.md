@@ -16,7 +16,7 @@ LeNet-5 consists of **7 layers** (excluding input), including convolutional, poo
 |-----------|------------------------|----------------------------------------|
 | Input     | Image                  | `32×32` grayscale image (MNIST images padded from 28×28) |
 | C1        | Convolutional Layer    | `6` filters of size `5×5x1`, stride 1, no padding → Output: `28×28×6` |
-| S2        | Subsampling (Pooling)  | Average pooling with `2×2` kernel → Output: `14×14×6` |
+| S2        | Subsampling (Pooling)  | Average pooling with `2×2` kernel, stride 2 → Output: `14×14×6` |
 | C3        | Convolutional Layer    | `16` filters of size `5×5x6` (not all connected to all previous maps) → Output: `10×10×16` |
 | S4        | Subsampling (Pooling)  | Average pooling with `2×2` kernel → Output: `5×5×16` |
 | C5        | Convolutional Layer    | 120 filters of size `5×5x16` (fully connected to all previous maps) → Output: `1×1×120` |
