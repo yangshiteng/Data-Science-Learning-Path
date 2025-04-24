@@ -48,7 +48,9 @@ This allows the model to:
 - Learn both **fine** and **coarse** features
 - Be **deep and wide**, but **efficient**
 
-![image](https://github.com/user-attachments/assets/002655a0-f63b-4ee1-a0e8-96ea8b29d06a)
+![image](https://github.com/user-attachments/assets/21804f80-056b-4da1-af6d-93fc7c0e5045)
+
+![image](https://github.com/user-attachments/assets/643ad2a3-bcfb-49ff-aeee-1922c8cf22b3)
 
 ---
 
@@ -80,6 +82,8 @@ GoogLeNet also included **two auxiliary classifiers**:
   - FC layers
   - Softmax classifier
 - Used only during training to improve gradient flow (combat vanishing gradients)
+
+![image](https://github.com/user-attachments/assets/e3f63b86-aba5-436a-88f9-0e07a96c527c)
 
 ---
 
