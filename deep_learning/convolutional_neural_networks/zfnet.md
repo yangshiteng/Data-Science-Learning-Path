@@ -28,23 +28,27 @@ ZFNet is **based on AlexNet**, with modifications to improve feature learning an
 
 # 🧱 **Layer-by-Layer Summary of ZFNet**
 
-| **Layer**   | **Type**         | **Details**                                            | **Output Shape** (Input: 224×224×3) |
-|-------------|------------------|--------------------------------------------------------|-------------------------------------|
-| Input       | RGB Image        | 224×224×3                                               | 224×224×3                           |
-| Conv1       | Convolution      | 96 filters, 7×7, stride 2, padding 1                    | 112×112×96                          |
-| MaxPool1    | Pooling          | 3×3 window, stride 2                                    | 56×56×96                            |
-| Conv2       | Convolution      | 256 filters, 5×5, stride 2, padding 2                   | 28×28×256                           |
-| MaxPool2    | Pooling          | 3×3 window, stride 2                                    | 14×14×256                           |
-| Conv3       | Convolution      | 384 filters, 3×3, stride 1, padding 1                   | 14×14×384                           |
-| Conv4       | Convolution      | 384 filters, 3×3, stride 1, padding 1                   | 14×14×384                           |
-| Conv5       | Convolution      | 256 filters, 3×3, stride 1, padding 1                   | 14×14×256                           |
-| MaxPool3    | Pooling          | 3×3 window, stride 2                                    | 7×7×256                             |
-| Flatten     | Flatten          | Converts 7×7×256 → 12544                                | 12544                               |
-| FC6         | Fully Connected  | 4096 neurons + ReLU                                     | 4096                                |
-| FC7         | Fully Connected  | 4096 neurons + ReLU                                     | 4096                                |
-| FC8         | Fully Connected  | 1000 neurons + Softmax                                  | 1000                                |
+| **Layer**   | **Type**          | **Details**                                          | **Output Shape**      |
+|-------------|-------------------|-------------------------------------------------------|------------------------|
+| **Input**   | Input Image        | 224×224×3                                             | 224×224×3              |
+| **Conv1**   | Conv Layer         | 96 filters, 7×7, stride 2                             | 110×110×96             |
+| **Pool1**   | Max Pooling        | 3×3, stride 2                                         | 55×55×96               |
+| **Norm1**   | Local Response Norm| (optional step used in ZFNet)                         | 55×55×96               |
+| **Conv2**   | Conv Layer         | 256 filters, 5×5, stride 2                            | 26×26×256              |
+| **Pool2**   | Max Pooling        | 3×3, stride 2                                         | 13×13×256              |
+| **Norm2**   | Local Response Norm| (applied again after Pool2)                           | 13×13×256              |
+| **Conv3**   | Conv Layer         | 384 filters, 3×3, stride 1                            | 13×13×384              |
+| **Conv4**   | Conv Layer         | 384 filters, 3×3, stride 1                            | 13×13×384              |
+| **Conv5**   | Conv Layer         | 256 filters, 3×3, stride 1                            | 13×13×256              |
+| **Pool3**   | Max Pooling        | 3×3, stride 2                                         | 6×6×256                |
+| **FC6**     | Fully Connected    | 4096 neurons                                          | 4096                   |
+| **FC7**     | Fully Connected    | 4096 neurons                                          | 4096                   |
+| **FC8**     | Fully Connected    | C neurons (number of classes) + softmax              | C (e.g., 1000)         |
 
 ---
+
+![image](https://github.com/user-attachments/assets/44f65060-40b5-4948-8eac-d12f232ead7b)
+
 
 # 🔍 **Key Innovations in ZFNet**
 
