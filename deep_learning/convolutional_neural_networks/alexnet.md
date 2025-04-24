@@ -21,7 +21,7 @@ Here's the breakdown:
 | Input     | Image                  | `227×227×3` RGB image (cropped from original `256×256`)      |
 | Conv1     | Convolutional          | 96 filters of size `11×11×3`, stride 4 → Output: `55×55×96`  |
 | MaxPool1  | Pooling                | `3×3` window, stride 2 → Output: `27×27×96`                  |
-| Conv2     | Convolutional          | 256 filters of size `5×5×48`, stride 1, padding 2            |
+| Conv2     | Convolutional          | 256 filters of size `5×5×96`, stride 1, padding 2            |
 | MaxPool2  | Pooling                | `3×3` window, stride 2 → Output: `13×13×256`                 |
 | Conv3     | Convolutional          | 384 filters of size `3×3×256`, stride 1, padding 1           |
 | Conv4     | Convolutional          | 384 filters of size `3×3×192`, stride 1, padding 1           |
