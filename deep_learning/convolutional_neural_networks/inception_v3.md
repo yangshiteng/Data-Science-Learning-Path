@@ -63,7 +63,7 @@ The architecture is composed of several stages:
 | **Stem**          | Conv and pooling layers for initial feature extraction | 35×35×192              |
 | **Inception-A × 3**| 1×1, 3×3, 5×5 convs + pooling                 | 35×35×288                |
 | **Reduction-A**   | Reduces spatial dimensions                     | 17×17×768                |
-| **Inception-B × 5**| Uses 1×7 and 7×1 convolutions                  | 17×17×768                |
+| **Inception-B × 4**| Uses 1×7 and 7×1 convolutions                  | 17×17×768                |
 | **Reduction-B**   | Further reduces dimensions                     | 8×8×1280                 |
 | **Inception-C × 2**| High-level features                           | 8×8×2048                 |
 | **AvgPool**       | Global average pooling                         | 1×1×2048                 |
