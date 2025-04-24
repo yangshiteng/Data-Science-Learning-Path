@@ -28,31 +28,31 @@
 
 ### VGG16 Example (most famous variant):
 
-| **Stage**     | **Layer Type**          | **Filters / Params**       | **Output Shape**         |
-|---------------|--------------------------|-----------------------------|---------------------------|
-| Input         | –                        | –                           | 224×224×3                |
-| Conv1_1       | Conv (3×3)               | 64 filters                  | 224×224×64               |
-| Conv1_2       | Conv (3×3)               | 64 filters                  | 224×224×64               |
-| MaxPool1      | Max Pool (2×2, stride 2) | –                           | 112×112×64               |
-| Conv2_1       | Conv (3×3)               | 128 filters                 | 112×112×128              |
-| Conv2_2       | Conv (3×3)               | 128 filters                 | 112×112×128              |
-| MaxPool2      | Max Pool (2×2, stride 2) | –                           | 56×56×128                |
-| Conv3_1       | Conv (3×3)               | 256 filters                 | 56×56×256                |
-| Conv3_2       | Conv (3×3)               | 256 filters                 | 56×56×256                |
-| Conv3_3       | Conv (3×3)               | 256 filters                 | 56×56×256                |
-| MaxPool3      | Max Pool (2×2, stride 2) | –                           | 28×28×256                |
-| Conv4_1       | Conv (3×3)               | 512 filters                 | 28×28×512                |
-| Conv4_2       | Conv (3×3)               | 512 filters                 | 28×28×512                |
-| Conv4_3       | Conv (3×3)               | 512 filters                 | 28×28×512                |
-| MaxPool4      | Max Pool (2×2, stride 2) | –                           | 14×14×512                |
-| Conv5_1       | Conv (3×3)               | 512 filters                 | 14×14×512                |
-| Conv5_2       | Conv (3×3)               | 512 filters                 | 14×14×512                |
-| Conv5_3       | Conv (3×3)               | 512 filters                 | 14×14×512                |
-| MaxPool5      | Max Pool (2×2, stride 2) | –                           | 7×7×512                  |
-| Flatten       | Flatten                  | –                           | 25,088 (7×7×512)         |
-| FC1           | Fully Connected          | 4096 units                  | 4096                     |
-| FC2           | Fully Connected          | 4096 units                  | 4096                     |
-| FC3 (Output)  | Fully Connected + Softmax| 1000 units (ImageNet)       | 1000                     |
+| **Layer**     | **Type**             | **Details**                                              | **Output Shape**   |
+|---------------|----------------------|-----------------------------------------------------------|--------------------|
+| **Input**     | Image                | 224×224×3 RGB image                                       | 224×224×3          |
+| **Conv1_1**   | Convolutional        | 64 filters, 3×3×3, stride 1, padding 1                    | 224×224×64         |
+| **Conv1_2**   | Convolutional        | 64 filters, 3×3×64, stride 1, padding 1                   | 224×224×64         |
+| **MaxPool1**  | Pooling              | 2×2 window, stride 2                                      | 112×112×64         |
+| **Conv2_1**   | Convolutional        | 128 filters, 3×3×64, stride 1, padding 1                  | 112×112×128        |
+| **Conv2_2**   | Convolutional        | 128 filters, 3×3×128, stride 1, padding 1                 | 112×112×128        |
+| **MaxPool2**  | Pooling              | 2×2 window, stride 2                                      | 56×56×128          |
+| **Conv3_1**   | Convolutional        | 256 filters, 3×3×128, stride 1, padding 1                 | 56×56×256          |
+| **Conv3_2**   | Convolutional        | 256 filters, 3×3×256, stride 1, padding 1                 | 56×56×256          |
+| **Conv3_3**   | Convolutional        | 256 filters, 3×3×256, stride 1, padding 1                 | 56×56×256          |
+| **MaxPool3**  | Pooling              | 2×2 window, stride 2                                      | 28×28×256          |
+| **Conv4_1**   | Convolutional        | 512 filters, 3×3×256, stride 1, padding 1                 | 28×28×512          |
+| **Conv4_2**   | Convolutional        | 512 filters, 3×3×512, stride 1, padding 1                 | 28×28×512          |
+| **Conv4_3**   | Convolutional        | 512 filters, 3×3×512, stride 1, padding 1                 | 28×28×512          |
+| **MaxPool4**  | Pooling              | 2×2 window, stride 2                                      | 14×14×512          |
+| **Conv5_1**   | Convolutional        | 512 filters, 3×3×512, stride 1, padding 1                 | 14×14×512          |
+| **Conv5_2**   | Convolutional        | 512 filters, 3×3×512, stride 1, padding 1                 | 14×14×512          |
+| **Conv5_3**   | Convolutional        | 512 filters, 3×3×512, stride 1, padding 1                 | 14×14×512          |
+| **MaxPool5**  | Pooling              | 2×2 window, stride 2                                      | 7×7×512            |
+| **Flatten**   | Flatten              | Converts 7×7×512 to 1D vector                             | 25088              |
+| **FC6**       | Fully Connected      | 4096 neurons + ReLU                                       | 4096               |
+| **FC7**       | Fully Connected      | 4096 neurons + ReLU                                       | 4096               |
+| **FC8**       | Fully Connected      | 1000 neurons (ImageNet classes) + softmax                 | 1000               |
 
 ---
 
