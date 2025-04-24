@@ -47,6 +47,8 @@
 | FC8                | Fully connected, 1000 neurons (ImageNet classes)  |
 | Output             | Softmax                                           |
 
+![image](https://github.com/user-attachments/assets/9ee0f65a-9645-43b4-8c24-ff1e0406f8e7)
+
 ---
 
 ## 🧮 **Model Variants**
