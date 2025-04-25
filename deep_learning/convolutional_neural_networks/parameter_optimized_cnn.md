@@ -58,7 +58,7 @@ These exist across different layers of the network:
 
 ---
 
-# ✅ **Summary Table**
+## ✅ **Summary Table**
 
 | **Layer Type**            | **Optimized Parameters**                            |
 |---------------------------|-----------------------------------------------------|
