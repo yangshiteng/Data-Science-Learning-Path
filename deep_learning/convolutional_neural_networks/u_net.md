@@ -16,6 +16,8 @@
 
 U-Net is specially designed for **semantic segmentation**, where the task is to **classify each pixel** of an image.
 
+![image](https://github.com/user-attachments/assets/0d0e6f8e-ec72-418f-aec7-360e82751153)
+
 It has two main parts:
 - **Encoder (Contracting Path)**:  
   - Downsamples the input
