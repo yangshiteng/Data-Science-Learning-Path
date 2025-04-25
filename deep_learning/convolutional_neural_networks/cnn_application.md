@@ -269,6 +269,8 @@ Then:
 **Popular models:**  
 - U-Net, V-Net, 3D CNNs
 
+![image](https://github.com/user-attachments/assets/bdc43e53-0f3e-4b75-8506-f594ce98d219)
+
 ---
 
 ## 🔹 **Autonomous Vehicles**
