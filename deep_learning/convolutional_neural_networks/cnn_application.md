@@ -289,6 +289,8 @@ Then:
 - YOLO (real-time detection)  
 - DeepLab for lane segmentation
 
+![image](https://github.com/user-attachments/assets/73877319-9cba-41ba-8a6f-c6462c424c3d)
+
 ---
 
 ## 🔹 **Video Analysis and Activity Recognition**
