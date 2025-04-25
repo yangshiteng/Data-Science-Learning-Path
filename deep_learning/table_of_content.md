@@ -36,7 +36,7 @@
     - [Inception v2](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/convolutional_neural_networks/inception_v2.md)
     - [Inception v3](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/convolutional_neural_networks/inception_v3.md)
     - [Inception v4](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/convolutional_neural_networks/inception_v4.md)
-    - [ResNet (Residual Network)]()
+    - [ResNet (Residual Network)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/convolutional_neural_networks/resnet.md)
   - **4th Generation: Efficiency and Speed**
     - [MobileNet]()
     - [ShuffleNet]()
