@@ -39,7 +39,7 @@
     - [ResNet (Residual Network)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/convolutional_neural_networks/resnet.md)
   - **4th Generation: Efficiency and Speed**
     - [MobileNet]()
-    - [ShuffleNet]()
+    - [ShuffleNet](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/convolutional_neural_networks/shufflenet.md)
     - [SqueezeNet]()
   - **5th Generation: Powerful & Hybrid Models**
     - [EfficientNet]()
