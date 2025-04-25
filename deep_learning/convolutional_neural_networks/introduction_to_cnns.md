@@ -1,6 +1,6 @@
-### **Introduction to Convolutional Neural Networks (CNNs)**
+# **Introduction to Convolutional Neural Networks (CNNs)**
 
-#### **What is a CNN?**
+## **What is a CNN?**
 
 A **Convolutional Neural Network (CNN)** is a type of deep learning model specifically designed to process data with a grid-like topology, such as images. Unlike traditional fully connected neural networks, CNNs use a mathematical operation called **convolution** in at least one of their layers, which allows them to automatically and adaptively learn spatial hierarchies of features from input data.
 
@@ -17,7 +17,7 @@ This architecture makes CNNs especially powerful in visual data processing.
 
 ---
 
-#### **History and Motivation**
+## **History and Motivation**
 
 The concept of CNNs dates back to the 1980s and 1990s. Here's a brief timeline:
 
@@ -32,7 +32,7 @@ The concept of CNNs dates back to the 1980s and 1990s. Here's a brief timeline:
 
 ---
 
-#### **Applications of CNNs**
+## **Applications of CNNs**
 
 CNNs are widely used across various domains. Some key applications include:
 
