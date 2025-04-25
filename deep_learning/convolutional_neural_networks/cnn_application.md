@@ -231,6 +231,8 @@ Then:
 - SRCNN (Super-Resolution CNN)  
 - SRGAN (Super-Resolution GAN)
 
+![image](https://github.com/user-attachments/assets/1921d3ab-7c17-4915-b606-fbea46b4ea2e)
+
 ---
 
 ## 🔹 **Image Style Transfer**
