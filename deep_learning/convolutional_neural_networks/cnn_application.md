@@ -80,11 +80,11 @@
 **Popular models:**  
 - Mask R-CNN
 
-### Object Detection vs Semantic Segmentation vs Instance Segmentatio
+## 🔹 Object Detection vs Semantic Segmentation vs Instance Segmentatio
 
 ---
 
-#### 🧠 **Object Detection vs Semantic Segmentation vs Instance Segmentation**
+### 🧠 **Object Detection vs Semantic Segmentation vs Instance Segmentation**
 
 | Feature                  | **Object Detection**                         | **Semantic Segmentation**                 | **Instance Segmentation**                 |
 |---------------------------|----------------------------------------------|-------------------------------------------|-------------------------------------------|
@@ -97,7 +97,7 @@
 
 ---
 
-#### 📸 **Visual Concept**
+### 📸 **Visual Concept**
 
 - **Object Detection** → Draws a **box** around each object + labels it.
 - **Semantic Segmentation** → Labels **all pixels** — no distinction between multiple objects of the same class.
@@ -105,7 +105,7 @@
 
 ---
 
-#### 🛠️ **Examples**
+### 🛠️ **Examples**
 
 | Scenario                         | Object Detection                    | Semantic Segmentation              | Instance Segmentation                |
 |----------------------------------|--------------------------------------|------------------------------------|--------------------------------------|
@@ -115,7 +115,7 @@
 
 ---
 
-#### 🔧 **Which Models Are Typically Used?**
+### 🔧 **Which Models Are Typically Used?**
 
 | Task                  | Popular Models                         |
 |------------------------|----------------------------------------|
@@ -125,7 +125,7 @@
 
 ---
 
-#### ✅ **Quick Summary**
+### ✅ **Quick Summary**
 
 | Object Detection    | Semantic Segmentation       | Instance Segmentation      |
 |---------------------|------------------------------|-----------------------------|
@@ -135,7 +135,7 @@
 
 ---
 
-#### 🎯 **Simple Example: Image with 2 Cats and 1 Dog**
+### 🎯 **Simple Example: Image with 2 Cats and 1 Dog**
 
 | Task                   | Output Description            |
 |-------------------------|-------------------------------|
