@@ -1,7 +1,3 @@
-Absolutely! Let's introduce **ShuffleNet**, a clever and highly efficient convolutional neural network designed specifically for **mobile and embedded devices** with limited resources.
-
----
-
 ## ⚡ **ShuffleNet: Ultra-Light CNN for Mobile & Edge**
 
 ### 📌 **Overview**
@@ -94,7 +90,3 @@ ShuffleNet v2 improved upon v1 based on **real-world latency studies**.
 | v2 Enhancements     | Simplified blocks, faster real-world speed  |
 | Strengths           | Ultra-fast, low-latency, low-FLOP           |
 | Variants            | 0.5×, 1.0×, 1.5×, 2.0× width multipliers     |
-
----
-
-Would you like a diagram of the ShuffleNet block or a code implementation in TensorFlow or PyTorch?
