@@ -21,16 +21,8 @@ As CNNs get deeper, they should theoretically perform better — but in practice
 - Networks may **degrade** even when more layers are added.
 
 ### ✅ **ResNet’s Solution: Residual Learning**
-Instead of learning the full mapping \( H(x) \), ResNet lets the network learn the **residual**:
 
-\[
-\text{Output} = F(x) + x
-\]
-
-Where:
-- \( F(x) \) is the output of some stacked layers (residual function)
-- \( x \) is the input
-- \( F(x) + x \) is the final output after the **skip connection**
+![image](https://github.com/user-attachments/assets/a37c366b-436c-422e-a38b-f3054bd9056a)
 
 ---
 
