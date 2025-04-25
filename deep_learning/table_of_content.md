@@ -44,7 +44,7 @@
   - **5th Generation: Powerful & Hybrid Models**
     - [EfficientNet](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/convolutional_neural_networks/efficientnet.md)
     - [RegNet](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/convolutional_neural_networks/regnet.md)
-    - [ConvNeXt]()
+    - [ConvNeXt](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/convolutional_neural_networks/convnext.md)
   - **Specialized/Hybrid Architectures**
     - [U-Net]()
     - [Mask R-CNN]()
