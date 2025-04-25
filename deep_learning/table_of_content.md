@@ -42,7 +42,7 @@
     - [ShuffleNet](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/convolutional_neural_networks/shufflenet.md)
     - [SqueezeNet](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/convolutional_neural_networks/squeezenet.md)
   - **5th Generation: Powerful & Hybrid Models**
-    - [EfficientNet]()
+    - [EfficientNet](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/convolutional_neural_networks/efficientnet.md)
     - [RegNet]()
     - [ConvNeXt]()
   - **Specialized/Hybrid Architectures**
