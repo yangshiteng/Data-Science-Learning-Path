@@ -35,7 +35,7 @@
     - [GoogLeNet (also known as Inception v1)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/convolutional_neural_networks/googlenet.md)
     - [Inception v2/v3/v4](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/convolutional_neural_networks/inception_v2v3v4.md)
     - [ResNet (Residual Network)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/convolutional_neural_networks/resnet.md)
-    - [DenseNet]()
+    - [DenseNet](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/convolutional_neural_networks/densenet.md)
   - **4th Gen: Efficiency-Oriented**
     - [MobileNet](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/convolutional_neural_networks/mobilenet.md)
     - [ShuffleNet](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/convolutional_neural_networks/shufflenet.md)
