@@ -80,6 +80,69 @@
 **Popular models:**  
 - Mask R-CNN
 
+### Object Detection vs Semantic Segmentation vs Instance Segmentatio
+
+---
+
+#### 🧠 **Object Detection vs Semantic Segmentation vs Instance Segmentation**
+
+| Feature                  | **Object Detection**                         | **Semantic Segmentation**                 | **Instance Segmentation**                 |
+|---------------------------|----------------------------------------------|-------------------------------------------|-------------------------------------------|
+| **What It Does**         | Detect **where** objects are and classify them | Label **each pixel** with a category      | Label **each pixel** and **differentiate between objects** |
+| **Output**                | Bounding boxes + Class Labels               | Pixel-wise category map                  | Pixel-wise masks per object instance      |
+| **Main Goal**             | Localization + Classification               | Dense pixel classification               | Dense pixel classification **per object** |
+| **Example Question**      | "Where are the cars?"                       | "Which pixels belong to a car?"           | "Which pixels belong to **this car**, that car, etc.?" |
+| **Visual Output**         | Rectangles around objects                   | Colored areas by class                   | Colored areas, but each object separate   |
+| **Difficulty Level**      | Easier                                       | Harder                                   | Hardest (needs object separation)         |
+
+---
+
+#### 📸 **Visual Concept**
+
+- **Object Detection** → Draws a **box** around each object + labels it.
+- **Semantic Segmentation** → Labels **all pixels** — no distinction between multiple objects of the same class.
+- **Instance Segmentation** → Labels **all pixels**, but **separates each object individually**, even if they are the same class.
+
+---
+
+#### 🛠️ **Examples**
+
+| Scenario                         | Object Detection                    | Semantic Segmentation              | Instance Segmentation                |
+|----------------------------------|--------------------------------------|------------------------------------|--------------------------------------|
+| **Street Scene**                | Box around cars, people, traffic lights | Label roads, cars, trees, sky      | Separate each car/person individually |
+| **Medical Imaging (Tumor)**     | Box around tumor                    | Pixels labeled as "tumor" or "healthy" | Each tumor instance labeled separately |
+| **Counting People in a Crowd**  | Detect number of people (boxes)     | Label all pixels as "person"        | Different masks for each individual   |
+
+---
+
+#### 🔧 **Which Models Are Typically Used?**
+
+| Task                  | Popular Models                         |
+|------------------------|----------------------------------------|
+| **Object Detection**   | YOLO, Faster R-CNN, SSD, RetinaNet     |
+| **Semantic Segmentation** | FCN, U-Net, DeepLabV3+               |
+| **Instance Segmentation** | Mask R-CNN                           |
+
+---
+
+#### ✅ **Quick Summary**
+
+| Object Detection    | Semantic Segmentation       | Instance Segmentation      |
+|---------------------|------------------------------|-----------------------------|
+| Find and box objects | Label every pixel (classify) | Label every pixel + separate instances |
+| Output = bounding box + label | Output = pixel-wise class labels | Output = pixel-wise mask per object |
+| Easier               | Harder                       | Hardest                    |
+
+---
+
+#### 🎯 **Simple Example: Image with 2 Cats and 1 Dog**
+
+| Task                   | Output Description            |
+|-------------------------|-------------------------------|
+| Object Detection        | 2 boxes labeled "cat", 1 box "dog" |
+| Semantic Segmentation   | Pixels labeled "cat" or "dog", no separation between cats |
+| Instance Segmentation   | First cat = one mask, second cat = another mask, dog = separate mask |
+
 ![image](https://github.com/user-attachments/assets/b3bf21f1-d20a-4e77-bde8-113ee19d818b)
 
 ![image](https://github.com/user-attachments/assets/df67fe88-d31b-441d-917c-fce8da4c53c7)
