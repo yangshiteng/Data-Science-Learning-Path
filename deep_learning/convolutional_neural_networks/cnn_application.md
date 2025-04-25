@@ -315,18 +315,21 @@ Then:
 
 # ✅ **Summary Table**
 
-| Application             | Output                                   | Example Use                     |
-|--------------------------|-----------------------------------------|----------------------------------|
-| Image Classification     | Single label                           | Cat vs Dog detection             |
-| Object Detection         | Bounding boxes + labels                | Detect cars in traffic           |
-| Semantic Segmentation    | Pixel-wise labeling                    | Road, sidewalk, building labeling|
-| Instance Segmentation    | Bounding boxes + pixel masks           | Separate each person in a photo  |
-| Face Recognition         | Identity verification                  | Unlock phones                   |
-| Super-Resolution         | HR image from LR input                  | Sharpen blurry images            |
-| Style Transfer           | Artistic filtering                     | Turn photo into a painting       |
-| Medical Imaging          | Disease diagnosis from scans           | Tumor detection                  |
-| Autonomous Vehicles      | Driving perception                     | Lane detection, obstacle recognition |
-| Video Analysis           | Action recognition                     | Sport highlights, surveillance   |
+---
+
+| **Application**          | **Output**                            | **Example Use**                          | **Popular Models**                       |
+|--------------------------|----------------------------------------|-------------------------------------------|-------------------------------------------|
+| **Image Classification** | Single label                          | Cat vs Dog detection                      | AlexNet, VGG, ResNet, EfficientNet        |
+| **Object Detection**     | Bounding boxes + labels               | Detect cars in traffic                   | YOLO, SSD, Faster R-CNN, RetinaNet        |
+| **Semantic Segmentation**| Pixel-wise labeling                   | Road, sidewalk, building labeling        | FCN, U-Net, DeepLabV3+                    |
+| **Instance Segmentation**| Bounding boxes + pixel masks          | Separate each person in a photo          | Mask R-CNN                                |
+| **Face Recognition**     | Identity classification               | Tagging people in photos                 | FaceNet, ArcFace, DeepFace                |
+| └─ **Face Verification** | Same/different person? (binary)       | Unlock phones, access control            | FaceNet, Siamese Network, ArcFace         |
+| **Super-Resolution**     | HR image from LR input                | Sharpen blurry images                    | SRCNN, EDSR, SRGAN                        |
+| **Style Transfer**       | Artistic filtering                    | Turn photo into a painting               | Neural Style Transfer, AdaIN              |
+| **Medical Imaging**      | Disease diagnosis from scans          | Tumor detection                          | U-Net, V-Net, nnU-Net                     |
+| **Autonomous Vehicles**  | Driving perception                    | Lane detection, obstacle recognition     | YOLO, DeepLab, Multi-task CNNs            |
+| **Video Analysis**       | Action recognition                    | Sport highlights, surveillance           | I3D, C3D, SlowFast                        |
 
 ---
 
