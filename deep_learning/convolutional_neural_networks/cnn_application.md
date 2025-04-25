@@ -250,6 +250,8 @@ Then:
 **Popular models:**  
 - Neural Style Transfer (based on VGG-19)
 
+![image](https://github.com/user-attachments/assets/d8ed2b0b-91b0-4969-851d-5698aa931fe2)
+
 ---
 
 ## 🔹 **Medical Imaging Analysis**
