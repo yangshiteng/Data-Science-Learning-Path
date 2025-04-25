@@ -11,6 +11,8 @@
 | **Special Use**        | **Biomedical imaging** — works well on small datasets     |
 | **Key Innovation**     | Symmetric **U-shaped** encoder-decoder with **skip connections** |
 
+![image](https://github.com/user-attachments/assets/d56a7980-d9c7-4008-8945-c7d841d36e51)
+
 ---
 
 ## 🏗️ **What Makes U-Net Special?**
