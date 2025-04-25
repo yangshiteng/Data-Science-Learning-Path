@@ -60,6 +60,8 @@
 - U-Net  
 - DeepLab family (DeepLabV3+)
 
+![image](https://github.com/user-attachments/assets/c7fd33a6-1002-49f8-bd9e-8619abfa70bb)
+
 ---
 
 ## 🔹 4. **Instance Segmentation**
