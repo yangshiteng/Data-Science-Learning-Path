@@ -83,7 +83,14 @@ GoogLeNet also included **two auxiliary classifiers**:
   - Softmax classifier
 - Used only during training to improve gradient flow (combat vanishing gradients)
 
-![image](https://github.com/user-attachments/assets/e3f63b86-aba5-436a-88f9-0e07a96c527c)
+![image](https://github.com/user-attachments/assets/b6238682-e76c-4b90-a60f-18c2da20d36a)
+
+![image](https://github.com/user-attachments/assets/3e7446a6-65e3-42b2-a1ff-f9f7c64fceb7)
+
+![image](https://github.com/user-attachments/assets/ade88d2b-5cda-44f1-ac36-27e3362ea961)
+
+![image](https://github.com/user-attachments/assets/89f0b1a2-81a0-4e88-ae12-07605df36356)
+
 
 ---
 
