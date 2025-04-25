@@ -2,7 +2,7 @@
 
 ---
 
-## 🔹 1. **Image Classification**
+## 🔹 **Image Classification**
 
 **What:**  
 - Assign a **single label** to the **entire image**.
@@ -19,7 +19,7 @@
 
 ---
 
-## 🔹 2. **Object Detection**
+## 🔹 **Object Detection**
 
 **What:**  
 - Locate **and** classify **multiple objects** in a single image.
@@ -42,7 +42,7 @@
 
 ---
 
-## 🔹 3. **Semantic Segmentation**
+## 🔹 **Semantic Segmentation**
 
 **What:**  
 - Classify **each pixel** in an image into a category.
@@ -64,7 +64,7 @@
 
 ---
 
-## 🔹 4. **Instance Segmentation**
+## 🔹 **Instance Segmentation**
 
 **What:**  
 - Combines **object detection** and **semantic segmentation**.
@@ -151,7 +151,7 @@
 
 ---
 
-## 🔹 5. **Face Recognition / Face Verification**
+## 🔹 **Face Recognition / Face Verification**
 
 ### 🧠 **Face Recognition vs Face Verification**
 
@@ -213,7 +213,7 @@ Then:
 
 ---
 
-## 🔹 6. **Super-Resolution Imaging**
+## 🔹 **Super-Resolution Imaging**
 
 **What:**  
 - Generate **high-resolution** images from **low-resolution** inputs.
@@ -231,7 +231,7 @@ Then:
 
 ---
 
-## 🔹 7. **Image Style Transfer**
+## 🔹 **Image Style Transfer**
 
 **What:**  
 - Transfer the **artistic style** of one image onto another image while preserving its content.
@@ -248,7 +248,7 @@ Then:
 
 ---
 
-## 🔹 8. **Medical Imaging Analysis**
+## 🔹 **Medical Imaging Analysis**
 
 **What:**  
 - Detect diseases, segment organs, or classify conditions from medical scans.
@@ -265,7 +265,7 @@ Then:
 
 ---
 
-## 🔹 9. **Autonomous Vehicles**
+## 🔹 **Autonomous Vehicles**
 
 **What:**  
 - Help cars “see” and understand their surroundings.
@@ -283,7 +283,7 @@ Then:
 
 ---
 
-## 🔹 10. **Video Analysis and Activity Recognition**
+## 🔹 **Video Analysis and Activity Recognition**
 
 **What:**  
 - Understand activities or actions happening in video sequences.
