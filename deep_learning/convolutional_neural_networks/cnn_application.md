@@ -38,6 +38,8 @@
 
 ![image](https://github.com/user-attachments/assets/a133107d-f10f-40a2-8da1-da2ec3a345ad)
 
+![image](https://github.com/user-attachments/assets/cbaf3624-1c69-44e7-897e-344f84f8cbeb)
+
 ---
 
 ## 🔹 3. **Semantic Segmentation**
