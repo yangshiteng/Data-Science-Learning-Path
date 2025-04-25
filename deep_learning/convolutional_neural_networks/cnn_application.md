@@ -309,6 +309,8 @@ Then:
 - I3D (Inflated 3D ConvNet)  
 - C3D (3D ConvNet)
 
+![image](https://github.com/user-attachments/assets/5b158c27-9bfb-45ec-a052-7dd9eb87c341)
+
 ---
 
 # ✅ **Summary Table**
