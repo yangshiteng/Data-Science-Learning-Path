@@ -46,7 +46,7 @@
     - [RegNet](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/convolutional_neural_networks/regnet.md)
     - [ConvNeXt](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/convolutional_neural_networks/convnext.md)
   - **Specialized/Hybrid Architectures**
-    - [U-Net]()
+    - [U-Net (Image Segmentation)]()
     - [Mask R-CNN]()
     - [YOLO / SSD]()
   
