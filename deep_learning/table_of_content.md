@@ -44,6 +44,18 @@
     - [EfficientNet](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/convolutional_neural_networks/efficientnet.md)
     - [RegNet](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/convolutional_neural_networks/regnet.md)
     - [ConvNeXt](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/convolutional_neural_networks/convnext.md)
+- **Specialized CNN Applications**
+  - [U-Net: Biomedical Image Segmentation]()
+  - [Mask R-CNN: Instance Segmentation]()
+  - [YOLO / SSD: Real-time Object Detection]()
+  - [Super-Resolution Networks (e.g., SRCNN, SRGAN)]()
+  - [Style Transfer with CNNs]()
+- **CNN in Practice**
+  - [Transfer Learning (e.g., using pre-trained ResNet)]()
+  - [Fine-tuning vs Feature Extraction]()
+  - [Frameworks: TensorFlow, PyTorch, Keras]()
+  - [Evaluation Metrics (Accuracy, IoU, mAP, etc.)]()
+  - [Model Deployment (TFLite, ONNX, Edge)]()
 
 ## Recurrent Neural Networks (RNNs) and Sequence Models
 
