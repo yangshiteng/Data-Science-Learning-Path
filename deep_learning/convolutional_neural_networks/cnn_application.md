@@ -82,6 +82,8 @@
 
 ![image](https://github.com/user-attachments/assets/b3bf21f1-d20a-4e77-bde8-113ee19d818b)
 
+![image](https://github.com/user-attachments/assets/8636b0f4-e762-404b-97e8-fe7591019b38)
+
 ---
 
 ## 🔹 5. **Face Recognition / Face Verification**
