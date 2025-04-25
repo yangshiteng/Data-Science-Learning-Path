@@ -25,32 +25,25 @@
   - [Parameter Optimized During CNN Training](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/convolutional_neural_networks/parameter_optimized_cnn.md)
   - [Data Augmentation](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/convolutional_neural_networks/data_augmentation.md)
 - **Popular CNN Architectures**
-  - **1st Generation: Classic CNNs**
+  - **Foundations of CNNs**
     - [LeNet-5](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/convolutional_neural_networks/lenet5.md)
-  - **2nd Generation: Deep and Deeper Networks**
+  - **Deepening the Networks**
     - [AlexNet](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/convolutional_neural_networks/alexnet.md)
     - [ZFNet](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/convolutional_neural_networks/zfnet.md)
     - [VGGNet (VGG11, VGG13, VGG16, VGG19)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/convolutional_neural_networks/vgg.md)
-  - **3rd Generation: Optimization and Modular Design**
+  - **Modular and Optimized Design**
     - [GoogLeNet (also known as Inception v1)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/convolutional_neural_networks/googlenet.md)
-    - [Inception v2](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/convolutional_neural_networks/inception_v2.md)
-    - [Inception v3](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/convolutional_neural_networks/inception_v3.md)
-    - [Inception v4](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/convolutional_neural_networks/inception_v4.md)
+    - [Inception v2/v3/v4](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/convolutional_neural_networks/inception_v2v3v4.md)
     - [ResNet (Residual Network)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/convolutional_neural_networks/resnet.md)
-  - **4th Generation: Efficiency and Speed**
+  - **Lightweight and Efficient CNNs**
     - [MobileNet](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/convolutional_neural_networks/mobilenet.md)
     - [ShuffleNet](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/convolutional_neural_networks/shufflenet.md)
     - [SqueezeNet](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/convolutional_neural_networks/squeezenet.md)
-  - **5th Generation: Powerful & Hybrid Models**
+  - **Modern and Scalable CNNs**
     - [EfficientNet](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/convolutional_neural_networks/efficientnet.md)
     - [RegNet](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/convolutional_neural_networks/regnet.md)
     - [ConvNeXt](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/convolutional_neural_networks/convnext.md)
-  - **Specialized/Hybrid Architectures**
-    - [U-Net (Biomedical Image Segmentation)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/convolutional_neural_networks/u_net.md)
-    - [Mask R-CNN]()
-    - [YOLO / SSD]()
-    - [DenseNet]()
-  
+
 ## Recurrent Neural Networks (RNNs) and Sequence Models
 
 ## Advanced Architectures and Techniques
