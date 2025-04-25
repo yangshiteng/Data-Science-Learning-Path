@@ -36,6 +36,8 @@
 **Popular models:**  
 - Faster R-CNN, YOLO, SSD, RetinaNet
 
+![image](https://github.com/user-attachments/assets/a133107d-f10f-40a2-8da1-da2ec3a345ad)
+
 ---
 
 ## 🔹 3. **Semantic Segmentation**
