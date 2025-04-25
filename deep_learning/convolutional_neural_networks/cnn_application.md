@@ -15,6 +15,8 @@
 **Popular models:**  
 - LeNet-5, AlexNet, VGG, ResNet, EfficientNet
 
+![image](https://github.com/user-attachments/assets/170b8041-a43d-4ffe-8238-ce74ef7d4932)
+
 ---
 
 ## 🔹 2. **Object Detection**
