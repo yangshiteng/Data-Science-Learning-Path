@@ -213,6 +213,8 @@ Then:
 
 ---
 
+![image](https://github.com/user-attachments/assets/68c706ca-d110-410a-a76a-3cc846ceedab)
+
 ## 🔹 **Super-Resolution Imaging**
 
 **What:**  
