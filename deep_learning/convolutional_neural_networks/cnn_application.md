@@ -80,6 +80,8 @@
 **Popular models:**  
 - Mask R-CNN
 
+![image](https://github.com/user-attachments/assets/b3bf21f1-d20a-4e77-bde8-113ee19d818b)
+
 ---
 
 ## 🔹 5. **Face Recognition / Face Verification**
