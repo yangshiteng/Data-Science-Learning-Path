@@ -11,7 +11,7 @@
 | **Special Use**        | **Biomedical imaging** — works well on small datasets     |
 | **Key Innovation**     | Symmetric **U-shaped** encoder-decoder with **skip connections** |
 
-![image](https://github.com/user-attachments/assets/d56a7980-d9c7-4008-8945-c7d841d36e51)
+![image](https://github.com/user-attachments/assets/7481205b-d027-4b66-8738-78db27d6f9c9)
 
 ---
 
@@ -51,6 +51,8 @@
 
 ### 🔷 **Final Layer**
 - 1×1 convolution → map to desired number of output channels (e.g., 1 for binary segmentation, or C for C-class segmentation)
+
+![image](https://github.com/user-attachments/assets/c28e86d5-d3d7-4639-b4ac-e9852a82c442)
 
 ---
 
