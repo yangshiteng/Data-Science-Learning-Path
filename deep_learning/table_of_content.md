@@ -49,6 +49,7 @@
     - [U-Net (Image Segmentation)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/convolutional_neural_networks/u_net.md)
     - [Mask R-CNN]()
     - [YOLO / SSD]()
+    - [DenseNet]()
   
 ## Recurrent Neural Networks (RNNs) and Sequence Models
 
