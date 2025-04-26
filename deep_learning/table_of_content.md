@@ -49,7 +49,7 @@
   - [U-Net: Biomedical Image Segmentation](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/convolutional_neural_networks/u_net.md)
   - [Mask R-CNN: Instance Segmentation](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/convolutional_neural_networks/mask_rnn.md)
   - [YOLO / SSD: Real-time Object Detection](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/convolutional_neural_networks/yolo_ssd.md)
-  - [Super-Resolution Networks (e.g., SRCNN, SRGAN)]()
+  - [Super-Resolution Networks (e.g., SRCNN, SRGAN)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/convolutional_neural_networks/super_resolution.md)
   - [Style Transfer with CNNs]()
 - **CNN in Practice**
   - [Transfer Learning (e.g., using pre-trained ResNet)]()
