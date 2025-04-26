@@ -72,15 +72,7 @@ Head Networks:
 
 ## 🧪 **Loss Function**
 
-Mask R-CNN optimizes a **multi-task loss**:
-
-\[
-L = L_{\text{cls}} + L_{\text{bbox}} + L_{\text{mask}}
-\]
-
-- \( L_{\text{cls}} \) → classification loss
-- \( L_{\text{bbox}} \) → bounding box regression loss
-- \( L_{\text{mask}} \) → pixel-wise binary cross-entropy loss for mask prediction
+![image](https://github.com/user-attachments/assets/83b73bd2-9e34-4b22-9a41-92753dcfc905)
 
 ---
 
