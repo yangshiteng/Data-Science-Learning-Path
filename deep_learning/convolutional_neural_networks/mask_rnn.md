@@ -1,6 +1,6 @@
 # 🧠 **Mask R-CNN: Instance Segmentation Made Practical**
 
-### 📌 Overview
+## 📌 Overview
 
 | Feature               | Description                                            |
 |------------------------|--------------------------------------------------------|
@@ -12,7 +12,7 @@
 
 ---
 
-# 📚 **What Problem Does Mask R-CNN Solve?**
+## 📚 **What Problem Does Mask R-CNN Solve?**
 
 Most object detection models (like Faster R-CNN, YOLO) do:
 - **Where** is the object? → Bounding box
@@ -27,7 +27,7 @@ Most object detection models (like Faster R-CNN, YOLO) do:
 
 ---
 
-# 🏗️ **How Mask R-CNN Works**
+## 🏗️ **How Mask R-CNN Works**
 
 It has two main stages:
 
@@ -38,7 +38,7 @@ It has two main stages:
 
 ---
 
-# 🔥 **Key Innovations**
+## 🔥 **Key Innovations**
 
 ### ✅ 1. **RoI Align**
 - Replaces RoI Pooling (used in Faster R-CNN).
@@ -51,7 +51,7 @@ It has two main stages:
 
 ---
 
-# 🧩 **Detailed Architecture Flow**
+## 🧩 **Detailed Architecture Flow**
 
 ```text
 Input Image
@@ -70,7 +70,7 @@ Head Networks:
 
 ---
 
-# 🧪 **Loss Function**
+## 🧪 **Loss Function**
 
 Mask R-CNN optimizes a **multi-task loss**:
 
@@ -84,7 +84,7 @@ L = L_{\text{cls}} + L_{\text{bbox}} + L_{\text{mask}}
 
 ---
 
-# 📈 **Where is Mask R-CNN Used?**
+## 📈 **Where is Mask R-CNN Used?**
 
 | Field             | Example Applications |
 |-------------------|-----------------------|
@@ -96,7 +96,7 @@ L = L_{\text{cls}} + L_{\text{bbox}} + L_{\text{mask}}
 
 ---
 
-# ✅ **Strengths of Mask R-CNN**
+## ✅ **Strengths of Mask R-CNN**
 
 | Feature                     | Why It's Important                    |
 |------------------------------|----------------------------------------|
