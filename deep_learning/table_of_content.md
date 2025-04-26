@@ -51,10 +51,13 @@
   - [YOLO / SSD: Real-time Object Detection](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/convolutional_neural_networks/yolo_ssd.md)
   - [Super-Resolution Networks (e.g., SRCNN, SRGAN)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/convolutional_neural_networks/super_resolution.md)
   - [Style Transfer with CNNs](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/convolutional_neural_networks/style_transfer.md)
+- **Transfer Learning**
+  - [Introduction of Transfer Learning]()
+  - [Feature Extraction vs Fine-tuning]()
+  - [Example Code: Feature Extraction]()
+  - [Example Code: Fine-Tuning]()
 - **CNN in Practice**
   - [Model Zoos & Playgrounds for CNNs](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/convolutional_neural_networks/online_resource.md)
-  - [Transfer Learning (e.g., using pre-trained ResNet)]()
-  - [Fine-tuning vs Feature Extraction]()
   - [Frameworks: TensorFlow, PyTorch, Keras]()
   - [Evaluation Metrics (Accuracy, IoU, mAP, etc.)]()
   - [Model Deployment (TFLite, ONNX, Edge)]()
