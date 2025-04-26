@@ -52,6 +52,7 @@
   - [Super-Resolution Networks (e.g., SRCNN, SRGAN)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/convolutional_neural_networks/super_resolution.md)
   - [Style Transfer with CNNs](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/convolutional_neural_networks/style_transfer.md)
 - **CNN in Practice**
+  - [Online Resource]()
   - [Transfer Learning (e.g., using pre-trained ResNet)]()
   - [Fine-tuning vs Feature Extraction]()
   - [Frameworks: TensorFlow, PyTorch, Keras]()
