@@ -95,6 +95,8 @@ Everything is predicted **in one pass** through the network.
 | 🎯 Good accuracy         | Higher than YOLOv1 (original version)      |
 | 🛠️ Flexible backbones   | Can combine with lighter models (MobileNet-SSD) |
 
+![image](https://github.com/user-attachments/assets/2e9b39d5-8a1b-43b8-a4e4-3d5107ff407b)
+
 ---
 
 # 📊 **Comparison: YOLO vs SSD**
