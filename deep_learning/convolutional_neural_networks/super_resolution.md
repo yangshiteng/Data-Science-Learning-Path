@@ -40,6 +40,8 @@ CNNs are **perfect for image enhancement** because:
    - Reconstruction
 3. **Output:** Sharp HR image
 
+![image](https://github.com/user-attachments/assets/58295b25-1e7a-41eb-809a-071df4514869)
+
 ### 📈 Strengths:
 - Very simple and effective
 - Opened the door to deep learning for SR
@@ -63,6 +65,8 @@ CNNs are **perfect for image enhancement** because:
 - **Generator:** Upsamples the LR image to HR using deep residual blocks.
 - **Discriminator:** Judges whether an image is real (ground truth HR) or fake (generated HR).
 - **Training:** Generator tries to fool discriminator; discriminator gets better at spotting fakes.
+
+![image](https://github.com/user-attachments/assets/ebab4429-ed39-4883-b37b-c81f04f62a60)
 
 ### 📈 Strengths:
 - Produces **much sharper and more realistic textures**.
