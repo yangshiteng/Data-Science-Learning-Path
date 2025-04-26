@@ -8,6 +8,8 @@
 
 ✅ The final result looks like **"your photo painted by Van Gogh"** or **"your portrait in Picasso's style"**!
 
+![image](https://github.com/user-attachments/assets/2d771e93-fca3-4d7c-8242-1088c32422e9)
+
 ---
 
 # 🏗️ **How Neural Style Transfer Works**
