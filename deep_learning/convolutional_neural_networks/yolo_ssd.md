@@ -47,6 +47,8 @@ Everything is predicted **in one pass** through the network.
 | 🎯 Accuracy              | Very competitive for real-time tasks       |
 | 💻 Light models          | Can run on mobile, drones, embedded devices |
 
+![image](https://github.com/user-attachments/assets/136ce7bd-1495-4345-9d33-ccb08b2f2dd8)
+
 ---
 
 # 🔥 **2. SSD (Single Shot MultiBox Detector)**
