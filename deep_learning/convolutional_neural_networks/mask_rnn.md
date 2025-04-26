@@ -25,6 +25,8 @@ Most object detection models (like Faster R-CNN, YOLO) do:
 
 ✅ It performs **pixel-accurate detection**, separating **each individual object** — even **different objects of the same class**.
 
+![image](https://github.com/user-attachments/assets/d9055b16-f2e4-4153-9005-dfda8020f792)
+
 ---
 
 ## 🏗️ **How Mask R-CNN Works**
