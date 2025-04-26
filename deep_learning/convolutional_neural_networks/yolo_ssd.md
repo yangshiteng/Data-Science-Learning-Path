@@ -1,10 +1,6 @@
-# 🧠 **YOLO / SSD: Real-Time Object Detection**
+# 🔥 **1. YOLO (You Only Look Once)**
 
----
-
-## 🔥 **1. YOLO (You Only Look Once)**
-
-### 📌 Overview
+## 📌 Overview
 
 | Feature                | Description                                              |
 |-------------------------|----------------------------------------------------------|
@@ -29,7 +25,7 @@ Everything is predicted **in one pass** through the network.
 
 ---
 
-### 🔹 YOLO Key Evolution
+## 🔹 YOLO Key Evolution
 
 | Version        | Improvements                                      |
 |----------------|---------------------------------------------------|
@@ -55,7 +51,7 @@ Everything is predicted **in one pass** through the network.
 
 # 🔥 **2. SSD (Single Shot MultiBox Detector)**
 
-### 📌 Overview
+## 📌 Overview
 
 | Feature                | Description                                              |
 |-------------------------|----------------------------------------------------------|
@@ -80,7 +76,7 @@ Everything is predicted **in one pass** through the network.
 
 ---
 
-### 🔹 SSD Key Features
+## 🔹 SSD Key Features
 
 - Base CNN (e.g., VGG16, MobileNet) extracts features.
 - Additional feature layers added to capture multi-scale objects.
