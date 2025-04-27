@@ -10,6 +10,8 @@
 
 ✅ CNNs are ideal for this field because they can learn **complex spatial patterns**, often **beyond human visibility**, improving accuracy, speed, and objectivity in diagnosis.
 
+![image](https://github.com/user-attachments/assets/f71b4c7f-6aa9-49b4-856b-e5c334f64416)
+
 ---
 
 # 🏆 **Popular CNN Models and Techniques for Medical Imaging**
