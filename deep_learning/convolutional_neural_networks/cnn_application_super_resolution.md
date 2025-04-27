@@ -9,6 +9,8 @@
 
 ✅ **Goal**: Enhance image details — making images sharper, cleaner, and more detailed — without simply enlarging/blurring them like traditional interpolation (bicubic, nearest neighbor).
 
+![image](https://github.com/user-attachments/assets/2cd32cb3-c649-4fda-8ccb-f7671e942235)
+
 ---
 
 # 🏆 **Popular CNN Models for Super-Resolution Imaging**
