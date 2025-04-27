@@ -88,6 +88,10 @@ Here’s a list of the **major architectures** and techniques.
 
 ✅ **StyleGAN** is not classical style transfer, but **style-based generation** — huge impact on art and media industries.
 
+![image](https://github.com/user-attachments/assets/6c69a66a-bfc0-439c-b104-a8abb3d43d05)
+
+![image](https://github.com/user-attachments/assets/20ab331a-d876-4649-8b6a-9ed9497786fe)
+
 ---
 
 # 📊 **Comparison of Popular CNN Models for Image Style Transfer**
