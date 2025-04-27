@@ -13,6 +13,8 @@ CNNs revolutionized image classification by learning **hierarchical features**:
 - Object parts at middle layers
 - Complete objects at deeper layers
 
+![image](https://github.com/user-attachments/assets/4f3aa935-63db-4c1a-84da-a3986bfe9c87)
+
 ---
 
 # 🏆 **Popular CNN Models for Image Classification**
