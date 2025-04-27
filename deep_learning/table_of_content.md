@@ -57,8 +57,8 @@
   - [Medical Imaging Analysis](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/convolutional_neural_networks/cnn_application_medical_imaging.md)
   - [Autonomous Vehicles](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/convolutional_neural_networks/cnn_application_autonomous_vehicle.md)
   - [Video Analysis and Activity Recognition](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/convolutional_neural_networks/cnn_application_video_analysis.md)
-- **Transfer Learning**
-  - [Introduction of Transfer Learning](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/convolutional_neural_networks/introduction_transfer_learning.md)
+- **Transfer Learning in CNNs**
+  - [Introduction of Transfer Learning in CNNs](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/convolutional_neural_networks/introduction_transfer_learning.md)
   - [Example Code: Feature Extraction](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/convolutional_neural_networks/example_feature_extraction.md)
   - [Example Code: Fine-Tuning](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/convolutional_neural_networks/example_fine_tuning.md)
 - **CNN in Practice**
