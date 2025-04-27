@@ -2,7 +2,7 @@
 
 ---
 
-# 🧠 **What is TensorFlow?**
+## 🧠 **What is TensorFlow?**
 
 > **TensorFlow** is an **open-source deep learning framework** developed by **Google Brain**.
 
@@ -26,7 +26,7 @@ It allows you to build and train **machine learning models**, especially **deep 
 
 ---
 
-# 🛠️ **TensorFlow and CNNs**
+## 🛠️ **TensorFlow and CNNs**
 
 TensorFlow (via **Keras API**) makes it very simple to:
 - Build a CNN architecture
@@ -43,13 +43,13 @@ TensorFlow (via **Keras API**) makes it very simple to:
 
 ---
 
-# 🚀 **Simple CNN in TensorFlow – Step-by-Step**
+## 🚀 **Simple CNN in TensorFlow – Step-by-Step**
 
 Now, let’s **build a small CNN** to classify images from a simple dataset (e.g., CIFAR-10).
 
 ---
 
-## 1. Install TensorFlow
+### 1. Install TensorFlow
 
 ```bash
 pip install tensorflow
@@ -57,7 +57,7 @@ pip install tensorflow
 
 ---
 
-## 2. Import TensorFlow and Prepare Data
+### 2. Import TensorFlow and Prepare Data
 
 ```python
 import tensorflow as tf
@@ -76,7 +76,7 @@ x_test = x_test / 255.0
 
 ---
 
-## 3. Build a Simple CNN Model
+### 3. Build a Simple CNN Model
 
 ```python
 model = models.Sequential([
@@ -102,7 +102,7 @@ model = models.Sequential([
 
 ---
 
-## 4. Compile the Model
+### 4. Compile the Model
 
 ```python
 model.compile(optimizer='adam',
@@ -115,7 +115,7 @@ model.compile(optimizer='adam',
 
 ---
 
-## 5. Train the Model
+### 5. Train the Model
 
 ```python
 history = model.fit(x_train, y_train, epochs=10, 
@@ -126,7 +126,7 @@ history = model.fit(x_train, y_train, epochs=10,
 
 ---
 
-## 6. Evaluate the Model
+### 6. Evaluate the Model
 
 ```python
 test_loss, test_acc = model.evaluate(x_test, y_test)
@@ -137,7 +137,7 @@ print(f"Test Accuracy: {test_acc:.4f}")
 
 ---
 
-## 7. Visualize Training History (Optional)
+### 7. Visualize Training History (Optional)
 
 ```python
 plt.plot(history.history['accuracy'], label='train acc')
@@ -152,7 +152,7 @@ plt.show()
 
 ---
 
-# 📊 **Summary of TensorFlow CNN Code Steps**
+## 📊 **Summary of TensorFlow CNN Code Steps**
 
 | Step                     | Code Summary |
 |---------------------------|--------------|
@@ -166,7 +166,7 @@ plt.show()
 
 ---
 
-# 🧠 **Final Takeaway**
+## 🧠 **Final Takeaway**
 
 > **TensorFlow** (with Keras) makes building **powerful CNNs** very straightforward —  
 > whether you're solving small tasks like CIFAR-10 or building huge networks for ImageNet or medical imaging.
