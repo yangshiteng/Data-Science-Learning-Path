@@ -63,7 +63,7 @@
   - [Example Code: Fine-Tuning](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/convolutional_neural_networks/example_fine_tuning.md)
 - **CNN in Practice**
   - [Model Zoos & Playgrounds for CNNs](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/convolutional_neural_networks/model_playgrounds.md)
-  - [Frameworks: TensorFlow & Keras]()
+  - [Frameworks: TensorFlow & Keras](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/convolutional_neural_networks/framework_tf_keras.md)
   - [Evaluation Metrics (Accuracy, IoU, mAP, etc.)]()
   - [Model Deployment (TFLite, ONNX, Edge)]()
 
