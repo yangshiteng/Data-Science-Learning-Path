@@ -6,7 +6,7 @@
 - [Difference between AI, Machine Learning, and Deep Learning](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/introduction_to_deep_learning/difference_ai_ml_dl.md)
 - [Applications and Real-world Use Cases](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/introduction_to_deep_learning/applications_and_realworld_use_cases.md)
 - [Challenges and Limitations](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/introduction_to_deep_learning/challenges_and_limitations.md)
-- [Essential Resources for Deep Learning]()
+- [Essential Resources for Deep Learning](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/introduction_to_deep_learning/essential_resources_deep_learning.md)
   
 ## II. Convolutional Neural Networks (CNNs)
 - **Introduction**
