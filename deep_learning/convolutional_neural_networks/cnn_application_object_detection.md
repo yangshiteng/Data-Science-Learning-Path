@@ -10,6 +10,8 @@ In **object detection**, the goal is to:
 
 ✅ Instead of predicting a single label (like in classification), object detection models predict **multiple bounding boxes + labels** in one image.
 
+![image](https://github.com/user-attachments/assets/cfa1716f-c02d-4978-bb38-b289da87f680)
+
 ---
 
 # 🏆 **Popular CNN Models for Object Detection**
