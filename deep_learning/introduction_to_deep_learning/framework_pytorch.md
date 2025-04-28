@@ -206,6 +206,146 @@ Let’s go through **saving and loading models in PyTorch** — **step-by-step**
 
 ---
 
+# 📚 **Dynamic Computation Graph in PyTorch**
+
+---
+
+## 🧠 **What is a Computation Graph?**
+
+In deep learning, a **computation graph** is:
+- A structure that describes how **data flows** through the **operations** (layers, activations, etc.)  
+- It keeps track of **how outputs are computed from inputs**, so gradients can be **automatically calculated** during **backpropagation**.
+
+✅ In short: **Computation graph = map of operations for forward and backward pass**.
+
+---
+
+## 🛠️ **Static vs Dynamic Computation Graphs**
+
+| Feature                        | Static Graph | Dynamic Graph (PyTorch) |
+|---------------------------------|--------------|-------------------------|
+| Define operations **before** running | ✅ Yes | ❌ No |
+| Define operations **while** running | ❌ No | ✅ Yes |
+| Graph is fixed after build | ✅ Yes | ❌ No |
+| Graph changes based on input/data | ❌ No | ✅ Yes |
+| Debugging with Python tools | ❌ Difficult | ✅ Easy |
+
+✅ **Static**: Build once, run many times (Old TensorFlow 1.x, Caffe).  
+✅ **Dynamic**: Build while running, modify anytime (PyTorch).
+
+---
+
+## 🔥 **Dynamic Computation Graph in PyTorch**
+
+In **PyTorch**,  
+> The computation graph is **created dynamically at runtime** — every time you call the **forward()** method.
+
+✅ Each time you run a forward pass:
+- A **new computation graph** is built **on the fly**.
+- **Operations** (`+`, `*`, `relu`, `conv2d`, etc.) are **recorded step-by-step**.
+- **PyTorch knows how to compute gradients automatically** based on the graph it built during this run.
+
+---
+
+## 🎯 **Mini Visual Concept**
+
+Suppose you define this in forward():
+
+```python
+def forward(self, x):
+    x = self.conv1(x)
+    x = torch.relu(x)
+    x = self.conv2(x)
+    return x
+```
+
+PyTorch dynamically builds:
+
+```
+Input → Conv1 → ReLU → Conv2 → Output
+```
+
+✅ As soon as the forward is called,  
+✅ The graph is built dynamically — no need to "compile" in advance!
+
+---
+
+## 🔥 **Dynamic Behavior Example**
+
+You can even **change the graph based on input**:
+
+```python
+def forward(self, x):
+    if x.size(0) > 10:  # If batch size > 10
+        x = self.conv1(x)
+    else:
+        x = self.conv2(x)
+    return x
+```
+
+✅ The graph will be **different** depending on the input during runtime!  
+✅ This is **only possible** because PyTorch builds the graph **on the fly**!
+
+---
+
+## 🛠️ **How PyTorch Handles Dynamic Computation Graph**
+
+- Every Tensor operation (like addition, matrix multiplication, convolution) is **registered** into a **dynamic graph** (called the Autograd Engine).
+- When you call `.backward()`, PyTorch **traces back through the graph** and automatically computes **gradients** for you.
+- After `.backward()`, the graph is **destroyed** — new graph will be built at the next forward pass.
+
+✅ **One forward pass = one fresh graph**!
+
+---
+
+## 📊 **Summary of Dynamic Computation Graph in PyTorch**
+
+| Item                  | PyTorch Dynamic Graph |
+|------------------------|-----------------------|
+| Graph built during     | Each forward pass runtime |
+| Allows control flow    | ✅ Yes (if-else, loops, etc.) |
+| Easy to debug          | ✅ Yes (standard Python tools) |
+| Flexible architecture  | ✅ Easily modify models based on inputs |
+| Graph lifetime         | Exists only during that forward-backward pass |
+
+---
+
+## 🧠 **Final Takeaway**
+
+> **Dynamic computation graph** in PyTorch means:  
+> you can **define, modify, and run your model dynamically at runtime** —  
+> making it **extremely flexible**, **intuitive**, and **powerful** for research and real-world experiments!
+
+✅ It's like **building a new graph on the fly** for every different input, every different forward call.
+
+---
+
+## 🚀 **Quick Simple Example**
+
+```python
+import torch
+import torch.nn as nn
+
+class DynamicNet(nn.Module):
+    def __init__(self):
+        super(DynamicNet, self).__init__()
+        self.fc1 = nn.Linear(10, 20)
+        self.fc2 = nn.Linear(10, 20)
+
+    def forward(self, x):
+        if x.mean() > 0:
+            x = self.fc1(x)
+        else:
+            x = self.fc2(x)
+        return x
+
+model = DynamicNet()
+input1 = torch.randn(5, 10)
+output1 = model(input1)  # Will choose fc1 or fc2 based on input's mean
+```
+
+✅ Here, which **layer** the input goes through **depends on the input value** at runtime!
+
 # 📚 **Saving and Loading Models in PyTorch**
 
 ---
