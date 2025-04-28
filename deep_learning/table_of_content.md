@@ -9,8 +9,8 @@
   - [Challenges and Limitations](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/introduction_to_deep_learning/challenges_and_limitations.md)
   - [Essential Resources for Deep Learning](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/introduction_to_deep_learning/essential_resources_deep_learning.md)
 - **Deep Learning Frameworks**
-  - [Tensorflow & Keras]()
-  - [PyTorch]()
+  - [Tensorflow & Keras](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/introduction_to_deep_learning/framework_tf_keras.md)
+  - [PyTorch](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/introduction_to_deep_learning/framework_pytorch.md)
   - [TensorFlow vs PyTorch](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/introduction_to_deep_learning/tf_vs_pytorch.md)
   
 ## II. Convolutional Neural Networks (CNNs)
@@ -69,8 +69,8 @@
   - [Example Code: Fine-Tuning](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/convolutional_neural_networks/example_fine_tuning.md)
 - **CNNs in Practice**
   - [Model Zoos & Playgrounds for CNNs](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/convolutional_neural_networks/model_playgrounds.md)
-  - [CNNs Frameworks: TensorFlow & Keras](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/convolutional_neural_networks/framework_tf_keras.md)
-  - [CNNs Frameworks: PyTorch](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/convolutional_neural_networks/framework_pytorch.md)
+  - [CNNs Application with TensorFlow & Keras]()
+  - [CNNs Application with PyTorch]()
 
 ## III. Recurrent Neural Networks (RNNs)
 
