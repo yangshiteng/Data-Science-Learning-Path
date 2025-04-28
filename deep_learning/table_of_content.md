@@ -69,7 +69,7 @@
   - [Example Code: Fine-Tuning](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/convolutional_neural_networks/example_fine_tuning.md)
 - **CNNs in Practice**
   - [Model Zoos & Playgrounds for CNNs](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/convolutional_neural_networks/model_playgrounds.md)
-  - [CNNs Application with TensorFlow & Keras]()
+  - [CNNs Application with TensorFlow & Keras](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/convolutional_neural_networks/cnn_application_tf_keras.md)
   - [CNNs Application with PyTorch]()
 
 ## III. Recurrent Neural Networks (RNNs)
