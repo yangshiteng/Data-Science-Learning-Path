@@ -61,7 +61,7 @@
   - [Introduction of Transfer Learning in CNNs](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/convolutional_neural_networks/introduction_transfer_learning.md)
   - [Example Code: Feature Extraction](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/convolutional_neural_networks/example_feature_extraction.md)
   - [Example Code: Fine-Tuning](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/convolutional_neural_networks/example_fine_tuning.md)
-- **CNN in Practice**
+- **CNNs in Practice**
   - [Model Zoos & Playgrounds for CNNs](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/convolutional_neural_networks/model_playgrounds.md)
   - [CNNs Frameworks: TensorFlow & Keras](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/convolutional_neural_networks/framework_tf_keras.md)
   - [CNNs Frameworks: PyTorch](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/convolutional_neural_networks/framework_pytorch.md)
