@@ -70,7 +70,7 @@
 - **CNNs in Practice**
   - [Model Zoos & Playgrounds for CNNs](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/convolutional_neural_networks/model_playgrounds.md)
   - [CNNs Application with TensorFlow & Keras](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/convolutional_neural_networks/cnn_application_tf_keras.md)
-  - [CNNs Application with PyTorch]()
+  - [CNNs Application with PyTorch](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/convolutional_neural_networks/cnn_pytorch.md)
 
 ## III. Recurrent Neural Networks (RNNs)
 
