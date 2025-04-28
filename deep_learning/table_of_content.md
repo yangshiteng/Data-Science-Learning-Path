@@ -67,7 +67,7 @@
   - [CNNs Frameworks: PyTorch](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/convolutional_neural_networks/framework_pytorch.md)
   - [TensorFlow vs PyTorch](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/convolutional_neural_networks/tf_vs_pytorch.md)
     
-## Recurrent Neural Networks (RNNs) and Sequence Models
+## III. Recurrent Neural Networks (RNNs) and Sequence Models
 
 ## Advanced Architectures and Techniques
 - **Attention Mechanisms**
