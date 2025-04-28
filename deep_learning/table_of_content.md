@@ -63,12 +63,10 @@
   - [Example Code: Fine-Tuning](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/convolutional_neural_networks/example_fine_tuning.md)
 - **CNN in Practice**
   - [Model Zoos & Playgrounds for CNNs](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/convolutional_neural_networks/model_playgrounds.md)
-  - [Frameworks: TensorFlow & Keras](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/convolutional_neural_networks/framework_tf_keras.md)
-  - [Frameworks: PyTorch](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/convolutional_neural_networks/framework_pytorch.md)
+  - [CNNs Frameworks: TensorFlow & Keras](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/convolutional_neural_networks/framework_tf_keras.md)
+  - [CNNs Frameworks: PyTorch](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/convolutional_neural_networks/framework_pytorch.md)
   - [TensorFlow vs PyTorch](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/convolutional_neural_networks/tf_vs_pytorch.md)
-  - [Evaluation Metrics (Accuracy, IoU, mAP, etc.)]()
-  - [Model Deployment (TFLite, ONNX, Edge)]()
-
+    
 ## Recurrent Neural Networks (RNNs) and Sequence Models
 
 ## Advanced Architectures and Techniques
