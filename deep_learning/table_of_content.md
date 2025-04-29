@@ -52,6 +52,10 @@
     - [RegNet](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/convolutional_neural_networks/regnet.md)
     - [ConvNeXt](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/convolutional_neural_networks/convnext.md)
 - **Advanced Techniques**
+  - [Residual Connections]()
+  - [Depthwise Separable Conv]()
+  - [Squeeze-and-Excitation (SE)]()
+  - [Attention Mechanisms]()
 - **Specialized CNN Applications**
   - [Image Classification](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/convolutional_neural_networks/cnn_application_image_classification.md)
   - [Object Detection](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/convolutional_neural_networks/cnn_application_object_detection.md)
