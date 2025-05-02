@@ -73,7 +73,7 @@ Pointwise: D × D × M × N
 Total ≈ (1/N) × Standard Conv
 ```
 
-![image](https://github.com/user-attachments/assets/f5d40fc4-097f-4e9c-afed-3c876fb6a011)
+![image](https://github.com/user-attachments/assets/9cce9354-48a7-4b4a-b740-36f0e0a231c8)
 
 ✅ Huge reduction in cost — especially for large N and K.
 
