@@ -71,6 +71,8 @@ Let input feature map be `X ∈ ℝ^{C×H×W}`
    X' = s × X  (channel-wise multiplication)
    ```
 
+![image](https://github.com/user-attachments/assets/f538b9a7-ef91-4325-a1b5-918eb6f42e55)
+
 ---
 
 # 📈 **Where Are SE Blocks Used?**
