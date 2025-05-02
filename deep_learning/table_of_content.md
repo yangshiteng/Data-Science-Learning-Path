@@ -53,7 +53,7 @@
     - [ConvNeXt](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/convolutional_neural_networks/convnext.md)
 - **Advanced Techniques**
   - [Residual Connections (Skip Connection)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/convolutional_neural_networks/residual_connection.md)
-  - [Depthwise Separable Conv]()
+  - [Depthwise Separable Conv](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/convolutional_neural_networks/depthwise_separable_conv.md)
   - [Squeeze-and-Excitation (SE)]()
   - [Attention Mechanisms]()
 - **Specialized CNN Applications**
