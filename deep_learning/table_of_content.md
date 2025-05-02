@@ -54,7 +54,7 @@
 - **Advanced Techniques**
   - [Residual Connections (Skip Connection)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/convolutional_neural_networks/residual_connection.md)
   - [Depthwise Separable Convolution](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/convolutional_neural_networks/depthwise_separable_conv.md)
-  - [Squeeze-and-Excitation (SE)]()
+  - [Squeeze-and-Excitation (SE)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/convolutional_neural_networks/se_block.md)
   - [Attention Mechanisms]()
 - **Specialized CNN Applications**
   - [Image Classification](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/convolutional_neural_networks/cnn_application_image_classification.md)
