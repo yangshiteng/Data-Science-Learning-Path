@@ -8,6 +8,8 @@
 
 ✅ This allows the network to **learn only the difference (residual)** between input and output — not the full transformation.
 
+![image](https://github.com/user-attachments/assets/f029b50d-8eda-413a-8c38-fbe835dd4aec)
+
 ---
 
 ## 🔎 **Why Were They Introduced?**
