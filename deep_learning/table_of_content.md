@@ -52,7 +52,7 @@
     - [RegNet](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/convolutional_neural_networks/regnet.md)
     - [ConvNeXt](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/convolutional_neural_networks/convnext.md)
 - **Advanced Techniques**
-  - [Residual Connections](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/convolutional_neural_networks/residual_connection.md)
+  - [Residual Connections (Skip Connection)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/convolutional_neural_networks/residual_connection.md)
   - [Depthwise Separable Conv]()
   - [Squeeze-and-Excitation (SE)]()
   - [Attention Mechanisms]()
