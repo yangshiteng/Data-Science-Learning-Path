@@ -75,17 +75,32 @@
   - [CNNs Application with PyTorch](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/convolutional_neural_networks/cnn_pytorch.md)
 
 ## III. Recurrent Neural Networks (RNNs)
-- **Introduction to RNNs**
 - **Basics of Sequential Data**
-- **RNN Architecture**
+- **Introduction to RNNs**
+- **RNN Building Blocks**
 - **Training RNNs**
-- **Long Short-Term Memory (LSTM) Networks**
-- **Gated Recurrent Units (GRUs)**
-- **Practical Implementation of RNNs**
-- **Advanced RNN Variants & Techniques**
+- **Challenges with Vanilla RNNs**
+- **Advanced RNN Architectures**
+  - [Long Short-Term Memory (LSTM)]()
+  - [Gated Recurrent Unit (GRU)]()
+  - [Bidirectional RNNs]()
+  - [Deep RNNs (Stacked RNNs)]()
+  - [Encoder-Decoder Architectures]()
+- **Implementation of RNNs**
 - **Applications of RNNs**
-- **Challenges & Best Practices**
-- **Beyond RNNs: Transformers & Modern Architectures**
+- **Practical Tips and Best Practices**
+  - [Choosing the Right RNN Variant]()
+  - [Handling Variable-Length Sequences]()
+  - [Padding and Masking]()
+  - [Regularization Techniques (Dropout, Layer Normalization)]()
+- **Evaluation Metrics**
+  - [Accuracy, Precision, Recall, F1 Score]()
+  - [Perplexity (for language models)]()
+  - [BLEU Score (for translation)]()
+- **RNN Limitations and Alternatives**
+  - [Why RNNs Fall Short]()
+  - [Attention Mechanism Overview]()
+  - [Transformers vs RNNs]()
 
 ## IV. Natural Language Processing (NLP)
 
