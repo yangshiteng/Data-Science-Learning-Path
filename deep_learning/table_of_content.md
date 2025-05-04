@@ -75,6 +75,17 @@
   - [CNNs Application with PyTorch](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/convolutional_neural_networks/cnn_pytorch.md)
 
 ## III. Recurrent Neural Networks (RNNs)
+- **Introduction to RNNs**
+- **Basics of Sequential Data**
+- **RNN Architecture**
+- **Training RNNs**
+- **Long Short-Term Memory (LSTM) Networks**
+- **Gated Recurrent Units (GRUs)**
+- **Practical Implementation of RNNs**
+- **Advanced RNN Variants & Techniques**
+- **Applications of RNNs**
+- **Challenges & Best Practices**
+- **Beyond RNNs: Transformers & Modern Architectures**
 
 ## IV. Natural Language Processing (NLP)
 
