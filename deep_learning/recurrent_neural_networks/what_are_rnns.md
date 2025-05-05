@@ -40,7 +40,86 @@ Where:
 * `b_h`, `b_y` are bias terms
 * `tanh` is an activation function introducing non-linearity
 
+### Example RNNs Architecture
+
+![image](https://github.com/user-attachments/assets/4806ccf0-d74b-4597-a597-45769dadaa88)
+
+#### 🔄 **1. Folded View (Left Side)**
+
+This shows a **single RNN cell** with loops representing **recurrence**. It receives:
+
+* **Input $x$** (green circle)
+* **Hidden state $h$** from the previous time step (blue box)
+* And it produces:
+
+  * A **new hidden state**
+  * An **output $o$** (pink circle)
+
+##### Arrows and Matrices:
+
+* **U**: Weight matrix from input $x$ to hidden state $h$
+* **V**: Weight matrix from hidden state $h$ to output $o$
+* **W**: Weight matrix for the recurrent connection (from previous $h$ to current $h$)
+
+This compact view summarizes the inner logic of the RNN.
+
 ---
+
+#### 📆 **2. Unfolded View (Right Side)**
+
+The large arrow shows how the single RNN cell is **unfolded over time**. Each RNN cell (blue box) represents the **same RNN unit with shared weights** at different time steps $t-1$, $t$, and $t+1$.
+
+##### Step-by-Step Breakdown:
+
+| Time Step | Input     | Hidden State | Output    |
+| --------- | --------- | ------------ | --------- |
+| $t-1$     | $x_{t-1}$ | $h_{t-1}$    | $o_{t-1}$ |
+| $t$       | $x_t$     | $h_t$        | $o_t$     |
+| $t+1$     | $x_{t+1}$ | $h_{t+1}$    | $o_{t+1}$ |
+
+Each step:
+
+1. Takes the current input $x_t$
+2. Combines it with the previous hidden state $h_{t-1}$
+3. Computes a new hidden state $h_t$
+4. Produces an output $o_t$
+
+---
+
+## 🧮 **3. Mathematical Representation**
+
+At each time step $t$:
+
+* **Hidden state** update:
+
+  $$
+  h_t = \tanh(U x_t + V h_{t-1})
+  $$
+
+* **Output**:
+
+  $$
+  o_t = \text{softmax}(W h_t)
+  $$
+
+This recurrence allows the model to **maintain context** from earlier inputs, ideal for sequential tasks like text, speech, or time series.
+
+---
+
+## ✅ **4. Summary of Architecture Components**
+
+| Component | Description                           |
+| --------- | ------------------------------------- |
+| $x_t$     | Input at time step $t$ (green circle) |
+| $h_t$     | Hidden state (memory) at time $t$     |
+| $o_t$     | Output at time $t$ (pink circle)      |
+| U         | Input-to-hidden weights               |
+| V         | Hidden-to-hidden weights (recurrence) |
+| W         | Hidden-to-output weights              |
+
+---
+
+
 
 ## 🔁 Sequence Processing in RNNs
 
