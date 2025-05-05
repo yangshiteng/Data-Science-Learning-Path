@@ -55,7 +55,7 @@ This shows a **single RNN cell** with loops representing **recurrence**. It rece
   * A **new hidden state**
   * An **output $o$** (pink circle)
 
-##### Arrows and Matrices:
+Arrows and Matrices:
 
 * **U**: Weight matrix from input $x$ to hidden state $h$
 * **V**: Weight matrix from hidden state $h$ to output $o$
@@ -67,7 +67,7 @@ This compact view summarizes the inner logic of the RNN.
 
 The large arrow shows how the single RNN cell is **unfolded over time**. Each RNN cell (blue box) represents the **same RNN unit with shared weights** at different time steps $t-1$, $t$, and $t+1$.
 
-##### Step-by-Step Breakdown:
+Step-by-Step Breakdown:
 
 | Time Step | Input     | Hidden State | Output    |
 | --------- | --------- | ------------ | --------- |
