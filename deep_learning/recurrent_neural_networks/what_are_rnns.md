@@ -92,15 +92,15 @@ At each time step $t$:
 
 * **Hidden state** update:
 
-  $$
-  h_t = \tanh(U x_t + V h_{t-1})
-  $$
+$$
+h_t = \tanh(U x_t + V h_{t-1})
+$$
 
 * **Output**:
 
-  $$
-  o_t = \text{softmax}(W h_t)
-  $$
+$$
+o_t = \text{softmax}(W h_t)
+$$
 
 This recurrence allows the model to **maintain context** from earlier inputs, ideal for sequential tasks like text, speech, or time series.
 
