@@ -86,7 +86,7 @@ Each step:
 
 ---
 
-## 🧮 **3. Mathematical Representation**
+#### 🧮 **3. Mathematical Representation**
 
 At each time step $t$:
 
@@ -103,19 +103,6 @@ o_t = \text{softmax}(W h_t)
 $$
 
 This recurrence allows the model to **maintain context** from earlier inputs, ideal for sequential tasks like text, speech, or time series.
-
----
-
-## ✅ **4. Summary of Architecture Components**
-
-| Component | Description                           |
-| --------- | ------------------------------------- |
-| $x_t$     | Input at time step $t$ (green circle) |
-| $h_t$     | Hidden state (memory) at time $t$     |
-| $o_t$     | Output at time $t$ (pink circle)      |
-| U         | Input-to-hidden weights               |
-| V         | Hidden-to-hidden weights (recurrence) |
-| W         | Hidden-to-output weights              |
 
 ---
 
