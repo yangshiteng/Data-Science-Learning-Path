@@ -1,24 +1,110 @@
-**Recurrent Neural Networks (RNNs)** are a class of artificial neural networks designed for processing **sequential data**. Unlike traditional feedforward neural networks, RNNs have **loops** that allow information to persist, making them especially effective for tasks where context or order matters (e.g., language, time series, audio).
+## 📘 What are Recurrent Neural Networks (RNNs)?
 
-![image](https://github.com/user-attachments/assets/241ca432-8f2f-4682-a9e9-e6b2904bffdc)
+**Recurrent Neural Networks (RNNs)** are a type of neural network designed to handle **sequential data**. This includes any data where the order of the elements matters—like text, speech, time-series data, and video frames.
 
-# Key Features of RNNs:
+The key idea behind RNNs is to use the output from the previous step as an input to the current step. This gives the network a kind of **memory**, allowing it to retain context across time.
 
-* **Memory of Past Inputs**: RNNs maintain a hidden state that captures information from previous time steps, allowing the model to "remember" prior inputs.
-* **Shared Weights Across Time**: The same weights are applied at every time step, which helps in generalizing across sequences of varying lengths.
-* **Sequential Processing**: RNNs handle inputs one step at a time, making them suitable for variable-length sequences.
+---
 
-# Applications:
+## 🔄 How RNNs Work: The Core Concept
 
-* Language modeling and generation
-* Machine translation
-* Speech recognition
-* Time series forecasting
-* Music composition
+### Traditional Neural Networks vs RNNs
 
-# Limitations:
+* A **Feedforward Neural Network (FNN)** processes input independently—no memory of past inputs.
+* An **RNN** has loops in its architecture, allowing it to pass information from one step to the next.
 
-* **Vanishing and exploding gradients** during training, which makes learning long-range dependencies difficult.
-* Difficulty in parallel computation due to sequential processing.
+### RNN Cell Structure
 
-To address these issues, variants like **Long Short-Term Memory (LSTM)** and **Gated Recurrent Units (GRU)** were developed, which are better at capturing long-term dependencies.
+At each time step `t`, the RNN receives:
+
+* Input vector `xₜ`
+* Previous hidden state `hₜ₋₁` (memory)
+
+It outputs:
+
+* New hidden state `hₜ`
+
+**Mathematically:**
+
+$$
+h_t = \tanh(W_{hh} h_{t-1} + W_{xh} x_t + b_h)
+$$
+
+$$
+y_t = W_{hy} h_t + b_y
+$$
+
+Where:
+
+* `W_{hh}`, `W_{xh}`, `W_{hy}` are weight matrices
+* `b_h`, `b_y` are bias terms
+* `tanh` is an activation function introducing non-linearity
+
+---
+
+## 🔁 Sequence Processing in RNNs
+
+Suppose you’re processing the sentence “I love AI” word by word:
+
+1. First word: input “I” → output and update memory
+2. Second word: input “love” + memory from “I”
+3. Third word: input “AI” + memory from “love”
+
+This memory mechanism makes RNNs powerful for context-aware tasks.
+
+---
+
+## 🧠 Variants of RNNs
+
+Due to the limitations of simple RNNs, several improved architectures were developed:
+
+### 1. **LSTM (Long Short-Term Memory)**
+
+* Introduced memory cells and gates (input, output, forget) to combat vanishing gradients.
+* Better at learning **long-term dependencies**.
+
+### 2. **GRU (Gated Recurrent Unit)**
+
+* Similar to LSTM but with fewer gates (reset and update gates).
+* Faster and computationally more efficient.
+
+---
+
+## ⚙️ Applications of RNNs
+
+| Field            | Use Case                              |
+| ---------------- | ------------------------------------- |
+| Natural Language | Machine translation, text generation  |
+| Speech           | Speech-to-text, voice recognition     |
+| Time Series      | Stock prediction, weather forecasting |
+| Music & Video    | Music generation, video captioning    |
+| Healthcare       | Patient monitoring over time          |
+
+---
+
+## ✅ Advantages of RNNs
+
+* Natural fit for **sequential and time-series data**
+* Shared parameters across time = fewer parameters
+* Can model **context and temporal dynamics**
+
+---
+
+## ❌ Limitations of RNNs
+
+* **Vanishing and exploding gradients** during training
+* Hard to capture **long-term dependencies**
+* **Slow training** due to sequential data processing
+* Less effective compared to newer models like **Transformers**
+
+---
+
+## 🔚 Summary
+
+| Feature             | RNN                       |
+| ------------------- | ------------------------- |
+| Input type          | Sequence                  |
+| Memory              | Yes (hidden state)        |
+| Training challenges | Vanishing gradients       |
+| Better variants     | LSTM, GRU                 |
+| Common replacements | Transformers in NLP tasks |
