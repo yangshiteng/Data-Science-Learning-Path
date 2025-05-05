@@ -76,7 +76,7 @@
 
 ## III. Recurrent Neural Networks (RNNs)
 - **Introduction to Recurrent Neural Networks**
-  - [What are RNNs?]()
+  - [What are RNNs?](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/recurrent_neural_networks/what_are_rnns.md)
   - [Motivation for Sequential Data Processing]()
   - [Comparison with Feedforward Neural Networks]()
   - [Key Characteristics of RNNs]()
