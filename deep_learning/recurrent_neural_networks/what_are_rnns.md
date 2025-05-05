@@ -63,8 +63,6 @@ This shows a **single RNN cell** with loops representing **recurrence**. It rece
 
 This compact view summarizes the inner logic of the RNN.
 
----
-
 #### 📆 **2. Unfolded View (Right Side)**
 
 The large arrow shows how the single RNN cell is **unfolded over time**. Each RNN cell (blue box) represents the **same RNN unit with shared weights** at different time steps $t-1$, $t$, and $t+1$.
@@ -85,28 +83,6 @@ Each step:
 4. Produces an output $o_t$
 
 ---
-
-#### 🧮 **3. Mathematical Representation**
-
-At each time step $t$:
-
-* **Hidden state** update:
-
-$$
-h_t = \tanh(U x_t + V h_{t-1})
-$$
-
-* **Output**:
-
-$$
-o_t = \text{softmax}(W h_t)
-$$
-
-This recurrence allows the model to **maintain context** from earlier inputs, ideal for sequential tasks like text, speech, or time series.
-
----
-
-
 
 ## 🔁 Sequence Processing in RNNs
 
