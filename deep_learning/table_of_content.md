@@ -75,40 +75,60 @@
   - [CNNs Application with PyTorch](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/convolutional_neural_networks/cnn_pytorch.md)
 
 ## III. Recurrent Neural Networks (RNNs)
-- **Basics of Sequential Data**
-- **Introduction to RNNs**
-- **RNN Building Blocks**
-- **Training RNNs**
-- **Challenges with Vanilla RNNs**
-- **Advanced RNN Architectures**
-  - [Long Short-Term Memory (LSTM)]()
-  - [Gated Recurrent Unit (GRU)]()
-  - [Bidirectional RNNs]()
+- **Introduction to Recurrent Neural Networks**
+  - [What are RNNs?]()
+  - [Motivation for Sequential Data Processing]()
+  - [Comparison with Feedforward Neural Networks]()
+  - [Key Characteristics of RNNs]()
+  - [Applications of RNNs]()
+  - [When to Use RNNs vs. Other Architectures]()
+- **Mathematical Foundations of RNNs**
+  - [Basic RNN Architecture]()
+  - [Recurrent Connections & Hidden States]()
+  - [Forward Propagation in RNNs]()
+  - [Backpropagation Through Time (BPTT)]()
+  - [Vanilla RNN Formulation]()
+- **Challenges in Training RNNs**
+  - [The Vanishing Gradient Problem]()
+  - [The Exploding Gradient Problem]()
+  - [Long-Term Dependencies Issue]()
+  - [Solutions to Gradient Problems (Gradient Clipping, Weight Initialization)]()
+- **Variants of RNNs**
+  - [Long Short-Term Memory (LSTM) Networks]()
+  - [Gated Recurrent Units (GRUs)]()
+  - [Bidirectional RNNs (Bi-RNNs)]()
   - [Deep RNNs (Stacked RNNs)]()
-  - [Encoder-Decoder Architectures]()
-- **Implementation of RNNs**
+  - [Echo State Networks (ESNs)]()
+  - [Neural Turing Machines (NTMs)]()
+- **Training RNNs: Techniques & Optimization**
+  - [Gradient Clipping]()
+  - [Weight Initialization Strategies]()
+  - [Batch Normalization in RNNs]()
+  - [Dropout for RNNs (Variational Dropout)]()
+  - [Teacher Forcing & Scheduled Sampling]()
+  - [Regularization Techniques]()
+- **Architectures & Extensions of RNNs**
+  - [Encoder-Decoder (Seq2Seq) Models]()
+  - [Attention Mechanisms in RNNs]()
+  - [Memory-Augmented RNNs]()
+  - [Hierarchical RNNs]()
+  - [Convolutional RNNs (ConvRNNs)]()
 - **Applications of RNNs**
-- **Practical Tips and Best Practices**
-  - [Choosing the Right RNN Variant]()
-  - [Handling Variable-Length Sequences]()
-  - [Padding and Masking]()
-  - [Regularization Techniques (Dropout, Layer Normalization)]()
-- **Evaluation Metrics**
-  - [Accuracy, Precision, Recall, F1 Score]()
-  - [Perplexity (for language models)]()
-  - [BLEU Score (for translation)]()
-- **RNN Limitations and Alternatives**
-  - [Why RNNs Fall Short]()
-  - [Attention Mechanism Overview]()
-  - [Transformers vs RNNs]()
+  - [Language Modeling (NLP)]()
+  - [Machine Translation (NLP)]()
+  - [Text Generation (NLP)]()
+  - [Sentiment Analysis (NLP)]()
+  - [Speech Recognition & Synthesis]()
+  - [Time Series Forecasting]()
+  - [Video Processing & Activity Recognition]()
+  - [Music Generation]()
+  - [Handwriting Recognition]()
+- **Implementing RNNs in Practice**
+  - [RNNs Implementation with TensorFlow & Keras]()
+  - [RNNs Implementation with PyTorch]()
+- **Transformer vs RNNs**
 
-## IV. Natural Language Processing (NLP)
-
-## V. Generative Models
-
-## VI. Reinforcement Learning
-
-## VII. Transformers and Attention Mechanisms
+## IV. Transformers and Attention Mechanisms
 - **Introduction to Attention**
 - **Attention in CNNs**
   - [Squeeze-and-Excitation (SE)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/transformers_attention_mechanisms/se_block.md)
@@ -125,7 +145,15 @@
   - [Vision Transformers (ViT)]()
 - **Applications and Summary**
 
+## V. Generative Model
 
+## VI. Autoencoders (Dimensionality reduction/denoising)
+
+## VII. Reinforcement Learning (Games, robotics)
+
+## VIII. Graph Neural Networks (GNNs)  (Social networks, recommendation systems)
+
+## IX. Diffusion Models (State-of-the-art image generation)
 
 
 
