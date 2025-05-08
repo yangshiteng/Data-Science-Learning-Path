@@ -10,14 +10,14 @@ An RNN has a loop-like architecture that allows information to persist. At each 
 
 ## 🔄 How RNNs Work: The Core Concept
 
-### Traditional Neural Networks vs RNNs
+### 1. Traditional Neural Networks vs RNNs
 
 * A **Feedforward Neural Network (FNN)** processes input independently—no memory of past inputs.
 * An **RNN** has loops in its architecture, allowing it to pass information from one step to the next.
 
 Traditional feedforward neural networks, such as multilayer perceptrons (MLPs), excel at handling fixed-size input and output data. However, they struggle with sequential data where the order and context of inputs are crucial—for instance, in time series forecasting, speech recognition, or natural language processing (NLP). These tasks require memory of previous inputs, which traditional models lack. RNNs are designed to address this limitation by incorporating a form of memory, enabling them to capture temporal dependencies and sequence patterns.
 
-### RNN Cell Structure
+### 2. RNN Cell Structure
 
 At each time step `t`, the RNN receives:
 
@@ -44,7 +44,7 @@ Where:
 * `b_h`, `b_y` are bias terms
 * `tanh` is an activation function introducing non-linearity
 
-### Example RNNs Architecture
+### 3. Example RNNs Architecture
 
 ![image](https://github.com/user-attachments/assets/4806ccf0-d74b-4597-a597-45769dadaa88)
 
