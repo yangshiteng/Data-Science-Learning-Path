@@ -138,9 +138,9 @@ Due to the limitations of simple RNNs, several improved architectures were devel
 
 ## ❌ Limitations of RNNs
 
-* **Vanishing and exploding gradients** during training
-* Hard to capture **long-term dependencies**
-* **Slow training** due to sequential data processing
+* **Vanishing and exploding gradients**: During training via backpropagation through time (BPTT), gradients can shrink or grow exponentially, making learning difficult—especially for long sequences.
+* **Hard to captur long-term dependencies**: Basic RNNs struggle to capture long-range dependencies due to the vanishing gradient problem.
+* **Slow training**: Sequential processing limits parallelization.
 * Less effective compared to newer models like **Transformers**
 
 ---
