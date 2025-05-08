@@ -17,7 +17,7 @@
 - **Introduction**
   - [Introduction to CNNs](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/convolutional_neural_networks/introduction_to_cnns.md)
   - [Applications of CNNs](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/convolutional_neural_networks/cnn_application.md)
-- **CNN Architecture**
+- **CNNs Architecture**
   - [Input Image](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/convolutional_neural_networks/input_image.md)
   - [Convolutional Layer](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/convolutional_neural_networks/convolutional_layer.md)
     - [Filters (also called Kernels)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/convolutional_neural_networks/filters.md)
