@@ -13,6 +13,8 @@ The key idea behind RNNs is to use the output from the previous step as an input
 * A **Feedforward Neural Network (FNN)** processes input independently—no memory of past inputs.
 * An **RNN** has loops in its architecture, allowing it to pass information from one step to the next.
 
+Traditional feedforward neural networks, such as multilayer perceptrons (MLPs), excel at handling fixed-size input and output data. However, they struggle with sequential data where the order and context of inputs are crucial—for instance, in time series forecasting, speech recognition, or natural language processing (NLP). These tasks require memory of previous inputs, which traditional models lack. RNNs are designed to address this limitation by incorporating a form of memory, enabling them to capture temporal dependencies and sequence patterns.
+
 ### RNN Cell Structure
 
 At each time step `t`, the RNN receives:
