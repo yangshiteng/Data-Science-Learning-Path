@@ -1,5 +1,7 @@
 ## 🎯 **Basic RNN Architecture**
 
+![image](https://github.com/user-attachments/assets/dda805ad-b754-4369-8788-ff8dea98dc66)
+
 ### 🧠 **1. Overview**
 
 The **Basic Recurrent Neural Network (RNN)** is designed to model **sequential data**. Unlike feedforward networks, it contains **loops** that allow information to persist over time—acting like a **memory**. This makes it ideal for tasks like:
