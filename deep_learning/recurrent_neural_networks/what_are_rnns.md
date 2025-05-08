@@ -5,6 +5,7 @@
 The key idea behind RNNs is to use the output from the previous step as an input to the current step. This gives the network a kind of **memory**, allowing it to retain context across time.
 
 An RNN has a loop-like architecture that allows information to persist. At each time step, the network takes an input and updates its hidden state, which acts like a memory summarizing past inputs. This hidden state is passed from one time step to the next, allowing the network to maintain context across a sequence. The core idea is that the same set of weights is reused across all time steps, which helps generalize well over varying sequence lengths.
+
 ---
 
 ## 🔄 How RNNs Work: The Core Concept
