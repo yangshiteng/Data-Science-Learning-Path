@@ -78,7 +78,7 @@
 - **Introduction to Recurrent Neural Networks**
   - [What are RNNs?](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/recurrent_neural_networks/what_are_rnns.md)
 - **Mathematical Foundations of RNNs**
-  - [Basic RNN Architecture]()
+  - [Basic RNN Architecture](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/recurrent_neural_networks/basic_rnn_architecture.md)
   - [Recurrent Connections & Hidden States]()
   - [Forward Propagation in RNNs]()
   - [Backpropagation Through Time (BPTT)]()
