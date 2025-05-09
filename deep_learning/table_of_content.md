@@ -85,7 +85,7 @@
 - **Building and Training RNNs**
   - [The Vanishing Gradient Problem](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/recurrent_neural_networks/vanishing_gradient.md)
   - [The Exploding Gradient Problem](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/recurrent_neural_networks/exploding_gradient.md)
-  - [Short-term memory Problem]()
+  - [Short-term memory Problem](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/recurrent_neural_networks/short_term_memory.md)
 - **Variants of RNNs**
   - [Long Short-Term Memory (LSTM) Networks]()
   - [Gated Recurrent Units (GRUs)]()
