@@ -20,7 +20,7 @@ At each time step $t$, the RNN consists of:
 * 🔁 **Hidden state $h_t$**: Memory that carries information from previous time steps
 * 📤 **Output $y_t$**: The output or prediction at time step $t$
 
-### 🔢 Formulas:
+#### 🔢 Formulas:
 
 ![image](https://github.com/user-attachments/assets/1321a6e3-10e8-42b0-8cc3-cee14c2516dd)
 
