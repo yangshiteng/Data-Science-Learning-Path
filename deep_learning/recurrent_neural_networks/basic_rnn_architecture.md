@@ -1,6 +1,9 @@
-## 🎯 **Basic RNN Architecture**
+## 🎯 **Basic RNN Architecture (Vanilla RNN)**
 
 ![image](https://github.com/user-attachments/assets/dda805ad-b754-4369-8788-ff8dea98dc66)
+
+![image](https://github.com/user-attachments/assets/445be076-1592-4f96-b215-1613d9d9c164)
+
 
 ### 🧠 **1. Overview**
 
@@ -10,9 +13,12 @@ The **Basic Recurrent Neural Network (RNN)** is designed to model **sequential d
 * 🔊 Speech recognition
 * 📈 Time series forecasting
 
+It is also known as **Vanilla RNN** which is the simplest form of a Recurrent Neural Network. It serves as the foundational architecture for more advanced variants like LSTM and GRU.
+Despite its simplicity, it captures the core idea of RNNs: **learning from sequential data using a hidden state that carries information over time.**
+
 ---
 
-### 🔧 **2. Core Components**
+### 🔧 **2. Core Equations**
 
 At each time step $t$, the RNN consists of:
 
@@ -20,18 +26,39 @@ At each time step $t$, the RNN consists of:
 * 🔁 **Hidden state $h_t$**: Memory that carries information from previous time steps
 * 📤 **Output $y_t$**: The output or prediction at time step $t$
 
-#### 🔢 Formulas:
+At each time step $t$, the Vanilla RNN updates its **hidden state** and computes an **output** using these equations:
 
-![image](https://github.com/user-attachments/assets/1321a6e3-10e8-42b0-8cc3-cee14c2516dd)
+$$
+\textcolor{green}{\textbf{Hidden state:}} \quad h_t = \tanh(W_{xh}x_t + W_{hh}h_{t-1} + b_h)
+$$
+
+$$
+\textcolor{blue}{\textbf{Output:}} \quad y_t = W_{hy}h_t + b_y
+$$
+
+🔍 **Variables**:
+
+* $x_t$: Input vector at time step $t$
+* $h_t$: Hidden state (memory)
+* $y_t$: Output
+* $W_{xh}, W_{hh}, W_{hy}$: Weight matrices
+* $b_h, b_y$: Bias vectors
+* $\tanh$: Activation function (can also be ReLU or sigmoid)
 
 ---
 
-### 🔁 **3. Recurrent Loop**
+### 🔁 **3. Recurrent Computation**
 
-The key feature is the **looping structure**:
-⏩ The hidden state $h_t$ at time $t$ becomes part of the input for time $t+1$.
+The core idea is that the **hidden state** $h_t$ captures information from:
 
-This creates a **temporal dependency**, allowing the network to "remember" past information and use it to inform future outputs.
+* 🔙 **Past**: via $h_{t-1}$
+* 📥 **Present**: via $x_t$
+
+This gives the network a memory of prior inputs—ideal for modeling sequences like:
+
+* 🧾 Sentences in NLP
+* 🎶 Melodies in music
+* 🔢 Time series data
 
 ---
 
@@ -47,6 +74,13 @@ To process a sequence $x_1, x_2, ..., x_T$:
 
 This process is known as **unrolling the RNN over time**.
 
+A key property is **parameter sharing** across time steps:
+
+* The same weights $W_{xh}, W_{hh}, W_{hy}$ are used at each time step.
+* This keeps the model compact and efficient, regardless of sequence length.
+
+🧠 Think of it as the same neuron being copied across time with memory passed along.
+
 ---
 
 ### ⚠️ **5. Limitations**
@@ -61,3 +95,11 @@ Despite its simplicity, basic RNNs have some drawbacks:
 
 * 🔒 **LSTM (Long Short-Term Memory)**
 * ⚙️ **GRU (Gated Recurrent Unit)**
+
+### 🧮 **6. Use Case Example (Language Modeling)**
+
+Given a sentence like:
+
+`"The cat sat on the ___"`
+
+A Vanilla RNN would process each word step-by-step, updating its hidden state, and finally predict the next word based on its accumulated memory.
