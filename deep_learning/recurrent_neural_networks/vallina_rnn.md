@@ -5,6 +5,8 @@
 A **Vanilla RNN** is the simplest form of a Recurrent Neural Network. It serves as the foundational architecture for more advanced variants like LSTM and GRU.
 Despite its simplicity, it captures the core idea of RNNs: **learning from sequential data using a hidden state that carries information over time.**
 
+![image](https://github.com/user-attachments/assets/32efad40-a831-4265-a71f-f674ec4e6a85)
+
 ---
 
 ### 🧠 **2. Core Equations**
