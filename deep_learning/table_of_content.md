@@ -83,17 +83,9 @@
   - [Forward Propagation in RNNs](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/recurrent_neural_networks/rnn_forward_prop.md)
   - [Backpropagation Through Time (BPTT)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/recurrent_neural_networks/bptt.md)
 - **Building and Training RNNs**
-  - **Challenges**
-    - [The Vanishing Gradient Problem](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/recurrent_neural_networks/vanishing_gradient.md)
-    - [The Exploding Gradient Problem]()
-    - [Short-term memory Problem]()
-  - **Techniques & Optimization**
-    - [Gradient Clipping]()
-    - [Weight Initialization Strategies]()
-    - [Batch Normalization in RNNs]()
-    - [Dropout for RNNs (Variational Dropout)]()
-    - [Teacher Forcing & Scheduled Sampling]()
-    - [Regularization Techniques]()
+  - [The Vanishing Gradient Problem](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/recurrent_neural_networks/vanishing_gradient.md)
+  - [The Exploding Gradient Problem]()
+  - [Short-term memory Problem]()
 - **Variants of RNNs**
   - [Long Short-Term Memory (LSTM) Networks]()
   - [Gated Recurrent Units (GRUs)]()
