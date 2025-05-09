@@ -87,7 +87,7 @@
   - **Challenges**
     - [The Vanishing Gradient Problem]()
     - [The Exploding Gradient Problem]()
-    - [Long-Term Dependencies Issue]()
+    - [Short-term memory Problem]()
   - **Techniques & Optimization**
     - [Gradient Clipping]()
     - [Weight Initialization Strategies]()
