@@ -87,7 +87,6 @@
   - [The Vanishing Gradient Problem]()
   - [The Exploding Gradient Problem]()
   - [Long-Term Dependencies Issue]()
-  - [Solutions to Gradient Problems (Gradient Clipping, Weight Initialization)]()
 - **Variants of RNNs**
   - [Long Short-Term Memory (LSTM) Networks]()
   - [Gated Recurrent Units (GRUs)]()
