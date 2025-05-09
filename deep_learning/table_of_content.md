@@ -80,7 +80,7 @@
 - **Mathematical Foundations of RNNs**
   - [Basic RNN Architecture](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/recurrent_neural_networks/basic_rnn_architecture.md)
   - [Recurrent Connections & Hidden States](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/recurrent_neural_networks/recurrent_connection_hidden_state.md)
-  - [Forward Propagation in RNNs]()
+  - [Forward Propagation in RNNs](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/recurrent_neural_networks/rnn_forward_prop.md)
   - [Backpropagation Through Time (BPTT)]()
   - [Vanilla RNN Formulation]()
 - **Challenges in Training RNNs**
