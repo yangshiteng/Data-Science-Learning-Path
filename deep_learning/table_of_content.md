@@ -83,6 +83,7 @@
   - [Forward Propagation in RNNs](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/recurrent_neural_networks/rnn_forward_prop.md)
   - [Backpropagation Through Time (BPTT)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/recurrent_neural_networks/bptt.md)
 - **Building and Training RNNs**
+  - [Overview of RNNs Training]()
   - [The Vanishing Gradient Problem](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/recurrent_neural_networks/vanishing_gradient.md)
   - [The Exploding Gradient Problem](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/recurrent_neural_networks/exploding_gradient.md)
   - [Short-term memory Problem](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/recurrent_neural_networks/short_term_memory.md)
