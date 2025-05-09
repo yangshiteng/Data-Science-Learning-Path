@@ -23,7 +23,7 @@ At each time step $t$, the RNN consists of:
 🔢 **Formulas**:
 
 $$
-h_t = \tanh(\underbrace{W_{xh}x_t}_{\text{input}} + \underbrace{W_{hh}h_{t-1}}_{\text{memory}} + b_h)
+h_t = \tanh\left(\underbrace{W_{xh}x_t}_{\text{input}} + \underbrace{W_{hh}h_{t-1}}_{\text{memory}} + b_h\right)
 $$
 
 $$
