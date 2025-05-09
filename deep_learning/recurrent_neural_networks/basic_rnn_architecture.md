@@ -22,20 +22,7 @@ At each time step $t$, the RNN consists of:
 
 ### 🔢 Formulas:
 
-$$
-h_t = \tanh\left(\underbrace{W_{xh}x_t}_{\text{input}} + \underbrace{W_{hh}h_{t-1}}_{\text{memory}} + b_h\right)
-$$
-
-$$
-y_t = W_{hy}h_t + b_y
-$$
-
-🧩 **Where**:
-
-* $W_{xh}$: Weights from input to hidden
-* $W_{hh}$: Recurrent weights (memory)
-* $W_{hy}$: Weights from hidden to output
-* $\tanh$: Activation function to keep values bounded
+![image](https://github.com/user-attachments/assets/1321a6e3-10e8-42b0-8cc3-cee14c2516dd)
 
 ---
 
