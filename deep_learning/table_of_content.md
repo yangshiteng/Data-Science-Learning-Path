@@ -77,16 +77,24 @@
 ## III. Recurrent Neural Networks (RNNs)
 - **Introduction to Recurrent Neural Networks**
   - [What are RNNs?](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/recurrent_neural_networks/what_are_rnns.md)
-- **Mathematical Foundations of RNNs**
+- **RNNs Architecture**
   - [Basic RNN Architecture](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/recurrent_neural_networks/basic_rnn_architecture.md)
   - [Vanilla RNN Formulation](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/recurrent_neural_networks/vallina_rnn.md)
   - [Recurrent Connections & Hidden States](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/recurrent_neural_networks/recurrent_connection_hidden_state.md)
   - [Forward Propagation in RNNs](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/recurrent_neural_networks/rnn_forward_prop.md)
   - [Backpropagation Through Time (BPTT)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/recurrent_neural_networks/bptt.md)
-- **Challenges in Training RNNs**
-  - [The Vanishing Gradient Problem]()
-  - [The Exploding Gradient Problem]()
-  - [Long-Term Dependencies Issue]()
+- **Training RNNs**
+  - **Challenges**
+    - [The Vanishing Gradient Problem]()
+    - [The Exploding Gradient Problem]()
+    - [Long-Term Dependencies Issue]()
+  - **Techniques & Optimization**
+    - [Gradient Clipping]()
+    - [Weight Initialization Strategies]()
+    - [Batch Normalization in RNNs]()
+    - [Dropout for RNNs (Variational Dropout)]()
+    - [Teacher Forcing & Scheduled Sampling]()
+    - [Regularization Techniques]()
 - **Variants of RNNs**
   - [Long Short-Term Memory (LSTM) Networks]()
   - [Gated Recurrent Units (GRUs)]()
@@ -94,13 +102,6 @@
   - [Deep RNNs (Stacked RNNs)]()
   - [Echo State Networks (ESNs)]()
   - [Neural Turing Machines (NTMs)]()
-- **Training RNNs: Techniques & Optimization**
-  - [Gradient Clipping]()
-  - [Weight Initialization Strategies]()
-  - [Batch Normalization in RNNs]()
-  - [Dropout for RNNs (Variational Dropout)]()
-  - [Teacher Forcing & Scheduled Sampling]()
-  - [Regularization Techniques]()
 - **Architectures & Extensions of RNNs**
   - [Encoder-Decoder (Seq2Seq) Models]()
   - [Attention Mechanisms in RNNs]()
