@@ -79,7 +79,6 @@
   - [What are RNNs?](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/recurrent_neural_networks/what_are_rnns.md)
 - **RNNs Architecture**
   - [Basic RNN Architecture](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/recurrent_neural_networks/basic_rnn_architecture.md)
-  - [Vanilla RNN Formulation](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/recurrent_neural_networks/vallina_rnn.md)
   - [Recurrent Connections & Hidden States](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/recurrent_neural_networks/recurrent_connection_hidden_state.md)
   - [Forward Propagation in RNNs](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/recurrent_neural_networks/rnn_forward_prop.md)
   - [Backpropagation Through Time (BPTT)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/recurrent_neural_networks/bptt.md)
