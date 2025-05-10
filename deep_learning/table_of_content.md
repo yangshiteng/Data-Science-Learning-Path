@@ -90,7 +90,7 @@
   - [Overview of RNNs Training](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/recurrent_neural_networks/rnn_training_overview.md)
   - [Loss Functions for Sequential Tasks](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/recurrent_neural_networks/rnn_loss_function.md)
     - [CTC Loss](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/recurrent_neural_networks/ctc_loss.md)
-    - [Sequence-Level Loss]()
+    - [Sequence-Level Loss](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/recurrent_neural_networks/sequence_level_loss.md)
   - [Backpropagation Through Time (in detail)]()
   - [Truncated BPTT]()
   - [Gradient Clipping]()
