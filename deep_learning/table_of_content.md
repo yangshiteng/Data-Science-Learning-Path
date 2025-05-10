@@ -89,6 +89,8 @@
 - **Building and Training RNNs**
   - [Overview of RNNs Training](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/recurrent_neural_networks/rnn_training_overview.md)
   - [Loss Functions for Sequential Tasks](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/recurrent_neural_networks/rnn_loss_function.md)
+    - [CTC Loss]()
+    - [Sequence-Level Loss]()
   - [Backpropagation Through Time (in detail)]()
   - [Truncated BPTT]()
   - [Gradient Clipping]()
