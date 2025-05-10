@@ -110,7 +110,7 @@
   - [Bidirectional RNNs]()
   - [Hierarchical RNNs]()
   - [Encoder–Decoder (Seq2Seq) Architecture]()
-  - [Attention-Enhanced RNNs]()\
+  - [Attention-Enhanced RNNs]()
   - [Pointer Networks]()
   - [Recurrent Attention Models (RAM)]()
   - [Memory-Augmented RNNs (NTM, DNC)]()
