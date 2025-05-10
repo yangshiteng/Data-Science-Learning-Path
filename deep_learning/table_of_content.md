@@ -77,46 +77,60 @@
 ## III. Recurrent Neural Networks (RNNs)
 - **Introduction to Recurrent Neural Networks**
   - [What are RNNs?](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/recurrent_neural_networks/what_are_rnns.md)
-- **RNNs Architecture**
-  - [Basic RNN Architecture](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/recurrent_neural_networks/basic_rnn_architecture.md)
+  - [Applications of RNNs]()
+- **Basic RNN Architecture**
+  - [Basic RNN Architecture (Vanilla RNN)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/recurrent_neural_networks/basic_rnn_architecture.md)
   - [Recurrent Connections & Hidden States](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/recurrent_neural_networks/recurrent_connection_hidden_state.md)
   - [Forward Propagation in RNNs](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/recurrent_neural_networks/rnn_forward_prop.md)
   - [Backpropagation Through Time (BPTT)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/recurrent_neural_networks/bptt.md)
-- **Building and Training RNNs**
-  - [Overview of RNNs Training]()
   - [The Vanishing Gradient Problem](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/recurrent_neural_networks/vanishing_gradient.md)
   - [The Exploding Gradient Problem](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/recurrent_neural_networks/exploding_gradient.md)
   - [Short-term memory Problem](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/recurrent_neural_networks/short_term_memory.md)
-- **Variants of RNNs**
-  - [Long Short-Term Memory (LSTM) Networks]()
+- **Building and Training RNNs**
+  - [Overview of RNNs Training]()
+  - [Loss Functions for Sequential Tasks]()
+  - [Backpropagation Through Time (in detail)]()
+  - [Truncated BPTT]()
+  - [Gradient Clipping]()
+  - [Weight Initialization Strategies]()
+  - [Optimizers for RNNs (SGD, Adam, RMSprop)]()
+  - [Regularization Techniques (Dropout, Zoneout)]()
+- **Evaluation of RNN Models**
+  - [Perplexity (for language modeling)]()
+  - [Accuracy, Precision, Recall]()
+  - [Sequence-Level Metrics (BLEU, ROUGE)]()
+  - [Visualizing Hidden States and Attention]()
+- **Variants of RNN Cells**
+  - [Long Short-Term Memory (LSTM)]()
   - [Gated Recurrent Units (GRUs)]()
-  - [Bidirectional RNNs (Bi-RNNs)]()
-  - [Deep RNNs (Stacked RNNs)]()
-  - [Recursive Neural Networks]()
-  - [Attention-Augmented RNNs]()
-  - [Neural Turing Machines & Memory Networks]()
-  - [Echo State Networks (ESN)]()
-  - [Independently Recurrent Neural Networks (IndRNN)]()
+  - [Vanilla RNN vs LSTM vs GRU]()
+  - [Other Variants (IndRNN, ESN, UGRNN)]()
 - **Architectures Built on Top of RNNs**
-  - [Encoder-Decoder (Seq2Seq) Models]()
-  - [Attention-Based Seq2Seq]()
-  - [Memory-Augmented RNNs]()
+  - [Stacked (Deep) RNNs]()
+  - [Bidirectional RNNs]()
   - [Hierarchical RNNs]()
-  - [Convolutional RNNs (ConvRNNs)]()
+  - [Encoder–Decoder (Seq2Seq) Architecture]()
+  - [Attention-Enhanced RNNs]()\
+  - [Pointer Networks]()
+  - [Recurrent Attention Models (RAM)]()
+  - [Memory-Augmented RNNs (NTM, DNC)]()
 - **Applications of RNNs**
-  - [Language Modeling (NLP)]()
-  - [Machine Translation (NLP)]()
-  - [Text Generation (NLP)]()
-  - [Sentiment Analysis (NLP)]()
-  - [Speech Recognition & Synthesis]()
-  - [Time Series Forecasting]()
-  - [Video Processing & Activity Recognition]()
-  - [Music Generation]()
-  - [Handwriting Recognition]()
+  - [Natural Language Processing]()
+    - [Language Modeling]()
+    - [Machine Translation]()
+    - [Text Generation]()
+    - [Sentiment Analysis]()
+  - [Speech Recognition]()
+  - [Time Series Prediction]()
+  - [Music and Art Generation]()
+  - [Bioinformatics and Genomics]()
 - **Implementing RNNs in Practice**
   - [RNNs Implementation with TensorFlow & Keras]()
   - [RNNs Implementation with PyTorch]()
-- **Transformer vs RNNs**
+- **Beyond RNNs: Modern Alternatives**
+  - [Self-Attention and Transformers]()
+  - [Why Transformers Outperform RNNs]()
+  - [Transitioning from RNNs to Transformer-based Models]()
 
 ## IV. Transformers and Attention Mechanisms
 - **Introduction to Attention**
