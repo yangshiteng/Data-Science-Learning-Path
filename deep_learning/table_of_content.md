@@ -92,11 +92,14 @@
   - [Gated Recurrent Units (GRUs)]()
   - [Bidirectional RNNs (Bi-RNNs)]()
   - [Deep RNNs (Stacked RNNs)]()
-  - [Echo State Networks (ESNs)]()
-  - [Neural Turing Machines (NTMs)]()
-- **Architectures & Extensions of RNNs**
+  - [Recursive Neural Networks]()
+  - [Attention-Augmented RNNs]()
+  - [Neural Turing Machines & Memory Networks]()
+  - [Echo State Networks (ESN)]()
+  - [Independently Recurrent Neural Networks (IndRNN)]()
+- **Architectures Built on Top of RNNs**
   - [Encoder-Decoder (Seq2Seq) Models]()
-  - [Attention Mechanisms in RNNs]()
+  - [Attention-Based Seq2Seq]()
   - [Memory-Augmented RNNs]()
   - [Hierarchical RNNs]()
   - [Convolutional RNNs (ConvRNNs)]()
