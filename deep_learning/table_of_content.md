@@ -78,7 +78,7 @@
 - **Introduction to Recurrent Neural Networks**
   - [What are RNNs?](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/recurrent_neural_networks/what_are_rnns.md)
   - [Applications of RNNs](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/recurrent_neural_networks/rnns_application.md)
-- **Basic RNN Architecture**
+- **Basic RNN Architecture (Vanilla RNN)**
   - [Basic RNN Architecture (Vanilla RNN)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/recurrent_neural_networks/basic_rnn_architecture.md)
   - [Recurrent Connections & Hidden States](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/recurrent_neural_networks/recurrent_connection_hidden_state.md)
   - [Forward Propagation in RNNs](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/recurrent_neural_networks/rnn_forward_prop.md)
