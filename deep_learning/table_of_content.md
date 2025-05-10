@@ -87,7 +87,7 @@
   - [The Exploding Gradient Problem](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/recurrent_neural_networks/exploding_gradient.md)
   - [Short-term memory Problem](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/recurrent_neural_networks/short_term_memory.md)
 - **Building and Training RNNs**
-  - [Overview of RNNs Training]()
+  - [Overview of RNNs Training](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/recurrent_neural_networks/rnn_training_overview.md)
   - [Loss Functions for Sequential Tasks]()
   - [Backpropagation Through Time (in detail)]()
   - [Truncated BPTT]()
