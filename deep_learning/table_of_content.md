@@ -77,7 +77,7 @@
 ## III. Recurrent Neural Networks (RNNs)
 - **Introduction to Recurrent Neural Networks**
   - [What are RNNs?](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/recurrent_neural_networks/what_are_rnns.md)
-  - [Applications of RNNs](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/recurrent_neural_networks/rnns_application)
+  - [Applications of RNNs](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/recurrent_neural_networks/rnns_application.md)
 - **Basic RNN Architecture**
   - [Basic RNN Architecture (Vanilla RNN)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/recurrent_neural_networks/basic_rnn_architecture.md)
   - [Recurrent Connections & Hidden States](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/recurrent_neural_networks/recurrent_connection_hidden_state.md)
@@ -119,11 +119,15 @@
     - [Language Modeling]()
     - [Machine Translation]()
     - [Text Generation]()
+    - [Named Entity Recognition (NER)]()
     - [Sentiment Analysis]()
   - [Speech Recognition]()
-  - [Time Series Prediction]()
+  - [Time Series Forecasting]()
   - [Music and Art Generation]()
-  - [Bioinformatics and Genomics]()
+  - [Video Analysis & Captioning]()
+  - [Healthcare & Biomedical Data]()
+  - [Recommendation Systems]()
+  - [Robotics and Control Systems]()
 - **Implementing RNNs in Practice**
   - [RNNs Implementation with TensorFlow & Keras]()
   - [RNNs Implementation with PyTorch]()
