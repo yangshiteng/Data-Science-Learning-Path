@@ -93,15 +93,7 @@
     - [Sequence-Level Loss](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/recurrent_neural_networks/sequence_level_loss.md)
   - [Backpropagation Through Time (in detail)]()
   - [Truncated BPTT]()
-  - [Gradient Clipping]()
-  - [Weight Initialization Strategies]()
-  - [Optimizers for RNNs (SGD, Adam, RMSprop)]()
-  - [Regularization Techniques (Dropout, Zoneout)]()
-- **Evaluation of RNN Models**
-  - [Perplexity (for language modeling)]()
-  - [Accuracy, Precision, Recall]()
-  - [Sequence-Level Metrics (BLEU, ROUGE)]()
-  - [Visualizing Hidden States and Attention]()
+  - [Evaluation of RNN Models]()
 - **Variants of RNN Cells**
   - [Long Short-Term Memory (LSTM)]()
   - [Gated Recurrent Units (GRUs)]()
