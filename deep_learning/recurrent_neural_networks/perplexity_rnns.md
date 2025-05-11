@@ -21,7 +21,7 @@ So, **lower perplexity = better model**.
 Given a sequence of words $w_1, w_2, ..., w_T$, and the model’s predicted probabilities $P(w_t | w_1, ..., w_{t-1})$:
 
 $$
-\text{Perplexity} = \exp\left(-\frac{1}{T} \sum_{t=1}^{T} \log P(w_t | w_{<t})\right)
+\text{Perplexity} = \exp{\left(-\frac{1}{T} \sum_{t=1}^{T} \log P(w_t | w_{<t})\right)}
 $$
 
 Or equivalently:
