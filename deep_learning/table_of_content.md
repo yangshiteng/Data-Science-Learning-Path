@@ -95,7 +95,7 @@
   - [Truncated BPTT](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/recurrent_neural_networks/truncated_bptt.md)
   - [Gradient Clipping](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/recurrent_neural_networks/gradient_clipping.md)
   - [Weight Initialization Strategies](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/recurrent_neural_networks/weight_init.md)
-  - [Optimizers for RNNs (SGD, Adam, RMSprop)]()
+  - [Optimizers for RNNs (SGD, Adam, RMSprop)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/recurrent_neural_networks/rnn_optimizer.md)
   - [Regularization Techniques (Dropout, Zoneout)]()
 - **Evaluation of RNN Models**
   - [Perplexity (for language modeling)]()
