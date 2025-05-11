@@ -21,11 +21,6 @@
   - [Weight Initialization Strategies](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/recurrent_neural_networks/weight_init.md)
   - [Optimizers for RNNs (SGD, Adam, RMSprop)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/recurrent_neural_networks/rnn_optimizer.md)
   - [Regularization Techniques (Dropout, Zoneout)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/recurrent_neural_networks/regularization_rnns.md)
-- **Evaluation of RNN Models**
-  - [Perplexity](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/recurrent_neural_networks/perplexity_rnns.md)
-  - [Accuracy, Precision, Recall]()
-  - [Sequence-Level Metrics (BLEU, ROUGE)]()
-  - [Visualizing Hidden States and Attention]()
 - **Variants of RNN Cells**
   - [Long Short-Term Memory (LSTM)]()
   - [Gated Recurrent Units (GRUs)]()
@@ -54,6 +49,12 @@
   - [Healthcare & Biomedical Data]()
   - [Recommendation Systems]()
   - [Robotics and Control Systems]()
+- **Evaluation of RNN Models**
+  - [Evaluation of Language Modeling](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/recurrent_neural_networks/perplexity_rnns.md)
+  - [Evaluation of Sequence-to-Sequence Tasks]()
+  - [Evaluation of Sequence Classification]()
+  - [Evaluation of Sequence Labeling / Tagging]()
+  - [Evaluation of Time Series Forecasting]()
 - **Implementing RNNs in Practice**
   - [RNNs Implementation with TensorFlow & Keras]()
   - [RNNs Implementation with PyTorch]()
