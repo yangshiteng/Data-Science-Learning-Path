@@ -111,7 +111,6 @@ $$
 An LSTM cell calculates:
 
 $$
-\[
 \begin{aligned}
 f_t &= \sigma(W_f [h_{t-1}, x_t] + b_f) \\
 i_t &= \sigma(W_i [h_{t-1}, x_t] + b_i) \\
@@ -120,8 +119,8 @@ C_t &= f_t \cdot C_{t-1} + i_t \cdot \tilde{C}_t \\
 o_t &= \sigma(W_o [h_{t-1}, x_t] + b_o) \\
 h_t &= o_t \cdot \tanh(C_t)
 \end{aligned}
-\]
 $$
+
 
 ---
 
