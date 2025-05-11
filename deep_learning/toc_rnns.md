@@ -22,7 +22,7 @@
   - [Optimizers for RNNs (SGD, Adam, RMSprop)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/recurrent_neural_networks/rnn_optimizer.md)
   - [Regularization Techniques (Dropout, Zoneout)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/recurrent_neural_networks/regularization_rnns.md)
 - **Evaluation of RNN Models**
-  - [Perplexity (for language modeling)]()
+  - [Perplexity](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/recurrent_neural_networks/perplexity_rnns.md)
   - [Accuracy, Precision, Recall]()
   - [Sequence-Level Metrics (BLEU, ROUGE)]()
   - [Visualizing Hidden States and Attention]()
