@@ -18,17 +18,7 @@ So, **lower perplexity = better model**.
 
 ## 🧮 **How Is Perplexity Calculated?**
 
-Given a sequence of words $w_1, w_2, ..., w_T$, and the model’s predicted probabilities $P(w_t | w_1, ..., w_{t-1})$:
-
-$$
-\text{Perplexity} = \exp{\left(-\frac{1}{T} \sum_{t=1}^{T} \log P(w_t | w_{<t})\right)}
-$$
-
-Or equivalently:
-
-$$
-\text{Perplexity} = 2^{\text{Cross-Entropy Loss}}
-$$
+![image](https://github.com/user-attachments/assets/f923bf19-1671-44e9-a109-f944c0ad4d54)
 
 ---
 
