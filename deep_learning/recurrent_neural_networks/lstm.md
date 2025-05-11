@@ -118,9 +118,7 @@ $$
 i_t = \sigma(W_i [h_{t-1}, x_t] + b_i) 
 $$
 
-$$
-\tilde{C}_t = \tanh\left(W_C \cdot \left[ h_{t-1}, x_t \right] + b_C\right)
-$$
+$\tilde{C}_t = \tanh(W_C \cdot [h_{t-1}, x_t] + b_C)$
 
 $$ 
 C_t = f_t \cdot C_{t-1} + i_t \cdot \tilde{C}_t 
