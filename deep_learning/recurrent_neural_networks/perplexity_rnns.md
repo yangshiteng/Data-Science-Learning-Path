@@ -1,70 +1,95 @@
-## 📏 **Perplexity in Language Modeling**
-
-### 🧠 **What Is Perplexity?**
-
-**Perplexity** is a measurement of **how well a language model predicts a sequence of words**.
-It quantifies the model's **uncertainty** when predicting the next word in a sentence.
+Absolutely! Here's a focused and clear introduction to the **performance evaluation metrics specifically used for language modeling**, particularly in the context of **RNNs, LSTMs, and Transformers**:
 
 ---
 
-### 🔍 **Intuition**
+## 📊 **Performance Evaluation Metrics for Language Modeling**
 
-> A good language model assigns **high probabilities** to the correct next words.
-> A poor model assigns **low or scattered probabilities**, meaning it’s "perplexed."
+Language modeling is about predicting the **next word (or character)** in a sequence. The better the model is at this, the more fluent and meaningful its text predictions will be.
 
-So, **lower perplexity = better model**.
+### 🔍 The key idea:
 
----
-
-## 🧮 **How Is Perplexity Calculated?**
-
-![image](https://github.com/user-attachments/assets/f923bf19-1671-44e9-a109-f944c0ad4d54)
+We want to **evaluate how well the model predicts an entire sequence of tokens**, not just individual ones. These metrics focus on that **predictive performance**.
 
 ---
 
-### 🧠 Example
+### 1. 📉 **Perplexity** (Most Common Metric)
 
-Suppose your model is predicting the next word in the sentence:
-**"I am going to the"** → and the next word is **"store"**
+#### ✅ What It Measures:
 
-* Good model: $P(\text{"store"}) = 0.8$ → low perplexity
-* Bad model: $P(\text{"store"}) = 0.1$ → high perplexity
+* How confident the model is when predicting the next token in a sequence.
+* Lower perplexity = better performance.
 
-If the model is **perfect**, perplexity = 1 (no uncertainty)
-If it guesses **randomly**, perplexity is **equal to the vocabulary size**.
+#### 📐 Formula:
+
+$$
+\text{Perplexity} = \exp\left(-\frac{1}{T} \sum_{t=1}^T \log P(w_t \mid w_1, ..., w_{t-1})\right)
+$$
+
+Where:
+
+* $T$: length of the sequence
+* $P(w_t \mid \cdot)$: model's predicted probability for the next token
+
+#### 🧠 Interpretation:
+
+* A model with **perfect predictions** has perplexity = 1.
+* A model that **guesses randomly** has high perplexity, up to the **vocabulary size**.
 
 ---
 
-## 📊 **How to Interpret Perplexity**
+### 2. 🧮 **Bits-Per-Character (BPC)**
 
-| Perplexity Value  | Meaning                          |
-| ----------------- | -------------------------------- |
-| \~1               | Perfect model (rare in practice) |
-| 10–100            | Decent to strong language models |
-| 500+              | Weak or untrained model          |
-| ≈ Vocabulary Size | Random guessing                  |
+#### ✅ What It Measures:
+
+* Used in **character-level** language models.
+* Measures how many bits are needed, on average, to encode each character.
+
+#### 📐 Formula:
+
+$$
+\text{BPC} = \frac{1}{T} \sum_{t=1}^{T} -\log_2 P(c_t \mid c_{<t})
+$$
+
+Where:
+
+* $c_t$: character at time $t$
+* $T$: total number of characters
+
+#### 🧠 Interpretation:
+
+* Lower BPC means the model is making more confident, accurate predictions.
+* BPC is closely related to **cross-entropy loss** in base-2.
 
 ---
 
-## 📦 **When to Use Perplexity**
+### 3. 🧪 **Accuracy (Optional / Less Common)**
 
-✅ Use it for:
+* Sometimes used when evaluating **top-1 prediction** at each time step.
+* Measures **how often the model's most likely word is the correct one**.
+* Doesn't consider prediction confidence — **less informative** than perplexity.
 
-* **Evaluating language models** (RNN, LSTM, GRU, Transformer)
-* **Comparing different models** on the same dataset
-* **Monitoring training/validation performance**
+#### Example:
 
-❌ Don’t use it if:
+A model that assigns 0.9 probability to the wrong word and 0.1 to the correct one gets 0% accuracy — even though it **understood something**.
 
-* You're evaluating **task-specific output** (e.g., translation, summarization) → use BLEU, ROUGE instead
+> ❗ For **language modeling**, **perplexity** is almost always preferred over accuracy.
+
+---
+
+## ✅ **When to Use Each Metric**
+
+| Metric         | Best For                  | Use Case Example                     |
+| -------------- | ------------------------- | ------------------------------------ |
+| **Perplexity** | Word-level models         | GPT, LSTM on tokenized text          |
+| **BPC**        | Character-level models    | Char-RNN, byte-level language models |
+| **Accuracy**   | Debugging or simple tasks | Educational models, small vocab sets |
 
 ---
 
 ## 🧾 Summary
 
-| Feature          | Description                                                   |
-| ---------------- | ------------------------------------------------------------- |
-| What it measures | How confident the model is in predicting sequences            |
-| Lower is better? | ✅ Yes                                                         |
-| Type             | Probabilistic, exponential of average negative log-likelihood |
-| Good for         | RNNs, LSTMs, GRUs, Transformers in language modeling          |
+| Metric     | Type           | Goal                          | Lower is Better? |
+| ---------- | -------------- | ----------------------------- | ---------------- |
+| Perplexity | Probabilistic  | Measures sequence uncertainty | ✅ Yes            |
+| BPC        | Probabilistic  | Bits needed per character     | ✅ Yes            |
+| Accuracy   | Classification | Exact match rate (optional)   | ✅ No             |
