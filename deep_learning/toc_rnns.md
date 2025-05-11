@@ -22,7 +22,7 @@
   - [Optimizers for RNNs (SGD, Adam, RMSprop)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/recurrent_neural_networks/rnn_optimizer.md)
   - [Regularization Techniques (Dropout, Zoneout)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/recurrent_neural_networks/regularization_rnns.md)
 - **Variants of RNN Cells**
-  - [Long Short-Term Memory (LSTM)]()
+  - [Long Short-Term Memory (LSTM)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/recurrent_neural_networks/lstm.md)
   - [Gated Recurrent Units (GRUs)]()
   - [Vanilla RNN vs LSTM vs GRU]()
   - [Other Variants (IndRNN, ESN, UGRNN)]()
