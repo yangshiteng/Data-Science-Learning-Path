@@ -1,7 +1,3 @@
-Absolutely! Here's a focused and clear introduction to the **performance evaluation metrics specifically used for language modeling**, particularly in the context of **RNNs, LSTMs, and Transformers**:
-
----
-
 ## 📊 **Performance Evaluation Metrics for Language Modeling**
 
 Language modeling is about predicting the **next word (or character)** in a sequence. The better the model is at this, the more fluent and meaningful its text predictions will be.
