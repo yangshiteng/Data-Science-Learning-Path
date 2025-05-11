@@ -122,6 +122,7 @@ h_t &= o_t \cdot \tanh(C_t)
 $$
 
 
+
 ---
 
 ## 📈 **4. Advantages of LSTM**
