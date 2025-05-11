@@ -92,4 +92,4 @@ A model that assigns 0.9 probability to the wrong word and 0.1 to the correct on
 | ---------- | -------------- | ----------------------------- | ---------------- |
 | Perplexity | Probabilistic  | Measures sequence uncertainty | ✅ Yes            |
 | BPC        | Probabilistic  | Bits needed per character     | ✅ Yes            |
-| Accuracy   | Classification | Exact match rate (optional)   | ✅ No             |
+| Accuracy   | Classification | Exact match rate (optional)   | ❗ No             |
