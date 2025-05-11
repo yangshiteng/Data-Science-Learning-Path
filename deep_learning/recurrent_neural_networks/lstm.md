@@ -72,11 +72,7 @@ $$
 
 3. ### 💾 **Candidate Cell State** $\tilde{C}_t$
 
-Creates a vector of **new candidate values** to potentially add to the cell state.
-
-$$
-\tilde{C}_t = \tanh(W_C \cdot [h_{t-1}, x_t] + b_C)
-$$
+![image](https://github.com/user-attachments/assets/f855aec4-1b57-46b9-891c-12ab748de1d0)
 
 ---
 
@@ -108,31 +104,7 @@ $$
 
 ### 🧮 **All Together**
 
-An LSTM cell calculates:
-
-$$ 
-f_t = \sigma(W_f [h_{t-1}, x_t] + b_f) 
-$$
-
-$$ 
-i_t = \sigma(W_i [h_{t-1}, x_t] + b_i) 
-$$
-
-$$
-\tilde{C}_t = \tanh(W_C [h_{t-1}, x_t] + b_C)
-$$
-
-$$ 
-C_t = f_t \cdot C_{t-1} + i_t \cdot \tilde{C}_t 
-$$
-
-$$ 
-o_t = \sigma(W_o [h_{t-1}, x_t] + b_o) 
-$$
-
-$$ 
-h_t = o_t \cdot \tanh(C_t) 
-$$
+![image](https://github.com/user-attachments/assets/52d699d3-8c84-4aa8-86ca-c1a02f4bf80e)
 
 ---
 
