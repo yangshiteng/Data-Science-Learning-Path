@@ -47,7 +47,7 @@ Where:
 #### 📐 Formula:
 
 $$
-\text{BPC} = \frac{1}{T} \sum_{t=1}^{T} -\log_2 P(c_t \mid c_{<t})
+\text{BPC} = \frac{1}{T} \sum_{t=1}^{T} -\log_2 \left( P(c_t \mid c_{<t}) \right)
 $$
 
 Where:
