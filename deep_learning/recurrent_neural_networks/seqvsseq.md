@@ -22,29 +22,7 @@ Seq2Seq solves this by using **two separate RNNs** that work together.
 
 ## 🧱 **Architecture Overview**
 
-### 🔹 1. **Encoder**
-
-* Takes a sequence $x = (x_1, x_2, ..., x_T)$
-* Processes it through an RNN (e.g., LSTM, GRU)
-* Produces a final hidden state $h_T$, which represents the entire input sequence
-
-$$
-h_t = \text{RNN}_{\text{enc}}(x_t, h_{t-1})
-$$
-
-### 🔹 2. **Decoder**
-
-* Starts with the encoder’s final hidden state $h_T$
-* Generates the output sequence $y = (y_1, y_2, ..., y_{T'})$
-* At each step, the decoder predicts the next token based on its own previous output and hidden state
-
-$$
-s_t = \text{RNN}_{\text{dec}}(y_{t-1}, s_{t-1})
-$$
-
-$$
-\hat{y}_t = \text{Softmax}(W s_t + b)
-$$
+![image](https://github.com/user-attachments/assets/5d98a3eb-9798-4737-b1cf-419dd9153b45)
 
 ---
 
