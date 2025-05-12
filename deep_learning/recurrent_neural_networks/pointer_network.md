@@ -227,7 +227,7 @@ These define how much attention the decoder gives to each encoder state.
 
 ---
 
-# ✅ Summary Table (with Examples)
+## ✅ Summary Table (with Examples)
 
 | Task                           | Input Example                  | Output Example               |
 | ------------------------------ | ------------------------------ | ---------------------------- |
