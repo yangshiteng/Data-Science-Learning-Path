@@ -31,7 +31,7 @@
   - [Bidirectional RNNs](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/recurrent_neural_networks/bidirectional_rnn.md)
   - [Hierarchical RNNs](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/recurrent_neural_networks/hierarchical_rnn.md)
   - [Encoder–Decoder (Seq2Seq) Architecture](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/recurrent_neural_networks/seqvsseq.md)
-  - [Attention-Enhanced RNNs]()
+  - [Attention-Enhanced RNNs](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/recurrent_neural_networks/attention_enhanced_rnns.md)
   - [Pointer Networks]()
   - [Recurrent Attention Models (RAM)]()
   - [Memory-Augmented RNNs (NTM, DNC)]()
