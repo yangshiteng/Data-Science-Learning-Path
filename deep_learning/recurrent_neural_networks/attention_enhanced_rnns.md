@@ -31,6 +31,8 @@ Instead of forcing the decoder to rely on a **single fixed-length vector** (the 
 
 ## 🧱 **Architecture Overview**
 
+![image](https://github.com/user-attachments/assets/087a28e9-bd90-47a0-9d43-8b3b3a00a502)
+
 Let:
 
 * $h_1, h_2, ..., h_T$: hidden states from the encoder (one per input token)
