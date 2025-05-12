@@ -31,25 +31,7 @@ Consider a document composed of multiple sentences, and each sentence composed o
 
 ### 🔄 Forward Flow:
 
-For each sentence $s_i$:
-
-* Word RNN computes:
-
-$$
-h_t^{(w)} = \text{RNN}_{\text{word}}(x_t, h_{t-1}^{(w)})
-$$
-  
-* Final hidden state $h_T^{(w)}$ becomes sentence embedding $s_i$
-
-Then:
-
-* Sentence RNN computes:
-
-$$
-h_i^{(s)} = \text{RNN}_{\text{sent}}(s_i, h_{i-1}^{(s)})
-$$
-
-Final output $h_n^{(s)}$ is a representation of the entire document.
+![image](https://github.com/user-attachments/assets/a0398e97-8da5-4e06-92e5-87991b7bcecb)
 
 ---
 
