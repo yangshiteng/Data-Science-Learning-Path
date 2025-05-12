@@ -24,7 +24,7 @@
 - **Variants of RNN Cells**
   - [Long Short-Term Memory (LSTM)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/recurrent_neural_networks/lstm.md)
   - [Gated Recurrent Units (GRUs)]()
-  - [Vanilla RNN vs LSTM vs GRU]()
+  - [Vanilla RNN vs LSTM vs GRU](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/recurrent_neural_networks/vanilla_vs_lstm_vs_gru.md)
   - [Other Variants (IndRNN, ESN, UGRNN)]()
 - **Architectures Built on Top of RNNs**
   - [Stacked (Deep) RNNs]()
