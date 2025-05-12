@@ -27,7 +27,7 @@
   - [Vanilla RNN vs LSTM vs GRU](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/recurrent_neural_networks/vanilla_vs_lstm_vs_gru.md)
   - [Other Variants](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/recurrent_neural_networks/other_variants.md)
 - **Architectures Built on Top of RNNs**
-  - [Stacked (Deep) RNNs]()
+  - [Stacked (Deep) RNNs](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/recurrent_neural_networks/stacked_rnn.md)
   - [Bidirectional RNNs]()
   - [Hierarchical RNNs]()
   - [Encoder–Decoder (Seq2Seq) Architecture]()
