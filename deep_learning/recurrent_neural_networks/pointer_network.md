@@ -40,8 +40,6 @@ Pointer Networks **replace the decoder’s softmax layer** with an **attention m
 
 ## 🔁 **Architecture Overview**
 
-### 1. **Encoder**
-
 ![image](https://github.com/user-attachments/assets/e2cb8f07-b9b6-42f4-84c3-bc7099643c44)
 
 ---
