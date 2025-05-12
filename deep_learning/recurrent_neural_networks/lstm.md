@@ -1,5 +1,7 @@
 # 🧠 **Long Short-Term Memory (LSTM)**
 
+![image](https://github.com/user-attachments/assets/5de5dcec-e3d1-40bb-be30-564527a6e56b)
+
 ---
 
 ## 🔍 **1. What is LSTM?**
