@@ -1,5 +1,7 @@
 # 📍 **Pointer Networks (Ptr-Net)**
 
+![image](https://github.com/user-attachments/assets/8fc0a6f4-831e-45fd-a44d-bff44b7517f9)
+
 ---
 
 ## 📘 **What Are Pointer Networks?**
