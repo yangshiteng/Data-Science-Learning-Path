@@ -11,6 +11,8 @@ It consists of two main components:
 1. **Encoder**: Reads and summarizes the input sequence into a fixed-length context (hidden state).
 2. **Decoder**: Uses this context to generate the output sequence, one element at a time.
 
+![image](https://github.com/user-attachments/assets/f1cbf988-4db4-43fe-bb7f-931b2e72a3d2)
+
 ---
 
 ## 🧠 **Why Use Seq2Seq?**
