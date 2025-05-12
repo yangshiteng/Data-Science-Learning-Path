@@ -56,14 +56,7 @@ RAMs are particularly useful for **high-dimensional inputs**, like images, video
 
 ## 🔄 **How It Works (at Time Step $t$)**
 
-1. Take a **glimpse** $g_t$ from input at location $l_t$
-2. Process the glimpse:
-
-   $$
-   h_t = \text{RNN}(g_t, h_{t-1})
-   $$
-3. Predict the next attention location $l_{t+1}$
-4. Repeat until a final decision is made
+![image](https://github.com/user-attachments/assets/f0b7c80b-7885-4ba8-a82b-59cfc9358b23)
 
 ---
 
