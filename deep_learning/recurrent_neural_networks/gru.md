@@ -32,7 +32,7 @@ Each GRU cell maintains a **hidden state** $h_t$, and updates it using:
 
 ## ✍️ **GRU Equations**
 
-```markdown
+
 $$
 z_t = \sigma(W_z [h_{t-1}, x_t] + b_z)
 $$
@@ -48,7 +48,6 @@ $$
 $$
 h_t = (1 - z_t) \cdot h_{t-1} + z_t \cdot \tilde{h}_t
 $$
-```
 
 ---
 
