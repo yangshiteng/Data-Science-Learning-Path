@@ -47,6 +47,8 @@ Each GRU cell maintains a **hidden state** $h_t$, and updates it using:
 | $\sigma$      | Sigmoid activation                             |
 | $\tanh$       | Tanh activation                                |
 
+![image](https://github.com/user-attachments/assets/326c4279-c88f-4fc4-9304-eb115e677e8d)
+
 ---
 
 ## ✅ **Advantages of GRUs**
