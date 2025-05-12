@@ -104,15 +104,12 @@ These define how much attention the decoder gives to each encoder state.
 | Best for       | Sorting, span selection, path prediction           |
 | Difference     | No fixed output vocabulary — depends on input size |
 
-Absolutely! Here's an enhanced version of the **real-world applications of Pointer Networks**, now including a **concrete example** for each task — clearly showing the **input and output** formats.
+
+# 🌍 **Pointer Networks: Real-World Applications with Examples**
 
 ---
 
-## 🌍 **Pointer Networks: Real-World Applications with Examples**
-
----
-
-### 1. 📚 **Machine Reading Comprehension (Span-Based QA)**
+## 1. 📚 **Machine Reading Comprehension (Span-Based QA)**
 
 **📝 Task:** Extract the answer span directly from a passage.
 
@@ -131,7 +128,7 @@ Absolutely! Here's an enhanced version of the **real-world applications of Point
 
 ---
 
-### 2. 🧭 **Traveling Salesman Problem (TSP)**
+## 2. 🧭 **Traveling Salesman Problem (TSP)**
 
 **📝 Task:** Predict the shortest route through a set of cities.
 
@@ -152,7 +149,7 @@ Absolutely! Here's an enhanced version of the **real-world applications of Point
 
 ---
 
-### 3. 🧬 **DNA/RNA Sequence Analysis**
+## 3. 🧬 **DNA/RNA Sequence Analysis**
 
 **📝 Task:** Identify important subsequences (e.g., binding sites, genes).
 
@@ -170,7 +167,7 @@ Absolutely! Here's an enhanced version of the **real-world applications of Point
 
 ---
 
-### 4. 🧾 **Sequence Sorting**
+## 4. 🧾 **Sequence Sorting**
 
 **📝 Task:** Output the sorted order of a sequence by pointing to input elements.
 
@@ -187,7 +184,7 @@ Absolutely! Here's an enhanced version of the **real-world applications of Point
 
 ---
 
-### 5. 📄 **Extractive Text Summarization**
+## 5. 📄 **Extractive Text Summarization**
 
 **📝 Task:** Select the most important sentences from a document.
 
@@ -211,7 +208,7 @@ Absolutely! Here's an enhanced version of the **real-world applications of Point
 
 ---
 
-### 6. 🔍 **Information Extraction (Named Entity or Slot Filling)**
+## 6. 🔍 **Information Extraction (Named Entity or Slot Filling)**
 
 **📝 Task:** Identify specific fields (e.g., names, dates, locations) in text.
 
@@ -230,7 +227,7 @@ Absolutely! Here's an enhanced version of the **real-world applications of Point
 
 ---
 
-## ✅ Summary Table (with Examples)
+# ✅ Summary Table (with Examples)
 
 | Task                           | Input Example                  | Output Example               |
 | ------------------------------ | ------------------------------ | ---------------------------- |
