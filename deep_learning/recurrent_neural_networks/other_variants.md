@@ -1,7 +1,3 @@
-Certainly! Beyond Vanilla RNN, LSTM, and GRU, researchers have proposed several **other RNN cell variants** to improve learning, efficiency, or memory capabilities. Here's a comprehensive overview of the **notable RNN cell variants** and what makes each one unique.
-
----
-
 ## 🔬 **Other Variants of RNN Cells**
 
 ---
@@ -12,19 +8,7 @@ Certainly! Beyond Vanilla RNN, LSTM, and GRU, researchers have proposed several 
 * Uses **only one gate** (update gate)
 * Reduces computational load further than GRU
 
-#### Equation:
-
-$$
-z_t = \sigma(W_z [h_{t-1}, x_t] + b_z)
-$$
-
-$$
-\tilde{h}_t = \tanh(W_h [z_t \cdot h_{t-1}, x_t] + b_h)
-$$
-
-$$
-h_t = (1 - z_t) \cdot h_{t-1} + z_t \cdot \tilde{h}_t
-$$
+![image](https://github.com/user-attachments/assets/06f33a3d-80db-440f-8172-eb63800440ca)
 
 ✅ *Use when memory is limited or for very large datasets.*
 
