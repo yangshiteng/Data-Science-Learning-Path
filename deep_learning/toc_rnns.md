@@ -28,7 +28,7 @@
   - [Other Variants](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/recurrent_neural_networks/other_variants.md)
 - **Architectures Built on Top of RNNs**
   - [Stacked (Deep) RNNs](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/recurrent_neural_networks/stacked_rnn.md)
-  - [Bidirectional RNNs]()
+  - [Bidirectional RNNs](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/recurrent_neural_networks/bidirectional_rnn.md)
   - [Hierarchical RNNs]()
   - [Encoder–Decoder (Seq2Seq) Architecture]()
   - [Attention-Enhanced RNNs]()
