@@ -33,7 +33,7 @@
   - [Encoder–Decoder (Seq2Seq) Architecture](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/recurrent_neural_networks/seqvsseq.md)
   - [Attention-Enhanced RNNs](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/recurrent_neural_networks/attention_enhanced_rnns.md)
   - [Pointer Networks](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/recurrent_neural_networks/pointer_network.md)
-  - [Recurrent Attention Models (RAM)]()
+  - [Recurrent Attention Models (RAM)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/recurrent_neural_networks/ram.md)
   - [Memory-Augmented RNNs (NTM, DNC)]()
 - **Applications of RNNs**
   - [Natural Language Processing]()
