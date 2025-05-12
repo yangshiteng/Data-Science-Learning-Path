@@ -42,32 +42,7 @@ Pointer Networks **replace the decoder’s softmax layer** with an **attention m
 
 ### 1. **Encoder**
 
-Processes input sequence $x = (x_1, x_2, ..., x_n)$ using an RNN or Transformer:
-
-$$
-h_i = \text{Encoder}(x_i)
-$$
-
-### 2. **Decoder with Attention**
-
-At each decoding step $t$, the decoder:
-
-* Maintains a hidden state $s_t$
-* Computes attention scores over all encoder outputs:
-
-$$
-e_{t,i} = \text{score}(s_t, h_i)
-$$
-
-$$
-p_{t,i} = \frac{\exp(e_{t,i})}{\sum_j \exp(e_{t,j})}
-$$
-
-* The model outputs a **distribution over input indices** (the pointer):
-
-$$
-\text{Output}_t = \arg\max_i \; p_{t,i}
-$$
+![image](https://github.com/user-attachments/assets/e2cb8f07-b9b6-42f4-84c3-bc7099643c44)
 
 ---
 
