@@ -33,26 +33,7 @@ Sometimes, understanding the meaning of a word depends on **what comes after it*
 
 ## 🧱 **Architecture Overview**
 
-Let’s denote:
-
-* $x_t$: input at time step $t$
-* $\overrightarrow{h}_t$: hidden state from **forward** RNN
-* $\overleftarrow{h}_t$: hidden state from **backward** RNN
-* $h_t$: final hidden state at time $t$
-
-$$
-\overrightarrow{h}_t = \text{RNN}_{\text{fwd}}(x_t, \overrightarrow{h}_{t-1})
-$$
-
-$$
-\overleftarrow{h}_t = \text{RNN}_{\text{bwd}}(x_t, \overleftarrow{h}_{t+1})
-$$
-
-$$
-h_t = \left[ \overrightarrow{h}_t ; \overleftarrow{h}_t \right]
-$$
-
-→ The final output $h_t$ is typically the **concatenation** of both directions.
+![image](https://github.com/user-attachments/assets/9d7d928e-ef31-4438-a5b1-58ce1cd4ae59)
 
 ---
 
