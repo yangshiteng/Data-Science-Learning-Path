@@ -13,6 +13,8 @@ A **Hierarchical RNN** is an architecture that models sequences **at multiple le
 
 This is done using **multiple RNN layers**, where **each layer processes a different temporal unit** (e.g., words → sentences → paragraphs).
 
+![image](https://github.com/user-attachments/assets/b678eaef-3cb0-433a-b6e4-911048e31625)
+
 ---
 
 ## 🧱 **Architecture Example: Document Modeling**
