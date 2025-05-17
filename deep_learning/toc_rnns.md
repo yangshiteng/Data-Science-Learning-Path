@@ -85,6 +85,6 @@
   - [Evaluation of Sequence Labeling / Tagging]()
   - [Evaluation of Time Series Forecasting]()
     
-# Implementing RNNs in Practice**
+# Implementing RNNs in Practice
   - [RNNs Implementation with TensorFlow & Keras]()
   - [RNNs Implementation with PyTorch]()
