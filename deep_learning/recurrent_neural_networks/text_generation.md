@@ -20,33 +20,54 @@ This ability to remember and process sequential patterns makes RNNs powerful too
 
 ---
 
-### ⚙️ **How It Works: Step-by-Step**
+### 📚 **Step-by-Step Training Process**
 
-Let’s walk through the process of how RNNs generate text:
+#### **1. Collect and Prepare Text Data**
 
-#### 1. **Training the RNN**
+* Start with a large block of text — this could be a novel, a collection of tweets, or lyrics.
+* Convert all text to a consistent format (e.g., lowercase, remove special characters if needed).
+* Decide whether to train on **characters** (e.g., “h-e-l-l-o”) or **words** (e.g., “hello world”).
 
-* **Input**: A large corpus of text (e.g., books, articles, or dialogue).
-* **Goal**: Learn the probability distribution of the next word (or character) given the previous ones.
-* The RNN is trained using sequences from the text.
-* At each step, the RNN:
+#### **2. Create Sequences for Learning**
 
-  * Receives the current word (or character) as input.
-  * Updates its **hidden state** based on the previous state and current input.
-  * Outputs a probability distribution over the vocabulary for the **next word**.
+* Break the text into many overlapping chunks of fixed length.
+* For example, if your sequence length is 100:
+  * Use the first 100 characters as input, and the **101st character as the target**.
+  * Then shift one step: use characters 2–101 as input, and character 102 as the target.
+* This gives you **thousands of input–output pairs**.
 
-#### 2. **Loss Function**
+#### **3. Encode the Data for the Model**
 
-* The **cross-entropy loss** is typically used, comparing the predicted next word against the actual word in the training data.
+* Computers can’t process text directly, so each character (or word) is **converted into a numerical format**.
+* A common method is **one-hot encoding**, where each symbol becomes a binary vector with a 1 in the position that matches its identity.
+* This step results in 3D input data: sequences × steps × vocabulary size.
 
-#### 3. **Text Generation (Inference Phase)**
+#### **4. Build the RNN Model**
 
-* Choose a **start token** or a seed text.
-* Feed it to the trained RNN.
-* The RNN outputs the probability distribution for the next word.
-* A word is chosen (by sampling or picking the most likely).
-* That word is fed back into the RNN to generate the next word.
-* Repeat the process for the desired length of text.
+* The model is designed to **read one sequence at a time** and **predict the next character or word**.
+* The main components:
+  * An **RNN layer** (usually an LSTM or GRU) to process the sequence and remember past information.
+  * A **Dense (fully connected) layer** to transform the RNN output into a prediction.
+  * A **Softmax function** to produce a probability distribution over all possible next characters/words.
+
+#### **5. Train the Model**
+
+* The model looks at thousands of examples and learns **which character or word is most likely to come next**, given the current sequence.
+* It does this by:
+  * Making a prediction for each training example.
+  * Comparing it to the actual next character/word (the target).
+  * Adjusting its internal parameters to reduce the difference (using **backpropagation**).
+  * The **cross-entropy loss** is typically used, comparing the predicted next word against the actual word in the training data.
+* This is repeated for many **epochs** (full passes through the data).
+
+#### **6. Generate New Text (After Training)**
+
+* To generate text:
+  1. Provide the model with a short seed (e.g., "Once upon a").
+  2. The model predicts the next character or word.
+  3. That prediction is added to the input, and the sequence moves forward.
+  4. The process repeats to produce a long string of new text.
+* You can control how creative or random the generation is using **sampling techniques** (like adjusting temperature).
 
 ---
 
