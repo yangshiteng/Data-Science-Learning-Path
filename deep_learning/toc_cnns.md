@@ -1,8 +1,8 @@
-## II. Convolutional Neural Networks (CNNs)
-- **Introduction**
+# Introduction
   - [Introduction to CNNs](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/convolutional_neural_networks/introduction_to_cnns.md)
   - [Applications of CNNs](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/convolutional_neural_networks/cnn_application.md)
-- **CNNs Architecture**
+    
+# CNNs Architecture
   - [Input Image](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/convolutional_neural_networks/input_image.md)
   - [Convolutional Layer](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/convolutional_neural_networks/convolutional_layer.md)
     - [Filters (also called Kernels)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/convolutional_neural_networks/filters.md)
@@ -12,11 +12,13 @@
     - [Activation Function](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/convolutional_neural_networks/activation_function.md)
   - [Pooling Layer](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/convolutional_neural_networks/pooling_layer.md)
   - [Fully Connected Layer (Dense Layer)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/convolutional_neural_networks/fully_connected_layer.md)
-- **Building and Training CNNs**
+    
+# Building and Training CNNs
   - [Overview of CNNs Training](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/convolutional_neural_networks/overview_of_cnn_training.md)
   - [Parameter Optimized During CNN Training](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/convolutional_neural_networks/parameter_optimized_cnn.md)
   - [Data Augmentation](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/convolutional_neural_networks/data_augmentation.md)
-- **Popular CNN Architectures**
+    
+# Popular CNN Architectures
   - **1st Gen: Classic CNNs**
     - [LeNet-5](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/convolutional_neural_networks/lenet5.md)
   - **2nd Gen: Deep/Deeper Networks**
@@ -36,10 +38,12 @@
     - [EfficientNet](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/convolutional_neural_networks/efficientnet.md)
     - [RegNet](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/convolutional_neural_networks/regnet.md)
     - [ConvNeXt](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/convolutional_neural_networks/convnext.md)
-- **Advanced Techniques**
+      
+# Advanced Techniques
   - [Residual Connections (Skip Connection)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/convolutional_neural_networks/residual_connection.md)
   - [Depthwise Separable Convolution](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/convolutional_neural_networks/depthwise_separable_conv.md)
-- **Specialized CNN Applications**
+    
+# Specialized CNN Applications
   - [Image Classification](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/convolutional_neural_networks/cnn_application_image_classification.md)
   - [Object Detection](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/convolutional_neural_networks/cnn_application_object_detection.md)
   - [Semantic Segmentation](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/convolutional_neural_networks/cnn_application_semantic_segmentation.md)
@@ -50,11 +54,13 @@
   - [Medical Imaging Analysis](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/convolutional_neural_networks/cnn_application_medical_imaging.md)
   - [Autonomous Vehicles](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/convolutional_neural_networks/cnn_application_autonomous_vehicle.md)
   - [Video Analysis and Activity Recognition](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/convolutional_neural_networks/cnn_application_video_analysis.md)
-- **Transfer Learning in CNNs**
+
+# Transfer Learning in CNNs
   - [Introduction of Transfer Learning in CNNs](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/convolutional_neural_networks/introduction_transfer_learning.md)
   - [Example Code: Feature Extraction](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/convolutional_neural_networks/example_feature_extraction.md)
   - [Example Code: Fine-Tuning](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/convolutional_neural_networks/example_fine_tuning.md)
-- **CNNs in Practice**
+    
+# CNNs in Practice
   - [Model Zoos & Playgrounds for CNNs](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/convolutional_neural_networks/model_playgrounds.md)
   - [CNNs Application with TensorFlow & Keras](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/convolutional_neural_networks/cnn_application_tf_keras.md)
   - [CNNs Application with PyTorch](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/convolutional_neural_networks/cnn_pytorch.md)
