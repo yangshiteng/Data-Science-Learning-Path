@@ -1,8 +1,8 @@
-## III. Recurrent Neural Networks (RNNs)
-- **Introduction to Recurrent Neural Networks**
+# Introduction to Recurrent Neural Networks
   - [What are RNNs?](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/recurrent_neural_networks/what_are_rnns.md)
   - [Applications of RNNs](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/recurrent_neural_networks/rnns_application.md)
-- **Basic RNN Architecture (Vanilla RNN)**
+    
+# Basic RNN Architecture (Vanilla RNN)
   - [Basic RNN Architecture (Vanilla RNN)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/recurrent_neural_networks/basic_rnn_architecture.md)
   - [Recurrent Connections & Hidden States](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/recurrent_neural_networks/recurrent_connection_hidden_state.md)
   - [Forward Propagation in RNNs](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/recurrent_neural_networks/rnn_forward_prop.md)
@@ -10,7 +10,8 @@
   - [The Vanishing Gradient Problem](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/recurrent_neural_networks/vanishing_gradient.md)
   - [The Exploding Gradient Problem](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/recurrent_neural_networks/exploding_gradient.md)
   - [Short-term memory Problem](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/recurrent_neural_networks/short_term_memory.md)
-- **Building and Training RNNs**
+    
+# Building and Training RNNs
   - [Overview of RNNs Training](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/recurrent_neural_networks/rnn_training_overview.md)
   - [Loss Functions for Sequential Tasks](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/recurrent_neural_networks/rnn_loss_function.md)
     - [CTC Loss](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/recurrent_neural_networks/ctc_loss.md)
@@ -21,12 +22,14 @@
   - [Weight Initialization Strategies](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/recurrent_neural_networks/weight_init.md)
   - [Optimizers for RNNs (SGD, Adam, RMSprop)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/recurrent_neural_networks/rnn_optimizer.md)
   - [Regularization Techniques (Dropout, Zoneout)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/recurrent_neural_networks/regularization_rnns.md)
-- **Variants of RNN Cells**
+  
+# Variants of RNN Cells
   - [Long Short-Term Memory (LSTM)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/recurrent_neural_networks/lstm.md)
   - [Gated Recurrent Units (GRUs)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/recurrent_neural_networks/gru.md)
   - [Vanilla RNN vs LSTM vs GRU](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/recurrent_neural_networks/vanilla_vs_lstm_vs_gru.md)
   - [Other Variants](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/recurrent_neural_networks/other_variants.md)
-- **Architectures Built on Top of RNNs**
+    
+# Architectures Built on Top of RNNs
   - [Stacked (Deep) RNNs](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/recurrent_neural_networks/stacked_rnn.md)
   - [Bidirectional RNNs](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/recurrent_neural_networks/bidirectional_rnn.md)
   - [Hierarchical RNNs](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/recurrent_neural_networks/hierarchical_rnn.md)
@@ -35,7 +38,8 @@
   - [Pointer Networks](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/recurrent_neural_networks/pointer_network.md)
   - [Recurrent Attention Models (RAM)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/recurrent_neural_networks/ram.md)
   - [Memory-Augmented RNNs (NTM, DNC)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/recurrent_neural_networks/manns.md)
-- **Applications of RNNs**
+
+# Applications of RNNs
   - **Natural Language Processing (NLP)**
     - [Text Generation]()
     - [Machine Translation]()
@@ -74,16 +78,13 @@
     - [Music Composition]()
     - [Game Behavior Modeling]()
 
-- **Evaluation of RNN Models**
+# Evaluation of RNN Models
   - [Evaluation of Language Modeling](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/recurrent_neural_networks/perplexity_rnns.md)
   - [Evaluation of Sequence-to-Sequence Tasks]()
   - [Evaluation of Sequence Classification]()
   - [Evaluation of Sequence Labeling / Tagging]()
   - [Evaluation of Time Series Forecasting]()
-- **Implementing RNNs in Practice**
+    
+# Implementing RNNs in Practice**
   - [RNNs Implementation with TensorFlow & Keras]()
   - [RNNs Implementation with PyTorch]()
-- **Beyond RNNs: Modern Alternatives**
-  - [Self-Attention and Transformers]()
-  - [Why Transformers Outperform RNNs]()
-  - [Transitioning from RNNs to Transformer-based Models]()
