@@ -71,6 +71,66 @@ This ability to remember and process sequential patterns makes RNNs powerful too
 
 ---
 
+### 📄 **Raw Text Example**
+
+Let’s say our source text is:
+
+> **"hello world"**
+
+#### 🔁 **Step: Create Input–Target Sequences**
+
+Assume we want to use **sequences of 5 characters** to predict the **next character**. Here’s how we split it:
+
+| Input Sequence | Target (Next Character) |
+| -------------- | ----------------------- |
+| `"hello"`      | `" "` (space)           |
+| `"ello "`      | `"w"`                   |
+| `"llo w"`      | `"o"`                   |
+| `"lo wo"`      | `"r"`                   |
+| `"o wor"`      | `"l"`                   |
+| `" worl"`      | `"d"`                   |
+
+Each **input** is a short snippet of characters (length = 5), and the **target** is the character that immediately follows.
+
+#### 🔡 **Character Set (Vocabulary)**
+
+From this text, the set of unique characters (vocabulary) is:
+
+```python
+[' ', 'd', 'e', 'h', 'l', 'o', 'r', 'w']
+```
+
+So each character is assigned an index:
+
+* `' '` → 0
+* `'d'` → 1
+* `'e'` → 2
+* `'h'` → 3
+* `'l'` → 4
+* `'o'` → 5
+* `'r'` → 6
+* `'w'` → 7
+
+#### 🔢 **Numerical Representation (Optional)**
+
+Using these indices, we convert the sequences:
+
+| Text Input | Encoded Input    | Target Char | Target Index |
+| ---------- | ---------------- | ----------- | ------------ |
+| `"hello"`  | \[3, 2, 4, 4, 5] | `' '`       | 0            |
+| `"ello "`  | \[2, 4, 4, 5, 0] | `'w'`       | 7            |
+| ...        | ...              | ...         | ...          |
+
+(We often one-hot encode these numbers during training.)
+
+#### 🧠 **What the Model Learns**
+
+* The model learns that `"hello"` is likely followed by a space.
+* `" worl"` is often followed by `"d"`, etc.
+* With enough examples, the model learns language patterns and can begin to **generate coherent sequences**.
+
+---
+
 ### 🧱 **Architecture Components**
 
 * **Embedding Layer** (optional): Converts input words into dense vector representations.
