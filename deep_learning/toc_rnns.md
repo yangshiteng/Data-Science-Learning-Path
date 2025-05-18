@@ -42,7 +42,7 @@
 # Applications of RNNs
   - [Text Generation](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/recurrent_neural_networks/text_generation.md)
   - [Machine Translation](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/recurrent_neural_networks/machine_translation.md)
-  - [Speech Recognition]()
+  - [Speech Recognition](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/recurrent_neural_networks/speech_recognition.md)
   - [Text Prediction & Autocomplete]()
   - [Sentiment Analysis]()
   - [Music and Audio Generation]()
