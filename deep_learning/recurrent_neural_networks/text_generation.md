@@ -226,6 +226,67 @@ Each time step has one-hot encoded character vectors.
 
 ---
 
+### 📄 **Example Scenario**
+
+Let’s say you trained a character-level text generation model on a dataset of **Shakespeare-style text**.
+
+You give the model a seed string to start:
+
+> **Seed input**: `"to be or not "`
+
+The model generates **one character at a time**, based on the probability distribution it has learned.
+
+---
+
+#### 🧠 **What the Model Outputs at Each Step**
+
+After processing the input sequence, the model outputs a **probability distribution** over all characters in the vocabulary.
+
+For example:
+
+##### Step 1: Predict next character after `"to be or not "`
+
+The model might output something like:
+
+| Character | Probability |
+| --------- | ----------- |
+| `'t'`     | 0.30        |
+| `'h'`     | 0.15        |
+| `'s'`     | 0.10        |
+| `'a'`     | 0.08        |
+| ...       | ...         |
+
+The model **samples** or **selects** the next character — say it chooses `'t'`.
+
+Now the sequence becomes:
+
+> `"to be or not t"`
+
+Repeat this process to generate more characters.
+
+---
+
+#### ✍️ **Final Output (Example Generated Text)**
+
+If you generate 100 characters starting from `"to be or not "`, the model might output something like:
+
+> **"to be or not to the king, and the love of thee shall be thine own self."**
+
+Note: This is **not copied** from any exact training text — it’s a **new sequence**, formed by the model based on learned patterns.
+
+---
+
+#### 🔄 **Summary of What the Output Is**
+
+| Item             | Description                                               |
+| ---------------- | --------------------------------------------------------- |
+| **Input**        | A seed string (e.g., `"to be or not "`)                   |
+| **Model Output** | Next character probabilities                              |
+| **Prediction**   | A chosen character (based on sampling or max probability) |
+| **Final Output** | A full generated string                                   |
+
+---
+
 ### 🧱 **Architecture Components**
 
 * **Embedding Layer** (optional): Converts input words into dense vector representations.
