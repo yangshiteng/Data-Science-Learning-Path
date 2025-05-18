@@ -40,32 +40,16 @@
   - [Memory-Augmented RNNs (NTM, DNC)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/recurrent_neural_networks/manns.md)
 
 # Applications of RNNs
-  - **Natural Language Processing (NLP)**
-    - [Text Generation](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/recurrent_neural_networks/text_generation.md)
-    - [Machine Translation](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/recurrent_neural_networks/machine_translation.md)
-    - [Speech Recognition (ASR)]()
-    - [Part-of-Speech Tagging]()
-    - [Named Entity Recognition (NER)]()
-    - [Sentiment Analysis]()
-    - [Question Answering]()
-    - [Text Summarization]()
-    - [Spelling and Grammar Correction]()
-    - [Text Autocompletion / Predictive Typing]()
-    - [Chatbots and Conversational Agents]()
-  - **Speech and Audio Processing**
-    - [Text-to-Speech (TTS)]()
-    - [Speaker Identification]()
-    - [Voice Activity Detection]()
-    - [Emotion Detection from Speech]()
-    - [Music Generation]()
-  - **Time Series and Signal Processing**
-    - [Stock Market Prediction]()
-    - [Weather Forecasting]()
-    - [Sensor Data Analysis]()
-  - **Creative and Multimedia**
-    - [Video Frame Prediction]()
-    - [Music Composition]()
-    - [Game Behavior Modeling]()
+  - [Text Generation](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/recurrent_neural_networks/text_generation.md)
+  - [Machine Translation](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/recurrent_neural_networks/machine_translation.md)
+  - [Speech Recognition]()
+  - [Text Prediction & Autocomplete]()
+  - [Sentiment Analysis]()
+  - [Music and Audio Generation]()
+  - [Time Series Forecasting]()
+  - [Healthcare Monitoring]()
+  - [Robot Control & Motion Prediction]()
+  - [Video Captioning and Frame Prediction]()
 
 # Evaluation of RNN Models
   - [Evaluation of Language Modeling](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/recurrent_neural_networks/perplexity_rnns.md)
