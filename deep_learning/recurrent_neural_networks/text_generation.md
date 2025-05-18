@@ -1,7 +1,5 @@
 ## 📝 **Text Generation Using RNNs**
 
-![image](https://github.com/user-attachments/assets/3d81baa4-7724-40e6-a842-52727c36c795)
-
 ### 🔍 **What Is Text Generation?**
 
 **Text generation** is the process of producing human-like text by predicting and generating a sequence of words (or characters), one after the other. It requires understanding and maintaining the structure, grammar, and meaning of a language over time — making it a perfect match for **Recurrent Neural Networks (RNNs)**.
@@ -68,6 +66,8 @@ This ability to remember and process sequential patterns makes RNNs powerful too
   3. That prediction is added to the input, and the sequence moves forward.
   4. The process repeats to produce a long string of new text.
 * You can control how creative or random the generation is using **sampling techniques** (like adjusting temperature).
+
+![image](https://github.com/user-attachments/assets/3d81baa4-7724-40e6-a842-52727c36c795)
 
 ---
 
