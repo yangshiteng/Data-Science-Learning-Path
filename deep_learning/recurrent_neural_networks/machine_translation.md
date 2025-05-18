@@ -205,6 +205,81 @@ During training, the model learns word alignment and translation patterns.
 
 ---
 
+## 🧠 **What Is Teacher Forcing?**
+
+**Teacher forcing** is a training technique where the model, during training, is given the **true output (ground truth)** from the previous time step **instead of using its own prediction**.
+
+This helps the model learn **faster** and more **accurately**, especially early in training.
+
+---
+
+### 🔁 **Why Use Teacher Forcing?**
+
+Without teacher forcing, errors in early predictions can **accumulate**, making the sequence collapse during training. Teacher forcing ensures the model stays on the right track while learning.
+
+---
+
+### ✍️ **Simple Example: English to French Translation**
+
+Let’s say we’re training a Seq2Seq model to translate:
+
+> **Input (English):** `"i love you"`
+> **Target (French):** `"je t'aime"`
+
+The target sequence during training will include:
+
+> `[<start>, je, t', aime, <end>]`
+
+---
+
+#### 🔧 **How Teacher Forcing Works**
+
+At **training time**, here’s what happens:
+
+| Time Step | Decoder Input              | Expected Output |
+| --------- | -------------------------- | --------------- |
+| t=1       | `<start>` (given)          | `je`            |
+| t=2       | `je` (from ground truth)   | `t'`            |
+| t=3       | `t'` (from ground truth)   | `aime`          |
+| t=4       | `aime` (from ground truth) | `<end>`         |
+
+> 🔁 At each step, the **true previous word** is fed in — not the model's guess.
+
+---
+
+#### 🧪 **Without Teacher Forcing (during inference or testing)**
+
+The model uses its **own previous predictions** as inputs:
+
+| Time Step | Decoder Input        | Predicted Output |
+| --------- | -------------------- | ---------------- |
+| t=1       | `<start>`            | `je` (hopefully) |
+| t=2       | `je` (model’s guess) | `t'`             |
+| t=3       | `t'` (model’s guess) | `aime`           |
+| ...       | ...                  | ...              |
+
+If a wrong prediction happens early, future predictions may also fail.
+
+---
+
+### 🧩 **Summary**
+
+| Aspect           | With Teacher Forcing                                                    | Without Teacher Forcing    |
+| ---------------- | ----------------------------------------------------------------------- | -------------------------- |
+| Input to decoder | Ground truth word from previous step                                    | Model’s own predicted word |
+| Used during      | Training                                                                | Inference/testing          |
+| Advantage        | Faster and more stable learning                                         | Needed for real-world use  |
+| Disadvantage     | Creates a gap between training and inference (called **exposure bias**) |                            |
+
+---
+
+### ✅ Conclusion
+
+* Teacher forcing is like **holding the model's hand during training** — showing it exactly what to do.
+* During testing or generation, the model must **go solo**, predicting each word on its own.
+
+---
+
 ## 🧾 **Evaluation Metrics**
 
 | Metric               | Description                                               |
