@@ -131,6 +131,101 @@ Using these indices, we convert the sequences:
 
 ---
 
+### 🎯 **One-Hot Encoding**
+
+#### 📄 **Original Example Recap**
+
+Raw text:
+
+> `"hello world"`
+
+Sequence length = **5**
+
+We generate input–target pairs like:
+
+| Input Sequence | Target |
+| -------------- | ------ |
+| `"hello"`      | `" "`  |
+
+---
+
+#### 🔠 **Character Vocabulary**
+
+From `"hello world"`, we extract all unique characters:
+
+```text
+[' ', 'd', 'e', 'h', 'l', 'o', 'r', 'w']
+```
+
+Each character is assigned an index:
+
+| Character | Index |
+| --------- | ----- |
+| `' '`     | 0     |
+| `'d'`     | 1     |
+| `'e'`     | 2     |
+| `'h'`     | 3     |
+| `'l'`     | 4     |
+| `'o'`     | 5     |
+| `'r'`     | 6     |
+| `'w'`     | 7     |
+
+---
+
+#### 🎯 **One-Hot Encoding Basics**
+
+* **One-hot encoding** turns each character into a binary vector of length 8 (size of vocabulary).
+* The vector contains all 0s **except for a 1** in the position of the character’s index.
+
+---
+
+#### 🧪 **Example: One Input–Target Pair**
+
+Let’s use:
+
+* **Input**: `"hello"`
+* **Target**: `' '`
+
+##### Step 1: Convert to indices
+
+* `"h"` → 3
+* `"e"` → 2
+* `"l"` → 4
+* `"l"` → 4
+* `"o"` → 5
+* `' '` → 0 (target)
+
+---
+
+##### Step 2: One-Hot Encode the Input
+
+| Character | Index | One-Hot Vector            |
+| --------- | ----- | ------------------------- |
+| `h`       | 3     | \[0, 0, 0, 1, 0, 0, 0, 0] |
+| `e`       | 2     | \[0, 0, 1, 0, 0, 0, 0, 0] |
+| `l`       | 4     | \[0, 0, 0, 0, 1, 0, 0, 0] |
+| `l`       | 4     | \[0, 0, 0, 0, 1, 0, 0, 0] |
+| `o`       | 5     | \[0, 0, 0, 0, 0, 1, 0, 0] |
+
+##### Step 3: One-Hot Encode the Target
+
+* `' '` (space) → index 0
+* One-hot: **\[1, 0, 0, 0, 0, 0, 0, 0]**
+
+---
+
+#### 🧩 Final Representation (as 3D input tensor)
+
+For a single input sequence (`"hello"`), the **input shape** to the model would be:
+
+```
+(1 sequence, 5 time steps, 8 features) → (1, 5, 8)
+```
+
+Each time step has one-hot encoded character vectors.
+
+---
+
 ### 🧱 **Architecture Components**
 
 * **Embedding Layer** (optional): Converts input words into dense vector representations.
