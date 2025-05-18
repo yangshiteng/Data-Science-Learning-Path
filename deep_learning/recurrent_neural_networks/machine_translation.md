@@ -65,6 +65,99 @@ Example (output):
 
 ---
 
+## 📚 **What Does the Dataset Look Like?**
+
+The training dataset for machine translation consists of **sentence pairs**:
+
+* One sentence in the **source language** (e.g., English)
+* Its corresponding translation in the **target language** (e.g., French)
+
+Each pair provides a **supervised learning signal**: the model should learn to generate the target sentence from the source sentence.
+
+---
+
+### 🧾 **Example Dataset (English → French)**
+
+| Source Sentence (Input) | Target Sentence (Output)  |
+| ----------------------- | ------------------------- |
+| "hello"                 | "bonjour"                 |
+| "how are you?"          | "comment ça va ?"         |
+| "i love you"            | "je t'aime"               |
+| "what is your name?"    | "comment tu t'appelles ?" |
+| "good morning"          | "bonjour"                 |
+| "thank you"             | "merci"                   |
+
+---
+
+### 🧠 **How This Is Used in Training**
+
+For each pair:
+
+#### Encoder Input:
+
+* `"i love you"` → tokenized (e.g., `["i", "love", "you"]`)
+* Converted to word embeddings or one-hot vectors
+* Fed into the **encoder RNN**, which produces a context vector
+
+#### Decoder Output (Target):
+
+* `"je t'aime"` → processed as `["<start>", "je", "t'", "aime", "<end>"]`
+* The decoder is trained to **predict each word**, given the previous ones + the context vector
+
+---
+
+### 🔁 **Preprocessing Steps Typically Include:**
+
+1. **Tokenization**:
+
+   * Splitting sentences into words or subword units (like BPE or WordPiece).
+2. **Vocabulary Building**:
+
+   * Creating a mapping from words to numerical indices.
+3. **Padding**:
+
+   * Ensuring all sequences in a batch have the same length.
+4. **Special Tokens**:
+
+   * `<start>`, `<end>`, and `<pad>` tokens for decoder input/output.
+
+---
+
+### 📄 **Numerical Representation Example**
+
+Let’s assume a small vocabulary for simplicity:
+
+* English: {"i": 1, "love": 2, "you": 3}
+* French: {"<start>": 0, "je": 1, "t'": 2, "aime": 3, "<end>": 4}
+
+Then the sentence pair:
+
+* **Input** (source): `[1, 2, 3]` → "i love you"
+* **Target** (output): `[0, 1, 2, 3, 4]` → "<start> je t' aime <end>"
+
+The decoder is trained to predict:
+
+| Decoder Input        | Target Prediction |
+| -------------------- | ----------------- |
+| `<start>`            | `je`              |
+| `<start> je`         | `t'`              |
+| `<start> je t'`      | `aime`            |
+| `<start> je t' aime` | `<end>`           |
+
+---
+
+### ✅ Summary
+
+| Element      | Description                                                  |
+| ------------ | ------------------------------------------------------------ |
+| **Source**   | Sentences in input language (e.g., English)                  |
+| **Target**   | Corresponding translations in output language (e.g., French) |
+| **Used For** | Supervised training of encoder–decoder RNNs                  |
+| **Format**   | Sentence pairs (tokenized, indexed, padded)                  |
+| **Goal**     | Teach the model to translate source → target                 |
+
+---
+
 ## 🔍 **Challenges of Basic Seq2Seq (RNN) Models**
 
 1. **Fixed-size bottleneck**: The context vector may not capture all input information, especially for long sentences.
