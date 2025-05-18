@@ -30,6 +30,10 @@ The most common RNN architecture for machine translation is called the **Sequenc
 | **Encoder** | Reads the source sentence and encodes it into a fixed-size context vector.      |
 | **Decoder** | Takes the context vector and generates the target sentence one token at a time. |
 
+![image](https://github.com/user-attachments/assets/1cca243c-b501-465b-af38-efc32cdb5fe3)
+
+![image](https://github.com/user-attachments/assets/97c5a58f-a0a1-4cb5-a15b-3ed0cc5697e0)
+
 ---
 
 ### 📥 **1. Encoder RNN**
