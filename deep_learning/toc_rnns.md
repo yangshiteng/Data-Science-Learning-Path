@@ -42,7 +42,7 @@
 # Applications of RNNs
   - **Natural Language Processing (NLP)**
     - [Text Generation](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/recurrent_neural_networks/text_generation.md)
-    - [Machine Translation]()
+    - [Machine Translation](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/recurrent_neural_networks/machine_translation.md)
     - [Speech Recognition (ASR)]()
     - [Part-of-Speech Tagging]()
     - [Named Entity Recognition (NER)]()
