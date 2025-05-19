@@ -2,6 +2,8 @@
 
 **Sentiment Analysis** is the task of identifying the **emotional tone or opinion** expressed in a piece of text.
 
+![image](https://github.com/user-attachments/assets/bd03b77b-7213-49d7-bcbb-6f1aaa6c66ea)
+
 ### 🎯 Objective:
 
 Classify a sentence, paragraph, or document into **sentiment categories**, such as:
