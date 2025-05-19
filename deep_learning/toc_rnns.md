@@ -44,7 +44,7 @@
   - [Machine Translation](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/recurrent_neural_networks/machine_translation.md)
   - [Speech Recognition](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/recurrent_neural_networks/speech_recognition.md)
   - [Text Prediction & Autocomplete](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/recurrent_neural_networks/text_prediction.md)
-  - [Sentiment Analysis]()
+  - [Sentiment Analysis](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/recurrent_neural_networks/sentiment_analysis.md)
   - [Music and Audio Generation]()
   - [Time Series Forecasting]()
   - [Healthcare Monitoring]()
