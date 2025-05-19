@@ -80,27 +80,119 @@ Users can:
 
 ## 🧠 **Training the RNN Model**
 
-To train such a system, we use a **language modeling setup**:
+Train an RNN to **predict the next word** given a sequence of previous words — like `"I want to"` → predict: `"eat"`.
 
-### Training Data:
+This is the core idea behind autocomplete and predictive typing systems.
 
-* Sentences from a large corpus (e.g., emails, articles, messages)
+---
 
-### Input–Target Pairs:
+### 📚 **Step 1: Training Dataset (Simple Example)**
 
-For sentence: `"I would like to eat pizza"`
+Let’s use a **very small dataset** with just 3 example sentences:
 
-We create:
+```
+1. I want to eat
+2. I want to sleep
+3. I like pizza
+```
 
-* Input: `"I"` → Target: `"would"`
-* Input: `"I would"` → Target: `"like"`
-* ...
-* Input: `"I would like to"` → Target: `"eat"`
+#### 🔁 Convert Sentences into Input–Target Pairs
 
-### Loss:
+For training, we split each sentence into:
 
-* **Cross-entropy loss** is used to compare the predicted word with the correct one.
-* Optimizer (e.g., Adam) updates the model based on this loss.
+* **Input sequence (context)**: previous words
+* **Target word**: next word to predict
+
+| Input Text  | Target  |
+| ----------- | ------- |
+| "I"         | "want"  |
+| "I want"    | "to"    |
+| "I want to" | "eat"   |
+| "I want to" | "sleep" |
+| "I like"    | "pizza" |
+
+Note: The input length is often fixed (e.g., 2 or 3 words), and the model learns to predict the next word.
+
+---
+
+### 🧱 **Step 2: Preprocessing for the Model**
+
+#### 🔹 Tokenization
+
+We assign each word a unique index:
+
+| Word    | Index |
+| ------- | ----- |
+| "I"     | 1     |
+| "want"  | 2     |
+| "to"    | 3     |
+| "eat"   | 4     |
+| "sleep" | 5     |
+| "like"  | 6     |
+| "pizza" | 7     |
+
+So, `"I want to"` → `[1, 2, 3]`
+
+---
+
+### 🧠 **Step 3: RNN Training Process**
+
+#### 🔹 Input
+
+The model receives sequences of word indices (or their embeddings).
+
+#### 🔹 Model Structure
+
+* **Embedding layer**: Translates word indices to dense vectors.
+* **RNN/LSTM layer**: Processes the sequence step-by-step and maintains context.
+* **Dense + Softmax layer**: Predicts a probability distribution over the vocabulary for the **next word**.
+
+#### 🔹 Training Step
+
+For each input–target pair:
+
+1. The input sequence (e.g., `"I want to"`) is passed through the model.
+2. The model predicts the **next word**.
+3. It compares the prediction to the actual target (e.g., `"eat"`).
+4. It calculates the **loss** (usually categorical cross-entropy).
+5. It updates the model weights via **backpropagation**.
+
+---
+
+### 🧪 **Example Training Instance**
+
+* Input: `"I want to"` → `[1, 2, 3]`
+* Target: `"eat"` → index `4`
+
+The model outputs a prediction like this:
+
+| Word    | Probability |
+| ------- | ----------- |
+| "eat"   | 0.60        |
+| "sleep" | 0.30        |
+| "pizza" | 0.10        |
+
+Since the true answer is `"eat"` (index `4`), the loss is computed between this distribution and the target, and the model learns to **increase the probability for the correct word**.
+
+---
+
+### 🔄 **Repeat Across Dataset**
+
+This process is repeated over **thousands to millions of sentence pairs**, allowing the model to learn language patterns and generate accurate predictions over time.
+
+---
+
+### ✅ **Summary**
+
+| Step              | What Happens                                           |
+| ----------------- | ------------------------------------------------------ |
+| **Dataset**       | Sentences split into input–target pairs                |
+| **Preprocessing** | Tokenize and convert words to numbers                  |
+| **Input**         | Sequence of words (e.g., `"I want to"`)                |
+| **Target**        | Next word (e.g., `"eat"`)                              |
+| **Model**         | RNN/LSTM + Softmax                                     |
+| **Training**      | Predict next word, compare with target, update weights |
+| **Goal**          | Minimize error in next-word prediction                 |
 
 ---
 
