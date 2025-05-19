@@ -1,5 +1,7 @@
 ## 🗣️ **What Is Speech Recognition?**
 
+![image](https://github.com/user-attachments/assets/aa6c26d5-2cad-43fb-a449-67ccecf4e91d)
+
 **Speech recognition** (or **Automatic Speech Recognition – ASR**) is the task of converting **spoken language** (audio) into **written text**.
 
 ### 🔍 Example:
