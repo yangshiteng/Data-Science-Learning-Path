@@ -1,5 +1,7 @@
 ## ✨ **What is Text Prediction & Autocomplete?**
 
+![image](https://github.com/user-attachments/assets/0fb0aba0-e12d-427f-a354-5dd1f2fc1ef2)
+
 **Text prediction** and **autocomplete** are features that **suggest the next word or phrase** as a user types. They're common in:
 
 * Smartphone keyboards (e.g., Gboard, SwiftKey)
