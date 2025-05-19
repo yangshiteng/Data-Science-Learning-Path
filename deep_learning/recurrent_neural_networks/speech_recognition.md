@@ -142,7 +142,8 @@ This gives you a **2D time series** input (like an image but over time).
 * Break the transcription into individual **characters** (or sometimes phonemes or words).
 
 > `"hello"` → `['h', 'e', 'l', 'l', 'o']` → encoded as numeric indices
-> These become the output targets for training
+
+* These become the output targets for training
 
 ---
 
