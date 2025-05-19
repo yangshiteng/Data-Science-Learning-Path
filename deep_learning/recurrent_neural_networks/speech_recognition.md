@@ -111,9 +111,13 @@ Each training example includes:
 
 #### Example:
 
-| Audio                  | Transcription |
-| ---------------------- | ------------- |
-| 📈 waveform of "hello" | `"hello"`     |
+| Audio File      | Transcript       |
+| --------------- | ---------------- |
+| `audio_001.wav` | `"hello"`        |
+| `audio_002.wav` | `"how are you"`  |
+| `audio_003.wav` | `"i love pizza"` |
+| `audio_004.wav` | `"thank you"`    |
+| `audio_005.wav` | `"good morning"` |
 
 ---
 
@@ -137,7 +141,8 @@ This gives you a **2D time series** input (like an image but over time).
 
 * Break the transcription into individual **characters** (or sometimes phonemes or words).
 
-> `"hello"` → `['h', 'e', 'l', 'l', 'o']`
+> `"hello"` → `['h', 'e', 'l', 'l', 'o']` → encoded as numeric indices
+> These become the output targets for training
 
 ---
 
