@@ -1,5 +1,9 @@
 ## 🎵 **What Is Music and Audio Generation?**
 
+![image](https://github.com/user-attachments/assets/7d654d10-d945-4d2b-8f43-929e2068e278)
+
+![image](https://github.com/user-attachments/assets/da366b00-69fe-40fd-a791-3cb0734f56da)
+
 **Music generation** refers to the use of AI models to **compose melodies, harmonies, rhythms, or entire pieces of music**. Similarly, **audio generation** involves creating raw sound waves or symbolic sequences like notes or frequencies.
 
 The goal is to **train a model to learn musical structure and style** from existing data, and then generate new, coherent sequences that sound musical or meaningful.
