@@ -43,7 +43,6 @@
   - [Language Modeling](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/recurrent_neural_networks/language_modeling.md)
     - [Training Process](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/recurrent_neural_networks/language_modeling_training.md)
     - [Code Implementation (TensorFlow/Keras)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/recurrent_neural_networks/language_modeling_code.md)
-    - [Sampling in Language Models](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/recurrent_neural_networks/language_model_sampling_method.md)
   - [Text Summarization](https://github.com/yangshiteng/Data-Science-Learning-Path/new/main/deep_learning/recurrent_neural_networks)
     - [Training Process]()
     - [Code Implementation (TensorFlow/Keras)]()
