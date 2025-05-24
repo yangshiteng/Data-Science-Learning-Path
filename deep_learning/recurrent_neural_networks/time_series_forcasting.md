@@ -1,5 +1,7 @@
 # 📈 **Time Series Forecasting with RNNs**
 
+![image](https://github.com/user-attachments/assets/a86acf68-21ce-48e8-be8f-67aa6ea418e9)
+
 **Time series forecasting** is the task of predicting future values based on previously observed data points over time. This type of data appears in many fields — such as stock prices, weather conditions, sales figures, electricity demand, and sensor readings.
 
 Traditional forecasting methods like ARIMA, exponential smoothing, or Holt-Winters work well for simple, linear relationships, but they struggle with complex patterns, long-term dependencies, and nonlinear dynamics.
