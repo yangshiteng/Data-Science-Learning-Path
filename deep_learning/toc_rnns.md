@@ -39,39 +39,39 @@
 - [Memory-Augmented RNNs (NTM, DNC)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/recurrent_neural_networks/manns.md)
 
 # Applications of RNNs
-  ## Natural Language Processing (NLP)
+- **Natural Language Processing (NLP)**
   - [Language Modeling]()
   - [Text Summarization]()
   - [Text Generation](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/recurrent_neural_networks/text_generation.md)
   - [Machine Translation](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/recurrent_neural_networks/machine_translation.md)
   - [Speech Recognition](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/recurrent_neural_networks/speech_recognition.md)
   - [Sentiment Analysis](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/recurrent_neural_networks/sentiment_analysis.md)
-  ## Speech and Audio Processing
+- **Speech and Audio Processing**
   - [Music and Audio Generation](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/recurrent_neural_networks/music_generation.md)
   - [Speaker identification]()
   - [Speech synthesis (text-to-speech)]()
-  ## Computer Vision
+- **Computer Vision**
   - [Image Captioning]()
   - [Video Captioning]()
   - [Video frame prediction]()
   - [Action recognition]()
-  ## Time Series Forecasting
+- **Time Series Forecasting**
   - [Stock price prediction]()
   - [Weather forecasting]()
   - [Energy demand forecasting]()
-  ## Healthcare and Biosignal Processing
+- **Healthcare and Biosignal Processing**
   - [Patient monitoring]()
   - [EEG/ECG signal analysis]()
   - [Disease progression modeling]()
-  ## Robotics and Control
+- **Robotics and Control**
   - [Motion prediction]()
   - [Robot control]()
   - [Learning from demonstration]()
-  ## Anomaly Detection
+- **Anomaly Detection**
   - [Network intrusion detection]()
   - [Industrial system monitoring]()
   - [Fraud detection]()
-  ## Dialogue Systems and Chatbots
+- **Dialogue Systems and Chatbots**
   - [Conversational AI]()
   - [Question answering]()
   - [Dialogue generation]()
