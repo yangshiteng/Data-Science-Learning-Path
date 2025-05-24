@@ -41,7 +41,7 @@
 # Applications of RNNs
 - **Natural Language Processing (NLP)**
   - [Language Modeling](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/recurrent_neural_networks/language_modeling.md)
-    - [Training Process]()
+    - [Training Process](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/recurrent_neural_networks/language_modeling_training.md)
     - [Code Implementation](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/recurrent_neural_networks/language_modeling_code.md)
   - [Text Summarization]()
   - [Text Generation](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/recurrent_neural_networks/text_generation.md)
