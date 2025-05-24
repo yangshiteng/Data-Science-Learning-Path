@@ -121,8 +121,6 @@ During training, it learns common word patterns, grammar, and style.
 
 ---
 
----
-
 ## 🚀 **Applications of Language Models**
 
 ✅ **Speech recognition** → Rank likely transcriptions.
@@ -134,7 +132,6 @@ During training, it learns common word patterns, grammar, and style.
 
 ---
 
----
 
 ## ⚠️ **Challenges with RNN Language Models**
 
@@ -167,11 +164,3 @@ While RNNs were foundational, recent models like **Transformers** (used in BERT,
 | Loss function   | Cross-entropy on next-token prediction                         |
 | Key uses        | Text generation, speech recognition, translation, autocomplete |
 | Main limitation | Handling long-term dependencies and large vocabularies         |
-
----
-
-If you’d like, I can provide:
-✅ **Example Python code (PyTorch or TensorFlow)**
-✅ **Architecture diagrams**
-✅ **Comparison with Transformer models**
-✅ **Links to classic papers like Mikolov et al.’s RNN LM**
