@@ -22,8 +22,6 @@ In practice, you could load larger files (like full songbooks or novels).
 
 ---
 
----
-
 ### 🛠 **Step 2: Tokenize the text**
 
 ```python
@@ -41,8 +39,6 @@ total_words = len(tokenizer.word_index) + 1  # +1 for padding
   * “baby” → 2
   * “now” → 3
 * We calculate the **vocabulary size** (`total_words`) — this will be used for the embedding layer and the output layer.
-
----
 
 ---
 
@@ -72,8 +68,6 @@ We now have a list of **growing sequences** ready for training.
 
 ---
 
----
-
 ### 🧩 **Step 4: Pad the sequences**
 
 ```python
@@ -92,8 +86,6 @@ Example:
 | ------------ | ------------- |
 | \[1, 2]      | \[0, 0, 1, 2] |
 | \[1, 2, 3]   | \[0, 1, 2, 3] |
-
----
 
 ---
 
@@ -117,8 +109,6 @@ Example:
 | ------------- | ----------- |
 | \[0, 0, 1, 2] | 3 (→ “now”) |
 | \[0, 1, 2, 3] | 4 (→ “we”)  |
-
----
 
 ---
 
@@ -150,8 +140,6 @@ We compile the model with:
 
 ---
 
----
-
 ### 🏋️ **Step 7: Train the model**
 
 ```python
@@ -166,8 +154,6 @@ history = model.fit(X, y, epochs=200, verbose=1)
   * It processes the full dataset.
   * It updates weights to minimize prediction error.
   * It outputs training accuracy and loss.
-
----
 
 ---
 
@@ -210,15 +196,11 @@ cause baby now we got bad blood you know it used
 
 ---
 
----
-
 ### 🚀 **Optional Extensions**
 
 * Use **beam search** instead of greedy sampling.
 * Add **temperature scaling** to control randomness.
 * Train on a **much larger dataset** (e.g., full lyrics, books, movie scripts).
-
----
 
 ---
 
