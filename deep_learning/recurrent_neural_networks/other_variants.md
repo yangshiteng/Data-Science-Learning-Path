@@ -19,7 +19,7 @@
 * Each neuron has **its own recurrence**, i.e., the hidden state update is **element-wise**, not matrix-based.
 * Enables deeper RNNs and better gradient flow.
 
-#### Key idea:
+Key idea:
 
 $$
 h_t^{(i)} = \sigma(W x_t + u^{(i)} h_{t-1}^{(i)})
