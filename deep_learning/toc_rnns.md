@@ -46,6 +46,8 @@
   - [Machine Translation](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/recurrent_neural_networks/machine_translation.md)
   - [Speech Recognition](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/recurrent_neural_networks/speech_recognition.md)
   - [Sentiment Analysis](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/recurrent_neural_networks/sentiment_analysis.md)
+  - [Spelling/Grammar Correction]()
+  - [Autocompletion (Suggest next words or sentences)]
 - **Speech and Audio Processing**
   - [Music and Audio Generation](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/recurrent_neural_networks/music_generation.md)
   - [Speaker identification]()
