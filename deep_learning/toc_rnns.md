@@ -47,7 +47,7 @@
   - [Sentiment Analysis](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/recurrent_neural_networks/sentiment_analysis.md)
   - [Music and Audio Generation](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/recurrent_neural_networks/music_generation.md)
   - [Time Series Forecasting](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/recurrent_neural_networks/time_series_forcasting.md)
-  - [Healthcare Monitoring]()
+  - [Healthcare Monitoring](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/recurrent_neural_networks/healthcare_monitoring.md)
   - [Robot Control & Motion Prediction]()
   - [Video Captioning and Frame Prediction]()
     
