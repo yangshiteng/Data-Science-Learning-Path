@@ -43,13 +43,14 @@
   - [Language Modeling](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/recurrent_neural_networks/language_modeling.md)
     - [Training Process](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/recurrent_neural_networks/language_modeling_training.md)
     - [Code Implementation](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/recurrent_neural_networks/language_modeling_code.md)
+    - [Sampling in Language Models]()
   - [Text Summarization]()
   - [Text Generation](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/recurrent_neural_networks/text_generation.md)
   - [Machine Translation](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/recurrent_neural_networks/machine_translation.md)
   - [Speech Recognition](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/recurrent_neural_networks/speech_recognition.md)
   - [Sentiment Analysis](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/recurrent_neural_networks/sentiment_analysis.md)
   - [Spelling/Grammar Correction]()
-  - [Autocompletion (Suggest next words or sentences)]
+  - [Autocompletion (Suggest next words or sentences)]()
 - **Speech and Audio Processing**
   - [Music and Audio Generation](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/recurrent_neural_networks/music_generation.md)
   - [Speaker identification]()
