@@ -134,10 +134,10 @@ predicted_probs = model.predict(token_list)
 ```
 
 You can:
-✅ Use `np.argmax(predicted_probs)` → greedy sampling.
-✅ Use `np.random.choice(vocab, p=predicted_probs)` → random sampling.
-✅ Limit to top-k → manually zero out others, then rescale and sample.
-✅ Apply temperature → modify `predicted_probs` with the formula above before sampling.
+* ✅ Use `np.argmax(predicted_probs)` → greedy sampling.
+* ✅ Use `np.random.choice(vocab, p=predicted_probs)` → random sampling.
+* ✅ Limit to top-k → manually zero out others, then rescale and sample.
+* ✅ Apply temperature → modify `predicted_probs` with the formula above before sampling.
 
 ---
 
