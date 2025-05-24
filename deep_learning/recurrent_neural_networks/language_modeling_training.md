@@ -208,7 +208,7 @@ As epochs go up, loss typically goes down — the model gets better at predictin
 
 ---
 
-### 🌟 **What is Sampling in Language Models?**
+## 🌟 **What is Sampling in Language Models?**
 
 When your model generates text, it doesn’t directly **write out words** — it produces a **probability distribution** over the entire vocabulary for the next word.
 
@@ -230,7 +230,7 @@ We need a **sampling method** to **choose** which word to pick next from this di
 
 ---
 
-## 🔑 **Common Sampling Methods**
+### 🔑 **Common Sampling Methods**
 
 ---
 
