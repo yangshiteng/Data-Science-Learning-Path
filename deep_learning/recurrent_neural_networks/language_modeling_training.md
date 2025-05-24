@@ -4,8 +4,6 @@ Let’s say you want to train a model on a dataset of song lyrics to **generate 
 
 ---
 
----
-
 ### 📦 **Step 1: Choose Your Dataset**
 
 We need a dataset.
@@ -21,8 +19,6 @@ Example snippet:
 Cause baby now we got bad blood
 You know it used to be mad love
 ```
-
----
 
 ---
 
@@ -73,8 +69,6 @@ This forms our training dataset.
 
 ---
 
----
-
 ### 🧠 **Step 3: Build the RNN Model**
 
 ---
@@ -121,8 +115,6 @@ Input (5 words) → Embedding → LSTM → Dense → Next word probability
 
 ---
 
----
-
 ### 🏋️ **Step 4: Define Loss Function and Optimizer**
 
 ---
@@ -132,8 +124,6 @@ Use **categorical cross-entropy** (comparing predicted vs. actual next word).
 
 ✅ **Optimizer**:
 Use **Adam** or **SGD** for efficient weight updates.
-
----
 
 ---
 
@@ -170,8 +160,6 @@ As epochs go up, loss typically goes down — the model gets better at predictin
 
 ---
 
----
-
 ### 📊 **Step 6: Evaluate the Model**
 
 ---
@@ -183,8 +171,6 @@ As epochs go up, loss typically goes down — the model gets better at predictin
 ✅ **Qualitative check**
 
 * Generate some **sample lyrics** and see if they look coherent.
-
----
 
 ---
 
@@ -211,8 +197,6 @@ As epochs go up, loss typically goes down — the model gets better at predictin
 
 ---
 
----
-
 ### ⚠️ **Step 8: Handle Challenges**
 
 | Challenge                    | Solution                              |
@@ -224,7 +208,6 @@ As epochs go up, loss typically goes down — the model gets better at predictin
 
 ---
 
----
 
 ### ✅ **Summary of Full Training Process**
 
