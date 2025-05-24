@@ -1,5 +1,7 @@
 # 🤖 **Robot Control & Motion Prediction with RNNs**
 
+![image](https://github.com/user-attachments/assets/34a41f92-4115-4bdb-82c5-456cd470c938)
+
 In robotics, controlling a robot’s movement and predicting its future states are crucial for smooth, adaptive, and intelligent behavior. Robots often operate in **dynamic environments**, where they must react to continuous streams of sensory input (like joint positions, velocities, forces, or external signals) and **predict** the consequences of their actions.
 
 Since these are inherently **time-dependent** tasks — where the robot’s current state depends on its past actions and observations — **Recurrent Neural Networks (RNNs)** are well suited.
