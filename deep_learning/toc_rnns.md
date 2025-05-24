@@ -48,7 +48,7 @@
   - [Music and Audio Generation](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/recurrent_neural_networks/music_generation.md)
   - [Time Series Forecasting](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/recurrent_neural_networks/time_series_forcasting.md)
   - [Healthcare Monitoring](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/recurrent_neural_networks/healthcare_monitoring.md)
-  - [Robot Control & Motion Prediction]()
+  - [Robot Control & Motion Prediction](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/recurrent_neural_networks/robot.md)
   - [Video Captioning and Frame Prediction]()
     
 # Implementing RNNs in Practice
