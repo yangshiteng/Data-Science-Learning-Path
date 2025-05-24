@@ -116,18 +116,6 @@ Due to the limitations of simple RNNs, several improved architectures were devel
 
 ---
 
-## ⚙️ Applications of RNNs
-
-| Field            | Use Case                              |
-| ---------------- | ------------------------------------- |
-| Natural Language | Machine translation, text generation  |
-| Speech           | Speech-to-text, voice recognition     |
-| Time Series      | Stock prediction, weather forecasting |
-| Music & Video    | Music generation, video captioning    |
-| Healthcare       | Patient monitoring over time          |
-
----
-
 ## ✅ Advantages of RNNs
 
 * Natural fit for **sequential and time-series data**
