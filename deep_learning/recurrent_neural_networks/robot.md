@@ -127,3 +127,116 @@ While simple RNNs work for short-term dependencies, robot tasks often require re
 * Using **hierarchical RNNs** for multi-level planning and control.
 * Integrating **RNNs with attention mechanisms** to focus on the most relevant parts of the sensory history.
 * Applying **differentiable physics models** alongside RNNs for hybrid learning.
+
+---
+
+# 🤖 **Example: Predicting a Robot Arm’s Next Joint Position**
+
+Imagine we have a **robotic arm** that moves in a smooth trajectory, and we want to predict the next joint position based on the past 5 time steps.
+
+---
+
+## 🏗 **Step 1: Prepare the Data**
+
+We collect a dataset like this:
+
+| Time Step | Joint Position |
+| --------- | -------------- |
+| t₁        | 30°            |
+| t₂        | 32°            |
+| t₃        | 35°            |
+| t₄        | 37°            |
+| t₅        | 40°            |
+| t₆        | 42°            |
+| ...       | ...            |
+
+We slice this into **input-output pairs**:
+
+* Input sequence → \[30°, 32°, 35°, 37°, 40°]
+* Output → 42°
+
+Each training sample consists of:
+✅ Input: past 5 positions
+✅ Target: next position
+
+We generate many such overlapping sequences from the full motion dataset.
+
+---
+
+## 🧠 **Step 2: Build the RNN Model**
+
+We create a simple RNN (or LSTM) model:
+
+* Input layer → receives sequences (shape: batch\_size × sequence\_length × features)
+* RNN layer → processes the temporal sequence and updates hidden state
+* Dense layer → outputs predicted next joint position
+
+For example, in pseudocode:
+
+```python
+model = Sequential()
+model.add(LSTM(32, input_shape=(5, 1)))  # 5 time steps, 1 feature
+model.add(Dense(1))  # Predict next position
+```
+
+---
+
+## 🔧 **Step 3: Define Loss Function and Optimizer**
+
+We use:
+
+* **Loss**: Mean Squared Error (MSE), measuring how close the predicted angle is to the true angle.
+* **Optimizer**: Adam or SGD, to update weights based on gradients.
+
+---
+
+## 🏋️ **Step 4: Train the Model**
+
+We train the model using mini-batches:
+
+1. Feed a batch of input sequences into the RNN.
+2. Compute the predicted next positions.
+3. Calculate the loss (how wrong the predictions are).
+4. Backpropagate through time (BPTT) to compute gradients.
+5. Update the model’s weights using the optimizer.
+
+Pseudocode:
+
+```python
+for epoch in range(num_epochs):
+    for X_batch, y_batch in training_batches:
+        predictions = model(X_batch)
+        loss = mse(predictions, y_batch)
+        loss.backward()  # backpropagation through time
+        optimizer.step()  # update weights
+```
+
+This loop runs for many epochs until the model learns the motion pattern.
+
+---
+
+## 📊 **Step 5: Evaluate the Model**
+
+After training:
+
+* Test on **unseen motion sequences**.
+* Compare predicted vs. actual joint positions.
+* Plot predictions over time to visually check smoothness and accuracy.
+
+---
+
+## ✅ **Summary of Training Process**
+
+| Step             | What Happens                              |
+| ---------------- | ----------------------------------------- |
+| Data prep        | Slice motion data into input–output pairs |
+| Model setup      | Build RNN/LSTM to take sequences as input |
+| Loss & optimizer | Define how to measure and minimize errors |
+| Training loop    | Run forward pass, compute loss, backprop  |
+| Evaluation       | Test model predictions on new data        |
+
+---
+
+## 🌟 **Simple Intuition**
+
+The RNN learns to **map patterns in past motion** to **predict future motion**. For example, if the arm has been accelerating, the model can infer the next position will likely continue that trend.
