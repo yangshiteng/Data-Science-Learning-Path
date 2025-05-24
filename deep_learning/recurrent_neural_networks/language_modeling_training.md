@@ -1,4 +1,4 @@
-### 🌍 **Example: Training an RNN Language Model on Song Lyrics**
+## 🌍 **Example: Training an RNN Language Model on Song Lyrics**
 
 Let’s say you want to train a model on a dataset of song lyrics to **generate new lyrics**.
 
@@ -209,7 +209,7 @@ As epochs go up, loss typically goes down — the model gets better at predictin
 ---
 
 
-### ✅ **Summary of Full Training Process**
+## ✅ **Summary of Full Training Process**
 
 | Step          | Details                                      |
 | ------------- | -------------------------------------------- |
