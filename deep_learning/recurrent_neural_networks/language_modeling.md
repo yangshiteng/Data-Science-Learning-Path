@@ -26,8 +26,8 @@ This predictive ability is **fundamental** to many natural language processing (
 ## 🏗 **Why Use RNNs for Language Modeling?**
 
 Language is inherently **sequential**:
-✅ The meaning of a word depends on the words before it.
-✅ Some dependencies stretch over long spans (e.g., subject-verb agreement).
+* ✅ The meaning of a word depends on the words before it.
+* ✅ Some dependencies stretch over long spans (e.g., subject-verb agreement).
 
 RNNs are designed to handle sequence data by:
 
@@ -115,20 +115,20 @@ During training, it learns common word patterns, grammar, and style.
 
 ## 💡 **Variants**
 
-✅ **Character-level models** → Model sequences at the character level (useful for morphologically rich languages or creative text generation).
-✅ **Bidirectional RNNs** → Incorporate both past and future context (useful for tasks like tagging, though not pure generation).
-✅ **LSTM and GRU models** → Replace simple RNNs to better handle long-term dependencies.
+* ✅ **Character-level models** → Model sequences at the character level (useful for morphologically rich languages or creative text generation).
+* ✅ **Bidirectional RNNs** → Incorporate both past and future context (useful for tasks like tagging, though not pure generation).
+* ✅ **LSTM and GRU models** → Replace simple RNNs to better handle long-term dependencies.
 
 ---
 
 ## 🚀 **Applications of Language Models**
 
-✅ **Speech recognition** → Rank likely transcriptions.
-✅ **Machine translation** → Generate fluent translations.
-✅ **Text generation** → Compose stories, articles, or code.
-✅ **Autocompletion** → Suggest next words or sentences.
-✅ **Spelling/grammar correction** → Predict probable word sequences.
-✅ **Information retrieval** → Improve search ranking using contextual understanding.
+* ✅ **Speech recognition** → Rank likely transcriptions.
+* ✅ **Machine translation** → Generate fluent translations.
+* ✅ **Text generation** → Compose stories, articles, or code.
+* ✅ **Autocompletion** → Suggest next words or sentences.
+* ✅ **Spelling/grammar correction** → Predict probable word sequences.
+* ✅ **Information retrieval** → Improve search ranking using contextual understanding.
 
 ---
 
