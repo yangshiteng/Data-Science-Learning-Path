@@ -50,13 +50,6 @@
   - [Healthcare Monitoring]()
   - [Robot Control & Motion Prediction]()
   - [Video Captioning and Frame Prediction]()
-
-# Evaluation of RNN Models
-  - [Evaluation of Language Modeling](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/recurrent_neural_networks/perplexity_rnns.md)
-  - [Evaluation of Sequence-to-Sequence Tasks]()
-  - [Evaluation of Sequence Classification]()
-  - [Evaluation of Sequence Labeling / Tagging]()
-  - [Evaluation of Time Series Forecasting]()
     
 # Implementing RNNs in Practice
   - [RNNs Implementation with TensorFlow & Keras]()
