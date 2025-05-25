@@ -1,5 +1,7 @@
 ## 📝 **Text Summarization with RNNs**
 
+![image](https://github.com/user-attachments/assets/f6a2fb5c-e048-46c2-a4bf-3773719ddb56)
+
 ---
 
 ### 🌟 **What is Text Summarization?**
