@@ -159,13 +159,13 @@ $$
 ✅ If the model predicted perfectly (1.0 for `'b'`), the loss would be:
 
 $$
-- \log(1) = 0
+-\log(1) = 0
 $$
 
 ✅ If the model predicted badly (e.g., 0.01 for `'b'`), the loss would be:
 
 $$
-- \log(0.01) = 4.605
+-\log(0.01) = 4.605
 $$
 
 ---
