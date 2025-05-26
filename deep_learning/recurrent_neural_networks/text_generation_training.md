@@ -79,8 +79,11 @@ This prepares the model to **predict the next character** at each time step.
 ---
 
 The model architecture typically consists of:
+
 ✅ **Embedding layer** → Transforms input indices into dense vectors (optional for characters but often used for words).
+
 ✅ **RNN layer(s)** → Processes the sequence, maintaining internal memory. Usually LSTM or GRU layers are used because they can capture long-range dependencies better than simple RNNs.
+
 ✅ **Dense output layer** → Outputs logits (unnormalized scores) over the vocabulary for the next character.
 
 For each input time step, the model predicts the next character, producing a sequence of predictions.
@@ -92,6 +95,7 @@ For each input time step, the model predicts the next character, producing a seq
 ---
 
 We use:
+
 ✅ **Sparse categorical cross-entropy loss** → This measures how well the predicted probability distribution over characters matches the true next character at each time step.
 
 ✅ **Optimizer** → Adam or RMSprop is commonly used because they handle complex optimization landscapes well.
@@ -168,8 +172,11 @@ When choosing the next character, we can use:
 ---
 
 We assess the model by:
+
 ✅ Reading generated samples to check fluency, style, coherence.
+
 ✅ Measuring how well the model avoids repetition or nonsensical outputs.
+
 ✅ Adjusting hyperparameters, model size, or training time if needed.
 
 ---
@@ -177,9 +184,13 @@ We assess the model by:
 ### 🚀 **Applications of RNN-Based Text Generation**
 
 ✅ Creative writing → Generate poems, stories, dialogues.
+
 ✅ Code completion → Generate programming code snippets.
+
 ✅ Music composition → Generate symbolic music (e.g., MIDI notes).
+
 ✅ Conversation systems → Build chatbots.
+
 ✅ Data augmentation → Generate synthetic data for training other models.
 
 ---
