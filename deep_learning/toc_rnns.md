@@ -47,6 +47,8 @@
     - [Training Process](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/recurrent_neural_networks/text_summarization_training.md)
     - [Code Implementation (TensorFlow/Keras)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/recurrent_neural_networks/text_summarization_code.md)
   - [Text Generation](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/recurrent_neural_networks/text_generation.md)
+    - [Training Process]()
+    - [Code Implementation (TensorFlow/Keras)]()
   - [Machine Translation](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/recurrent_neural_networks/machine_translation.md)
   - [Speech Recognition](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/recurrent_neural_networks/speech_recognition.md)
   - [Sentiment Analysis](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/recurrent_neural_networks/sentiment_analysis.md)
