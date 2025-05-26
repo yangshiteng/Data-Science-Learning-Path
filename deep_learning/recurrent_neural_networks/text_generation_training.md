@@ -102,6 +102,110 @@ We use:
 
 The goal is to adjust the model’s weights so that the predicted next characters closely match the actual next characters across all training sequences.
 
+#### Sparse Categorical Cross-Entropy Loss
+
+##### 🛠 **What’s Happening?**
+
+At each time step, the model:
+
+✅ Outputs a **probability distribution** over the entire vocabulary for the next character (or word).
+
+✅ We compare this predicted distribution to the **true next token** (the ground truth).
+
+✅ We calculate **how wrong the prediction is** using the cross-entropy formula.
+
+---
+
+##### 📚 **Simple Example**
+
+---
+
+Setup:
+
+* Vocabulary: `['a', 'b', 'c']` → size = 3
+* True next token (ground truth): `'b'` → index = 1
+
+---
+
+##### 🔍 **Model’s prediction (softmax output)**
+
+The model predicts probabilities like:
+
+| Token | Probability |
+| ----- | ----------- |
+| `'a'` | 0.1         |
+| `'b'` | 0.7         |
+| `'c'` | 0.2         |
+
+✅ The correct answer is `'b'`.
+
+---
+
+##### 📐 **Loss Formula (Sparse Categorical Cross-Entropy)**
+
+The loss for one time step is:
+
+$$
+\text{loss} = - \log(\text{predicted probability of correct token})
+$$
+
+So, for our example:
+
+$$
+\text{loss} = - \log(0.7)
+\approx - (-0.357) = 0.357
+$$
+
+✅ If the model predicted perfectly (1.0 for `'b'`), the loss would be:
+
+$$
+- \log(1) = 0
+$$
+
+✅ If the model predicted badly (e.g., 0.01 for `'b'`), the loss would be:
+
+$$
+- \log(0.01) = 4.605
+$$
+
+---
+
+##### 🔄 **For a Full Sequence**
+
+If you have a sequence of predicted probabilities and true tokens, you:
+
+1. Compute the loss at each time step.
+2. Average (or sum) them over the sequence.
+
+---
+
+##### 🧩 **Example with a Sequence**
+
+Imagine predicting the sequence:
+True tokens → `'a'`, `'b'`, `'c'` (indices: 0, 1, 2)
+
+Predicted probabilities:
+
+| Time step | `'a'` prob | `'b'` prob | `'c'` prob | True index |
+| --------- | ---------- | ---------- | ---------- | ---------- |
+| 1         | 0.8        | 0.1        | 0.1        | 0          |
+| 2         | 0.1        | 0.7        | 0.2        | 1          |
+| 3         | 0.2        | 0.2        | 0.6        | 2          |
+
+Losses:
+
+* Step 1 → `-log(0.8) ≈ 0.223`
+* Step 2 → `-log(0.7) ≈ 0.357`
+* Step 3 → `-log(0.6) ≈ 0.511`
+
+Total loss (average):
+
+$$
+\frac{0.223 + 0.357 + 0.511}{3} ≈ 0.364
+$$
+
+✅ This gives the model feedback to adjust its weights and improve next time.
+
 ---
 
 ### 🏃 **Step 5: Train the Model**
