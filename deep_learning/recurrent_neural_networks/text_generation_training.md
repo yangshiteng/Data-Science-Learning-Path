@@ -102,7 +102,7 @@ We use:
 
 The goal is to adjust the model’s weights so that the predicted next characters closely match the actual next characters across all training sequences.
 
-#### Sparse Categorical Cross-Entropy Loss
+#### 🔑 **Sparse Categorical Cross-Entropy Loss**
 
 ##### 🛠 **What’s Happening?**
 
