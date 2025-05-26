@@ -50,6 +50,88 @@ Example:
 
 * Use 80% for training, 10% for validation, 10% for testing.
 
+Absolutely! Let me show you a **clear example** of what a **training dataset** looks like for machine translation (e.g., English → French) in practice.
+
+
+✅ **1.6 Example Training Dataset for English → French Translation**
+
+This kind of dataset is called a **parallel corpus** — it contains pairs of aligned sentences in two languages.
+
+---
+
+| English Sentence            | French Sentence                        |
+| --------------------------- | -------------------------------------- |
+| I am happy.                 | Je suis heureux.                       |
+| How are you?                | Comment ça va ?                        |
+| Thank you very much.        | Merci beaucoup.                        |
+| I love to travel.           | J'aime voyager.                        |
+| What is your name?          | Comment tu t'appelles ?                |
+| The weather is nice today.  | Il fait beau aujourd'hui.              |
+| See you tomorrow.           | À demain.                              |
+| I don't understand.         | Je ne comprends pas.                   |
+| Where is the train station? | Où est la gare ?                       |
+| Can you help me, please?    | Pouvez-vous m'aider, s'il vous plaît ? |
+
+---
+
+🛠 **How Is This Used?**
+
+✅ Each row is an **input–target pair**:
+
+* Input → English sentence (source language)
+* Target → French sentence (target language)
+
+✅ We **tokenize** both sides:
+
+* Convert words to indices (using vocabularies built separately for English and French).
+
+✅ We **pad or truncate** sequences to fixed lengths for batching.
+
+---
+
+📚 **Example After Tokenization**
+
+| English Tokens (indices) | French Tokens (indices) |
+| ------------------------ | ----------------------- |
+| \[12, 45, 78]            | \[32, 65, 88]           |
+| \[91, 53, 14, 7]         | \[29, 44, 52, 9]        |
+| \[55, 2, 11, 76, 3]      | \[18, 66, 27, 35, 10]   |
+
+---
+
+🔑 **Where Do Datasets Come From?**
+
+✅ **Public datasets**:
+
+* Tatoeba Project
+* ManyThings English-French pairs
+* Europarl Corpus (European Parliament proceedings)
+* UN Parallel Corpus (United Nations documents)
+
+✅ **Custom datasets**:
+
+* Crawled or aligned bilingual documents.
+
+---
+
+📂 **Dataset File Formats**
+
+These datasets are usually stored as:
+
+* **Two text files**:
+
+  * `train.en` (English sentences, one per line)
+  * `train.fr` (French sentences, aligned, one per line)
+
+Or:
+
+* **Single tab-separated file**:
+
+  ```
+  I am happy.    Je suis heureux.
+  How are you?   Comment ça va ?
+  ```
+
 ---
 
 ### 🧠 **Step 2: Build the Encoder-Decoder Model**
