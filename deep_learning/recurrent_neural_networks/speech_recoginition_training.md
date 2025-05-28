@@ -212,3 +212,143 @@ CTC decoding:
 | Training            | Optimize model to reduce CTC loss over many epochs         |
 | Decoding            | Convert raw predictions into final text using beam search  |
 | Evaluation          | Measure performance with WER, CER on held-out test data    |
+
+
+---
+
+---
+
+## 🌟 **CTC Loss Calculation**
+
+CTC is used when:
+
+✅ The input sequence (e.g., audio frames) and the output sequence (e.g., text) have **different lengths**.
+
+✅ We don’t have explicit alignments between input steps and output characters.
+
+Instead of aligning exactly frame-to-character, CTC sums over all possible valid alignments that map to the target output.
+
+---
+
+---
+
+### 🏗 **Simple Example**
+
+---
+
+✅ **Input**:
+The model produces predictions over **T = 5** time steps.
+Vocabulary = `{blank, A, B}` → blank is a special “no character” label.
+
+✅ **Target output** (true label):
+`A B`
+
+---
+
+---
+
+### 📊 **Step 1: Raw Model Predictions**
+
+At each time step, the model outputs probabilities over the three classes.
+
+| Time Step | blank | A   | B   |
+| --------- | ----- | --- | --- |
+| t=1       | 0.6   | 0.3 | 0.1 |
+| t=2       | 0.1   | 0.7 | 0.2 |
+| t=3       | 0.2   | 0.2 | 0.6 |
+| t=4       | 0.7   | 0.1 | 0.2 |
+| t=5       | 0.1   | 0.6 | 0.3 |
+
+---
+
+---
+
+### 🔍 **Step 2: Identify All Valid Alignments**
+
+CTC allows for:
+
+✅ Repeated characters (will collapse to one).
+
+✅ Blank labels (ignored when collapsing).
+
+For target `A B`, some valid alignments over 5 steps are:
+
+1. blank A A B B
+2. A A blank B B
+3. blank A blank B blank
+4. A blank blank B blank
+
+These all reduce to `A B` after collapsing repeats and removing blanks.
+
+---
+
+---
+
+### 📐 **Step 3: Compute Probability for Each Path**
+
+Let’s compute **one example path**:
+Path = blank A A B B → collapse → `A B`
+
+Probability:
+
+$$
+P = 0.6 \times 0.7 \times 0.2 \times 0.2 \times 0.3 = 0.6 \times 0.7 \times 0.2 \times 0.2 \times 0.3 ≈ 0.005
+$$
+
+We repeat this for **all valid paths**.
+
+---
+
+---
+
+### 🔗 **Step 4: Sum Over All Valid Paths**
+
+The total probability for producing `A B` is:
+
+$$
+P(\text{A B}) = \sum_{\text{all valid paths}} P(\text{path})
+$$
+
+This sum accounts for **all ways** the model could generate the correct output.
+
+---
+
+---
+
+### 📉 **Step 5: Compute Negative Log-Likelihood (Loss)**
+
+The CTC loss is the **negative log** of the total probability:
+
+$$
+\text{CTC Loss} = -\log(P(\text{A B}))
+$$
+
+✅ If the model gives high probability to the correct target, the loss is **low**.
+
+✅ If the model spreads probability over wrong outputs, the loss is **high**.
+
+---
+
+---
+
+### 🔑 **Why Is CTC Special?**
+
+Unlike normal cross-entropy:
+
+* We don’t assume a fixed one-to-one alignment.
+* We allow the model to distribute predictions across time flexibly.
+* We account for multiple paths leading to the same final label.
+
+---
+
+---
+
+### 🛠 **Summary**
+
+| Step                | Description                                               |
+| ------------------- | --------------------------------------------------------- |
+| 1. Raw predictions  | Probabilities over time steps.                            |
+| 2. Identify paths   | Find all alignments that collapse to the target.          |
+| 3. Path probability | Multiply probabilities along each valid path.             |
+| 4. Sum paths        | Add up probabilities of all valid paths.                  |
+| 5. Compute loss     | Apply `-log` to total probability → this is the CTC loss. |
