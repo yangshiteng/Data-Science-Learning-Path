@@ -59,7 +59,7 @@
     - [Training Process](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/recurrent_neural_networks/sentiment_analysis_training.md)
     - [Code Implementation (TensorFlow/Keras)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/recurrent_neural_networks/sentiment_analysis_code.md)
   - [Spelling/Grammar Correction](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/recurrent_neural_networks/spelling_correction.md)
-     - [Training Process]()
+     - [Training Process](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/recurrent_neural_networks/spelling_correction_training.md)
      - [Code Implementation (TensorFlow/Keras)]()
   - [Named Entity Recognition]()
      - [Training Process]()
