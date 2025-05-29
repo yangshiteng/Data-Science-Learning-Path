@@ -59,7 +59,11 @@
     - [Training Process](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/recurrent_neural_networks/sentiment_analysis_training.md)
     - [Code Implementation (TensorFlow/Keras)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/recurrent_neural_networks/sentiment_analysis_code.md)
   - [Spelling/Grammar Correction]()
+     - [Training Process]()
+     - [Code Implementation (TensorFlow/Keras)]()
   - [Named Entity Recognition]()
+     - [Training Process]()
+     - [Code Implementation (TensorFlow/Keras)]()
 - **Speech and Audio Processing**
   - [Music and Audio Generation](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/recurrent_neural_networks/music_generation.md)
   - [Speaker identification]()
