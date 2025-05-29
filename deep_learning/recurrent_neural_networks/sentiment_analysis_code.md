@@ -90,9 +90,13 @@ print(f'Test Accuracy: {test_acc:.3f}')
 
 For each batch:
 - For binary labels \( y \) (0 or 1) and predicted probability \( p \):
+
+$$
 \[
 \text{Binary Cross-Entropy} = -[y \log(p) + (1 - y) \log(1 - p)]
 \]
+$$
+
 - The model minimizes the **average loss** over all samples in the batch.
 
 ✅ If the predicted \( p \) is close to the true label \( y \), the loss is small.  
