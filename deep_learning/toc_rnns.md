@@ -66,8 +66,14 @@
      - [Code Implementation (TensorFlow/Keras)]()
 - **Speech and Audio Processing**
   - [Music and Audio Generation](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/recurrent_neural_networks/music_generation.md)
+     - [Training Process]()
+     - [Code Implementation (TensorFlow/Keras)]()
   - [Speaker identification]()
+     - [Training Process]()
+     - [Code Implementation (TensorFlow/Keras)]()
   - [Speech synthesis (text-to-speech)]()
+     - [Training Process]()
+     - [Code Implementation (TensorFlow/Keras)]()
 - **Computer Vision**
   - [Image Captioning]()
   - [Video Captioning]()
