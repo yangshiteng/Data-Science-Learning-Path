@@ -67,7 +67,7 @@
 - **Speech and Audio Processing**
   - [Music and Audio Generation](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/recurrent_neural_networks/music_generation.md)
      - [Training Process](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/recurrent_neural_networks/mustic_generation_training.md)
-     - [Code Implementation (TensorFlow/Keras)]()
+     - [Code Implementation (TensorFlow/Keras)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/recurrent_neural_networks/mustic_generation_code.md)
   - [Speaker identification]()
      - [Training Process]()
      - [Code Implementation (TensorFlow/Keras)]()
