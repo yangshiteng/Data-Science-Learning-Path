@@ -98,15 +98,11 @@ model.fit(X_padded, y_categorical, epochs=200, batch_size=2)
 At each step:
 - Model outputs a probability distribution over the 128 MIDI notes.
 - We compare this to the one-hot true label.
-- **Cross-entropy loss** at time step \( t \):
+- **Cross-entropy loss** at time step (t):
 
-$$
-\[
-\text{Loss}_t = -\sum_{i} y_i \log(p_i)
-\]
-$$
+$$ [ \\text{Loss}_t = -\\sum_i y_i \\log(p_i) ] $$
 
-where \( y_i \) is the true one-hot label, \( p_i \) is the predicted probability.
+where $\( y_i \)$ is the true one-hot label, $\( p_i \)$ is the predicted probability.
 
 ✅ If the model assigns high probability to the correct note, loss is low.
 
