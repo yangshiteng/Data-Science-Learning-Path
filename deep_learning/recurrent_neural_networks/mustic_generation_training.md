@@ -63,10 +63,6 @@ For audio generation (raw waveforms), the dataset consists of:
 
 ---
 
-Sure! Here’s a simple example of a **training dataset table** for music generation using symbolic (MIDI-style) note sequences:
-
----
-
 ✅ **Example Training Dataset Table**
 
 | Sequence ID | Input Sequence (Notes) | Target Next Note |
