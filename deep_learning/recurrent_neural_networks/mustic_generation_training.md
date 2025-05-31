@@ -63,6 +63,22 @@ For audio generation (raw waveforms), the dataset consists of:
 
 ---
 
+Sure! Here’s a simple example of a **training dataset table** for music generation using symbolic (MIDI-style) note sequences:
+
+---
+
+✅ **Example Training Dataset Table**
+
+| Sequence ID | Input Sequence (Notes) | Target Next Note |
+| ----------- | ---------------------- | ---------------- |
+| 1           | \[60, 60, 67]          | 67               |
+| 2           | \[60, 67, 67]          | 69               |
+| 3           | \[67, 67, 69]          | 69               |
+| 4           | \[67, 69, 69]          | 67               |
+| 5           | \[69, 67, 67]          | 65               |
+| 6           | \[67, 67, 65]          | 65               |
+| 7           | \[67, 65, 65]          | 64               |
+
 ---
 
 ### 🛠 **Step 2: Data Preprocessing**
