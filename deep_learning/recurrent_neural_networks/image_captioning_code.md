@@ -101,9 +101,11 @@ At each decoder step:
 - The model outputs a probability distribution over the vocabulary.
 - The loss compares the predicted distribution to the true next word.
 - Formula:
-\[
-\text{Loss}_t = -\log P(y_t \mid y_1, y_2, \dots, y_{t-1}, \text{image})
-\]
+
+$$
+Loss_t = -\log P(y_t \mid y_1, y_2, \dots, y_{t-1}, image)
+$$
+
 ✅ If the model predicts the correct word with high probability, the loss is low. If it’s wrong, the loss increases, encouraging learning.
 
 ---
