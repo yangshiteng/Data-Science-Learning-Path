@@ -126,7 +126,7 @@ At each time step, the RNN predicts:
 Formula at each step $t$:
 
 $$
-\text{Loss}_t = -\log P(y_t | y_1, y_2, ..., y_{t-1}, \text{image})
+Loss_t = -\log P(y_t \mid y_1, y_2, \dots, y_{t-1}, image)
 $$
 
 ✅ **Total loss**
