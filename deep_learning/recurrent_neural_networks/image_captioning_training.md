@@ -140,7 +140,7 @@ We use **categorical cross-entropy loss** at each time step.
 ✅ **Formula (per time step t)**
 
 $$
-\text{Loss}_t = -\log P(y_t \mid y_1, y_2, \dots, y_{t-1}, \text{image})
+Loss_t = -\log P(y_t \mid y_1, y_2, \dots, y_{t-1}, image)
 $$
 
 where:
