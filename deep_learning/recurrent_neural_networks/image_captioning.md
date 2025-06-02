@@ -1,5 +1,7 @@
 ## 🖼️✨ **Image Captioning Using RNNs**
 
+![image](https://github.com/user-attachments/assets/650989fb-f039-4413-958b-b516c4360822)
+
 ---
 
 ### 🌍 **What is Image Captioning?**
