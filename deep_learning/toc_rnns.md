@@ -75,7 +75,9 @@
      - [Training Process]()
      - [Code Implementation (TensorFlow/Keras)]()
 - **Computer Vision**
-  - [Image Captioning]()
+  - [Image Captioning](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/recurrent_neural_networks/image_captioning.md)
+     - [Training Process]()
+     - [Code Implementation (TensorFlow/Keras)]()
   - [Video Captioning]()
   - [Video frame prediction]()
   - [Action recognition]()
