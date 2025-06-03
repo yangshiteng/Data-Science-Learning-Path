@@ -291,8 +291,6 @@ Assume:
 
 ---
 
----
-
 ### **Step 1: Framing**
 
 The signal is divided into overlapping short-time frames to capture local temporal features.
@@ -309,8 +307,6 @@ F = \left\lfloor \frac{N - L_f}{H} \right\rfloor + 1 = \left\lfloor \frac{48{,}0
 $$
 
 ✅ Each frame is a small window of the audio signal, allowing us to analyze time-varying characteristics.
-
----
 
 ---
 
@@ -334,8 +330,6 @@ Obtain:
 $$
 \mathbf{f}_i \in \mathbb{R}^{40}, \quad i = 1, \dots, F
 $$
-
----
 
 ---
 
