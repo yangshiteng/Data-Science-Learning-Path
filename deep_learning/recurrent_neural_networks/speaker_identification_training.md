@@ -269,3 +269,102 @@ Where:
 | Loss          | Categorical cross-entropy comparing predictions to true speaker IDs. |
 | Training      | Optimize weights over many epochs to reduce classification error.    |
 | Evaluation    | Use accuracy, top-k accuracy, and confusion matrices.                |
+
+---
+
+## 🎙️ Audio Preprocessing for Speaker Identification
+
+---
+
+### **Input**
+
+Let:
+
+* $x(t)$ → continuous-time audio signal.
+* $x[n]$ → discrete-time sampled signal, where $n$ is the sample index.
+
+Assume:
+
+* Sampling rate $f_s = 16{,}000\, \text{Hz}$.
+* Duration $T = 3\, \text{seconds}$.
+* Total samples $N = T \cdot f_s = 48{,}000\, \text{samples}$.
+
+---
+
+---
+
+### **Step 1: Framing**
+
+The signal is divided into overlapping short-time frames to capture local temporal features.
+
+Define:
+
+* Frame length $L_f$ (in samples): typically $25\, \text{ms} \cdot f_s = 0.025 \cdot 16{,}000 = 400\, \text{samples}$.
+* Frame shift (hop size) $H$ (in samples): typically $10\, \text{ms} \cdot f_s = 0.01 \cdot 16{,}000 = 160\, \text{samples}$.
+
+Total number of frames $F$:
+
+$$
+F = \left\lfloor \frac{N - L_f}{H} \right\rfloor + 1 = \left\lfloor \frac{48{,}000 - 400}{160} \right\rfloor + 1 ≈ 298\, \text{frames}
+$$
+
+✅ Each frame is a small window of the audio signal, allowing us to analyze time-varying characteristics.
+
+---
+
+---
+
+### **Step 2: Feature Extraction (MFCCs)**
+
+For each frame:
+
+* Apply windowing (e.g., Hamming window) to reduce spectral leakage.
+* Compute:
+
+  1. Short-time Fourier transform (STFT).
+  2. Mel-filterbank energy.
+  3. Discrete cosine transform (DCT) over log energies.
+
+Obtain:
+
+* $D = 40$ Mel-frequency cepstral coefficients (MFCCs).
+
+✅ Final per-frame feature vector:
+
+$$
+\mathbf{f}_i \in \mathbb{R}^{40}, \quad i = 1, \dots, F
+$$
+
+---
+
+---
+
+### **Step 3: Assemble Feature Matrix**
+
+Collect all frame-wise feature vectors:
+
+$$
+\mathbf{X} = \begin{bmatrix} \mathbf{f}_1^\top \\ \mathbf{f}_2^\top \\ \vdots \\ \mathbf{f}_F^\top \end{bmatrix} \in \mathbb{R}^{F \times D}
+$$
+
+For this example:
+
+$$
+\mathbf{X} \in \mathbb{R}^{298 \times 40}
+$$
+
+✅ This matrix represents the entire audio sample as a time series of feature vectors, ready to be input into an RNN.
+
+---
+
+### **Summary Table**
+
+| Component            | Value / Description                           |
+| -------------------- | --------------------------------------------- |
+| Audio duration       | 3 seconds                                     |
+| Sampling rate        | 16 kHz                                        |
+| Frame length         | 25 ms (400 samples)                           |
+| Frame hop            | 10 ms (160 samples)                           |
+| Total frames         | \~298 frames                                  |
+| Features per frame   | 40 MFCCs (or optionally 120 if adding deltas) |
+| Final feature matrix | $\mathbf{X} \in \mathbb{R}^{298 \times 40}$   |
