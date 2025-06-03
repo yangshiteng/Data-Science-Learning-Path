@@ -1,5 +1,7 @@
 ## 🗣️✨ Speaker Identification Using RNNs
 
+![image](https://github.com/user-attachments/assets/c002607c-50e3-45de-8338-f4cc4f414e5b)
+
 ---
 
 ### 🌍 **What is Speaker Identification?**
