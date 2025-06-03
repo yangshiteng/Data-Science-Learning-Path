@@ -113,7 +113,7 @@ Speech is a **sequential signal**:
 * Pad or truncate feature sequences to uniform length.
 * Arrange input as:
 
-  * $(batch_size, time_steps, feature_dim)$.
+  * $(batch size, time steps, feature dim)$.
 
 ---
 
