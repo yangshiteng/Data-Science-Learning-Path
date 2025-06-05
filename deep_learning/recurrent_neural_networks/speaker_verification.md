@@ -63,9 +63,7 @@ Each speaker utterance is processed into a sequence of acoustic features:
 
 An RNN (e.g., LSTM or GRU) processes the input sequence:
 
-$$
-\mathbf{h}_t = \text{RNN}(\mathbf{x}_t, \mathbf{h}_{t-1})
-$$
+![image](https://github.com/user-attachments/assets/aa26a094-8c89-472a-839d-f96d6b7cfe5e)
 
 * Each frame’s features $\mathbf{x}_t$ are passed through the RNN.
 * The final hidden state or an average of all hidden states is used as the **speaker embedding**.
@@ -100,15 +98,11 @@ To verify a speaker:
 
 #### ✅ Cosine similarity:
 
-$$
-\text{sim}(\mathbf{e}_{\text{test}}, \mathbf{e}_{\text{ref}}) = \frac{\mathbf{e}_{\text{test}} \cdot \mathbf{e}_{\text{ref}}}{\|\mathbf{e}_{\text{test}}\| \cdot \|\mathbf{e}_{\text{ref}}\|}
-$$
+![image](https://github.com/user-attachments/assets/fa6e4e0f-b170-4b90-a874-a8ee6f9d0f7a)
 
 #### ✅ Euclidean distance:
 
-$$
-\text{dist} = \|\mathbf{e}_{\text{test}} - \mathbf{e}_{\text{ref}}\|
-$$
+![image](https://github.com/user-attachments/assets/a20c3b08-3b1d-4b1b-ae61-916ca0db2c1b)
 
 * A threshold is applied to the similarity/distance to decide **Accept or Reject**.
 
