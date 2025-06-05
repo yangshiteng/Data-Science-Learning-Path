@@ -70,7 +70,7 @@ An RNN (e.g., LSTM or GRU) processes the input sequence:
 
 Result:
 
-![image](https://github.com/user-attachments/assets/31b57d8b-0074-4a68-af90-2eaef37cc858)
+![image](https://github.com/user-attachments/assets/806f9a9f-751b-486f-a4b5-f7dddb9e7cd8)
 
 This embedding compactly represents the speaker’s vocal identity.
 
@@ -128,9 +128,7 @@ Given:
 
 The loss encourages:
 
-$$
-\|\mathbf{e}_{\text{anchor}} - \mathbf{e}_{\text{positive}}\|^2 + \alpha < \|\mathbf{e}_{\text{anchor}} - \mathbf{e}_{\text{negative}}\|^2
-$$
+![image](https://github.com/user-attachments/assets/0bc7fbf9-ed78-4fb2-858d-3d84d86bbc82)
 
 * $\alpha$: margin separating same/different speakers.
 
