@@ -73,7 +73,7 @@
      - [Code Implementation (TensorFlow/Keras)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/recurrent_neural_networks/speaker_identification_code.md)
   - [Speaker Verification](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/recurrent_neural_networks/speaker_verification.md)
      - [Training Process](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/recurrent_neural_networks/speaker_verification_training.md)
-     - [Code Implementation (TensorFlow/Keras)]()
+     - [Code Implementation (TensorFlow/Keras)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/recurrent_neural_networks/speaker_verification_code.md)
   - [Speech synthesis (text-to-speech)]()
      - [Training Process]()
      - [Code Implementation (TensorFlow/Keras)]()
