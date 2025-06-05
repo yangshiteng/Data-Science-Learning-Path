@@ -70,9 +70,7 @@ An RNN (e.g., LSTM or GRU) processes the input sequence:
 
 Result:
 
-$$
-\text{Embedding} = \mathbf{e} \in \mathbb{R}^d
-$$
+![image](https://github.com/user-attachments/assets/31b57d8b-0074-4a68-af90-2eaef37cc858)
 
 This embedding compactly represents the speaker’s vocal identity.
 
