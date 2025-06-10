@@ -1,6 +1,6 @@
 ## 🧠 What is Named Entity Recognition (NER)?
 
-https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.shaip.com%2Fblog%2Fnamed-entity-recognition-and-its-types%2F&psig=AOvVaw2KSMALvXR7Dy4PHD4c7tkX&ust=1749653712516000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPjH4pGO540DFQAAAAAdAAAAABAE
+![image](https://github.com/user-attachments/assets/8877286d-de1b-42d3-9b24-39f38fc90fa4)
 
 **Named Entity Recognition (NER)** is a Natural Language Processing (NLP) task where the goal is to **identify and classify specific entities** in text into predefined categories, such as:
 
