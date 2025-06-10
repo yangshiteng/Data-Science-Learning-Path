@@ -61,7 +61,7 @@
   - [Spelling/Grammar Correction](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/recurrent_neural_networks/spelling_correction.md)
      - [Training Process](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/recurrent_neural_networks/spelling_correction_training.md)
      - [Code Implementation (TensorFlow/Keras)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/recurrent_neural_networks/spelling_correction_code.md)
-  - [Named Entity Recognition]()
+  - [Named Entity Recognition](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/recurrent_neural_networks/name_entity_recognition.md)
      - [Training Process]()
      - [Code Implementation (TensorFlow/Keras)]()
 - **Speech and Audio Processing**
