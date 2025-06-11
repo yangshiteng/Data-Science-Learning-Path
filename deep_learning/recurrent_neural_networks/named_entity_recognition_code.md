@@ -1,3 +1,4 @@
+```python
 # Named Entity Recognition (NER) using BiLSTM in TensorFlow/Keras
 
 import numpy as np
@@ -55,3 +56,4 @@ preds = model.predict(X)
 preds_idx = np.argmax(preds[0], axis=-1)
 pred_labels = [idx2label[i] for i in preds_idx]
 print("Predicted Labels:", pred_labels)
+```
