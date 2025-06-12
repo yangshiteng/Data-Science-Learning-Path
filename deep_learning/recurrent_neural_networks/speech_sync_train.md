@@ -109,9 +109,7 @@ Each audio file becomes a 2D matrix:
 
 * **Mean Squared Error (MSE)** or **L1 Loss** between predicted and target mel-spectrogram:
 
-$$
-\mathcal{L}_{mel} = \frac{1}{T} \sum_{t=1}^{T} \| \hat{y}_t - y_t \|^2
-$$
+![image](https://github.com/user-attachments/assets/ce861df6-e1e8-49d9-8659-0d042bd953d1)
 
 Where:
 
