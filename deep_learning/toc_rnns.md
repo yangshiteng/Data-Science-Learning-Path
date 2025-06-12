@@ -1,6 +1,6 @@
 # Introduction to Recurrent Neural Networks
 - [What are RNNs?](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/recurrent_neural_networks/what_are_rnns.md)
-- [Transfer Learning in RNNs]()
+- [Transfer Learning in RNNs](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/recurrent_neural_networks/rnn_transfer_learning.md)
     
 # Basic RNN Architecture (Vanilla RNN)
 - [Basic RNN Architecture (Vanilla RNN)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/recurrent_neural_networks/basic_rnn_architecture.md)
