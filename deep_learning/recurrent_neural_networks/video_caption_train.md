@@ -1,4 +1,4 @@
-I'm# 🎥📝 Video Captioning with RNNs — Full Training Process
+# 🎥📝 Video Captioning with RNNs — Full Training Process
 
 This document outlines a real-world RNN-based video captioning system, explaining the training dataset, input/output format, data preprocessing, loss calculation, and expected model output.
 
