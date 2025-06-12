@@ -94,9 +94,11 @@ Captions are padded/truncated to a fixed maximum length, e.g., 20 tokens.
 The model is trained using **categorical cross-entropy loss** between predicted and ground-truth words at each time step.
 
 ### Formula:
-$begin:math:display$
-\\mathcal{L} = -\\sum_{t=1}^{T} \\log P(y_t | y_{<t}, \\text{video})
-$end:math:display$
+**Loss function**  
+Cross-entropy per word
+```
+L = - Σₜ log P(yₜ | y₁, …, yₜ₋₁, video)
+```
 
 - $begin:math:text$ y_t $end:math:text$: target word at time step $begin:math:text$ t $end:math:text$
 - The loss is averaged over the time steps and batch.
