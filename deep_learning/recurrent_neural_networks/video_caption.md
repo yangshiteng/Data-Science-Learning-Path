@@ -107,9 +107,9 @@ The model is trained to **maximize the likelihood** of the ground-truth caption 
 
 ### Cross-Entropy Loss:
 
-$$
-\mathcal{L} = -\sum_{t=1}^{T} \log P(y_t | y_{<t}, \text{video})
-$$
+```
+L = - Σₜ log P(yₜ | y₁, …, yₜ₋₁, video)
+```
 
 Where:
 
