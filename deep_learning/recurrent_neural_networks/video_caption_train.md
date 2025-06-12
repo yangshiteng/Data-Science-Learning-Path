@@ -1,4 +1,4 @@
-# 🎥📝 Video Captioning with RNNs — Full Training Process
+I'm# 🎥📝 Video Captioning with RNNs — Full Training Process
 
 This document outlines a real-world RNN-based video captioning system, explaining the training dataset, input/output format, data preprocessing, loss calculation, and expected model output.
 
@@ -100,7 +100,7 @@ Cross-entropy per word
 L = - Σₜ log P(yₜ | y₁, …, yₜ₋₁, video)
 ```
 
-- $begin:math:text$ y_t $end:math:text$: target word at time step $begin:math:text$ t $end:math:text$
+- $y_t$: target word at time step $begin:math:text$ t $end:math:text$
 - The loss is averaged over the time steps and batch.
 
 ---
