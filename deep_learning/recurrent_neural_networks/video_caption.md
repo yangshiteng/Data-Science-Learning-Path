@@ -113,7 +113,7 @@ L = - Σₜ log P(yₜ | y₁, …, yₜ₋₁, video)
 
 Where:
 
-* $y_t$ is the target word at time $t$
+* yₜ is the target word at time t
 * The model predicts a probability distribution over all vocabulary words
 
 ---
