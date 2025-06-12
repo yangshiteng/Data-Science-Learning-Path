@@ -100,7 +100,7 @@ Cross-entropy per word
 L = - Σₜ log P(yₜ | y₁, …, yₜ₋₁, video)
 ```
 
-- $y_t$: target word at time step $begin:math:text$ t $end:math:text$
+- y_t: target word at time step t
 - The loss is averaged over the time steps and batch.
 
 ---
