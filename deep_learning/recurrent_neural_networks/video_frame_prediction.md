@@ -9,8 +9,8 @@ Video frame prediction aims to **forecast future video frames** based on past fr
 ### Typical choices:
 - **Moving MNIST** — synthetic digits moving in a frame.
 - **KTH Action / UCF-101** — human activities.
-- **Traffic, weather, microscopy videos** — real-world dynamics [oai_citation:0‡cs231n.stanford.edu](https://cs231n.stanford.edu/reports/2022/pdfs/29.pdf?utm_source=chatgpt.com) [oai_citation:1‡frontiersin.org](https://www.frontiersin.org/journals/microbiology/articles/10.3389/fmicb.2022.1034586/full?utm_source=chatgpt.com).
-
+- **Traffic, weather, microscopy videos** — real-world dynamics
+- 
 Each sample:
 ```
 Input: Frames [F₁, F₂, …, Fₖ]
@@ -49,7 +49,7 @@ Output: next 10 frames
 
 Alternative approaches:
 - **Convolutional encoder + LSTM decoder** pipeline [oai_citation:2‡cs231n.stanford.edu](https://cs231n.stanford.edu/reports/2022/pdfs/29.pdf?utm_source=chatgpt.com).
-- **PredRNN**, ConvGRU, CubicLSTM (captures spatiotemporal features) [oai_citation:3‡frontiersin.org](https://www.frontiersin.org/journals/microbiology/articles/10.3389/fmicb.2022.1034586/full?utm_source=chatgpt.com).
+- **PredRNN**, ConvGRU, CubicLSTM (captures spatiotemporal features)
 
 ### Architecture flow:
 ```
@@ -68,7 +68,7 @@ Input frames → ConvLSTM layers → (optionally CNN decoder) → Next-frame pre
 - **L1 loss**, Structural Similarity Index (SSIM), or GAN-based adversarial loss.
 
 Performance metrics:
-- **MSE**, **PSNR**, **SSIM** (e.g., ConvLSTM on UCF-101 achieved SSIM ≈ 0.87) [oai_citation:4‡sergioescalera.com](https://sergioescalera.com/wp-content/uploads/2018/08/TFM-Slides.pdf?utm_source=chatgpt.com) [oai_citation:5‡cs231n.stanford.edu](https://cs231n.stanford.edu/reports/2022/pdfs/29.pdf?utm_source=chatgpt.com).
+- **MSE**, **PSNR**, **SSIM** (e.g., ConvLSTM on UCF-101 achieved SSIM ≈ 0.87)
 
 ---
 
@@ -93,8 +93,8 @@ Performance metrics:
 
 ## 8. ⚙️ Real-World Applications
 
-- **Predictive coding** in video compression [oai_citation:6‡sergioescalera.com](https://sergioescalera.com/wp-content/uploads/2018/08/TFM-Slides.pdf?utm_source=chatgpt.com) [oai_citation:7‡en.wikipedia.org](https://en.wikipedia.org/wiki/Video_super-resolution?utm_source=chatgpt.com) [oai_citation:8‡openaccess.thecvf.com](https://openaccess.thecvf.com/content_CVPR_2019/papers/Nah_Recurrent_Neural_Networks_With_Intra-Frame_Iterations_for_Video_Deblurring_CVPR_2019_paper.pdf?utm_source=chatgpt.com) [oai_citation:9‡arxiv.org](https://arxiv.org/abs/1807.02232?utm_source=chatgpt.com).
-- **Microscopy** (e.g., microbial growth) [oai_citation:10‡arxiv.org](https://arxiv.org/abs/2205.05810?utm_source=chatgpt.com).
+- **Predictive coding** in video compression
+- **Microscopy** (e.g., microbial growth)
 - **Autonomous systems**: forecasting object movement and path planning.
 
 ---
