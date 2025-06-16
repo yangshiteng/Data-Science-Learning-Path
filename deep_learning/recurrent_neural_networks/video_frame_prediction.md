@@ -48,7 +48,7 @@ Output: next 10 frames
 - At each step, predicts the next frame.
 
 Alternative approaches:
-- **Convolutional encoder + LSTM decoder** pipeline [oai_citation:2‡cs231n.stanford.edu](https://cs231n.stanford.edu/reports/2022/pdfs/29.pdf?utm_source=chatgpt.com).
+- **Convolutional encoder + LSTM decoder** pipeline
 - **PredRNN**, ConvGRU, CubicLSTM (captures spatiotemporal features)
 
 ### Architecture flow:
