@@ -8,15 +8,10 @@
 
 ## [IV. Transformers and Attention Mechanisms](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/toc_transformers.md)
 
-## V. Generative Model
+## [V. Generative Model]()
 
-## VI. Autoencoders (Dimensionality reduction/denoising)
+## [VII. Reinforcement Learning (Games, robotics)]()
 
-## VII. Reinforcement Learning (Games, robotics)
-
-## VIII. Graph Neural Networks (GNNs)  (Social networks, recommendation systems)
-
-## IX. Diffusion Models (State-of-the-art image generation)
 
 
 
