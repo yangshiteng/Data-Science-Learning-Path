@@ -1,84 +1,70 @@
-# **1. Introduction to Sequence Modeling**
+### **Part 1: Introduction & Motivation**
 
-* 1.1 Why RNNs struggle with long sequences
-* 1.2 The need for parallel processing
-* 1.3 Motivation for attention mechanisms
-
----
-
-# **2. Understanding Attention**
-
-* 2.1 What is Attention?
-* 2.2 Intuition: “Focus” in deep learning
-* 2.3 Types of Attention
-
-  * 2.3.1 Soft vs Hard Attention
-  * 2.3.2 Global vs Local Attention
+* 1.1 What are Transformers?
+* 1.2 Why were they invented? (Limitations of RNNs and CNNs for sequences)
+* 1.3 Key advantages of Transformers
 
 ---
 
-# **3. Scaled Dot-Product Attention**
+### **Part 2: The Concept of Attention**
 
-* 3.1 Query, Key, Value explained
-* 3.2 Dot-product attention mechanism
-* 3.3 Why "scaling" is necessary
-* 3.4 Visualizing attention weights
-
----
-
-# **4. Multi-Head Attention**
-
-* 4.1 Why multiple heads?
-* 4.2 Parallel attention heads
-* 4.3 Aggregating attention outputs
+* 2.1 What is Attention? (Basic idea and analogy)
+* 2.2 Soft Attention vs Hard Attention
+* 2.3 Why Attention improves learning
 
 ---
 
-# **5. The Transformer Architecture**
+### **Part 3: Scaled Dot-Product Attention**
 
-* 5.1 Overall encoder-decoder structure
-* 5.2 Encoder breakdown
-* 5.3 Decoder breakdown
-* 5.4 Skip connections & Layer Normalization
-
----
-
-# **6. Positional Encoding**
-
-* 6.1 Why position matters
-* 6.2 Sinusoidal vs learnable encodings
-* 6.3 Visual intuition for positional embeddings
+* 3.1 Queries, Keys, and Values: The core idea
+* 3.2 How attention scores are computed
+* 3.3 The scaling factor and why it matters
 
 ---
 
-# **7. Training Transformers**
+### **Part 4: Multi-Head Attention**
 
-* 7.1 Masking in decoder
-* 7.2 Cross-entropy loss and label shifting
-* 7.3 Data requirements & training time
-
----
-
-# **8. Applications of Transformers**
-
-* 8.1 Natural Language Processing (NLP)
-* 8.2 Vision Transformers (ViT)
-* 8.3 Audio & Multimodal uses
-* 8.4 Emerging general-purpose AI
+* 4.1 Why use multiple attention heads?
+* 4.2 What does each head learn?
+* 4.3 Combining multiple heads
 
 ---
 
-# **9. Popular Transformer Models (High-Level Overview)**
+### **Part 5: The Transformer Architecture**
 
-* 9.1 BERT (Encoder-only)
-* 9.2 GPT (Decoder-only)
-* 9.3 T5 (Encoder-Decoder)
-* 9.4 ViT (Vision Transformer)
+* 5.1 Overview of encoder and decoder
+* 5.2 Key components: Layer Norm, Residuals, FFN
+* 5.3 Data flow through the model
 
 ---
 
-# **10. Hands-On Practice (Optional for Beginners)**
+### **Part 6: Positional Encoding**
 
-* 10.1 Playing with attention visualizations
-* 10.2 Using Hugging Face Transformers
-* 10.3 Fine-tuning a pre-trained model (text classification)
+* 6.1 Why Transformers need positional info
+* 6.2 Sinusoidal vs Learnable encodings
+* 6.3 Visualizing positional embeddings
+
+---
+
+### **Part 7: Training Transformers**
+
+* 7.1 Input-output structure for training
+* 7.2 Masking: Preventing future information
+* 7.3 Loss functions and optimization
+
+---
+
+### **Part 8: Transformer Variants and Use Cases**
+
+* 8.1 Encoder-only: BERT
+* 8.2 Decoder-only: GPT
+* 8.3 Encoder-decoder: T5, BART
+* 8.4 Applications beyond text (Vision, Audio, Multimodal)
+
+---
+
+### **Part 9: Common Tools & Libraries**
+
+* 9.1 Hugging Face Transformers
+* 9.2 PyTorch vs TensorFlow examples
+* 9.3 Visualization tools for attention
