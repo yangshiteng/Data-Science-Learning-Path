@@ -62,9 +62,11 @@ Input frames → ConvLSTM layers → (optionally CNN decoder) → Next-frame pre
 
 ### Common choices:
 - **Mean Squared Error (MSE)** between predicted and true frames:
-  $$
-  \\mathcal{L} = \\frac{1}{N}\\sum_{t=1…m} \\| \\hat{F}_t – F_t \\|^2
-  $$
+  
+$$
+\\mathcal{L} = \\frac{1}{N}\\sum_{t=1…m} \\| \\hat{F}_t – F_t \\|^2
+$$
+
 - **L1 loss**, Structural Similarity Index (SSIM), or GAN-based adversarial loss.
 
 Performance metrics:
