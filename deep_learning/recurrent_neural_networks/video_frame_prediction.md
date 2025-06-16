@@ -10,7 +10,7 @@ Video frame prediction aims to **forecast future video frames** based on past fr
 - **Moving MNIST** — synthetic digits moving in a frame.
 - **KTH Action / UCF-101** — human activities.
 - **Traffic, weather, microscopy videos** — real-world dynamics
-- 
+
 Each sample:
 ```
 Input: Frames [F₁, F₂, …, Fₖ]
