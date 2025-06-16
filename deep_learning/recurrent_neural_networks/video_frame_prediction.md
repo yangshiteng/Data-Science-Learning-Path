@@ -36,7 +36,7 @@ Output: next 10 frames
 
 1. **Extract/resize frames** from video clips.
 2. **Normalize pixel values** to [0,1].
-3. Optionally, convert to grayscale or downsample.
+3. **Optionally, convert to grayscale or downsample**
 4. **Assemble sequences**: sliding window over frames for inputs/targets.
 
 ---
