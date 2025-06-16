@@ -49,7 +49,7 @@ Output: next 10 frames
 
 Alternative approaches:
 - **Convolutional encoder + LSTM decoder** pipeline
-- **PredRNN**, ConvGRU, CubicLSTM (captures spatiotemporal features)
+- PredRNN, ConvGRU, CubicLSTM (captures spatiotemporal features)
 
 ### Architecture flow:
 ```
