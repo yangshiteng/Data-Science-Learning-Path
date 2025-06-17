@@ -16,9 +16,9 @@
 
 ### **Part 3: Scaled Dot-Product Attention**
 
-* 3.1 Queries, Keys, and Values: The core idea
-* 3.2 How attention scores are computed
-* 3.3 The scaling factor and why it matters
+* 3.1 [Queries, Keys, and Values: The core idea]()
+* 3.2 [How attention scores are computed]()
+* 3.3 [The scaling factor and why it matters]()
 
 ---
 
