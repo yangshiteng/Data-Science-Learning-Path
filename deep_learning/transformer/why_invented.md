@@ -1,4 +1,4 @@
-#### 🤔 **The Problem: Sequence Modeling**
+# 🤔 **The Problem: Sequence Modeling**
 
 Before Transformers, the main tools for sequence data (like text or speech) were:
 
@@ -9,7 +9,7 @@ These worked, but they had **serious limitations**.
 
 ---
 
-### ⚠️ **Limitations of RNNs**
+# ⚠️ **Limitations of RNNs**
 
 1. **Sequential Processing**
 
@@ -33,7 +33,7 @@ These worked, but they had **serious limitations**.
 
 ---
 
-### ⚠️ **Limitations of CNNs for Sequences**
+# ⚠️ **Limitations of CNNs for Sequences**
 
 1. **Limited Receptive Field**
 
@@ -47,7 +47,7 @@ These worked, but they had **serious limitations**.
 
 ---
 
-### ✅ **What Transformers Fix**
+# ✅ **What Transformers Fix**
 
 | Problem                | How Transformers Solve It                                |
 | ---------------------- | -------------------------------------------------------- |
@@ -59,7 +59,7 @@ These worked, but they had **serious limitations**.
 
 ---
 
-### 🧠 **Key Idea: Replace Recurrence with Attention**
+# 🧠 **Key Idea: Replace Recurrence with Attention**
 
 Instead of passing info step-by-step (like RNNs), Transformers use **self-attention** to allow every position in a sequence to **directly access** all others.
 
@@ -67,7 +67,7 @@ Instead of passing info step-by-step (like RNNs), Transformers use **self-attent
 
 ---
 
-### 🚀 Outcome: Huge Leap in Performance
+# 🚀 Outcome: Huge Leap in Performance
 
 * Faster training
 * Better long-range understanding
