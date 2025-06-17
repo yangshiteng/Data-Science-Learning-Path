@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/d7d15637-c706-401b-b09f-a02927c1df24)
+
 #### ✅ **Simple Definition:**
 
 A **Transformer** is a deep learning model architecture that uses **self-attention** to process input data all at once (in parallel), instead of step-by-step like RNNs.
