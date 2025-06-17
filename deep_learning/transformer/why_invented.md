@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/d69800d3-7c97-435f-b688-d48c37cb0c29)
+
 # 🤔 **The Problem: Sequence Modeling**
 
 Before Transformers, the main tools for sequence data (like text or speech) were:
