@@ -8,9 +8,9 @@
 
 ### **Part 2: The Concept of Attention**
 
-* 2.1 What is Attention? (Basic idea and analogy)
-* 2.2 Soft Attention vs Hard Attention
-* 2.3 Why Attention improves learning
+* 2.1 [What is Attention? (Basic idea and analogy)
+* 2.2 [Soft Attention vs Hard Attention]()
+* 2.3 [Why Attention improves learning]()
 
 ---
 
