@@ -1,7 +1,7 @@
 ### **Part 1: Introduction & Motivation**
 
 * [1.1 What are Transformers?](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/transformer/what_is_transformer.md)
-* [1.2 Why were they invented? (Limitations of RNNs and CNNs for sequences)]()
+* [1.2 Why were they invented? (Limitations of RNNs and CNNs for sequences)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/transformer/why_invented.md)
 * [1.3 Key advantages of Transformers]()
 
 ---
