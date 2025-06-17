@@ -10,7 +10,7 @@
 
 * 2.1 [What is Attention? (Basic idea and analogy)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/transformer/what_is_attention.md)
 * 2.2 [Soft Attention vs Hard Attention](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/transformer/soft_vs_hard_attention.md)
-* 2.3 [Why Attention improves learning]()
+* 2.3 [Why Attention improves learning](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/transformer/why_attention_improve_learning.md)
 
 ---
 
