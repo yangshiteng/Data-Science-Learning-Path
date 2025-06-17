@@ -17,7 +17,7 @@
 ### **Part 3: Scaled Dot-Product Attention**
 
 * 3.1 [Queries, Keys, and Values: The core idea](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/transformer/query_key_value.md)
-* 3.2 [How attention scores are computed]()
+* 3.2 [How attention scores are computed](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/transformer/attention_score_calculation.md)
 * 3.3 [The scaling factor and why it matters](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/transformer/why_scale_matters.md)
 
 ---
