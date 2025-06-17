@@ -9,7 +9,7 @@
 ### **Part 2: The Concept of Attention**
 
 * 2.1 [What is Attention? (Basic idea and analogy)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/transformer/what_is_attention.md)
-* 2.2 [Soft Attention vs Hard Attention]()
+* 2.2 [Soft Attention vs Hard Attention](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/transformer/soft_vs_hard_attention.md)
 * 2.3 [Why Attention improves learning]()
 
 ---
