@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/edc38c6c-79a2-49b8-96a9-25116e47d848)
+
 ### 🔍 **Key Advantages of Transformers**
 
 ---
