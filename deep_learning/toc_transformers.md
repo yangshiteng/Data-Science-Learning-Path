@@ -33,9 +33,9 @@
 
 ### **Part 5: The Transformer Architecture**
 
-* 5.1 Overview of encoder and decoder
-* 5.2 Key components: Layer Norm, Residuals, FFN
-* 5.3 Data flow through the model
+* 5.1 [Overview of encoder and decoder]()
+* 5.2 [Key components: Layer Norm, Residuals, FFN]()
+* 5.3 [Data flow through the model]()
 
 ---
 
