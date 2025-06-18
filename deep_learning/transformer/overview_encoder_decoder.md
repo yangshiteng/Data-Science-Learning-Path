@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/fe14e393-d9e0-4f9b-9baa-31589a1f4806)
+![image](https://github.com/user-attachments/assets/38047460-4eed-453d-ba9d-3b742d991f51)
 
 ### 🔍 **Overview of Encoder and Decoder in the Transformer Architecture**
 
