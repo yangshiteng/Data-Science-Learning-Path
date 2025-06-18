@@ -26,7 +26,7 @@
 
 * 4.1 [Why use multiple attention heads?](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/transformer/why_multi_head.md)
 * 4.2 [What does each head learn?](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/transformer/what_each_head_learn.md)
-* 4.3 [How multiple heads are combined?]()
+* 4.3 [How multiple heads are combined?](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/transformer/multiple_head_combine.md)
 
 ---
 
