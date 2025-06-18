@@ -83,8 +83,8 @@ Do the same for “love”:
 So, **head 1 output**:
 
 $$
-\text{Head1 Output} = \begin{bmatrix} 0.73 & 0.27 
-\\ 0.27 & 0.73 \end{bmatrix}
+\text{Head1 Output} = \begin{bmatrix} 0.73 & 0.27 \\ 
+0.27 & 0.73 \end{bmatrix}
 $$
 
 ---
