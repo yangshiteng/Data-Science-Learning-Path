@@ -24,9 +24,9 @@
 
 ### **Part 4: Multi-Head Attention**
 
-* 4.1 Why use multiple attention heads?
-* 4.2 What does each head learn?
-* 4.3 Combining multiple heads
+* 4.1 [Why use multiple attention heads?]()
+* 4.2 [What does each head learn?]()
+* 4.3 [Combining multiple heads]()
 
 ---
 
