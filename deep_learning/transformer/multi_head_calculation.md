@@ -115,8 +115,8 @@ Now compute attention for “I”:
 So, **head 2 output**:
 
 $$
-\text{Head2 Output} = \begin{bmatrix} 0.27 & 0.73 
-\\ 0.73 & 0.27 \end{bmatrix}
+\text{Head2 Output} = \begin{bmatrix} 0.27 & 0.73 \\ 
+0.73 & 0.27 \end{bmatrix}
 $$
 
 ---
