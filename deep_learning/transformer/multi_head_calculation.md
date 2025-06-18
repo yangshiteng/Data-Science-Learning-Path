@@ -125,17 +125,7 @@ $$
 
 Now we stack them side-by-side:
 
-$$
-\text{Combined} = \begin{bmatrix}
-\text{Head1}_{\text{“I”}} \| \text{Head2}_{\text{“I”}} \\
-\text{Head1}_{\text{“love”}} \| \text{Head2}_{\text{“love”}} 
-\end{bmatrix}
-= 
-\begin{bmatrix}
-0.73 & 0.27 & 0.27 & 0.73 \\
-0.27 & 0.73 & 0.73 & 0.27
-\end{bmatrix}
-$$
+![image](https://github.com/user-attachments/assets/4aa9ad38-729d-4d10-91c8-ea9438ccfe53)
 
 ---
 
