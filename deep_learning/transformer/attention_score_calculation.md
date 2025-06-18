@@ -17,7 +17,9 @@ Every word creates:
 
 To measure **relevance**, the model computes the **dot product** between the query and each key:
 
-![image](https://github.com/user-attachments/assets/d0a45b5b-606f-494d-84f4-2f338f72f034)
+$$
+\text{score} = Q \cdot K
+$$
 
 The higher the dot product, the more similar (or relevant) the key is to the query.
 
