@@ -49,9 +49,9 @@ Suppose you're calculating attention for **“sat”**:
 
 3. These become **raw attention scores**:
 
-   $$
-   \text{scores} = [Q \cdot K_{\text{the}},\ Q \cdot K_{\text{cat}},\ Q \cdot K_{\text{sat}}]
-   $$
+$$
+\text{scores} = [Q \cdot K_{\text{the}},\ Q \cdot K_{\text{cat}},\ Q \cdot K_{\text{sat}}]
+$$
 
 ---
 
