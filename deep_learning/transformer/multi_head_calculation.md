@@ -25,7 +25,8 @@ Token 2: “love”   → [0.0, 1.0]
 Let’s call this the **input matrix**:
 
 $$
-X = \begin{bmatrix} 1.0 & 0.0 \\ 0.0 & 1.0 \end{bmatrix}
+X = \begin{bmatrix} 1.0 & 0.0 \\ 
+0.0 & 1.0 \end{bmatrix}
 $$
 
 ---
@@ -82,7 +83,8 @@ Do the same for “love”:
 So, **head 1 output**:
 
 $$
-\text{Head1 Output} = \begin{bmatrix} 0.73 & 0.27 \\ 0.27 & 0.73 \end{bmatrix}
+\text{Head1 Output} = \begin{bmatrix} 0.73 & 0.27 
+\\ 0.27 & 0.73 \end{bmatrix}
 $$
 
 ---
@@ -113,7 +115,8 @@ Now compute attention for “I”:
 So, **head 2 output**:
 
 $$
-\text{Head2 Output} = \begin{bmatrix} 0.27 & 0.73 \\ 0.73 & 0.27 \end{bmatrix}
+\text{Head2 Output} = \begin{bmatrix} 0.27 & 0.73 
+\\ 0.73 & 0.27 \end{bmatrix}
 $$
 
 ---
