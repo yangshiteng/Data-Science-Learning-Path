@@ -139,19 +139,7 @@ $$
 
 Apply it:
 
-$$
-\text{Final Output} = \text{Combined} @ W^O
-=
-\begin{bmatrix}
-(0.73+0.27)/2 & (0.27+0.73)/2 \\
-(0.27+0.73)/2 & (0.73+0.27)/2 
-\end{bmatrix}
-=
-\begin{bmatrix}
-0.50 & 0.50 \\
-0.50 & 0.50
-\end{bmatrix}
-$$
+![image](https://github.com/user-attachments/assets/9ceaef48-f50d-4701-9b7d-2a85167569f2)
 
 ---
 
