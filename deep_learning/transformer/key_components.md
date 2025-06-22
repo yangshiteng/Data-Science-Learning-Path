@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/46d0a32a-7577-4987-a825-b4f65c2be19d)
+![image](https://github.com/user-attachments/assets/0a2e860e-caa7-4427-ade1-6099802f3ff6)
 
 ### 🔍 **Key Components of the Transformer Block**
 
