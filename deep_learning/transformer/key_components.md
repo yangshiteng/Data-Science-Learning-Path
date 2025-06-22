@@ -2,7 +2,7 @@
 
 **Layer Normalization, Residual Connections, and Feedforward Layers**
 
-![image](https://github.com/user-attachments/assets/4dcd2fea-30e6-4062-98ef-e06f75d03ca8)
+![image](https://github.com/user-attachments/assets/46d0a32a-7577-4987-a825-b4f65c2be19d)
 
 ---
 
