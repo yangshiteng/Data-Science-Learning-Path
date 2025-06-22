@@ -2,6 +2,8 @@
 
 **Layer Normalization, Residual Connections, and Feedforward Layers**
 
+![image](https://github.com/user-attachments/assets/4dcd2fea-30e6-4062-98ef-e06f75d03ca8)
+
 ---
 
 In both **encoder** and **decoder** blocks, there are 3 key building blocks that ensure the model trains well and generalizes effectively:
