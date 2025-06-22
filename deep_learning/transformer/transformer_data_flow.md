@@ -63,7 +63,7 @@ For each encoder layer:
 
 * Decoder also receives tokenized input (the translation so far)
 * During training, this is the target sentence shifted right
-  (e.g., start with \[“<s>”, “Le”, “chat”] → predict “s'est”, then “assis”, etc.)
+  (e.g., start with [“<s>”, “Le”, “chat”] → predict “s'est”, then “assis”, etc.)
 * Decoder input is also embedded + positional encoding added
 
 ---
