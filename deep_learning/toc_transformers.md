@@ -41,9 +41,9 @@
 
 ### **Part 6: Positional Encoding**
 
-* 6.1 Why Transformers need positional info
-* 6.2 Sinusoidal vs Learnable encodings
-* 6.3 Visualizing positional embeddings
+* 6.1 [Why Transformers need positional info]()
+* 6.2 [Sinusoidal vs Learnable encodings]()
+* 6.3 [Visualizing positional embeddings]()
 
 ---
 
