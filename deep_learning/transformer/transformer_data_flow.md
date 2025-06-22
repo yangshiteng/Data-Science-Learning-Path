@@ -1,5 +1,7 @@
 ### 🔍 **Data Flow Through the Transformer**
 
+![image](https://github.com/user-attachments/assets/3700dac7-fd6c-4a87-bbfb-2961731d903b)
+
 ---
 
 ## 🔁 **High-Level Overview**
