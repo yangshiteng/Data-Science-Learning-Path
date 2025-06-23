@@ -42,7 +42,7 @@
 ### **Part 6: Positional Encoding**
 
 * 6.1 [Why Transformers need positional info](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/transformer/why_transformer_need_position.md)
-* 6.2 [Sinusoidal vs Learnable encodings]()
+* 6.2 [Sinusoidal vs Learnable encodings](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/transformer/sinusoidal_vs_learnable_positional_encoding.md)
 * 6.3 [Visualizing positional embeddings]()
 
 ---
