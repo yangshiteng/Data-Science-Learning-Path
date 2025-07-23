@@ -57,7 +57,7 @@
 
 ### **Part 8: Transformer Variants and Use Cases**
 
-* 8.1 [Encoder-only: BERT]()
+* 8.1 [Encoder-only: BERT](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/transformer/bert.md)
 * 8.2 [Decoder-only: GPT]()
 * 8.3 [Encoder-decoder: T5, BART]()
 * 8.4 [Applications beyond text (Vision, Audio, Multimodal)]()
