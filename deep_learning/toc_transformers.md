@@ -49,7 +49,7 @@
 
 ### **Part 7: Training Transformers**
 
-* 7.1 [Input-output structure for training]()
+* 7.1 [Input-output structure for training](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/transformer/input_output_for_training.md)
 * 7.2 [Masking: Preventing future information]()
 * 7.3 [Loss functions and optimization]()
 
