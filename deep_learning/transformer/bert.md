@@ -1,5 +1,7 @@
 ### 🔍 **Part 8.1: Encoder-Only Transformers – Introduction to BERT**
 
+<img width="2867" height="1839" alt="image" src="https://github.com/user-attachments/assets/0a11192b-8635-40f5-abae-2ca64e7fb5a4" />
+
 ---
 
 ### ✅ **Quick Summary:**
