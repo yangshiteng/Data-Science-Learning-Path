@@ -19,11 +19,11 @@ Let’s say the target sequence is:
 
 During training, the decoder input is:
 
-> **\[<s>, Le, chat, s', est]**
+> **[<s>, Le, chat, s', est]**
 
 We want it to predict the next tokens:
 
-> **\[Le, chat, s', est, assis]**
+> **[Le, chat, s', est, assis]**
 
 But if attention isn’t masked, each decoder token could **access the full sequence**, including **the answer it's supposed to predict** — which makes learning trivial and unrealistic.
 
