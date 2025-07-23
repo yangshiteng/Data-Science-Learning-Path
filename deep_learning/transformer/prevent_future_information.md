@@ -19,7 +19,7 @@ Let’s say the target sequence is:
 
 During training, the decoder input is:
 
-> **[<s>, Le, chat, s', est]**
+> **[\<s\>, Le, chat, s', est]**
 
 We want it to predict the next tokens:
 
