@@ -49,23 +49,23 @@
 
 ### **Part 7: Training Transformers**
 
-* 7.1 Input-output structure for training
-* 7.2 Masking: Preventing future information
-* 7.3 Loss functions and optimization
+* 7.1 [Input-output structure for training]()
+* 7.2 [Masking: Preventing future information]()
+* 7.3 [Loss functions and optimization]()
 
 ---
 
 ### **Part 8: Transformer Variants and Use Cases**
 
-* 8.1 Encoder-only: BERT
-* 8.2 Decoder-only: GPT
-* 8.3 Encoder-decoder: T5, BART
-* 8.4 Applications beyond text (Vision, Audio, Multimodal)
+* 8.1 [Encoder-only: BERT]()
+* 8.2 [Decoder-only: GPT]()
+* 8.3 [Encoder-decoder: T5, BART]()
+* 8.4 [Applications beyond text (Vision, Audio, Multimodal)]()
 
 ---
 
 ### **Part 9: Common Tools & Libraries**
 
-* 9.1 Hugging Face Transformers
-* 9.2 PyTorch vs TensorFlow examples
-* 9.3 Visualization tools for attention
+* 9.1 [Hugging Face Transformers]()
+* 9.2 [PyTorch vs TensorFlow examples]()
+* 9.3 [Visualization tools for attention]()
