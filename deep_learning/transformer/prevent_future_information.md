@@ -83,7 +83,3 @@ These 0s are converted to `-∞` in the attention score matrix (or a very large 
 ### 🧠 One-Liner Summary:
 
 > Masking forces the decoder to **generate tokens step-by-step**, just like it would during inference — making training more realistic and robust.
-
----
-
-Would you like to continue to **Part 7.3: Loss functions and optimization**, or would you prefer a **visual or code example** of how masking is applied?
