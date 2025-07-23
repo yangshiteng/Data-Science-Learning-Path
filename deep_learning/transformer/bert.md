@@ -75,7 +75,3 @@ BERT is typically **fine-tuned** on downstream tasks:
 ### 🧠 One-Liner Summary:
 
 > **BERT** is an **encoder-only Transformer** trained to understand text deeply using **masked language modeling** — ideal for classification, QA, and language understanding tasks.
-
----
-
-Would you like to explore **8.2: Decoder-only models (GPT)** next, or look at a **real example of how BERT is fine-tuned** for a simple task?
