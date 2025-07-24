@@ -51,7 +51,9 @@ Instead of hand-written text prompts, you add **a sequence of trainable embeddin
 
 So your input becomes:
 
+```
 [Prompt_1, Prompt_2, Prompt_3, Prompt_4] + “The movie was amazing!”
+```
 
 > For the model, it’s as if there’s **a learned instruction** baked into every input.
 
