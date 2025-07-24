@@ -122,7 +122,6 @@ You can fine-tune:
 | --------------------------------- | ---------------------------------------------------------------- |
 | **Layer freezing**                | Keep early layers fixed; update only top layers                  |
 | **Discriminative learning rates** | Use lower learning rates for base layers and higher for new head |
-| **LoRA / PEFT**                   | Low-rank approximations for efficient fine-tuning                |
 
 ---
 
