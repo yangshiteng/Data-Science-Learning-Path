@@ -52,7 +52,7 @@ Instead of hand-written text prompts, you add **a sequence of trainable embeddin
 So your input becomes:
 
 $$
-\text{[Prompt\_1, Prompt\_2, ..., Prompt\_N]} + \text{[Token\_1, Token\_2, ..., Token\_T]}
+\text{[Prompt_1, Prompt_2, ..., Prompt_N]} + \text{[Token_1, Token_2, ..., Token_T]}
 $$
 
 > For the model, it’s as if there’s **a learned instruction** baked into every input.
