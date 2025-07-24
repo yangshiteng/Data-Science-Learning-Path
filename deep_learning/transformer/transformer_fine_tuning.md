@@ -146,17 +146,6 @@ You can fine-tune:
 
 ---
 
-## 🔄 **Fine-Tuning vs. Prompt Tuning vs. Adapter Tuning**
-
-| Feature             | Fine-Tuning     | Prompt Tuning           | Adapter Tuning       |
-| ------------------- | --------------- | ----------------------- | -------------------- |
-| Base model updated? | ✅ Yes           | ❌ No (frozen)           | ❌ No (frozen)        |
-| Params trained      | All             | Few (prompt embeddings) | Few (adapter layers) |
-| Performance         | ⭐ Best possible | Good (low-resource)     | Good and efficient   |
-| Flexibility         | High            | Medium                  | High                 |
-
----
-
 ## 🧠 One-Liner Summary:
 
 > **Fine-tuning** is the process of updating a pretrained Transformer’s weights to **specialize it for a specific task**, by training it end-to-end on labeled data — it’s the gold standard for achieving top performance.
