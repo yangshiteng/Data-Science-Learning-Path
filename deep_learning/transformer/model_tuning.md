@@ -104,11 +104,6 @@ These are **not words** — they’re trainable embeddings.
 | Fast to train, low memory usage | Needs a good base model                      |
 | Easy to deploy and swap prompts | Doesn’t always match full tuning performance |
 
-### 🔍 Variants
-
-* **Prefix tuning**: prompt placed inside attention layers
-* **P-tuning**: deeper prompt embeddings using an MLP
-
 ---
 
 ## 🧱 3. **Adapter Tuning**
@@ -156,7 +151,6 @@ Instead of changing the original model, you **insert small adapter modules** (us
 | **LoRA** (Low-Rank Adaptation) | Injects trainable low-rank matrices inside attention weights — very efficient      |
 | **Prefix tuning**              | Trainable prefixes inside attention keys/values                                    |
 | **Instruction tuning**         | Fine-tune with many tasks using human-written prompts (e.g., FLAN-T5, InstructGPT) |
-| **BitFit**                     | Only train bias terms in the model — ultra lightweight                             |
 
 ---
 
