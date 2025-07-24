@@ -61,7 +61,7 @@
   - [Fine-Tune BERT]()
 * 8.2 [Decoder-only: GPT](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/transformer/decoder_only_gpt.md)
   - [Fine-Tune GPT]()
-* 8.3 [Encoder-decoder: T5, BART]()
+* 8.3 [Encoder-decoder: T5, BART](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/transformer/t5_bart.md)
 * 8.4 [Applications beyond text (Vision, Audio, Multimodal)]()
 
 ---
