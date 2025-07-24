@@ -114,17 +114,6 @@ It’s like **finding the right key** to unlock the right knowledge — **not ch
 
 ---
 
-## ⚙️ **How It Differs from Other Tuning Methods**
-
-| Method             | Trains What?                   | Model Weights? | Size Trained |
-| ------------------ | ------------------------------ | -------------- | ------------ |
-| **Fine-tuning**    | Entire model                   | ✅ Yes          | Billions     |
-| **Adapter layers** | Tiny modules in between        | ❌ (mostly)     | Millions     |
-| **Prompt tuning**  | Only prompt embeddings         | ❌ Frozen       | Thousands    |
-| **Prefix tuning**  | Like prompt tuning, but deeper | ❌ Frozen       | Thousands    |
-
----
-
 ## 🧪 **Technical Notes**
 
 * Prompt tokens are stored as **embedding vectors**, often initialized randomly or using existing token embeddings.
