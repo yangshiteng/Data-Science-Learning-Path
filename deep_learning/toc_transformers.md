@@ -65,9 +65,9 @@
   - [Fine-Tuning](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/transformer/transformer_fine_tuning.md)
   - [Prompt Tuning](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/transformer/prompt_tuning.md)
   - [Adapter Tuning](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/transformer/adapter_tuning.md)
-  - LoRA (Low-Rank Adaptation)
-  - Prefix Tuning
-  - Instruction Tuning
+  - [LoRA (Low-Rank Adaptation)]()
+  - [Prefix Tuning]()
+  - [Instruction Tuning]()
 
 ---
 
