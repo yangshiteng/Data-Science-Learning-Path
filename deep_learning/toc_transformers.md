@@ -61,7 +61,7 @@
 * 8.2 [Decoder-only: GPT](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/transformer/decoder_only_gpt.md)
 * 8.3 [Encoder-decoder: T5, BART](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/transformer/t5_bart.md)
 * 8.4 [Applications beyond text (Vision, Audio, Multimodal)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/transformer/application_beyond_text.md)
-* 8.5 [Tranformer Fine-Tuning](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/transformer/transformer_fine_tuning.md)
+* 8.5 [Fine-Tuning](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/transformer/transformer_fine_tuning.md)
 * 8.6 [Prompt Tuning](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/transformer/prompt_tuning.md)
 
 ---
