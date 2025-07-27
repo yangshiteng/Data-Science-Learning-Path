@@ -67,7 +67,7 @@
   - [Adapter Tuning](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/transformer/adapter_tuning.md)
   - [LoRA (Low-Rank Adaptation)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/transformer/lora.md)
   - [Prefix Tuning](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/transformer/prefix_tuning.md)
-  - [Instruction Tuning]()
+  - [Instruction Tuning](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/transformer/instruction_tuning.md)
 
 ---
 
