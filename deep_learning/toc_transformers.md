@@ -71,8 +71,6 @@
 
 ---
 
-### **Part 9: Common Tools & Libraries**
+### **Part 9: Hungging Face Transformers**
 
 * 9.1 [Hugging Face Transformers]()
-* 9.2 [PyTorch vs TensorFlow examples]()
-* 9.3 [Visualization tools for attention]()
