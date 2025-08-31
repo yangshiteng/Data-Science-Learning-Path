@@ -8,7 +8,7 @@
 
 ## [IV. Transformers and Attention Mechanisms](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/toc_transformers.md)
 
-## [V. Generative Model]()
+## [V. Generative Model](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/toc_generative_model.md)
 
 ## [VI. Reinforcement Learning (Games, robotics)]()
 
