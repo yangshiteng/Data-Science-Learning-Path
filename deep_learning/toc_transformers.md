@@ -75,3 +75,4 @@
 
 * 9.1 [Hugging Face Transformers](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/transformer/huggingface_transformers.md)
 * 9.2 [What you can do with Hugging Face Transformers](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/transformer/what_you_can_do_with_transformers.md)
+* 9.3 [Hugging Face Deployment]()
