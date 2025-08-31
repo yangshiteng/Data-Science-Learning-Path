@@ -10,7 +10,7 @@
 
 ## [V. Generative Model]()
 
-## [VII. Reinforcement Learning (Games, robotics)]()
+## [VI. Reinforcement Learning (Games, robotics)]()
 
 
 
