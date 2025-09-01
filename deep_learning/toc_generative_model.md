@@ -8,7 +8,7 @@
 ### **2. Variational Autoencoders (VAEs)**
 
 * [What is VAEs](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/generative_model/what_is_vaes.md)
-* How VAEs generate new data
+* [VAEs Applications]()
 * Where VAEs are used (e.g., face generation)
 
 ---
