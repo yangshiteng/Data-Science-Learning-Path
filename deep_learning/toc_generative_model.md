@@ -29,17 +29,7 @@
 
 ---
 
-### **5. Applications in Real Life**
+### **5. Diffusion Models**
 
-* Images (e.g., art, photo editing)
-* Text (e.g., ChatGPT)
-* Audio (e.g., AI music)
-* Data Augmentation
-
----
-
-### **6. Risks and Ethics**
-
-* Deepfakes and fake news
-* Data bias
-* Responsible use of AI-generated content
+* What is Diffusion Models?
+* Simple use case
