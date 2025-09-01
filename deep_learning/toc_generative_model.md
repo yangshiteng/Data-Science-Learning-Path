@@ -5,7 +5,7 @@
 
 ---
 
-### **2. Variational Autoencoders (VAEs) – Basics**
+### **2. Variational Autoencoders (VAEs)**
 
 * What is an autoencoder?
 * How VAEs generate new data
@@ -13,7 +13,7 @@
 
 ---
 
-### **3. Generative Adversarial Networks (GANs) – Basics**
+### **3. Generative Adversarial Networks (GANs)**
 
 * The idea of Generator vs. Discriminator
 * How GANs learn to create data
@@ -21,7 +21,7 @@
 
 ---
 
-### **4. Text Generation with GPT (Autoregressive Models)**
+### **4. Autoregressive Models**
 
 * What is GPT?
 * How it generates one word at a time
