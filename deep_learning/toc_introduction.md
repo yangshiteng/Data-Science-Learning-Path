@@ -6,7 +6,8 @@
   - [Challenges and Limitations](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/introduction_to_deep_learning/challenges_and_limitations.md)
   - [Essential Resources for Deep Learning](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/introduction_to_deep_learning/essential_resources_deep_learning.md)
     
-# Deep Learning Frameworks
+# Deep Learning Frameworks & Tools
   - [Tensorflow & Keras](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/introduction_to_deep_learning/framework_tf_keras.md)
   - [PyTorch](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/introduction_to_deep_learning/framework_pytorch.md)
   - [TensorFlow vs PyTorch](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/introduction_to_deep_learning/tf_vs_pytorch.md)
+  - [TensorFlow vs PyTorch vs Hugging Face]()
