@@ -1,6 +1,6 @@
 ### **1. What Are Generative Models?**
 
-* [Definition]()
+* [Definition](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/generative_model/definition.md)
 * How they’re different from other models
 * Real-world examples (image generation, text, music, etc.)
 
