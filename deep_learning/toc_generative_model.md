@@ -1,6 +1,6 @@
 ### **1. What Are Generative Models?**
 
-* Simple definition
+* [Definition]()
 * How they’re different from other models
 * Real-world examples (image generation, text, music, etc.)
 
