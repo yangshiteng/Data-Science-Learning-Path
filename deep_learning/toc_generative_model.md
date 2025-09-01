@@ -7,7 +7,7 @@
 
 ### **2. Variational Autoencoders (VAEs)**
 
-* What is an autoencoder?
+* [What is VAE]()
 * How VAEs generate new data
 * Where VAEs are used (e.g., face generation)
 
