@@ -10,7 +10,7 @@
 * [What is VAEs](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/generative_model/what_is_vaes.md)
 * [VAEs Applications](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/generative_model/vae_applications.md)
 * [Hugging Face - VAEs](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/generative_model/hugging_face_vaes.md)
-  - [Example - Loading pretrained VAE model from Hugging Face]()
+  - [Example - Loading pretrained VAE model from Hugging Face](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/generative_model/loading_pretrained_model_vaes.md)
 
 ---
 
