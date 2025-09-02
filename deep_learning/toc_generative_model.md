@@ -11,8 +11,7 @@
 * [VAEs Applications](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/generative_model/vae_applications.md)
 * [Training From Scratch](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/generative_model/vaes_training.md)
 * [Fine-Tuning](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/generative_model/vae_fine_tuning.md)
-* [Loading Pretrained Model](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/generative_model/hugging_face_vaes.md)
-  - [Example - Loading pretrained VAE model from Hugging Face](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/generative_model/loading_pretrained_model_vaes.md)
+* [Loading Pretrained Model](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/generative_model/loading_pretrained_model_vaes.md)
 
 ---
 
