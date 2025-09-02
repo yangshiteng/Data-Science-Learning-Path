@@ -50,9 +50,7 @@ Random Noise (z) ──▶ Generator ──▶ Fake Image ──▶ Discriminato
 
 ### Objective Function:
 
-$$
-\min_G \max_D \mathbb{E}_{x \sim p_\text{data}}[\log D(x)] + \mathbb{E}_{z \sim p_z}[\log(1 - D(G(z)))] 
-$$
+$\min_G \max_D \mathbb{E}_{x \sim p_{\text{data}}}[\log D(x)] + \mathbb{E}_{z \sim p_z}[\log(1 - D(G(z)))]$
 
 
 ---
