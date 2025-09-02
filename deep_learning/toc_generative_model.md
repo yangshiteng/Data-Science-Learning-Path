@@ -18,9 +18,7 @@
 
 ### **3. Generative Adversarial Networks (GANs)**
 
-* The idea of Generator vs. Discriminator
-* How GANs learn to create data
-* Real-world uses (e.g., deepfakes, art, photos)
+* [What is Generative Adversarial Networks (GANs)]()
 
 ---
 
