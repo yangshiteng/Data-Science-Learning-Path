@@ -7,7 +7,7 @@
   - [Essential Resources for Deep Learning](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/introduction_to_deep_learning/essential_resources_deep_learning.md)
 
 # Common Knowledge
-- [Transfer Learning and Fine Tuning]()
+- [Transfer Learning and Fine Tuning](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/introduction_to_deep_learning/fine_tuning_transfer_learning.md)
     
 # Deep Learning Frameworks & Tools
   - [Tensorflow & Keras](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/introduction_to_deep_learning/framework_tf_keras.md)
