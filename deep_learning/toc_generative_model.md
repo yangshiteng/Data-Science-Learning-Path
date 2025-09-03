@@ -18,7 +18,8 @@
 ### **3. Generative Adversarial Networks (GANs)**
 
 * [What is Generative Adversarial Networks (GANs)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/generative_model/introduction_gans.md)
-* [GANs - Applications]()
+* [GANs - Applications](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/generative_model/gans_applications.md)
+* [GANs - Fine Tuning]()
 
 ---
 
