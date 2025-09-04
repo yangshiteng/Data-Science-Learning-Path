@@ -21,7 +21,7 @@
 * [GANs - Applications](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/generative_model/gans_applications.md)
 * [GANs - Training](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/generative_model/gans_training.md)
 * [GANs - Fine Tuning](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/generative_model/gans_finetuning.md)
-* [GANs - Loading Pretrained Model]()
+* [GANs - Loading Pretrained Model](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/generative_model/gans_loading_pretrained_model.md)
 
 ---
 
