@@ -74,8 +74,11 @@ In deep models like **GPT**, the sequence is fed through a **Transformer decoder
 ## 📈 Benefits of Autoregressive Modeling
 
 ✅ **Simple and effective**: Especially for time-dependent data
+
 ✅ **Flexible**: Works with both linear and neural architectures
+
 ✅ **Great for generation**: Language models, image synthesis, music, etc.
+
 ✅ **Scales well**: Transformer-based AR models (e.g., GPT) scale to billions of parameters
 
 ---
@@ -83,7 +86,9 @@ In deep models like **GPT**, the sequence is fed through a **Transformer decoder
 ## ⚠️ Limitations
 
 ❌ **Slow inference**: One step at a time
+
 ❌ **Error accumulation**: Mistakes compound as outputs become inputs
+
 ❌ **Hard to parallelize** during generation
 
 ---
