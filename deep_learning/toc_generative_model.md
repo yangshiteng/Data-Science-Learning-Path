@@ -20,7 +20,7 @@
 * [What is Generative Adversarial Networks (GANs)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/generative_model/introduction_gans.md)
 * [GANs - Applications](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/generative_model/gans_applications.md)
 * [GANs - Training](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/generative_model/gans_training.md)
-* [GANs - Fine Tuning]()
+* [GANs - Fine Tuning](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/generative_model/gans_finetuning.md)
 * [GANs - Loading Pretrained Mode]()
 
 ---
