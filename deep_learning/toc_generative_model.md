@@ -27,9 +27,11 @@
 
 ### **4. Autoregressive Models**
 
-* What is GPT?
-* How it generates one word at a time
-* Simple use case (chatbots, writing tools)
+* [What is Autoregressive Models?]()
+* [Autoregressive Models - Applications]()
+* [Autoregressive Models - Training]()
+* [Autoregressive Models - Fine Tuning]()
+* [Autoregressive Models - Loading Pretrained Model]()
 
 ---
 
