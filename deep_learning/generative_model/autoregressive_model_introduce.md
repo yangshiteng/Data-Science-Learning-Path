@@ -53,9 +53,13 @@ In an **autoregressive neural model**, the output is predicted **one element at 
 Let’s say you want to generate text:
 
 **Input**: "The cat sat on the"
+
 **Model predicts**: `"mat"`
+
 Then next step:
+
 **New input**: "The cat sat on the mat"
+
 Model predicts: `"and"`
 
 And so on.
