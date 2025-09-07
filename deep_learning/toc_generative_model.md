@@ -28,7 +28,7 @@
 ### **4. Autoregressive Models**
 
 * [What is Autoregressive Models?](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/generative_model/autoregressive_model_introduce.md)
-* [Autoregressive Models - Applications]()
+* [Autoregressive Models - Applications](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/generative_model/autoregressive_application.md)
 * [Autoregressive Models - Training]()
 * [Autoregressive Models - Fine Tuning]()
 * [Autoregressive Models - Loading Pretrained Model]()
