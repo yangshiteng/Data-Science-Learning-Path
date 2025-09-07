@@ -15,4 +15,4 @@
   - [Hugging Face](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/introduction_to_deep_learning/hugging_face.md)
   - [TensorFlow vs PyTorch](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/introduction_to_deep_learning/tf_vs_pytorch.md)
   - [TensorFlow vs PyTorch vs Hugging Face](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/introduction_to_deep_learning/pytorch_tensorflow_huggingface.md)
-  - [Deployment - Gradio and Streamlit]()
+  - [Deployment - Gradio and Streamlit](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/introduction_to_deep_learning/gradio_streamlit.md)
