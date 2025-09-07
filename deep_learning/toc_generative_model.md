@@ -31,7 +31,7 @@
 * [Autoregressive Models - Applications](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/generative_model/autoregressive_application.md)
 * [Autoregressive Models - Training (GPT)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/generative_model/autoregressive_model_training.md)
 * [Autoregressive Models - Fine Tuning (GPT)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/generative_model/autoregressive_model_fine_tuning.md)
-* [Autoregressive Models - Loading Pretrained Model (GPT)]()
+* [Autoregressive Models - Loading Pretrained Model (GPT)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/generative_model/autoregressive_model_loading_pretrained.md)
 
 ---
 
