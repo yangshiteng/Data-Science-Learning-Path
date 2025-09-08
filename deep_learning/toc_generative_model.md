@@ -38,7 +38,7 @@
 ### **5. Diffusion Models**
 
 * [What is Diffusion Models?](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/generative_model/diffusion_model_introduce.md)
-* [Diffusion Models - Applications]()
+* [Diffusion Models - Applications](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/generative_model/diffusion_model_application.md)
 * [Diffusion Models - Training]()
 * [Diffusion Models - Fine Tuning]()
 * [Difussion Models - Loading Pretrained Model]()
