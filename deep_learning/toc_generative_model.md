@@ -41,4 +41,4 @@
 * [Diffusion Models - Applications](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/generative_model/diffusion_model_application.md)
 * [Diffusion Models - Training](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/generative_model/diffusion_model_training.md)
 * [Diffusion Models - Fine Tuning](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/generative_model/diffusion_model_fine_tuning.md)
-* [Difussion Models - Loading Pretrained Model]()
+* [Difussion Models - Loading Pretrained Model](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/generative_model/diffusion_model_loading_pretrained_model.md)
