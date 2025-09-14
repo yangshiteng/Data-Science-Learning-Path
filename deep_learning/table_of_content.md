@@ -10,7 +10,7 @@
 
 ## [V. Generative Model](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/toc_generative_model.md)
 
-## [VI. Reinforcement Learning (Games, robotics)](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/toc_rl.md)
+## [VI. Reinforcement Learning](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/toc_rl.md)
 
 
 
