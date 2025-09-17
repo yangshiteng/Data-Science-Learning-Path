@@ -5,7 +5,7 @@
 * [Popular RL libraries]()
 
 # Concepts of RL
-
+* [How RL works]()
 
 # Case Studies & Applications
 * [RL in Games]()
