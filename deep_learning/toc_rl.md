@@ -5,7 +5,7 @@
 * [Popular RL libraries](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/reinforcement_learning/popular_rl_libraries.md)
 
 # RL Foundations
-* [Core Concepts]()
+* [Core Concepts](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/reinforcement_learning/core_concepts.md)
 * [How RL works]()
 
 # Case Studies & Applications
