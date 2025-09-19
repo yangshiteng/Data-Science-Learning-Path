@@ -11,9 +11,13 @@ RL is **learning by trial and error**: an **agent** 🧑‍💻 takes **actions*
 ## 🔁 The RL Loop (the beating heart)
 
 1️⃣ **Observe** 👀 current situation (**state** 🗺️)
+
 2️⃣ **Act** 🎬 using current **policy** 🧭
+
 3️⃣ **Get feedback** 💡: **reward** ⭐ + **next state** 🔜
+
 4️⃣ **Update** 🔧 what you believe is good
+
 5️⃣ **Repeat** 🔄 until the episode/game ends 🎮
 
 ---
