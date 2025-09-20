@@ -9,5 +9,9 @@
 * [How RL works](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/reinforcement_learning/how_rl_works.md)
 
 # Case Studies & Applications
+
+## Games
 * [RL in Games]()
+
+## Recommendation Systems
 * [Recommendation Systems]()
