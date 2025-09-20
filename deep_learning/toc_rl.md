@@ -7,6 +7,7 @@
 # RL Foundations
 * [Core Concepts](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/reinforcement_learning/core_concepts.md)
 * [How RL works](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/reinforcement_learning/how_rl_works.md)
+* [RL Agent Deployment]()
 
 # Case Studies & Applications
 
