@@ -11,7 +11,7 @@
 # Case Studies & Applications
 
 ## Games
-* [RL in Games]()
+* [CartPole Python Example]()
 
 ## Recommendation Systems
 * [Recommendation Systems]()
