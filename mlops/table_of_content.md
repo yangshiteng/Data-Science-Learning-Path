@@ -2,7 +2,7 @@
 
 ---
 
-## **[2. Versioning]()**
+## **[2. Versioning](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/mlops/versioning.md)**
 
 ---
 
