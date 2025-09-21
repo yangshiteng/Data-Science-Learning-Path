@@ -1,7 +1,4 @@
-## **1. What is MLOps?**
-
-* [MLOps Introduction]()
-
+## **[1. What is MLOps?]()**
 ---
 
 ## **2. Versioning**
