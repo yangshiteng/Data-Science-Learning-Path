@@ -4,7 +4,7 @@
 
 [Deep Learning](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/deep_learning/table_of_content.md)
 
-[MLOps]()
+[MLOps](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/mlops/table_of_content.md)
 
 [AI Application]()
 
