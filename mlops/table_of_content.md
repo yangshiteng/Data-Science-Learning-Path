@@ -1,11 +1,8 @@
 ## **[1. What is MLOps?](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/mlops/what_is_mlops.md)**
+
 ---
 
-## **2. Versioning**
-
-* Code versioning (Git basics)
-* Data versioning (DVC, Git LFS)
-* Model versioning (model registries)
+## **[2. Versioning]()**
 
 ---
 
