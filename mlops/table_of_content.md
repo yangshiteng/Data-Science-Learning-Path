@@ -1,8 +1,6 @@
 ## **1. What is MLOps?**
 
-* Why MLOps exists (ML model ≠ production system)
-* MLOps vs. DevOps vs. DataOps
-* ML lifecycle at a glance (data → train → deploy → monitor → retrain)
+* [MLOps Introduction]()
 
 ---
 
