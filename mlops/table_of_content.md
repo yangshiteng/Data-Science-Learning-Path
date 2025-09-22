@@ -5,7 +5,7 @@
 
 ## **2. Versioning**
 - [Versioning Overview](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/mlops/versioning.md)
-- [Tools]()
+- [Tools](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/mlops/versioning_tools.md)
 ---
 
 ## **3. Experiment Tracking**
