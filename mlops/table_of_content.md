@@ -1,9 +1,10 @@
-## **[1. What is MLOps?](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/mlops/what_is_mlops.md)**
+## **1. What is MLOps?**
+- [MLOps Overview](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/mlops/what_is_mlops.md)
 
 ---
 
-## **[2. Versioning](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/mlops/versioning.md)**
-
+## **2. Versioning**
+- [Versioning Overview](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/mlops/versioning.md)
 ---
 
 ## **3. Experiment Tracking**
