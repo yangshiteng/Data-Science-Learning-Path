@@ -6,13 +6,11 @@
 ## **2. Versioning**
 - [Versioning Overview](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/mlops/versioning.md)
 - [Tools](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/mlops/versioning_tools.md)
+
 ---
 
 ## **3. Experiment Tracking**
-
-* Why “notebooks only” isn’t enough
-* Parameters, metrics, artifacts, logs
-* Tools: MLflow, Weights & Biases (W\&B)
+- [Experiment Tracking Overview]()
 
 ---
 
