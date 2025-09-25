@@ -15,7 +15,7 @@
 ---
 
 ## **4. Data Quality & Validation**
-- [Data Quality & Validation Overview]()
+- [Data Quality & Validation Overview](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/mlops/data_quality_validation_overview.md)
 
 ---
 
