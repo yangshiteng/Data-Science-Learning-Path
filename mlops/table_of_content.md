@@ -15,10 +15,7 @@
 ---
 
 ## **4. Data Quality & Validation**
-
-* Data drift vs. concept drift
-* Schema consistency (train vs. serve)
-* Tools: Great Expectations, Pandera
+- [Data Quality & Validation Overview]()
 
 ---
 
