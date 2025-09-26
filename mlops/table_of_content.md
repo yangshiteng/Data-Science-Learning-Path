@@ -20,7 +20,7 @@
 ---
 
 ## **5. Pipelines & Orchestration**
-- [Piplelines & Orchestration Ovewview]()
+- [Piplelines & Orchestration Overview]()
 
 ---
 
