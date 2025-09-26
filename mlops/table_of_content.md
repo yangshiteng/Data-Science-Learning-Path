@@ -20,10 +20,7 @@
 ---
 
 ## **5. Pipelines & Orchestration**
-
-* Why ML pipelines are DAGs (data → train → eval → deploy)
-* Orchestration tools: Prefect, Airflow, Dagster
-* Scheduling and automation
+- [Piplelines & Orchestration Ovewview]()
 
 ---
 
