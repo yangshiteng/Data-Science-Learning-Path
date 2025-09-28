@@ -30,10 +30,7 @@
 ---
 
 ## **7. Model Deployment**
-
-* Deployment types: batch, real-time API, streaming
-* Deployment strategies: blue/green, canary, shadow
-* Serving tools: FastAPI, BentoML, TF Serving, TorchServe
+- [Model Deployment Overview]()
 
 ---
 
