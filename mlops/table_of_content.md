@@ -25,7 +25,7 @@
 ---
 
 ## **6. Model Packaging**
-- [Model Packaging Overview]()
+- [Model Packaging Overview](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/mlops/model_package_overview.md)
 
 ---
 
