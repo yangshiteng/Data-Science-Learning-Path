@@ -35,10 +35,7 @@
 ---
 
 ## **8. Monitoring & Observability**
-
-* Metrics: latency, throughput, error rate
-* Model monitoring: drift, performance decay
-* Tools: Prometheus, Grafana, Arize/WhyLabs
+- [Monitoring and Observability Overview]()
 
 ---
 
