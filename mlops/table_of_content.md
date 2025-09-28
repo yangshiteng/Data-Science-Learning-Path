@@ -30,7 +30,7 @@
 ---
 
 ## **7. Model Deployment**
-- [Model Deployment Overview]()
+- [Model Deployment Overview](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/mlops/content/model_deployment_overview.md)
 
 ---
 
