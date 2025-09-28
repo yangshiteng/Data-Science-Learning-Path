@@ -35,7 +35,7 @@
 ---
 
 ## **8. Monitoring & Observability**
-- [Monitoring and Observability Overview]()
+- [Monitoring and Observability Overview](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/mlops/content/monitoring_overview.md)
 
 ---
 
