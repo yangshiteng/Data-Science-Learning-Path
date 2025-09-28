@@ -25,10 +25,7 @@
 ---
 
 ## **6. Model Packaging**
-
-* Why packaging matters (train env ≠ prod env)
-* Formats: Pickle, ONNX, TorchScript
-* Containerization with Docker
+- [Model Packaging Overview]()
 
 ---
 
