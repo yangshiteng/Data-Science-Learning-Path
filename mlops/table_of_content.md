@@ -40,15 +40,4 @@
 ---
 
 ## **9. Continuous Training & CI/CD**
-
-* What is continuous training (CT) vs. continuous deployment (CD)
-* When/why to retrain models
-* CI/CD basics for ML (tests, build, deploy)
-
----
-
-## **10. Governance & Responsible AI**
-
-* Model lineage & reproducibility
-* Access control, approvals, audit logs
-* Ethics: fairness, explainability, bias checks
+[ML CI/CD Overview]()
