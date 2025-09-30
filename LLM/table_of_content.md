@@ -2,8 +2,10 @@
 - [LLMs Overview](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/LLM/content/LLM_overview.md)
 - [LLMs on the market](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/LLM/content/llm_on_market.md)
 
-# Part 2. Applying LLMs
-- [Prompt Engineering]()
-- [Retrieval-Augmented Generation (RAG)]()
+# LLMs Adaption
+- [Overview]()
+- [Prompt Engneering]()
+- [RAG]()
+- [Fine-Tuning]()
 
-# Part 3. AI Agents
+# Real World Applications
