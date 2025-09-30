@@ -6,7 +6,5 @@
 
 [MLOps](https://github.com/yangshiteng/Data-Science-Learning-Path/blob/main/mlops/table_of_content.md)
 
-[AI Application]()
-
-[Project]()
+[LLM & Agent]()
 
